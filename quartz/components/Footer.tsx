@@ -14,7 +14,14 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+        <b>ᜇ The Long Walk</b> — A weekly newsletter on philosophy, walking, and writing: <a href="https://vinceimbat.com/newsletter">Subscribe here.</a>
+        </p>
+        <p>
+          Follow all changes in the forest garden via <a href="https://vinceimbat.com/index.xml">RSS.</a>
+        </p>
+        <hr />
+        <p>
+          Explored and cultivated using <a href="https://obsidian.md/">Obsidian</a> and <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
