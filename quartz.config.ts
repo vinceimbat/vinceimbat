@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-HP7HTWFTR8"
     },
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "projects", "projects someday", "templates"],
+    ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "project archives", "projects", "projects someday", "templates"],
     defaultDateType: "created",
     theme: {
       typography: {
