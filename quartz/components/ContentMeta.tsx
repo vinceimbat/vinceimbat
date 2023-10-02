@@ -13,11 +13,11 @@ export default (() => {
         const createdDate = formatDate(getDate(cfg, fileData)!)
         const modifiedDate = formatDate(fileData.dates.modified) // Assuming fileData contains a 'dates' object with 'modified' property
 
-        segments.push(`Created: ${createdDate}, Modified: ${modifiedDate}`)
+        segments.push(`Created: ${createdDate} | Modified: ${modifiedDate}`)
       }
 
       segments.push(timeTaken)
-      return <div className="content-meta">{segments.join(", ")}</div>
+      return <div className="content-meta">{segments.join(" | ")}</div>
     } else {
       return null
     }
