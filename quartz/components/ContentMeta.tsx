@@ -10,11 +10,14 @@ export default (() => {
       const { text: timeTaken, words: _words } = readingTime(text)
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
+        const createdDate = formatDate(getDate(cfg, fileData)!)
+        const modifiedDate = formatDate(fileData.dates.modified) // Assuming fileData contains a 'dates' object with 'modified' property
+
+        segments.push(`Created: ${createdDate}, Modified: ${modifiedDate}`)
       }
 
       segments.push(timeTaken)
-      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
+      return <div className="content-meta">{segments.join(", ")}</div>
     } else {
       return null
     }
