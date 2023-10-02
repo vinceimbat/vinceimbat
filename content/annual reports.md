@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-To create an annual report, simply copy and paste eache [[Monthly reports]] summary under the corresponding month in the [[Annual report format]].
+To create an annual report, simply copy and paste eache [[lms/monthly reports]] summary under the corresponding month in the [[Annual report format]].
 
 # Annual reports
 

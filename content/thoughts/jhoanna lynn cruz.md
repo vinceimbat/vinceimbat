@@ -10,6 +10,6 @@ sr-due: 2024-09-26
 sr-interval: 369
 sr-ease: 290
 ---
-Author of [[thoughts/abi nako by cruz|Abi Nako]]
+Author of [[literature/abi nako by cruz|Abi Nako]]
 
 Panelist at [[ANWW20]] who moderated [[thoughts/hunny laurente]]

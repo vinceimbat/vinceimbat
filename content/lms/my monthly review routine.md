@@ -9,13 +9,13 @@ tags:
 ---
 There are four parts to my [[Monthly review]]:
 
-1. Write the [[Monthly reports|Monthly report]].
+1. Write the [[lms/monthly reports|Monthly report]].
 2. Review my [[Sky level]].
 3. Do some housekeeping.
 
 # Part I: Write the monthly report.
 
-1. Determine my general progress in projects and areas by reviewing all [[Daily review]] reports for the past month to create a monthly report ([[Monthly reports]]). Use the [[templates/monthly report|monthly report]] template.
+1. Determine my general progress in projects and areas by reviewing all [[Daily review]] reports for the past month to create a monthly report ([[lms/monthly reports]]). Use the [[templates/monthly report|monthly report]] template.
 2. Still in your monthly report, list other noteworthy things like events, movies, TV series, and music you listened to during the month.
 3. While writing the monthly report, do the following whenever necessary:
    - Transfer emergent tasks to Things 3.

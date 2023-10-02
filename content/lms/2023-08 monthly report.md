@@ -14,7 +14,7 @@ Here are my favorite adventures in writing, philosophy, and contemplation in Aug
 
 ## Jack Gilbert's "Existential" Poetry
 
-After reading [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]], I realized I wanted to get back to my study of [[thoughts/existentialism|existentialism]]. So, I decided to look for an existentialist [[thoughts/poetry|poetry]] book. Someone on Reddit suggested [[thoughts/jack gilbert|Jack Gilbert's]] *[[thoughts/refusing heaven by jack gilbert|Refusing Heaven]]*. I was surprised to learn that the first poem in this collection, "A Brief for the Defense," was actually a poem I read years back, which I really loved for these lines:
+After reading [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]], I realized I wanted to get back to my study of [[thoughts/existentialism|existentialism]]. So, I decided to look for an existentialist [[thoughts/poetry|poetry]] book. Someone on Reddit suggested [[thoughts/jack gilbert|Jack Gilbert's]] *[[literature/refusing heaven by jack gilbert|Refusing Heaven]]*. I was surprised to learn that the first poem in this collection, "A Brief for the Defense," was actually a poem I read years back, which I really loved for these lines:
 
 >We must have the stubbornness to accept our gladness in the ruthless furnace of this world. To make injustice the only measure of our attention is to praise the Devil.
 
@@ -236,14 +236,14 @@ Others
 
 ## Books
 
-- [[thoughts/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
+- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
 - [[literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
 - [[literature/the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] (unfinished)
 - [[thoughts/ghazalia maralus ya ayat by villafania|Ghazalia: Maralus ya Ayat by Santiago Villafania]] (unfinished)
 - [[thoughts/saray anlong nen kookaburra by ariola-nepascua|Saray Anlong nen Kookaburra by Alma Ariola-Nepascua]] (unfinished)
 - [[literature/a harp in the stars by noble|A Harp in the Stars by Noble]] (unfinished)
-- [[thoughts/abi nako by cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
+- [[literature/abi nako by cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
 
 I bought new books:
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]]
