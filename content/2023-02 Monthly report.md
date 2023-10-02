@@ -41,7 +41,7 @@ Daily networking
 - I found Clay after researching a few personal CRMs.
 - I connected with Kleinifer Palma.
 
-[[Freelance Business Setup v1]]
+[[projects/freelance creative business/Freelance Business Setup v1]]
 - Drafted a plan
 
 Inclusion in the workplace v1
