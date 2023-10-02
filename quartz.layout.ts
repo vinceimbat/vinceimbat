@@ -27,11 +27,27 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Essays",
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("essays/") && f.slug! !== "essays/index" && !f.frontmatter?.noindex,
+        linkToMore: "essays/" as SimpleSlug,
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Thoughts",
+        limit: 2,
+        filter: (f) => f.slug!.startsWith("thoughts/"),
+        linkToMore: "thoughts/" as SimpleSlug,
+      }),
+    ),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
