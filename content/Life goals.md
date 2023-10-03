@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-All of my life goals are listed comprehensively in [[private/my life goals master list]]. I then track which goals to pursue yearly following the process in [[How to set goals]].
+All of my life goals are listed comprehensively in [[lms/my life goals master list]]. I then track which goals to pursue yearly following the process in [[How to set goals]].
 
 Here are lists of the goals I set for each year
 

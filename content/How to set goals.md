@@ -11,7 +11,7 @@ sr-ease: 250
 
 I am attracted to [[James Clear]]'s minimalist [[goal-setting]] strategy, which applies the [[warren buffet list]]. With some modifications, here is the process I follow for goal-setting.
 
-1. I create a [[private/my life goals master list]] one time then update yearly. I create it by coming up with a list of my life areas and listing goals under each area.
+1. I create a [[lms/my life goals master list]] one time then update yearly. I create it by coming up with a list of my life areas and listing goals under each area.
 2. I review my initial list of goals and look closer at each goal. I ask myself if this  goal require smaller goals to achieve. If yes, I list all of the smaller goals under it.
 3. At the beginning of each year, during my [[Annual review]], I choose my top 5 goals from this master list. These goals will be my primary focus for the year. The rest of the goals will be my [[Avoid-at-all cost life goals]].
 4. I then review my top 5 goals and choose which to work on for January. If I think I can achieve two goals in one month, then I create project notes for each goal. If I can only achieve one, then so be it.

@@ -16,5 +16,5 @@ Here is the list of all your personal narrative visions so far:
 - [[2020 (Mid-Year) Personal Narrative Vision]]
 - [[2021 Personal Narrative Vision]]
 - [[2022 Personal Narrative Vision]]
-- [[private/2023 personal narrative vision|2023 personal narrative vision]]
+- [[lms/2023 personal narrative vision|2023 personal narrative vision]]
 

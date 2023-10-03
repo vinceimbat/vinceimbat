@@ -19,3 +19,7 @@ draft: true
 [[2023-09-12]]:
 
 - Papa was driving us on an SUV. He suddenly left the car. I made the car run but felt afraid so I pedaled the break but didn't know how to totally make the car stop. We came to a place with ponds like Tita Villa's place in Binmaley. I told Ate Mau to drive. She said she don't know too. So I asked them to get off the car while it is still moving a bit. When they tried to get off, papa arrived with a limp on his one foot. It was his left foot, I think. I asked him, "Nila yo?"" He answered by telling me about his limp.
+
+Undated
+- I had several dreams with Lau in it. The first dream, Lau, Lea, and another ex of mind (Precious?) were in an island with me. I felt weird that it happened but it seems that it was entirely my fault and that I was maintaining all those three relationships at the same time and my secret was revealed because of this mistake.
+- The second dream, Lau and I attended a wedding but we didn't know that we were both there. She seemed ok with me and we had a conversation and caught up. She was smiling and may even be flirting with mo. Or was I doing the flirting?

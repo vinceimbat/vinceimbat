@@ -12,4 +12,4 @@ sr-ease: 290
 ---
 Author of [[literature/abi nako by cruz|Abi Nako]]
 
-Panelist at [[ANWW20]] who moderated [[thoughts/hunny laurente]]
+Panelist at [[thoughts/anww20]] who moderated [[thoughts/hunny laurente]]

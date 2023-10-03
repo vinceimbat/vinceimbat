@@ -15,12 +15,12 @@ There are four parts to my [[Monthly review]]:
 
 # Part I: Write the monthly report.
 
-1. Determine my general progress in projects and areas by reviewing all [[Daily review]] reports for the past month to create a monthly report ([[lms/monthly reports]]). Use the [[templates/monthly report|monthly report]] template.
+1. Determine my general progress in projects and areas by reviewing all [[Daily review]] reports for the past month to create a monthly report ([[lms/monthly reports|monthly reports]]). Use the [[templates/monthly report|monthly report]] template.
 2. Still in your monthly report, list other noteworthy things like events, movies, TV series, and music you listened to during the month.
 3. While writing the monthly report, do the following whenever necessary:
    - Transfer emergent tasks to Things 3.
    - Transfer emergent projects to Things 3.
-   - Adjust list of areas across Obsidian, Finder/Dropbox, Google Drive, and Things as needed.
+   - Adjust list of areas across Obsidian, Finder, Google Drive, and Things 3 as needed.
 
 # Part II: Review my sky level
 
@@ -31,7 +31,7 @@ There are four parts to my [[Monthly review]]:
    - Highlight parts that fit more into Areas.
    - Code-format parts that have been achieved.
    - Put (?) at the end of projects that may be dropped or postponed for the next year.
-4. Review and update [[private/my life goals master list]] (refer to [[How to set goals]]).
+4. Review and update [[lms/my life goals master list|my life goals master list]] (refer to [[How to set goals]]).
    - Transfer completed goals to Done.
    - If there are incomplete goals, carry them over to the current month or return them to Someday/Maybe.
    - If there are no incomplete goals, check for any remaining goals under the primary focus and choose there.

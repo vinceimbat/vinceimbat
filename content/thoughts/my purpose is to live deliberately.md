@@ -28,7 +28,3 @@ A different way to express my purpose is "to self-actualize and transcend." [[th
 This [[thoughts/purpose|purpose]] came from a line of thought I detailed in [[thoughts/my quest|my quest]]. It was also inspired by an initial reading of [[thoughts/the inward morning by bugbee|The Inward Morning by Bugbee]] and Thoreau's purpose written in [[thoughts/walden by thoreau|Walden]]:
 
 >"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life."
-
-# To do
-
-- Revise this to make it more useful and integrated with the rest of your system. For example, include the gist of [[thoughts/my poetics|my poetics]] here.

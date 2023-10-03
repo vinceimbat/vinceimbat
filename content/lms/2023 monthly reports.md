@@ -1,9 +1,10 @@
 ---
-title: "2023 Monthly reports"
-date: "2023-02-02"
+title: 2023 Monthly reports
+date: 2023-02-02
+aliases:
+  - 2023 Monthly reports
 tags:
-- "LMS"
-- "evergreens"
+  - evergreens
 ---
 Here are my [[lms/monthly reports|monthly reports]] for 2023.
 

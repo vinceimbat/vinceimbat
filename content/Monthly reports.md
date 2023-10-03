@@ -1,11 +1,11 @@
 ---
-title: Monthly reports
-date: 2022-05-03
-aliases:
-  - Monthly reports
+title: "Monthly reports"
+date: "2022-05-03"
 tags:
-  - evergreens
+- "LMS"
+- "evergreens"
 ---
+
 The monthly report aims to present the general outlook of my past month in a single document. It presents a summary of my progress in three key areas:
 1. Studies
 2. Projects
