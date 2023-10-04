@@ -1,11 +1,10 @@
 ---
-title: 2023-10-03 seeds
-date: 2023-10-03
+title: Subsistent spirituality
+date: 2023-10-04
 tags:
-  - seeds
+  - seedlings
+draft: false
 ---
-- [[subsistent spirituality]]
-
 There's this kind of spirituality that seeks attention, that is always looking for its benefit whether money, good health, luck. This spirituality pays huge importance to what other people say, to following the rules, to punishing the sinners, to being right. It will not stop until it converts the entire world. It is amazed by things magical: concoctions, objects, words,
 
 Then there's this quiet, subsistent spirituality that doesn't ask for anything other than itself, and because it is small and almost always hidden, it stays here for eternity.

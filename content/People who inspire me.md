@@ -17,7 +17,7 @@ The works of these people influence how I perform the [[Five areas of my life wo
 
 I can’t necessarily call each of these people a [[Mentor]] since I haven't established that relationship with them yet. Also, [[thoughts/my ideal mentors and peers]] would rule out most of them since they're not necessarily working in the same field that I do ([[My field is practical philosophy]] or [[A life in letters]]?), which might actually be beneficial because [[Do I really need a field?]]
 
-- [[People who inspire my studying]]
+- [[thoughts/study inspirations]]
 - [[People who inspire my living]]
 - [[People who inspire my sharing]]
 - [[People who inspire my facilitating]]
