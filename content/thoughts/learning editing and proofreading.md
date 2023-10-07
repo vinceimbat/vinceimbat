@@ -41,8 +41,9 @@ tags:
 	- Understands terminology (eg half tone, greyscale, diagram, figure, caption etc)
 	- Understands numbering and placement of images
 	- Knows what to check in any illustration and its caption, including correspondence between the two
-	- Understands when copyright permission might be needed
-
+- Awareness of redundancy, ambiguity
+- Understand when copyright permission might be needed
+- Understand when to report material that could contravene laws regarding libel, obscenity, blasphemy, incitement to racial hatred, or plagiarism.
 ## Facts
 
 - Most common grammatical, punctuation, and usage errors
@@ -89,10 +90,13 @@ tags:
 	- APA
 	- CMOS
 	- Citations, references, and bibliographies
+- Understand the basic processes of producing a publication.
+- Understand how to use mark-up symbols and conventions according to the client’s or designer’s specification.
+- Understand the conventions for information that must or may be included in prelim pages and endmatter, and prepare copy as necessary/required.
 
 ## Procedures
 
-- Developing a process for editing to fully prepare a piece
+- Developing a process for editing to fully prepare a piece.
 - ==Developing my own editorial checklists
 - Revising sentences, paragraphs, and passages to resolve ambiguities, ensure logical connections, and clarify meaning
 - ==Writing clear, respectful, diplomatic, and helpful queries and comments
@@ -110,5 +114,39 @@ tags:
 - Managing relationships with writers and giving them helpful feedback
 - Creating and editing a table in Word
 - Creating an illustrations list, with suitably shortened entries
+- Consistency
+- Handling figures, images, and tables in a text.
+- Cross-referencing text, in-text citations, bibliographical references, tables, figures, and footnotes.
+- Understand the basic principles of an index and be able to edit one.
+- Know on-screen editing
+- Know website editing
+	- Making content web friendly (make scanning easier, create sentences and paragraphs that are shorter than the equivalent printed text and insert concise, factual subheadings every two or three paragraphs.)
+	- Write concise descriptive headings and summaries of web pages, which can be used on higher-level pages to link them to those web pages or as file descriptions (metadata) that can be found by a search engine.
+	- Rewrite sentences so that the target (internal or external) of a linked word or phrase is clear, avoiding the use of ‘Click here’ or ‘More’ wherever possible. Check that all links work and whether the client wishes to include a disclaimer for the content of external sites.
+	- Advise on the splitting of content across additional linked pages (modules) to facilitate direct access to those additional pages from elsewhere on the site and from search engines.
+	- Access and comment on the functionality of multimedia files integrated with web pages – for example, audio, video, animations – and any associated text. Liaise with the author, designer or developer, depending on the editor’s content knowledge, to amend these elements if necessary.
+	- Write or edit text that describes images, other multimedia elements and links, for use when images are turned off or when a screen reader is being used by a visually impaired user.
+	- Create a site map to describe all or part of a website or add to an existing one.
+
+
+Proofreading
+- Pagination
+	- Ensure that the page sequence within the document is complete.
+- Paragraphs
+	- If paragraphs are numbered, ensure that the numbering sequence is correct.
+- Using the editor's style guide when proofreading.
+	- Follow the editorial style guide (the list of spellings, etc adopted by the copyeditor and passed on to the proofreader) if provided. If this is not available, compile a style guide while reading the proofs. Do not seek to amend or ‘improve’ a copyeditor’s work unless specifically asked to do so by the client. Errors and omissions should, of course, be corrected or queried.
+- Chapter and/or section titling.
+	- Ensure that chapter titles and subheadings in the contents page(s) and the body of the text correspond, and insert page numbers or ensure that, if present, they correspond.
+- Running heads
+	- Ensure that running heads are correct and correspond to the convention required.
+- Headings
+	- Check that type size, style and fonts all appear consistent.
+- Fonts, alignment and line length
+	- Identify erroneous font changes, misalignments and inappropriate line lengths and suggest corrected formats. Check alignment of columns in tables.
+- Page design
+	- Check bad word breaks and column breaks, and eliminate widows and orphans if required by the client. In books with a complex design layout (many illustrations, tables, etc), ensure that these are placed logically and that the text can be read easily.
+- Collation
+	- Proofreaders may be required to collate proof-correction marks made by several individuals – for example, author, adviser, other proofreader. Where comments are in conflict, the proofreader/proof collator should be able to make justifiable judgements and amend appropriately, to maintain the required quality of the final product, the schedule, the budget and good author relations.
 
 # References
