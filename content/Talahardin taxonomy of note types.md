@@ -25,7 +25,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/e
    - Higher-level permanent notes
       - Notes that abstract from multiple notes
       - My own terms of art, e.g. [[thoughts/talahardin]]
-- [[Outline notes]], e.g., [[Zettelkasten]]
+- [[Outline notes]], e.g., [[thoughts/zettelkasten]]
 
 ## Non-ladder
 

@@ -19,7 +19,7 @@ To implement a spaced repetition writing system, the following general rules sho
 - Review each inkling. If the inkling was interesting and you were able to expand it but you need more time, schedule it soon for another review.
 - If the inkling is interesting but is hard to expand, schedule it for a later time.
 - If the inkling is no longer interesting, remove it.
-- If you have developed the inkling into a permanent note, transfer it to your [[Zettelkasten]].
+- If you have developed the inkling into a permanent note, transfer it to your [[thoughts/zettelkasten]].
 
 I implement these rules in [[thoughts/my morning writing practice]].
 

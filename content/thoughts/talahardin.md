@@ -3,7 +3,7 @@ title: Talahardin
 date: 2023-09-16
 tags:
   - seedlings
-draft:
+draft: false
 sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 255
