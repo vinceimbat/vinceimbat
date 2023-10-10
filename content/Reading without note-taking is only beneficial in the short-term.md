@@ -13,6 +13,6 @@ When you read, your knowledge increases until you forget what you read. When you
 
 # Related
 
-- [[After-reading glow]]
+- [[thoughts/after-reading glow]]
 
 # References

@@ -23,3 +23,42 @@ draft: true
 Undated
 - I had several dreams with Lau in it. The first dream, Lau, Lea, and another ex of mind (Precious?) were in an island with me. I felt weird that it happened but it seems that it was entirely my fault and that I was maintaining all those three relationships at the same time and my secret was revealed because of this mistake.
 - The second dream, Lau and I attended a wedding but we didn't know that we were both there. She seemed ok with me and we had a conversation and caught up. She was smiling and may even be flirting with mo. Or was I doing the flirting?
+
+[[2023-10-04]]:
+
+- Cari was sick with some small spots. I thought she was dying. I had Bernice call Papa. Bernice said she had this before.
+
+Original:
+
+Cari sick with sole small spots
+I hoight she was dying. I had bernice call paa for asvocr tjej realized itess bernice said she has tjis before 
+
+[[2023-10-05]]:
+
+- Our family was sitting in the Sta. Maria kingdom hall, in our usual seats in front. There were three sisters. When we were about to sing, I carried the youngest. I said I have so much love to give but no one wants it. We sang "Inakay ka ng Diyos sa kaliwanagan..."
+- I also dreamt that the OVIC Overview updates were only USD 50.
+
+Original:
+
+We were in kh sitting in our usual seats in front. There were three sisters that looked like alasi. Wher wer were abot to sing, i carried the youngest. I said i jave so much love to give bitno one wants it,
+We sang ten te ten ten, ten ten ten ten tenen.
+
+Slso dreamed thst the OVic overview updates wee only 50 usd.
+
+[[2023-10-08]]:
+
+- I am at the Sta. Maria house alone with some dogs. The only dog I recognize is Pua. A really large storm arrives. I open the window and saw this massive tornado. But it wasn't raining. I saw someone still walking on the fields outside. I closed the window. Suddenly, the house shook. Then some rain poured but it wasn't that strong. I heard this animal flying around the wind. I went downstairs. I saw Pua there. She came from the outside. I took her. I felt that she had a fever. We went inside the bedroom under the mosquito net. I saw her lie down like Kako.
+
+Original:
+
+Sta maria house alone
+Am with the dogs
+Only pua i recognize
+A largr stom arrives
+I open the window and saw ths massive tornado but it wasnt raining
+I saw someone still walking outside
+Then closed the window
+Suddenly the house wiggled tben rain but it wasnt that strong
+I heard this animal flying aroubd by rhe wind.
+I went downstairs. I saw Pua there. She came from outside. I got her. Felt that she has a fever.
+We went inside the bedroom under the mosquito net. Saw her lie down like Kako.

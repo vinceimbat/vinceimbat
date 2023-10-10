@@ -24,6 +24,6 @@ My reading process follows classic [[getting things done]] method:
 
 - [[My reading list]]
 - [[Reading inbox]]
-- [[After-reading glow]]
+- [[thoughts/after-reading glow]]
 - [[What to look for when reading]]
 - [[Benefits of re-reading]]
