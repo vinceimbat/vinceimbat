@@ -18,15 +18,16 @@ If prompt design is task design, how should you design prompts? :: Design prompt
 <!--SR:!2023-10-13,3,253-->
 
 How does retrieval practice halt forgetting? :: By recalling repeatedly spaced over time
-<!--SR:!2023-10-11,1,233-->
+<!--SR:!2023-10-14,2,213-->
 
 The learning produced by retrieval practice when you try to recall knowledge. :: Testing effect
+<!--SR:!2023-10-15,3,253-->
 
 What differentiates retrieval practice and school tests? :: Retrieval practice tests to produce learning, not assess it.
 <!--SR:!2023-10-14,4,270-->
 
-How is writing spaced repetition prompts similar to language translation? :: You design tasks that reconstruct the original idea.
-<!--SR:!2023-10-11,1,233-->
+How is writing spaced repetition prompts similar to language translation? :: They try to reconstruct the original idea.
+<!--SR:!2023-10-15,3,233-->
 
 Retrieval practice prompts should be:
 - 
@@ -36,6 +37,7 @@ Retrieval practice prompts should be:
 - effortful
 ;;
 focused
+<!--SR:!2023-10-14,3,253-->
 
 Retrieval practice prompts should be:
 - focused
@@ -84,7 +86,7 @@ How do you ensure a retrieval practice prompt is consistent? :: It should produc
 <!--SR:!2023-10-13,3,253-->
 
 How do you ensure a retrieval practice prompt is tractable? :: Write prompts you can always answer correctly.
-<!--SR:!2023-10-11,1,233-->
+<!--SR:!2023-10-13,2,233-->
 
 How can you ensure that you answer a retrieval practice prompt correctly? :: Use a cue.
 <!--SR:!2023-10-13,3,253-->
@@ -131,10 +133,10 @@ Why should you keep the items in a list prompt in the same order? :: You remembe
 <!--SR:!2023-10-13,3,250-->
 
 How do you reinforce memory of an unordered list without cloze deletion? :: Write an explanation prompt for each component of the list.
-<!--SR:!2023-10-11,1,233-->
+<!--SR:!2023-10-14,2,213-->
 
-What's the most important requirement when writing cues for retrieval practice prompts? :: Don't make the cue give away the answer without effort.
-<!--SR:!2023-10-11,1,233-->
+What's the most important requirement when writing cues for retrieval practice prompts? :: Don't give the answer away.
+<!--SR:!2023-10-19,7,253-->
 
 Elaborative encoding is the process of making information easier to recall by ?? :: connecting it with other memories.
 <!--SR:!2023-10-13,3,253-->
@@ -151,10 +153,11 @@ Give at least two ways of making a mnemonic device vivid. :: e.g., using visuals
 Where should you put mnemonic devices in a retrieval writing prompt? :: In the answer (inside parentheses).
 <!--SR:!2023-10-14,4,273-->
 
-Why should you put mnemonic devices inside parentheses when using them in prompt answers? :: To clarify that the mnemonic device is simply meant to help remember the answer.
+Why should you put mnemonic devices inside parentheses when using them in prompt answers? :: To show they simply help remember the answer.
 <!--SR:!2023-10-11,1,233-->
 
 What should you do if you're struggling to produce an answer despite the help of a mnemonic device? :: Write a prompt to reinforce the association between the answer and the mnemonic device.
+<!--SR:!2023-10-14,3,253-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
 <!--SR:!2023-10-13,3,253-->
@@ -169,7 +172,7 @@ What are the two ways to frame retrieval writing prompts for procedures? :: List
 <!--SR:!2023-10-14,4,270-->
 
 What should you do to avoid wordy cloze deletion prompts for procedures? :: Remove unnecessary words to highlight keywords.
-<!--SR:!2023-10-11,1,233-->
+<!--SR:!2023-10-13,2,233-->
 
 If procedures branch and become sufficiently complex, what should you include in your prompts? :: A flowchart.
 <!--SR:!2023-10-14,4,273-->
@@ -221,7 +224,7 @@ The five lenses in understanding concepts are:
 5. Significance and implications
 ;;
 Causes and effects
-<!--SR:!2023-10-11,1,230-->
+<!--SR:!2023-10-13,2,230-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies
@@ -275,7 +278,8 @@ Three useful prompt types for open lists:
 Link tag to instances
 <!--SR:!2023-10-13,3,250-->
 
-How do creative prompts differ from usual retrieval practice prompts? :: They help you think of new answers instead of retrieve answers from memory.
+How do creative prompts differ from usual retrieval practice prompts? :: They help you generate new answers, not recall.
+<!--SR:!2023-10-15,3,253-->
 
 Define the Baader-Meinhof Phenomenon. :: New ideas are more salient.
 <!--SR:!2023-10-13,3,253-->
@@ -313,6 +317,7 @@ How do you discourage pattern matching in retrieval practice? :: Keep questions 
 <!--SR:!2023-10-13,3,253-->
 
 How should you approach binary prompts in retrieval practice? :: Rephrase them as more open-ended prompts.
+<!--SR:!2023-10-15,3,253-->
 
 In retrieval practice, what is a "false negative"? :: Knowing the information a prompt intends to capture but failing to produce a correct answer.
 <!--SR:!2023-10-13,3,253-->
