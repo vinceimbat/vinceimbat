@@ -9,10 +9,9 @@ sr-due: 2023-08-04
 sr-interval: 3
 sr-ease: 216
 ---
+I use the word [[thoughts/poetics|poetics]] liberally to refer to a personal, usually unique, way of creating art.
 
-I use the word [[thoughts/poetics]] liberally to refer to a personal, usually unique, way of creating art.
-
-My poetics, i.e., how I understand and approach creativity, heavily relies on how I see the world ([[thoughts/my worldview]]) and [[thoughts/my quest]] (also informed by my worldview).
+My poetics, i.e., how I understand and approach creativity, heavily relies on [[thoughts/my worldview|my worldview]] and [[thoughts/my quest|my quest]] (also informed by my worldview).
 
 For now, I would describe my poetics based on:
 1. How I want to feel + what I want to achieve during and after creation
@@ -21,7 +20,16 @@ For now, I would describe my poetics based on:
 
 # Summary
 
-I want my creative processes to enrich my existence and my creative works to enrich the existence of my audience. I achieve this by keeping a rejuvenating daily creative routine and focusing on perfecting my craft of creating essays, poems, photographs, and books that help my audience continuously appreciate the universe and their life.
+My main creative objective is to pursue a vibrant philosophical, contemplative, and creative life.
+
+I want my creative processes to enrich my existence and my creative works to enrich the existence of my audience.
+
+I achieve this by:
+1. Lessening as much modern-day distractions as possible.
+2. Simplifying my life as much as I can.
+3. Building and maintaining a deep philosophical practice.
+4. Keeping a rejuvenating daily contemplative practice.
+5. Perfecting my craft of creating essays, poems, photographs, and books that help my audience continuously appreciate the universe and their life.
 
 # What I want to feel + achieve
 
@@ -196,3 +204,8 @@ Seeing life through this metaphor makes [[thoughts/walking]] relevant and writin
 
 1. Use this to improve [[thoughts/my bio]]
 2. Include your commitment to philosophical lyric essay (poetry, personal essay, photography, philosophy)
+
+# Related
+
+- [[implementing my poetics]]
+- [[website design plan]]

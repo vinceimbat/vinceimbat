@@ -5,11 +5,11 @@ aliases:
   - Insight cannot be predetermined
 tags:
   - seedlings
-sr-due: 2023-01-23
-sr-interval: 18
+sr-due: 2024-09-27
+sr-interval: 347
 sr-ease: 230
 ---
-[[The purpose of thinking is to produce insight]], but insights come at weird times that they can almost feel mystical sometimes. We cannot force insisght to come. What we can do is to do our best to think. After doing our best to think and nothing else happens, we should then let probability and the power of our mind bring out insights and answers that we need.
+[[thoughts/thinking must produce insight]], but insights come at weird times that they can almost feel mystical sometimes. We cannot force insisght to come. What we can do is to do our best to think. After doing our best to think and nothing else happens, we should then let probability and the power of our mind bring out insights and answers that we need.
 
 Because insights cannot be predetermined, [[Writing that aims at insight must be organized in a flexible system]].
 

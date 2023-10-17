@@ -40,7 +40,7 @@ An essay I really loved reading this month was [[melt the snowflake at once by d
 - Checked Quartz 4.
 - Journaled about how my creative life is connected with [[thoughts/my worldview|my worldview]] and [[thoughts/my quest|my quest]].
 - Created [[thoughts/my poetics|my poetics]].
-- Reviewed notes from [[thoughts/be the gateway by dan blank|Be the Gateway by Dan Blank]].
+- Reviewed notes from [[literature/be the gateway by dan blank|Be the Gateway by Dan Blank]].
 
 Best notes
 - [[thoughts/walking as historiography|walking as historiography]]

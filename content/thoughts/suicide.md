@@ -7,7 +7,6 @@ sr-due: 2023-08-11
 sr-interval: 10
 sr-ease: 270
 ---
-
 Suicide is the greatest subject of writing. One, there is the responsibility involved in writing about the topic. Studies show that suicide rates increase whenever media covers suicide. It is as if whenever we talk about it, we endanger someone else's life. Then there's the mystery of it all. Those who took their own lives won't be able to tell us what happened at the last moment before they went.
 
 When I was young, on one of the preaching walks, the woman we were talking with told us about a recent suicide in their community. I judged the person who committed it. Why would someone ever do such a thing? To hurt himself. People who do that commit the most unforgivable sin.
@@ -21,3 +20,7 @@ The waiting, I discovered from experience, happened easily when one does it day 
 Suicide is the single most important motivation. We want to find the good in life as much as we can to never ever want to let it go. And if ever this resolved is challenged, we know we are stronger.
 
 For those who have never experience the urge to harm themselves, be grateful for it, but never ever judged those who do. And while you're life is perfect, make the most of your situation by finding meaning as much as you can so that you are ready whenever things go south. Because they always do.
+
+# To do
+- Connect Alber Camus.
+- [[my suicide attempts]]

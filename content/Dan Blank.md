@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-[[thoughts/be the gateway by dan blank]]
+[[literature/be the gateway by dan blank]]
 
 ## References
 

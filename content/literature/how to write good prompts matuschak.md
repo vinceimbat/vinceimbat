@@ -86,13 +86,13 @@ How do you ensure a retrieval practice prompt is consistent? :: It should produc
 <!--SR:!2023-10-22,9,273-->
 
 How do you ensure a retrieval practice prompt is tractable? :: Write prompts you can always answer correctly.
-<!--SR:!2023-10-17,3,233-->
+<!--SR:!2023-10-19,2,213-->
 
 How can you ensure that you answer a retrieval practice prompt correctly? :: Use a cue.
 <!--SR:!2023-10-19,6,253-->
 
-How do you ensure a retrieval practice prompt is effortful? :: Don't use words that imply the answer.
-<!--SR:!2023-10-16,2,230-->
+To ensure that a prompt is effortful, avoid words that ?? the answer. :: imply
+<!--SR:!2023-10-25,8,250-->
 
 What's the best way to ensure that your prompts are focused, precise, consistent, tractable, and effortful? :: Write tightly-scoped questions.
 <!--SR:!2023-10-23,10,273-->
@@ -133,7 +133,7 @@ Why should you keep the items in a list prompt in the same order? :: You remembe
 <!--SR:!2023-10-19,6,250-->
 
 How do you reinforce memory of an unordered list without cloze deletion? :: Write an explanation prompt for each component of the list.
-<!--SR:!2023-10-17,2,193-->
+<!--SR:!2023-10-21,4,193-->
 
 What's the most important requirement when writing cues for retrieval practice prompts? :: Don't give the answer away.
 <!--SR:!2023-10-19,7,253-->
@@ -224,7 +224,7 @@ The five lenses in understanding concepts are:
 5. Significance and implications
 ;;
 Causes and effects
-<!--SR:!2023-10-17,4,230-->
+<!--SR:!2023-10-24,7,230-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies

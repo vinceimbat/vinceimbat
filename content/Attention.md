@@ -15,7 +15,7 @@ sr-ease: 248
 2. [[Pay attention to what we pay attention to]]
 3. [[Items are magnets for your attention – James Clear]]
 4. [[Life is about controlling your attention]]
-5. [[Develop authenticity by managing attention]]
+5. [[thoughts/develop authenticity by managing attention]]
 6. [[Full freedom in controling our attention is a prerequisite for a good life]]
 7. [[The only thing you can truly control is your attention]]
 8. [[Financial management is easier after learning attention management]]

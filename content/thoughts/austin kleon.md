@@ -1,14 +1,14 @@
 ---
-title: "Austin Kleon"
-date: "2021-02-05"
+title: Austin Kleon
+date: 2021-02-05
+aliases:
+  - Austin Kleon
 tags:
-- "notes"
-- "seedlings"
-sr-due: 2022-10-07
-sr-interval: 4
+  - seedlings
+sr-due: 2025-03-17
+sr-interval: 518
 sr-ease: 270
 ---
-
 Smart People Podcast
 
 Got out of college

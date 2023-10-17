@@ -1,14 +1,15 @@
 ---
-title: "Be the Gateway by Dan Blank"
-date: "2023-07-15"
-aliases: "Be-the-Gateway-by-Dan-Blank"
+title: Be the Gateway by Dan Blank
+date: 2023-07-15
+aliases:
+  - Be-the-Gateway-by-Dan-Blank
+  - thoughts/be the gateway by dan blank
 tags:
-- "seedlings"
+  - seedlings
 sr-due: 2023-08-04
 sr-interval: 3
 sr-ease: 250
 ---
-
 **Focus on reader experience rather than market performance**
 
 Set creative goals based on specific experiences that you want your work to bring to specific people, with faces, rather than objects, tokens, or metrics. Focusing on the former provides the feelings of validation and success. Focusing on the later results to impostor syndrome.

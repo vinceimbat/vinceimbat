@@ -42,3 +42,6 @@ During the workshop, here are my notes:
 - [[ANWW20 Jehu Laniog]]
 - [[ANWW20 Hunny Laurente]]
 - [[ANWW20 Jesa Suganob]]
+
+Lastly:
+- [[essays/getting into anww20]]
