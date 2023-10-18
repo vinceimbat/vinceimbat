@@ -2,7 +2,7 @@
 title: "Actions to take to experience an emotion intentionally"
 date: "2021-08-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-15
 sr-interval: 3

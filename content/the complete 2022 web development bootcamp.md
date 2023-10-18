@@ -2,7 +2,7 @@
 title: "The Complete 2022 Web Development Bootcamp"
 date: "2022-01-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

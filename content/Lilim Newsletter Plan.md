@@ -2,7 +2,7 @@
 title: "Lilim Newsletter Plan"
 date: "2021-04-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-25
 sr-interval: 3

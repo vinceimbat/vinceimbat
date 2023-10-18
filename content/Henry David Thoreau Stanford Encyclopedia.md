@@ -2,7 +2,7 @@
 title: "Henry David Thoreau Stanford Encyclopedia"
 date: "2022-07-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-25
 sr-interval: 3

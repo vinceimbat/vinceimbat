@@ -2,7 +2,7 @@
 title: "Solipsisim"
 date: "2022-09-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-19
 sr-interval: 1

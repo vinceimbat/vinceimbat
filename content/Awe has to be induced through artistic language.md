@@ -2,7 +2,7 @@
 title: "Awe has to be induced through artistic language"
 date: "2020-10-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-22
 sr-interval: 3

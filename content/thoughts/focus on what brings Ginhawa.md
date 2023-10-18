@@ -5,7 +5,7 @@ aliases:
 - "Focus-on-what-brings-me-Ginhawa-in-life-and-work"
 - "thoughts/focus-on-what-brings-ginhawa"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-20
 sr-interval: 3

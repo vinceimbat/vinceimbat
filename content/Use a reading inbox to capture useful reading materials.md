@@ -2,7 +2,7 @@
 title: "Use a reading inbox to capture useful reading materials"
 date: "2021-08-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-03
 sr-interval: 3

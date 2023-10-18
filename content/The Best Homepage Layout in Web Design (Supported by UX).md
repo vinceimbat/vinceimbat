@@ -2,7 +2,7 @@
 title: "The Best Homepage Layout in Web Design (Supported by UX)"
 date: "2023-07-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-16
 sr-interval: 3

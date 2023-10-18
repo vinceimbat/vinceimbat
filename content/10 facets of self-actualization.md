@@ -2,7 +2,7 @@
 title: "10 facets of self-actualization"
 date: "2022-04-30"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

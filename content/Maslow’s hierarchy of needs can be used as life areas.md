@@ -2,7 +2,7 @@
 title: "Maslow’s hierarchy of needs can be used as life areas"
 date: "2022-03-15"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

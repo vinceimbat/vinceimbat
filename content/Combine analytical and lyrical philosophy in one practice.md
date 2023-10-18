@@ -2,7 +2,7 @@
 title: "Combine analytical and lyrical philosophy in one practice"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

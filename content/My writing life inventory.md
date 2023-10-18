@@ -2,7 +2,7 @@
 title: "My writing life inventory"
 date: "2022-07-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-20
 sr-interval: 1

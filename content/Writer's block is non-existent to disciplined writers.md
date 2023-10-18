@@ -2,7 +2,7 @@
 title: "Writer's block is non-existent to disciplined writers"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-12
 sr-interval: 36

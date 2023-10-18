@@ -2,7 +2,7 @@
 title: "Translating my favorite Thoreau journal entries"
 date: "2021-01-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-14
 sr-interval: 3

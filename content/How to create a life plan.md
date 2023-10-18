@@ -2,7 +2,7 @@
 title: "How to create a life plan"
 date: "2023-04-21"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

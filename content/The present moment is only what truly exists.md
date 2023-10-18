@@ -2,7 +2,7 @@
 title: "The present moment is only what truly exists"
 date: "2021-08-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-25
 sr-interval: 139

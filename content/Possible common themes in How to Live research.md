@@ -2,7 +2,7 @@
 title: "Possible common themes in How to Live research"
 date: "2021-11-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-17
 sr-interval: 3

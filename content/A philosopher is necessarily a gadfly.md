@@ -2,7 +2,7 @@
 title: "A philosopher is necessarily a gadfly"
 date: "2022-07-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-22
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "Walking UPLB in pitch dark"
 date: "2023-05-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-21
 sr-interval: 1

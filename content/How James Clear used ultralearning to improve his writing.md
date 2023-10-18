@@ -2,7 +2,7 @@
 title: "How James Clear used ultralearning to improve his writing"
 date: "2021-03-26"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

@@ -2,7 +2,7 @@
 title: "Obsidian"
 date: "2022-04-24"
 tags:
-- "notes"
+
 - "evergreens"
 sr-due: 2022-04-30
 sr-interval: 2

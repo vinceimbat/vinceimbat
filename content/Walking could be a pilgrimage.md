@@ -2,7 +2,7 @@
 title: "Walking could be a pilgrimage"
 date: "2022-01-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-02-19
 sr-interval: 221

@@ -2,7 +2,7 @@
 title: "Some life prototypes"
 date: "2021-08-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-26
 sr-interval: 3

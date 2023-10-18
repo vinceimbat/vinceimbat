@@ -5,7 +5,7 @@ aliases:
 - "Stanley-Cavell"
 - "thoughts/stanley-cavell"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-08-31
 sr-interval: 401

@@ -5,7 +5,7 @@ aliases:
 - "My-philosophy-writing-style"
 - "thoughts/my-philosophy-writing-style"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-11-11
 sr-interval: 470

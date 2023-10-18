@@ -3,7 +3,7 @@ title: "Speak your truth frequently"
 date: "2021-02-12"
 aliases: "thoughts/speak-your-truth-frequently"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-26
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "On articulating"
 date: "2022-10-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-13
 sr-interval: 4

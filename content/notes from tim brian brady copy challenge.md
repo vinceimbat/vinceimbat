@@ -2,7 +2,7 @@
 title: "Notes from Tim Brian Brady's copy challenge"
 date: "2022-12-17"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

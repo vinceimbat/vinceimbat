@@ -2,7 +2,7 @@
 title: "nature teaches amoralism"
 date: "2022-01-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-15
 sr-interval: 4

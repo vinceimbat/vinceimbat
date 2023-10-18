@@ -2,7 +2,7 @@
 title: "Reverence does not have to lead to worship"
 date: "2022-08-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-29
 sr-interval: 3

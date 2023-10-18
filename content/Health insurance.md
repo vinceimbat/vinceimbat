@@ -2,7 +2,7 @@
 title: "Health insurance"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-28
 sr-interval: 76

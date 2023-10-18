@@ -3,7 +3,7 @@ title: "Difficult experiences spur us to rely on experiential knowledge"
 date: "2022-08-25"
 aliases: "thoughts/difficult-experiences-spur-us-to-rely-on experiential-knowledge"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-08-24
 sr-interval: 394

@@ -3,7 +3,7 @@
 title: "Our imminent death seems to suggest that life is meaningless"
 date: "2022-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-22
 sr-interval: 22

@@ -2,7 +2,7 @@
 title: "The writing I do in private is my most important writing"
 date: "2022-07-13"
 tags:
-- "notes"
+
 - "evergreens"
 sr-due: 2022-07-14
 sr-interval: 1

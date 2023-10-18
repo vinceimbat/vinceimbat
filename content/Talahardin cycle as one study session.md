@@ -2,7 +2,7 @@
 title: "Talahardin cycle as one study session"
 date: "2022-06-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-18
 sr-interval: 3

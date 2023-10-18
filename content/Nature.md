@@ -2,7 +2,7 @@
 title: "Nature"
 date: "2022-06-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-02-21
 sr-interval: 431

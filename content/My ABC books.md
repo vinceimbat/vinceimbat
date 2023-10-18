@@ -2,7 +2,7 @@
 title: "My ABC books"
 date: "2022-04-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-03
 sr-interval: 46

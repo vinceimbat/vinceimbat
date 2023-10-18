@@ -3,7 +3,7 @@ title: "Minimum viable brand"
 date: "2021-04-10"
 aliases: "thoughts/minimum-viable-brand"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 3

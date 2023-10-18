@@ -2,7 +2,7 @@
 title: "How to articulate purpose"
 date: "2021-08-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-07-21
 sr-interval: 430

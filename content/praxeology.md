@@ -2,7 +2,7 @@
 title: "Praxeology"
 date: "2021-04-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-02
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "My workview vs. my lifeview"
 date: "2022-11-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-27
 sr-interval: 4

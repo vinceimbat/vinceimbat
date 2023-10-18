@@ -2,7 +2,7 @@
 title: "My answer to how should I live"
 date: "2022-02-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-14
 sr-interval: 4

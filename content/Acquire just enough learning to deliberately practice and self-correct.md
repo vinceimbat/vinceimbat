@@ -2,7 +2,7 @@
 title: "Acquire just enough learning to deliberately practice and self-correct"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-26
 sr-interval: 1

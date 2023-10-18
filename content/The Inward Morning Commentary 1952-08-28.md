@@ -2,7 +2,7 @@
 title: "The Inward Morning Commentary 1952-08-28"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-26
 sr-interval: 1
@@ -11,7 +11,7 @@ sr-ease: 230
 
 ## Thursday, August 28, 1952
 
-[[thoughts/henry bugbee]] expands his conception of "[[Certainty]]." He repeats that certainty is a "basis for [[thoughts/action]]." Therefore, it is the trigger to a beginning rather than a landmark for arrival. Certainty is not the closure of an endeavor. It is the beginning of action.
+[[thoughts/henry bugbee]] expands his conception of "[[thoughts/certainty]]." He repeats that certainty is a "basis for [[thoughts/action]]." Therefore, it is the trigger to a beginning rather than a landmark for arrival. Certainty is not the closure of an endeavor. It is the beginning of action.
 
 Every situation is absolute. This moment is itself. It will never change. According to Bugbee, when we realize this absolute nature of every moment, when we become sensitive to it, we start interpreting each moment, each action deeply—we start to live in "the depth of our experience."
 

@@ -2,7 +2,7 @@
 title: "Excessive publishing turns writing into product rather than process-based"
 date: "2022-06-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-06
 sr-interval: 3

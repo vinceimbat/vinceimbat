@@ -2,7 +2,7 @@
 title: "Walk narratives"
 date: "2022-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-12
 sr-interval: 3

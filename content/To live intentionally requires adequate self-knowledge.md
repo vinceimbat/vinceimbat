@@ -2,7 +2,7 @@
 title: "To live intentionally requires adequate self-knowledge"
 date: "2021-07-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2027-12-25
 sr-interval: 1852

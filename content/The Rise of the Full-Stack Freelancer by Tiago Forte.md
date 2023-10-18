@@ -2,7 +2,7 @@
 title: "The Rise of the Full-Stack Freelancer by Tiago Forte"
 date: "2023-02-14"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

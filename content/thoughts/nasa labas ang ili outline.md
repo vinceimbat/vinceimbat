@@ -5,7 +5,7 @@ aliases:
 - "Nasa-Labas-ang-Ili"
 - "thoughts/nlai-outline"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-22
 sr-interval: 3

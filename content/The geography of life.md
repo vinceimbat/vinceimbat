@@ -2,7 +2,7 @@
 title: "The geography of life"
 date: "2022-07-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-29
 sr-interval: 3

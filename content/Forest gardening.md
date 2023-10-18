@@ -2,7 +2,7 @@
 title: "Forest gardening"
 date: "2022-08-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-21
 sr-interval: 1

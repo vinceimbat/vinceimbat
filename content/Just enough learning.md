@@ -2,7 +2,7 @@
 title: "Just enough learning"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

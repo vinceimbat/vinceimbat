@@ -2,7 +2,7 @@
 title: "How to choose a camera"
 date: "2022-06-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-12
 sr-interval: 18

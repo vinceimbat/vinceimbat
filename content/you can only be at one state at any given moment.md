@@ -2,7 +2,7 @@
 title: "You can only be at one state at any given moment"
 date: "2022-12-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-31
 sr-interval: 1

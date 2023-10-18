@@ -2,7 +2,7 @@
 title: "Apostasy by Daniel Kokotajlo"
 date: "2023-05-31"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

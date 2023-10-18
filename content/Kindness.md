@@ -2,7 +2,7 @@
 title: "kindness"
 date: "2023-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-11-16
 sr-interval: 185

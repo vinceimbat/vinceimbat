@@ -2,7 +2,7 @@
 title: "We have a bias on wasting money than wasting time"
 date: "2020-07-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-14
 sr-interval: 3

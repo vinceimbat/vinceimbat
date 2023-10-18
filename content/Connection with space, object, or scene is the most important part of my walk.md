@@ -2,7 +2,7 @@
 title: "Connection with space, object, or scene is the most important part of my walk"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-26
 sr-interval: 1

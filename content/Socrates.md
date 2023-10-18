@@ -2,7 +2,7 @@
 title: "Socrates"
 date: "2022-01-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-16
 sr-interval: 3

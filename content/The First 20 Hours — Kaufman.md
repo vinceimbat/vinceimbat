@@ -2,7 +2,7 @@
 title: "The First 20 Hours — Kaufman"
 date: "2022-07-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-29
 sr-interval: 4

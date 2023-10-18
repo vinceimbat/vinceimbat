@@ -2,7 +2,7 @@
 title: "AEIOU method per Patnaik"
 date: "2022-11-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-25
 sr-interval: 1

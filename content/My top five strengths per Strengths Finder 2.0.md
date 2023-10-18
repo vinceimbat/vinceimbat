@@ -2,7 +2,7 @@
 title: "My top five strengths per Strengths Finder 2.0"
 date: "2017-06-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-27
 sr-interval: 3

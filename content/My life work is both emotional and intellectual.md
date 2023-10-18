@@ -2,7 +2,7 @@
 title: "My life work is both emotional and intellectual"
 date: "2022-01-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Instagram aspect ratio and ideal post sizes"
 date: "2022-07-09"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

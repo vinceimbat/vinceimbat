@@ -2,7 +2,7 @@
 title: "Insurance terminologies"
 date: "2022-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

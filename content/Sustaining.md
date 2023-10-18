@@ -2,7 +2,7 @@
 title: "Sustaining"
 date: "2022-11-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-29
 sr-interval: 15

@@ -2,7 +2,7 @@
 title: "Purpose statement"
 date: "2022-02-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

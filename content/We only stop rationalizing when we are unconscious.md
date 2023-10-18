@@ -2,7 +2,7 @@
 title: "We only stop rationalizing when we are unconscious"
 date: "2021-08-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-16
 sr-interval: 3

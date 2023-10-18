@@ -2,7 +2,7 @@
 title: "Wilderness of the mind"
 date: "2022-08-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-31
 sr-interval: 11

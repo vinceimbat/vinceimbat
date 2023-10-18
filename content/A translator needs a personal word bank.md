@@ -2,7 +2,7 @@
 title: "A translator needs a personal word bank"
 date: "2021-11-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-11
 sr-interval: 3

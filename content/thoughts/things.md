@@ -5,7 +5,7 @@ aliases:
 - "/thoughts/things"
 - "things"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-23
 sr-interval: 3

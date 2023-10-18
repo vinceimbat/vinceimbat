@@ -2,7 +2,7 @@
 title: "A life management system should free your mind"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-22
 sr-interval: 3

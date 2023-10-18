@@ -3,7 +3,7 @@ title: "Day Job model"
 date: "2021-02-06"
 aliases: "thoughts/day-job-model"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-08
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "How to write good note titles"
 date: "2022-06-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-20
 sr-interval: 3

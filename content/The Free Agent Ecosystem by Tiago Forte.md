@@ -2,7 +2,7 @@
 title: "The Free Agent Ecosystem"
 date: "2023-02-15"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

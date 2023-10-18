@@ -2,7 +2,7 @@
 title: "Kapag Natagpuan Kita = Once I Find You — Rofel Brion"
 date: "2022-10-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-26
 sr-interval: 4

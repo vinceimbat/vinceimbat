@@ -2,7 +2,7 @@
 title: "The social genus concept of religion can be local or universal"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-03
 sr-interval: 4

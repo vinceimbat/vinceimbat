@@ -2,7 +2,7 @@
 title: "MLTP 10"
 date: "2018-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-26
 sr-interval: 3

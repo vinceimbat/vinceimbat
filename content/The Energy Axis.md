@@ -2,7 +2,7 @@
 title: "The Energy Axis"
 date: "2020-09-13"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

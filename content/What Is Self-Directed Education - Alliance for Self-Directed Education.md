@@ -2,7 +2,7 @@
 title: "What Is Self-Directed Education - Alliance for Self-Directed Education"
 date: "2023-05-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-24
 sr-interval: 3

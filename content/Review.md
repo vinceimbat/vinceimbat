@@ -2,7 +2,7 @@
 title: "Review"
 date: "2021-12-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-30
 sr-interval: 3
@@ -21,10 +21,10 @@ Review systems must:
 
 I conduct four kinds of reviews
 
-- [[Daily review]]
+- [[lms/daily review]]
 - [[Weekly review]]
-- [[Monthly review]]
-- [[Annual review]]
+- [[lms/monthly review]]
+- [[lms/annual review]]
 
 The key to regularly performing these reviews (except the daily review) is reminders, since it is difficult to establish habits that are not daily.
 

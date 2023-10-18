@@ -2,7 +2,7 @@
 title: "People usually think that modifying their environment is their ultimate purpose"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 4

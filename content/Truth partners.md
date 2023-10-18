@@ -2,7 +2,7 @@
 title: "Truth partners"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-25
 sr-interval: 2

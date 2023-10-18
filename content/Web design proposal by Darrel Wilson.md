@@ -2,7 +2,7 @@
 title: "Web design proposal by Darrenl Wilson"
 date: "2023-04-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-11
 sr-interval: 3

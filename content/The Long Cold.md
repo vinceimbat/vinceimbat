@@ -2,7 +2,7 @@
 title: "The Long Cold"
 date: "2021-02-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-26
 sr-interval: 3

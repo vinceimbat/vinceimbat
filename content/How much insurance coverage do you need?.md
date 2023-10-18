@@ -2,7 +2,7 @@
 title: "How much insurance coverage do you need?"
 date: "2021-05-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-05
 sr-interval: 3

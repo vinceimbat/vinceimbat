@@ -2,7 +2,7 @@
 title: "Walking is an experiential introduction to states of being"
 date: "2022-01-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-18
 sr-interval: 3

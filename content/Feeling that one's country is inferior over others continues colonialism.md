@@ -2,7 +2,7 @@
 title: "Feeling that one's country is inferior over others continues colonialism"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-14
 sr-interval: 3

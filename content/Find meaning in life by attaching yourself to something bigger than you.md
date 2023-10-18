@@ -2,7 +2,7 @@
 title: "Find meaning in life by attaching yourself to something bigger than you"
 date: "2022-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-20
 sr-interval: 20

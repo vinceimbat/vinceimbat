@@ -2,7 +2,7 @@
 title: "Your core values could be the same as your core desired mental states"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-05-27
 sr-interval: 362

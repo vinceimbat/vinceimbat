@@ -2,7 +2,7 @@
 title: "Presence bridges attachment and non-attachment"
 date: "2022-03-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-08
 sr-interval: 3

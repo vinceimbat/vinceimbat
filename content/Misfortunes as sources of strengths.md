@@ -2,7 +2,7 @@
 title: "Misfortunes as sources of strengths"
 date: "2020-09-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-11
 sr-interval: 3

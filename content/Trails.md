@@ -2,7 +2,7 @@
 title: "Trails"
 date: "2022-08-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-23
 sr-interval: 3

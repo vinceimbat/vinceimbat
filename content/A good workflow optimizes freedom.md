@@ -2,7 +2,7 @@
 title: "A good workflow optimizes freedom"
 date: "2021-03-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-13
 sr-interval: 3

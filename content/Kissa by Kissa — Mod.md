@@ -2,7 +2,7 @@
 title: "Kissa by Kissa — Mod"
 date: "2022-06-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-25
 sr-interval: 2

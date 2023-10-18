@@ -2,7 +2,7 @@
 title: "On Earth We're Briefly Gorgeous by Vuong"
 date: "2023-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

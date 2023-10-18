@@ -2,13 +2,12 @@
 title: "A supernatural realm exists separate from the natural"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-31
 sr-interval: 1
 sr-ease: 229
 ---
-
 By supernatural realm, we simply mean a realm where the methods of the natural sciences cannot be applied simply because the realm is beyond the laws of matter. Since there definitely seems to be metaphysical categories that eludes the scientific method—the [[Platonic realm]], for example, which includes the "laws" of the universe and abstract objects—I am compelled to believe that a supernatural realm exists. This makes me a supernaturalist.
 
 This supernatural realm is mutually exclusive and separate from the natural realm. It is not embedded in it as animists believe.

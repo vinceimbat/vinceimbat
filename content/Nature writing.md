@@ -2,7 +2,7 @@
 title: "Nature writing"
 date: "2022-04-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-06
 sr-interval: 3

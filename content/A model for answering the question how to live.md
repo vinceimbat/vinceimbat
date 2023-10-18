@@ -2,7 +2,7 @@
 title: "A model for answering the question how to live"
 date: "2019-08-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-18
 sr-interval: 4

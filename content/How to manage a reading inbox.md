@@ -2,7 +2,7 @@
 title: "How to manage a reading inbox"
 date: "2021-11-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-03
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Double-sided monothetic definitions of religion"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-03
 sr-interval: 4

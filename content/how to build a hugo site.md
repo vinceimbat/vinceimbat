@@ -2,7 +2,7 @@
 title: "How to build a hugo site"
 date: "2021-06-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

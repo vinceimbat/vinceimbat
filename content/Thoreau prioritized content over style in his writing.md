@@ -2,7 +2,7 @@
 title: "Thoreau prioritized content over style in his writing"
 date: "2022-07-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-23
 sr-interval: 4

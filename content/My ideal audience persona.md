@@ -6,7 +6,7 @@ aliases:
 - "My-ideal-persona"
 - "my-ideal-persona"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-21
 sr-interval: 3

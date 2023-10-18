@@ -2,7 +2,7 @@
 title: "Decide whether to read for fun or for learning"
 date: "2021-11-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-08
 sr-interval: 8

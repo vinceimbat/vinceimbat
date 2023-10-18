@@ -3,7 +3,7 @@ title: "About Me"
 date: "2017-03-18"
 slug: "about"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-16
 sr-interval: 3

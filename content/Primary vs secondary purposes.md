@@ -2,7 +2,7 @@
 title: "Primary vs secondary purposes"
 date: "2021-08-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

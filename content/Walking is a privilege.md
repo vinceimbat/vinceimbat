@@ -2,7 +2,7 @@
 title: "Walking is a privilege"
 date: "2023-03-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-26
 sr-interval: 4

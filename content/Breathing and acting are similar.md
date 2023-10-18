@@ -2,7 +2,7 @@
 title: "Breathing and acting are similar"
 date: "2023-02-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-20
 sr-interval: 3

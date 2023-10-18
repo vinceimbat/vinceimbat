@@ -2,7 +2,7 @@
 title: "Experience machine"
 date: "2022-08-11"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

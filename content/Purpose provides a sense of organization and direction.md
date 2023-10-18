@@ -2,7 +2,7 @@
 title: "Purpose provides a sense of organization and direction"
 date: "2022-05-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-10
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Spirituality"
 date: "2021-01-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-09-22
 sr-interval: 302

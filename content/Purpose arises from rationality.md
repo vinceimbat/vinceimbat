@@ -2,7 +2,7 @@
 title: "Purpose arises from rationality"
 date: "2022-03-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-02
 sr-interval: 2

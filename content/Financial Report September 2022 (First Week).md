@@ -2,7 +2,7 @@
 title: "Financial Report September 2022 (First Week)"
 date: "2022-09-08"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

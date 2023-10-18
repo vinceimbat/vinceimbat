@@ -2,7 +2,7 @@
 title: "Do metalearning by asking why, what, and how"
 date: "2022-04-15"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

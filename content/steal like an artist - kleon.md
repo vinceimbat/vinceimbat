@@ -2,7 +2,7 @@
 title: "Steal Like An Artist — Kleon"
 date: "2018-12-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-12
 sr-interval: 3

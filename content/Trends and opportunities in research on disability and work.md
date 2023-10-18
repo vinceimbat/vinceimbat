@@ -2,7 +2,7 @@
 title: "Trends and opportunities in research on disability and work"
 date: "2023-02-19"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

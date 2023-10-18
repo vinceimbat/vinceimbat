@@ -2,7 +2,7 @@
 title: "How to improve writing through ultralearning"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

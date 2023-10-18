@@ -5,7 +5,7 @@ aliases:
 - "Writing"
 - "thoughts/writing"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2026-10-14
 sr-interval: 1176

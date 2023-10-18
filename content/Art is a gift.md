@@ -2,7 +2,7 @@
 title: "Art is a gift"
 date: "2022-09-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-25
 sr-interval: 4

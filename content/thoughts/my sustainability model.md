@@ -5,7 +5,7 @@ aliases:
 - "My-sustainability-model"
 - "thoughts/my-sustainability-model"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2026-09-21
 sr-interval: 1161

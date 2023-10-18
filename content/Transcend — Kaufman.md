@@ -2,7 +2,7 @@
 title: "Transcend — Kaufman"
 date: "2022-04-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-07
 sr-interval: 3

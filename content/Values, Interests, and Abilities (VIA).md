@@ -2,7 +2,7 @@
 title: "Values, Interests, and Abilities (VIA)"
 date: "2020-09-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-26
 sr-interval: 3

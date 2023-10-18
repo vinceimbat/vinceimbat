@@ -2,7 +2,7 @@
 title: "Explore metaphysical and epistemological beliefs as if it was a walk"
 date: "2022-11-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-24
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Nine universal principles of ultralearning"
 date: "2022-06-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-27
 sr-interval: 8

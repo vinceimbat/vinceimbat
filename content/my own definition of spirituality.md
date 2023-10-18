@@ -2,7 +2,7 @@
 title: "My own definition of spirituality"
 date: "2019-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-09-22
 sr-interval: 302

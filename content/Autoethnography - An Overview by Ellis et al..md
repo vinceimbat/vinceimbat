@@ -2,7 +2,7 @@
 title: "Autoethnography - An Overview by Ellis et al."
 date: "2023-03-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-20
 sr-interval: 1

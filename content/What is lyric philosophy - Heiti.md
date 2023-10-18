@@ -2,7 +2,7 @@
 title: "What is lyric philosophy - Heiti"
 date: "2022-10-07"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -2,7 +2,7 @@
 title: "Web design proposal by Elementor"
 date: "2023-04-06"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -3,7 +3,7 @@ title: "Love and Grief"
 date: "2018-10-08"
 slug: "love-and-grief"
 tags:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

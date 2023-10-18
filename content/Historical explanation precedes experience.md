@@ -2,7 +2,7 @@
 title: "Historical explanation precedes experience"
 date: "2022-10-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-28
 sr-interval: 4

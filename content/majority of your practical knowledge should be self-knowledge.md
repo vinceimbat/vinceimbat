@@ -2,7 +2,7 @@
 title: "Majority of your practical knowledge should be self-knowledge"
 date: "2018-10-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-26
 sr-interval: 3

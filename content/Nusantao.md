@@ -3,7 +3,7 @@ title: "Nusantao"
 date: "2018-10-07"
 slug: "nusantao"
 tags:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

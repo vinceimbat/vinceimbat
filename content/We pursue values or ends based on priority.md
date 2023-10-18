@@ -2,7 +2,7 @@
 title: "We pursue values or ends based on priority"
 date: "2023-01-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-08
 sr-interval: 4

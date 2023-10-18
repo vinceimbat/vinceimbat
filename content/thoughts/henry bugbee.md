@@ -5,7 +5,7 @@ aliases:
 - "Henry-Bugbee"
 - "thoughts/henry-bugbee"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-08-20
 sr-interval: 390

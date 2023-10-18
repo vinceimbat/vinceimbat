@@ -2,7 +2,7 @@
 title: "Strategies in proofreading"
 date: "2023-01-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-20
 sr-interval: 4

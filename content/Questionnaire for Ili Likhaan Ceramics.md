@@ -2,7 +2,7 @@
 title: "Questionnaire for Ili Likhaan Ceramics"
 date: "2023-04-05"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

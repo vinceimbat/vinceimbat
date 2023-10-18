@@ -2,7 +2,7 @@
 title: "The Value of Time - How Much is Your Time Really Worth? by James Clear"
 date: "2023-02-16"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

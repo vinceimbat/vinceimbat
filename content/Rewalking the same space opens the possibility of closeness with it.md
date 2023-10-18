@@ -2,7 +2,7 @@
 title: "Rewalking the same space opens the possibility of closeness with it"
 date: "2022-09-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 1

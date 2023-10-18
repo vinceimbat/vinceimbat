@@ -2,7 +2,7 @@
 title: "Analyze concepts, facts, and procedures to identify bottlenecks in your learning project"
 date: "2022-06-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-30
 sr-interval: 11

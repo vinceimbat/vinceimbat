@@ -2,7 +2,7 @@
 title: "Love thy enemy"
 date: "2021-09-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-22
 sr-interval: 3

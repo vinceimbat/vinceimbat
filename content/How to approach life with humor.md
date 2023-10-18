@@ -2,7 +2,7 @@
 title: "How to approach life with humor"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-22
 sr-interval: 15

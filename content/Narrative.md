@@ -2,7 +2,7 @@
 title: "Narrative"
 date: "2019-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-07-20
 sr-interval: 373

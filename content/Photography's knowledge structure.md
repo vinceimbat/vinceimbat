@@ -2,7 +2,7 @@
 title: "Photography's knowledge structure"
 date: "2022-06-21"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

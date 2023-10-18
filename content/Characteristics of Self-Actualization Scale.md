@@ -2,7 +2,7 @@
 title: "Characteristics of Self-Actualization Scale"
 date: "2022-02-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-23
 sr-interval: 23

@@ -2,7 +2,7 @@
 title: "Living can be part of the creative work"
 date: "2021-11-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-05-26
 sr-interval: 476

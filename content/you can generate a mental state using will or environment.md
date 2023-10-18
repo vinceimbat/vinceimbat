@@ -2,7 +2,7 @@
 title: "You can generate a mental state using will or environment"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-23
 sr-interval: 235

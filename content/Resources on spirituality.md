@@ -2,7 +2,7 @@
 title: "Resources on spirituality"
 date: "2021-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

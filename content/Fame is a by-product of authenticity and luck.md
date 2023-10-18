@@ -2,7 +2,7 @@
 title: "Fame is a by-product of authenticity and luck"
 date: "2021-02-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-26
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Nature is Deaf"
 date: "2022-05-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 1

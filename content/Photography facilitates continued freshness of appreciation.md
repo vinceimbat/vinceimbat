@@ -2,7 +2,7 @@
 title: "Photography facilitates continued freshness of appreciation"
 date: "2022-04-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-01
 sr-interval: 1

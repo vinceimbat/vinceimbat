@@ -2,7 +2,7 @@
 title: "Barbell method of reading"
 date: "2021-04-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-16
 sr-interval: 1

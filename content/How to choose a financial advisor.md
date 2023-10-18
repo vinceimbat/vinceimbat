@@ -2,7 +2,7 @@
 title: "How to choose a financial advisor"
 date: "2022-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-06
 sr-interval: 4

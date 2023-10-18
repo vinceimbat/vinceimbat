@@ -2,7 +2,7 @@
 title: "Your Money or Your Life — Robin and Dominguez"
 date: "2021-03-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

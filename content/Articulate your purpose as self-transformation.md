@@ -2,7 +2,7 @@
 title: "Articulate your purpose as self-transformation"
 date: "2023-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-12
 sr-interval: 1

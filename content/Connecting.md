@@ -2,7 +2,7 @@
 title: "Connecting"
 date: "2021-02-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-11
 sr-interval: 187

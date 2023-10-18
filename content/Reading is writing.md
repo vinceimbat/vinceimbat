@@ -2,7 +2,7 @@
 title: "Reading is writing"
 date: "2018-10-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-06
 sr-interval: 4

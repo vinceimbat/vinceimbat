@@ -2,7 +2,6 @@
 title: Living despite thrownness requires faith
 date: 2022-08-24
 tags:
-  - notes
   - seedlings
 sr-due: 2022-12-09
 sr-interval: 82

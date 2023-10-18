@@ -3,7 +3,7 @@ title: "Henry David Thoreau"
 date: "2022-05-08"
 aliases: "thoughts/henry-david-thoreau"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2025-06-24
 sr-interval: 891

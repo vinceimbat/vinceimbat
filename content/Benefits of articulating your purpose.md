@@ -2,7 +2,7 @@
 title: "Benefits of articulating your purpose"
 date: "2022-04-25"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

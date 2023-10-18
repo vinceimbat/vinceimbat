@@ -2,7 +2,7 @@
 title: "Mental state"
 date: "2021-01-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-12
 sr-interval: 179

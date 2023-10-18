@@ -5,7 +5,7 @@ aliases:
 - "Web-design-proposals"
 - "thoughts/web-design-proposals"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

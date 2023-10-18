@@ -2,7 +2,7 @@
 title: "How to build a life management system"
 date: "2022-03-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-26
 sr-interval: 33
@@ -60,19 +60,19 @@ Once I had my ground level in place and have acquainted myself to it, I was able
 1. Divide life areas into sub-areas if necessary.
    - [[Divide areas into sub-areas for easier tracking]]
 1. Set goals for each life area.
-   - Here are my [[Life goals]].
+   - Here are my [[lms/life goals]].
    - Remember that each goal shall be tied to a project eventually.
 
 ## Reviews
 
 After setting up a system to organize your actions and a system to organize your areas and goals, it is important to set up systems to look back at your actions and evaluate whether you have succeeded in your aspirations. To maintain awareness of the connection of individual actions with goals and areas, implement a multi-layered review system.
 
-1. Use an [[Annual review]].
+1. Use an [[lms/annual review]].
    - The purpose of the annual review is to create a meaningful connection between what you accomplished in your monthly projects and areas, and your Sky level (i.e., purpose, vision, and mission).
    - I use the annual review to aggregate an annual report, which I use to create new goals and a new vision for the coming year.
    - I then write an annual review article that I share to the public.
-   - Here is [[My annual review routine]].
-1. Use a [[Monthly review]].
+   - Here is [[lms/my annual review routine]].
+1. Use a [[lms/monthly review]].
    - The purpose of the monthly review is to create a meaningful connection between monthly projects and areas as well as your vision for the year.
    - I use the monthly review to write a monthly report for the month.
    - I then create a publishable version of this report and share it via Uman.
@@ -81,7 +81,7 @@ After setting up a system to organize your actions and a system to organize your
 1. Use a [[Weekly review]].
    - The purpose of the weekly review is to process all accumulated loose ends in all inboxes both actionable and non-actionable and to make sure that projects and tasks are up-to-date.
    - Here is [[lms/my weekly review routine]].
-1. Use a [[Daily review]].
+1. Use a [[lms/daily review]].
    - The purpose of the daily review is to choose and perform actions  for the day from all the options you have articulated.
    - Here is [[My daily review routine]].
 

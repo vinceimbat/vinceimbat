@@ -2,7 +2,7 @@
 title: "Notes from Froi's screenwriting workshop"
 date: "2023-05-17"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -2,7 +2,7 @@
 title: "Photo Backup Strategy"
 date: "2022-06-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-18
 sr-interval: 3

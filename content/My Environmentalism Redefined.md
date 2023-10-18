@@ -2,7 +2,7 @@
 title: "My Environmentalism Redefined"
 date: "2018-04-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-06
 sr-interval: 3

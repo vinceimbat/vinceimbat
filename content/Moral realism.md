@@ -2,7 +2,7 @@
 title: "Moral realism"
 date: "2021-11-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-12-30
 sr-interval: 585

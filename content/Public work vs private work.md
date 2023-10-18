@@ -2,7 +2,7 @@
 title: "Public work vs private work"
 date: "2021-10-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-20
 sr-interval: 3

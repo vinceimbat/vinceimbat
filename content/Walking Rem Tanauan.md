@@ -2,7 +2,7 @@
 title: "Walking Rem Tanauan"
 date: "2022-11-06"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -2,7 +2,7 @@
 title: "How to build a website using Hugo and Netlify"
 date: "2022-01-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

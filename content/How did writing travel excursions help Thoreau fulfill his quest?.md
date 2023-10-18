@@ -2,7 +2,7 @@
 title: "How did writing travel excursions help Thoreau fulfill his quest?"
 date: "2022-07-13"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

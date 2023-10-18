@@ -2,7 +2,7 @@
 title: "Convergence tool"
 date: "2022-03-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-09
 sr-interval: 4

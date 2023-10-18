@@ -3,7 +3,7 @@ title: "Alain de Botton on Philosophy Within and Outside the Academy"
 date: "2023-07-25"
 aliases: "thoughts/alain-de-botton-philosophy-outside-academy"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-28
 sr-interval: 3

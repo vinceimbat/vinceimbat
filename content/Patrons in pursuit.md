@@ -2,7 +2,7 @@
 title: "Patrons in pursuit"
 date: "2022-08-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-25
 sr-interval: 3

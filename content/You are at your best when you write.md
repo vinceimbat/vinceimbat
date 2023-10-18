@@ -2,7 +2,7 @@
 title: "You are at your best when you write"
 date: "2015-10-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-26
 sr-interval: 3

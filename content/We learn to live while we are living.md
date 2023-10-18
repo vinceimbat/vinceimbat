@@ -2,7 +2,7 @@
 title: "We learn to live while we are living"
 date: "2022-07-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-01
 sr-interval: 75

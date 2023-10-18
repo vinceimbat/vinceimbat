@@ -2,7 +2,7 @@
 title: "Outline notes"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-09
 sr-interval: 1

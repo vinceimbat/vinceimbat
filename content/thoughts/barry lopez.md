@@ -5,7 +5,7 @@ aliases:
 - "Barry-Lopez"
 - "thoughts/barry-lopez"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-02-11
 sr-interval: 208

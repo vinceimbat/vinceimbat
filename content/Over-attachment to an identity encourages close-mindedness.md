@@ -2,7 +2,7 @@
 title: "Over-attachment to an identity encourages close-mindedness"
 date: "2023-02-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-17
 sr-interval: 1

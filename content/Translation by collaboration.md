@@ -2,7 +2,7 @@
 title: "translation by collaboration"
 date: "2022-10-18"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

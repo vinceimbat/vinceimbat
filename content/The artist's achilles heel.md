@@ -2,7 +2,7 @@
 title: "The artist's achilles heel"
 date: "2023-06-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-04
 sr-interval: 3

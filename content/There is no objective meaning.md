@@ -2,7 +2,7 @@
 title: "There is no objective meaning"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-25
 sr-interval: 3

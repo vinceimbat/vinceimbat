@@ -2,7 +2,7 @@
 title: "Workview"
 date: "2022-11-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-23
 sr-interval: 1

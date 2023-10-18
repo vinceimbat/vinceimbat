@@ -2,7 +2,7 @@
 title: "Cons of FIRE"
 date: "2022-06-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-07
 sr-interval: 1

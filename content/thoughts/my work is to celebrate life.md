@@ -3,7 +3,7 @@ title: "My work is to celebrate life"
 date: "2021-11-03"
 aliases: "thoughts/my-work-is-to-celebrate-life"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-02
 sr-interval: 3

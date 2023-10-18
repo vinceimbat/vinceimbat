@@ -2,7 +2,7 @@
 title: "Purpose for small actions vs entire life"
 date: "2022-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-02
 sr-interval: 2

@@ -2,7 +2,7 @@
 title: "Insurance help us cope with SAD events"
 date: "2022-05-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-25
 sr-interval: 145

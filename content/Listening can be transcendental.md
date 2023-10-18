@@ -2,7 +2,7 @@
 title: "Listening can be transcendental"
 date: "2022-05-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-11
 sr-interval: 38

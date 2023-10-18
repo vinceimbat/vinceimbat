@@ -2,7 +2,7 @@
 title: "Ultralearning, after Young"
 date: "2022-06-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-26
 sr-interval: 7

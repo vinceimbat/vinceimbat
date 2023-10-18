@@ -2,7 +2,7 @@
 title: "Etymology of the word lilim"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-27
 sr-interval: 4

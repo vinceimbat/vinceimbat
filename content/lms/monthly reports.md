@@ -13,7 +13,7 @@ The monthly report aims to present the general outlook of my past month in a sin
 
 It also evaluates my major life areas: life system, physical health, mental health, relationships, sustenance, and life work.
 
-The goal of monthly reports is to inform my goal-setting and planning for the next month and to become the main reference from which I will write [[annual reports]] and an [[annual review article]] during [[My annual review routine]].
+The goal of monthly reports is to inform my goal-setting and planning for the next month and to become the main reference from which I will write [[lms/annual reports]] and an [[annual review article]] during [[lms/my annual review routine]].
 
 I write it using the template: [[templates/monthly report]]. Here are the instructions on [[How to fill up the monthly report]].
 

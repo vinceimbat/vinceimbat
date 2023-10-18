@@ -2,7 +2,7 @@
 title: "The Tea House Zendo in Baguio"
 date: "2018-10-04"
 tags:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Whole life insurance"
 date: "2022-05-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-16
 sr-interval: 4

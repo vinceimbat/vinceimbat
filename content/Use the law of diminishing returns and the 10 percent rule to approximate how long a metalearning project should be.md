@@ -2,7 +2,7 @@
 title: "Use the law of diminishing returns and the 10 percent rule to approximate how long a metalearning project should be"
 date: "2022-06-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-22
 sr-interval: 2

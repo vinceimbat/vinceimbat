@@ -2,7 +2,7 @@
 title: "There is no single purpose everyone must follow"
 date: "2021-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-24
 sr-interval: 2

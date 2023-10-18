@@ -2,7 +2,7 @@
 title: "Both anthropomorphic and non-anthropomorphic religious practices involve the supernatural"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-30
 sr-interval: 1

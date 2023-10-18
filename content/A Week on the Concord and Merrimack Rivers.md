@@ -2,7 +2,7 @@
 title: "A Week on the Concord and Merrimack Rivers"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-25
 sr-interval: 135

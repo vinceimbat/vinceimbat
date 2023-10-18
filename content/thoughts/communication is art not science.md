@@ -3,7 +3,7 @@ title: "Precise communication of subjective experience is art not science"
 date: "2021-02-01"
 aliases: "thoughts/communication-is-art"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-24
 sr-interval: 4

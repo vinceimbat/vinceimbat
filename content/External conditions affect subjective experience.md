@@ -2,7 +2,7 @@
 title: "External conditions affect subjective experience"
 date: "2021-12-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-18
 sr-interval: 4

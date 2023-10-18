@@ -2,7 +2,7 @@
 title: "Building a minimum viable lms program"
 date: "2022-12-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-30
 sr-interval: 3

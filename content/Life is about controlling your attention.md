@@ -2,7 +2,7 @@
 title: "Life is about controlling your attention"
 date: "2021-05-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

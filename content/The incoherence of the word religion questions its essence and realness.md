@@ -2,7 +2,7 @@
 title: "The incoherence of the word religion questions its essence and realness"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

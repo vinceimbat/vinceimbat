@@ -2,7 +2,7 @@
 title: "Distancing and disassociating does not mean hating"
 date: "2022-11-02"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

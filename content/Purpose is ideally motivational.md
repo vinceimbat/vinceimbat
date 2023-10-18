@@ -2,7 +2,7 @@
 title: "Purpose is ideally motivational"
 date: "2022-04-25"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

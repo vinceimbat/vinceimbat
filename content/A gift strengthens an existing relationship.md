@@ -2,7 +2,7 @@
 title: "A gift strengthens an existing relationship"
 date: "2022-09-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 4

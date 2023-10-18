@@ -2,7 +2,7 @@
 title: "Talahardin taxonomy of note types"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3
@@ -16,7 +16,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/e
 ## Ladder
 
 - Entries in my [[Diary]]. [[A diary should be used as an inbox]] where a single diary entry could be a source of several [[Fleeting notes]].
-- [[Fleeting notes]] (i.e., prompts and incomplete notes) in my [[writing inbox]]. These notes accumulate over time but are drained through a [[Spaced repetition writing system]]. Well-developed fleeting notes leave the writing inbox as [[thoughts/evergreens]].
+- [[Fleeting notes]] (i.e., prompts and incomplete notes) in my [[writing inbox]]. These notes accumulate over time but are drained through a [[thoughts/spaced repetition writing system]]. Well-developed fleeting notes leave the writing inbox as [[thoughts/evergreens]].
 - [[thoughts/evergreens]]. While these notes leave the writing inbox in better quality, they can still be developed further. There are different kinds of permanent notes:
    - Stubs that don’t have a content of their own but gain meaning through backlinks. An example of this is the note [[Unfruitful]]. I actually gave a short description of the stub, but its meaning makes more sense because of the backlinks under it. It is a place to hold unfruitful writing prompts in my writing inbox that needs to be reviewed in a later date.
    - Simple definitions for other people’s terms of art

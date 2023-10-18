@@ -5,7 +5,7 @@ aliases:
 - "Intentional-living"
 - "thoughts/intentional-living"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2025-02-11
 sr-interval: 805

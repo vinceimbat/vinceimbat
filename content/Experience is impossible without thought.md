@@ -2,7 +2,7 @@
 title: "Experience is impossible without thought"
 date: "2021-04-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-09
 sr-interval: 3

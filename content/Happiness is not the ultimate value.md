@@ -2,7 +2,7 @@
 title: "Happiness is not the ultimate value"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-11
 sr-interval: 35

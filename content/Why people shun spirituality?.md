@@ -2,7 +2,7 @@
 title: "Why people shun spirituality?"
 date: "2020-03-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

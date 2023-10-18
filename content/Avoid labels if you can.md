@@ -2,7 +2,7 @@
 title: "Avoid labels if you can"
 date: "2021-05-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

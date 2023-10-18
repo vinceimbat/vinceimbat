@@ -2,7 +2,7 @@
 title: "Writing is walking is living"
 date: "2023-03-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-22
 sr-interval: 4

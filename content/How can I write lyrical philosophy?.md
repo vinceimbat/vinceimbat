@@ -2,7 +2,7 @@
 title: "How can I write lyrical philosophy?"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2025-07-07
 sr-interval: 852

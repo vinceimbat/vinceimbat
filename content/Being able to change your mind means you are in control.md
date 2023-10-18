@@ -2,7 +2,7 @@
 title: "Being able to change your mind means you are in control"
 date: "2021-04-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-10
 sr-interval: 3

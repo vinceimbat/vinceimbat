@@ -3,7 +3,7 @@ title: "I want my audience to feel existential"
 date: "2023-07-18"
 aliases: "thoughts/i-want-my-audience-to-feel-existential"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-20
 sr-interval: 2

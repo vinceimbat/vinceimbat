@@ -2,7 +2,7 @@
 title: "Meditation does not reside in the wordless"
 date: "2022-10-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-08
 sr-interval: 3

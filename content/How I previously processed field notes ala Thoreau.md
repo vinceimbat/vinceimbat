@@ -2,7 +2,7 @@
 title: "How I previously processed field notes ala Thoreau"
 date: "2020-10-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-14
 sr-interval: 3

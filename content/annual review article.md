@@ -2,11 +2,11 @@
 title: "Annual review article"
 date: "2023-01-06"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 
-To write an [[Annual review]] article for a given year, do the following:
+To write an [[lms/annual review]] article for a given year, do the following:
 
 1. Do this one area at a time.
 2. For each area, review the big goals that you set for that particular area.

@@ -2,7 +2,7 @@
 title: "vinceimbat.com plan"
 date: "2022-01-09"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

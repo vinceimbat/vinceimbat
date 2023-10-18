@@ -2,7 +2,7 @@
 title: "Web hosting buying guide"
 date: "2023-04-10"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

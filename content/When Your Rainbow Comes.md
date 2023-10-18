@@ -2,7 +2,7 @@
 title: "When Your Rainbow Comes"
 date: "2018-10-05"
 tags:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

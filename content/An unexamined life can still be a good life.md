@@ -2,7 +2,7 @@
 title: "An unexamined life can still be a good life"
 date: "2020-04-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-16
 sr-interval: 3

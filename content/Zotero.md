@@ -2,7 +2,7 @@
 title: "Zotero"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Emotional experiences"
 date: "2022-07-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-27
 sr-interval: 3

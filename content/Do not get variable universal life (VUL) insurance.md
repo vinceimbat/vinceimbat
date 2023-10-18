@@ -2,7 +2,7 @@
 title: "Do not get variable universal life (VUL) insurance"
 date: "2022-05-12"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

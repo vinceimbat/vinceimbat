@@ -2,7 +2,7 @@
 title: "Loving the unloveable puts you at odds with those who hate the unloveable"
 date: "2022-11-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-06
 sr-interval: 4

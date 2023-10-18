@@ -2,7 +2,7 @@
 title: "True paradoxes vs. illusory paradoxes"
 date: "2019-07-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-19
 sr-interval: 1

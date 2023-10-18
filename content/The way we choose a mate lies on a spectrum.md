@@ -2,7 +2,7 @@
 title: "The way we choose a mate lies on a spectrum"
 date: "2018-09-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-08
 sr-interval: 3

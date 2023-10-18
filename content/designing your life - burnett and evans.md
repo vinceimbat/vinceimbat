@@ -2,7 +2,7 @@
 title: "Designing Your Life - Burnett and Evans"
 date: "2022-11-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-24
 sr-interval: 2

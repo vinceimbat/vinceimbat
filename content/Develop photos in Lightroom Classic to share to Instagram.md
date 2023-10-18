@@ -2,7 +2,7 @@
 title: "Develop photos in Lightroom Classic to share to Instagram"
 date: "2022-07-09"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

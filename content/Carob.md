@@ -2,7 +2,7 @@
 title: "Carob"
 date: "2021-02-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-04
 sr-interval: 4

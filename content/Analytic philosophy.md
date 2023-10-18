@@ -2,7 +2,7 @@
 title: "Analytic philosophy"
 date: "2022-08-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-28
 sr-interval: 193

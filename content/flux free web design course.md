@@ -2,7 +2,7 @@
 title: "Flux Free Web Design Course"
 date: "2021-12-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

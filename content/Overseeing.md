@@ -2,7 +2,7 @@
 title: "Overseeing"
 date: "2022-11-13"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

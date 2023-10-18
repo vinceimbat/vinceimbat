@@ -2,7 +2,7 @@
 title: "Reading without note-taking is only beneficial in the short-term"
 date: "2021-11-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-03
 sr-interval: 3

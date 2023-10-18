@@ -3,7 +3,7 @@ title: "What title will I use?"
 date: "2023-07-18"
 aliases: "thoughts/what-title-will-i-use"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 3

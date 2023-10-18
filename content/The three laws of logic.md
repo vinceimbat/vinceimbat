@@ -2,7 +2,7 @@
 title: "The three laws of logic"
 date: "2021-07-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-27
 sr-interval: 3

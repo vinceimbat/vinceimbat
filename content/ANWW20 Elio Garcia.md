@@ -2,7 +2,7 @@
 title: "ANWW20 Elio Garcia"
 date: "2023-06-14"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

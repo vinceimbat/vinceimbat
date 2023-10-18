@@ -3,7 +3,7 @@ title: "Process over product"
 date: "2023-07-18"
 aliases: "thoughts/process-over-product"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 3

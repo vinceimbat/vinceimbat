@@ -2,7 +2,7 @@
 title: "Five elements of a religion per Clifford Geertz"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

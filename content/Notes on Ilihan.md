@@ -2,7 +2,7 @@
 title: "Notes on Ilihan"
 date: "2023-04-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-22
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "The two ways of seeing — Dillard"
 date: "2022-05-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

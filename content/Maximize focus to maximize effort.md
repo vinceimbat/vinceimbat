@@ -2,7 +2,7 @@
 title: "Maximize focus to maximize effort"
 date: "2022-09-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-21
 sr-interval: 1

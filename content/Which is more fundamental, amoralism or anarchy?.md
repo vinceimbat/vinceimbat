@@ -2,7 +2,7 @@
 title: "Which is more fundamental, amoralism or anarchy?"
 date: "2022-06-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

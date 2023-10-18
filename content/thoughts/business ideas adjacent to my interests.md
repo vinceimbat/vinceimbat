@@ -5,7 +5,7 @@ aliases:
 - "Business-ideas-adjacent-to-my-interests"
 - "thoughts/business-ideas"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-20
 sr-interval: 2

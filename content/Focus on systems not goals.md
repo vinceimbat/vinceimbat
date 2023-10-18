@@ -2,7 +2,7 @@
 title: "Focus on systems not goals"
 date: "2022-09-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-08
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "The Heart of Yoga"
 date: "2021-04-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-18
 sr-interval: 3

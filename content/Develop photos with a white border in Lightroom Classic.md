@@ -2,7 +2,7 @@
 title: "Develop photos with a white border in Lightroom Classic"
 date: "2022-07-09"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

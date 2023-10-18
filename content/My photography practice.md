@@ -2,7 +2,7 @@
 title: "My photography practice"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

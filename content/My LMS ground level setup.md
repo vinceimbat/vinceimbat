@@ -2,7 +2,7 @@
 title: "My LMS ground level setup"
 date: "2021-07-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-05-01
 sr-interval: 291

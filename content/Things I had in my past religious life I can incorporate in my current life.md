@@ -2,7 +2,7 @@
 title: "Things I had in my past religious life I can incorporate in my current life"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-30
 sr-interval: 1

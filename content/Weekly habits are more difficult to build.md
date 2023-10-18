@@ -2,7 +2,7 @@
 title: "Weekly habits are more difficult to build"
 date: "2021-07-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-21
 sr-interval: 3

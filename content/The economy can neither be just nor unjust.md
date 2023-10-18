@@ -2,7 +2,7 @@
 title: "The economy can neither be just nor unjust"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-10
 sr-interval: 3

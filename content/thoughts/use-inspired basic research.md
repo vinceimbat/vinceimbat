@@ -5,7 +5,7 @@ aliases:
 - "Use-inspired-basic-research"
 - "thoughts/use-inspired-basic-research"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-04
 sr-interval: 17

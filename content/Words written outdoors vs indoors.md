@@ -2,7 +2,7 @@
 title: "Words written outdoors vs indoors"
 date: "2021-12-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-13
 sr-interval: 3

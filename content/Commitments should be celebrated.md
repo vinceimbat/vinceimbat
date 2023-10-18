@@ -2,7 +2,7 @@
 title: "Commitments should be celebrated"
 date: "2023-01-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-13
 sr-interval: 3

@@ -5,7 +5,7 @@ aliases:
 - "My-workflow"
 - "thoughts/my-workflow"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-23
 sr-interval: 1

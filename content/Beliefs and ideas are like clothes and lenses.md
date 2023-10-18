@@ -2,7 +2,7 @@
 title: "Beliefs and ideas are like clothes and lenses"
 date: "2021-04-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

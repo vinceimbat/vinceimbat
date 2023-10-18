@@ -2,7 +2,7 @@
 title: "My life plan"
 date: "2021-01-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2027-10-24
 sr-interval: 1647

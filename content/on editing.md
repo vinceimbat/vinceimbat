@@ -2,7 +2,7 @@
 title: "on editing"
 date: "2022-12-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-28
 sr-interval: 38

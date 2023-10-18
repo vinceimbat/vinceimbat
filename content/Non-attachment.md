@@ -2,7 +2,7 @@
 title: "Non-attachment"
 date: "2021-04-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-01-31
 sr-interval: 319

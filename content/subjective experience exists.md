@@ -2,7 +2,7 @@
 title: "Subjective experience exists"
 date: "2021-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-23
 sr-interval: 4

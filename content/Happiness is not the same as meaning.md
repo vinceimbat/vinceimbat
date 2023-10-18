@@ -2,7 +2,7 @@
 title: "Happiness is not the same as meaning"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-11
 sr-interval: 4

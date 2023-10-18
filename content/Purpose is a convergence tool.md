@@ -2,7 +2,7 @@
 title: "Purpose is a convergence tool"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "evergreens"
 sr-due: 2022-04-25
 sr-interval: 1

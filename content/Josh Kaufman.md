@@ -2,7 +2,7 @@
 title: "Josh Kaufman"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-28
 sr-interval: 3

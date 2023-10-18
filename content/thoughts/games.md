@@ -3,7 +3,7 @@ title: "Games"
 date: "2018-08-04"
 aliases: "thoughts/games"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-24
 sr-interval: 3

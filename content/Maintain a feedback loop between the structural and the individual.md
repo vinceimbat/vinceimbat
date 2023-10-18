@@ -2,7 +2,7 @@
 title: "Maintain a feedback loop between the structural and the individual"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

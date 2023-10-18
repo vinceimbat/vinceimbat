@@ -2,7 +2,7 @@
 title: "Walking also involves stopping"
 date: "2021-05-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-12
 sr-interval: 4

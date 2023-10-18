@@ -2,7 +2,7 @@
 title: "Understanding leads to compassion"
 date: "2022-02-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 3

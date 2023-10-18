@@ -2,7 +2,7 @@
 title: "Negotiation"
 date: "2023-03-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-31
 sr-interval: 4

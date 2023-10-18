@@ -2,7 +2,7 @@
 title: "Client onboarding by Flux Academy"
 date: "2023-04-24"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

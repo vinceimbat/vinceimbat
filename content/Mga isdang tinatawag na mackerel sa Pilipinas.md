@@ -2,7 +2,7 @@
 title: "Mga isdang tinatawag na mackerel sa Pilipinas"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

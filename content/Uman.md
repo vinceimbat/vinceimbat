@@ -2,7 +2,7 @@
 title: "Uman"
 date: "2022-05-07"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

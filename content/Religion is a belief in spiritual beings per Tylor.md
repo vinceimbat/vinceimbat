@@ -2,7 +2,7 @@
 title: "Religion is a belief in spiritual beings per Tylor"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-30
 sr-interval: 1

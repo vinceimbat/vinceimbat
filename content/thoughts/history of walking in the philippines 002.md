@@ -3,7 +3,7 @@ title: "History of Walking in the Philippines 002"
 date: "2021-06-15"
 aliases: "thoughts/history-of-walking-philippines-002"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-02
 sr-interval: 3

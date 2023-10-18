@@ -2,7 +2,7 @@
 title: "Perform experiments to address uncertainty about your creative process"
 date: "2021-02-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-04
 sr-interval: 3

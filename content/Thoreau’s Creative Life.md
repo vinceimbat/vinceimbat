@@ -2,7 +2,7 @@
 title: "Thoreau’s Creative Life"
 date: "2020-11-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-14
 sr-interval: 3

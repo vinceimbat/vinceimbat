@@ -2,7 +2,7 @@
 title: "Gift experience"
 date: "2023-01-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-29
 sr-interval: 4

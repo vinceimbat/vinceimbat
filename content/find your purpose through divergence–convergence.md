@@ -2,7 +2,7 @@
 title: "Find your purpose through divergence–convergence"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-14
 sr-interval: 43

@@ -2,7 +2,7 @@
 title: "Neuropsychiatry and metaphysics"
 date: "2018-08-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-13
 sr-interval: 3

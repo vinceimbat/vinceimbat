@@ -2,7 +2,7 @@
 title: "Philosophical and poetic photography"
 date: "2022-06-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-03
 sr-interval: 3

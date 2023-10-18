@@ -2,7 +2,7 @@
 title: "Metalearning"
 date: "2021-03-29"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

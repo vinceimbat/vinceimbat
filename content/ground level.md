@@ -2,7 +2,7 @@
 title: "Ground level"
 date: "2022-12-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-25
 sr-interval: 3

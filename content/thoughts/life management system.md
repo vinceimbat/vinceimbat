@@ -24,7 +24,7 @@ A system has to be put in place whether or not there are inputs so that when inp
 
 # My Implementation
 
-- [[My LMS sky level setup]]
+- [[lms/my lms sky level setup]]
 - [[My LMS ground level setup]]
 - [[My LMS reviews setup]]
 

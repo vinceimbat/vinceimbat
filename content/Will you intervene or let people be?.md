@@ -2,7 +2,7 @@
 title: "Will you intervene or let people be?"
 date: "2022-06-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

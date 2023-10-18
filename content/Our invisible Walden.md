@@ -2,7 +2,7 @@
 title: "Our invisible Walden"
 date: "2022-10-17"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

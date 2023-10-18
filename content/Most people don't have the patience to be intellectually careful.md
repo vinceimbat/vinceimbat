@@ -2,7 +2,7 @@
 title: "Most people don't have the patience to be intellectually careful"
 date: "2021-09-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-31
 sr-interval: 3

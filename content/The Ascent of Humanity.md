@@ -2,7 +2,7 @@
 title: "The Ascent of Humanity"
 date: "2017-11-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-29
 sr-interval: 3
@@ -446,5 +446,5 @@ Voluntary contributions
 
 When something is given freely even if it doest have the looks of being spiritual, it automatically takes on a more sacred aura
 
-\#evernote
+\
 

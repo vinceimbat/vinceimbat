@@ -2,7 +2,7 @@
 title: "In search of the internment camp in Los Baños"
 date: "2022-06-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-10-03
 sr-interval: 273

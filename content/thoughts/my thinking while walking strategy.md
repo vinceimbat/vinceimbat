@@ -5,7 +5,7 @@ aliases:
 - "My-thinking-while-walking-strategy"
 - "thoughts/my-thinking-while-walking-strategy"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2027-09-28
 sr-interval: 1523

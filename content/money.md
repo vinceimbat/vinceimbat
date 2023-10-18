@@ -2,7 +2,7 @@
 title: "Money"
 date: "2022-09-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-10
 sr-interval: 3

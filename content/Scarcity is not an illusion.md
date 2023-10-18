@@ -2,7 +2,7 @@
 title: "Scarcity is not an illusion"
 date: "2018-02-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-13
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Budgeting"
 date: "2022-09-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-14
 sr-interval: 4

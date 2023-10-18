@@ -2,7 +2,7 @@
 title: "Insurance"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "evergreens"
 sr-due: 2022-05-12
 sr-interval: 4

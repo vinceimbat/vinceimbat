@@ -2,7 +2,7 @@
 title: "Purpose does not arise from the objective physical world"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-01
 sr-interval: 4

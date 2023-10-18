@@ -2,7 +2,7 @@
 title: "A patronage model is best for an independent researcher"
 date: "2021-02-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-20
 sr-interval: 3

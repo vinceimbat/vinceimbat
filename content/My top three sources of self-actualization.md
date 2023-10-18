@@ -2,7 +2,7 @@
 title: "My top three sources of self-actualization"
 date: "2022-04-23"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

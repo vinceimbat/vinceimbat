@@ -2,7 +2,7 @@
 title: "Buy Term, Invest Difference (BTID)"
 date: "2022-05-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-18
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "We did not choose to exist"
 date: "2022-07-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-05-24
 sr-interval: 530

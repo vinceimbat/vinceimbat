@@ -2,7 +2,7 @@
 title: "Long Walk Packing by Craig Mod"
 date: "2021-06-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-05
 sr-interval: 3

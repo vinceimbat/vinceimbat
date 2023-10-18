@@ -2,7 +2,7 @@
 title: "An anarchist needs to thrive in a hierarchical and plural world"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-05
 sr-interval: 3

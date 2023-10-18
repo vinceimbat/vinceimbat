@@ -2,7 +2,7 @@
 title: "Poetry celebrates the present moment"
 date: "2021-08-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 1

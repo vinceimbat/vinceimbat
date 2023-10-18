@@ -2,7 +2,7 @@
 title: "The Los Baños internment camp"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-10
 sr-interval: 14

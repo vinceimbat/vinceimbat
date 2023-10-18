@@ -2,7 +2,7 @@
 title: "creative freedom"
 date: "2022-12-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-02
 sr-interval: 4

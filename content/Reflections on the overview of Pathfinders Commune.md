@@ -2,7 +2,7 @@
 title: "Reflections on the overview of Pathfinders Commune"
 date: "2022-11-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-10
 sr-interval: 4

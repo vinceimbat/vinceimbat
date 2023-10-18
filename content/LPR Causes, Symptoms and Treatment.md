@@ -2,7 +2,7 @@
 title: "LPR Causes, Symptoms and Treatment"
 date: "2020-08-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-16
 sr-interval: 3

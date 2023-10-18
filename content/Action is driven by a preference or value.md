@@ -2,7 +2,7 @@
 title: "Action is driven by a preference or value"
 date: "2022-06-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-05
 sr-interval: 3

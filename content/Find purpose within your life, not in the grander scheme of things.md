@@ -2,7 +2,7 @@
 title: "Find purpose within your life, not in the grander scheme of things"
 date: "2022-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-02
 sr-interval: 2

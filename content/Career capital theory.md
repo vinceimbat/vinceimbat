@@ -2,7 +2,7 @@
 title: "Career capital theory"
 date: "2022-09-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-19
 sr-interval: 3

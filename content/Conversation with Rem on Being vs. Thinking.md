@@ -2,7 +2,7 @@
 title: "Conversation with Rem on Being vs. Thinking"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-11
 sr-interval: 3

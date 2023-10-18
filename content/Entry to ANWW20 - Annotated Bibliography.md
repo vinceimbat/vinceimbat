@@ -2,7 +2,7 @@
 title: "Entry to ANWW20 - Annotated Bibliography"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

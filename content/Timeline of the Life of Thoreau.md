@@ -2,7 +2,7 @@
 title: "Timeline of the Life of Thoreau"
 date: "2020-11-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-15
 sr-interval: 4

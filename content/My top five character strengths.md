@@ -2,7 +2,7 @@
 title: "My top five character strengths"
 date: "2021-07-16"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

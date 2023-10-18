@@ -2,7 +2,7 @@
 title: "My daily review routine"
 date: "2021-12-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-05-25
 sr-interval: 514
@@ -28,7 +28,7 @@ For writing, I simply write what I read and wrote that day that is connected to 
 
 For projects, I just ask one question for each: What did I do to move this project closer to completion? For others, I would usually log new things, places, or media I explored.
 
-I conduct this daily review the morning after the day as part of [[My daily routine]] and write them using a [[templates/daily note]] template. These reports will be useful when I conduct my [[Monthly review]].
+I conduct this daily review the morning after the day as part of [[My daily routine]] and write them using a [[templates/daily note]] template. These reports will be useful when I conduct my [[lms/monthly review]].
 
 # References
 

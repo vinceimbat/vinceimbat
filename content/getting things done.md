@@ -2,7 +2,7 @@
 title: "Getting Things Done"
 date: "2021-02-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-03
 sr-interval: 3

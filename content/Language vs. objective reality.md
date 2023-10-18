@@ -2,7 +2,7 @@
 title: "Language vs. objective reality"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-14
 sr-interval: 3

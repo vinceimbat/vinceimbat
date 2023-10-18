@@ -2,7 +2,7 @@
 title: "desire"
 date: "2023-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 4

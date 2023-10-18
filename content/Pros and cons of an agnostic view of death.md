@@ -2,7 +2,7 @@
 title: "Pros and cons of an agnostic view of death"
 date: "2022-11-01"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

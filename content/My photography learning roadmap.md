@@ -2,7 +2,7 @@
 title: "My photography learning roadmap"
 date: "2022-06-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-18
 sr-interval: 3

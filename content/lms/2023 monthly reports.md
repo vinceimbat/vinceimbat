@@ -8,8 +8,8 @@ tags:
 ---
 Here are my [[lms/monthly reports|monthly reports]] for 2023.
 
-- [[2023-01 Monthly report]]
-- [[2023-02 Monthly report]]
+- [[lms/2023-01 monthly report]]
+- [[lms/2023-02 monthly report]]
 - [[2023-03 Monthly report]]
 - [[2023-04 Monthly report]]
 - [[2023-05 Monthly report]]

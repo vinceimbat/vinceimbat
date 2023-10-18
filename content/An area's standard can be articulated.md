@@ -2,7 +2,7 @@
 title: "An area's standard can be articulated"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-11
 sr-interval: 3

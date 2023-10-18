@@ -2,7 +2,7 @@
 title: "Articulate your motivation for learning to help you focus on what matters"
 date: "2022-06-19"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

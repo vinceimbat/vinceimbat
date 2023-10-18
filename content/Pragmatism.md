@@ -2,7 +2,7 @@
 title: "Pragmatism"
 date: "2022-08-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 4

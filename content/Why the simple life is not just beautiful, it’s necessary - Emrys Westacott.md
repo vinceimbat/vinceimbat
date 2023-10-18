@@ -2,7 +2,7 @@
 title: "Why the simple life is not just beautiful, it’s necessary - Emrys Westacott"
 date: "2023-02-12"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

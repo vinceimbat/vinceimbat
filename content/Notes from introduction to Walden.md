@@ -2,7 +2,7 @@
 title: "Notes from introduction to Walden"
 date: "2023-05-23"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

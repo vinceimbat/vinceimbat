@@ -2,7 +2,7 @@
 title: "Facts"
 date: "2022-06-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-22
 sr-interval: 3

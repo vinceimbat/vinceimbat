@@ -5,7 +5,7 @@ aliases:
 - "Small-documented-personal-development-projects"
 - "thoughts/small-documented-personal-development-projects"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 4

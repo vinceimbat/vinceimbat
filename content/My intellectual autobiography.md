@@ -2,7 +2,7 @@
 title: "My intellectual autobiography"
 date: "2021-04-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-07
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "You won’t be able to read all the books in your shelf"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-21
 sr-interval: 3

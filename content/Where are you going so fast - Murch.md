@@ -12,6 +12,6 @@ tags:
 
 ## Related
 
-- [[And then - Jacobs]]
+- [[quotes/zipping through jacobs]]
 
 ## References

@@ -2,7 +2,7 @@
 title: "Read with a purpose"
 date: "2022-05-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-07
 sr-interval: 34

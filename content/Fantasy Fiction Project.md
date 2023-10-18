@@ -2,7 +2,7 @@
 title: "Fantasy Fiction Project"
 date: "2020-10-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-19
 sr-interval: 3

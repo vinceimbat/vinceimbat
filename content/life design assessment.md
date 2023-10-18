@@ -2,7 +2,7 @@
 title: "Life design assessment"
 date: "2022-11-21"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

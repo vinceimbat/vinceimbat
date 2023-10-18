@@ -2,7 +2,7 @@
 title: "Mysteries I believe in"
 date: "2021-09-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-16
 sr-interval: 3

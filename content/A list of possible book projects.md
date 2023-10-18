@@ -2,7 +2,7 @@
 title: "A list of possible book projects"
 date: "2022-06-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-12
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "My top values"
 date: "2021-07-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-06-22
 sr-interval: 520

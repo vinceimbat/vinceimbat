@@ -2,7 +2,7 @@
 title: "I wanted to talk about something but I am afraid I am not allowed to talk about it."
 date: "2022-06-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-19
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Cognitive Behavioral Therapy"
 date: "2021-03-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-20
 sr-interval: 3

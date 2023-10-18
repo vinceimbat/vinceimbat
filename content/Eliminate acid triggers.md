@@ -2,7 +2,7 @@
 title: "Eliminate acid triggers"
 date: "2021-02-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-28
 sr-interval: 3

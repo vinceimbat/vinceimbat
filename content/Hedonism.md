@@ -2,7 +2,7 @@
 title: "Hedonism"
 date: "2023-03-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-09
 sr-interval: 3

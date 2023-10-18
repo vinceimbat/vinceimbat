@@ -2,7 +2,7 @@
 title: "Success is arriving at something that reorganizes how you think or feel"
 date: "2023-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-08
 sr-interval: 3

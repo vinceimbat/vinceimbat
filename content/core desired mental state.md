@@ -2,7 +2,7 @@
 title: "Core desired mental state"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

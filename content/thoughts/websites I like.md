@@ -5,7 +5,7 @@ aliases:
 - "Websites-I-resonate-with"
 - "thoughts/websites-i-like"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-30
 sr-interval: 4

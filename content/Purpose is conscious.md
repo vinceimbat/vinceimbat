@@ -2,7 +2,7 @@
 title: "Purpose is conscious"
 date: "2021-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-09
 sr-interval: 3

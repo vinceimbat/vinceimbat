@@ -2,7 +2,7 @@
 title: "Work on multiple projects at the same time"
 date: "2021-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-12
 sr-interval: 3

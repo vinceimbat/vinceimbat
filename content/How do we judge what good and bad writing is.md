@@ -2,7 +2,7 @@
 title: "How do we judge what good and bad writing is"
 date: "2022-04-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-28
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Write using permanent notes"
 date: "2021-04-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-24
 sr-interval: 3

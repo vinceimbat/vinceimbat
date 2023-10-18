@@ -2,7 +2,7 @@
 title: "Pixel per inch (PPI)"
 date: "2022-07-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-15
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "Remembering the past is important"
 date: "2023-02-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-18
 sr-interval: 4

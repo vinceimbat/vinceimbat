@@ -2,7 +2,7 @@
 title: "Decisive moment per Cartier-Bresson"
 date: "2023-06-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-08
 sr-interval: 3

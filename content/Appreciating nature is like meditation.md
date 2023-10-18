@@ -2,7 +2,7 @@
 title: "Appreciating nature is like meditation"
 date: "2022-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-08
 sr-interval: 3

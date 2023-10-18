@@ -2,7 +2,7 @@
 title: "Thoreau and the literary excursion — Buell"
 date: "2022-07-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 2

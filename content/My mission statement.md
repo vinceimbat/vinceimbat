@@ -2,7 +2,7 @@
 title: "My mission statement"
 date: "2021-08-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-10
 sr-interval: 68

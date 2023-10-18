@@ -2,7 +2,7 @@
 title: "A purpose is not always the same as a core desired mental state"
 date: "2021-02-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-09
 sr-interval: 3

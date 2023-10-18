@@ -2,7 +2,7 @@
 title: "Walk-like books"
 date: "2023-07-02"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Inward Morning Commentary 1952-09-29"
 date: "2022-10-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-15
 sr-interval: 3

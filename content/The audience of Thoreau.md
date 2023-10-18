@@ -2,7 +2,7 @@
 title: "The audience of Thoreau"
 date: "2022-10-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-18
 sr-interval: 4

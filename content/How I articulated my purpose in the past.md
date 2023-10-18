@@ -2,7 +2,7 @@
 title: "How I articulated my purpose in the past"
 date: "2022-07-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

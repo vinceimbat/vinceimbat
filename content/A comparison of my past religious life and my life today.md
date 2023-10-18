@@ -2,7 +2,7 @@
 title: "A comparison of my past religious life and my life today"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-30
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "The philosophical method of Henry Bugbee"
 date: "2022-07-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-27
 sr-interval: 1

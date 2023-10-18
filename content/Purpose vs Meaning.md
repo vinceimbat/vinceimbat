@@ -2,7 +2,7 @@
 title: "Purpose vs Meaning"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

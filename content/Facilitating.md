@@ -2,7 +2,7 @@
 title: "Facilitating"
 date: "2021-02-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-24
 sr-interval: 3

@@ -5,7 +5,7 @@ aliases:
 - "Herman-Melville"
 - "thoughts/herman-melville"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-07-25
 sr-interval: 364

@@ -2,7 +2,7 @@
 title: "There is no one way to live a life"
 date: "2019-02-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-18
 sr-interval: 4

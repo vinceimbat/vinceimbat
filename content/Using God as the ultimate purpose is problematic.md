@@ -2,7 +2,7 @@
 title: "Using God as the ultimate purpose is problematic"
 date: "2022-03-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-21
 sr-interval: 21

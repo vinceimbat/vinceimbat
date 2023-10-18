@@ -2,7 +2,7 @@
 title: "Lifeview"
 date: "2022-11-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-25
 sr-interval: 3

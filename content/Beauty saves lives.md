@@ -2,7 +2,7 @@
 title: "Beauty saves lives"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-26
 sr-interval: 3

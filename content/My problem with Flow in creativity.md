@@ -2,7 +2,7 @@
 title: "My problem with Flow in creativity"
 date: "2022-07-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

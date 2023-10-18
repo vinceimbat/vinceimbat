@@ -2,7 +2,7 @@
 title: "Gift communities are typically small"
 date: "2022-09-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-01-12
 sr-interval: 277

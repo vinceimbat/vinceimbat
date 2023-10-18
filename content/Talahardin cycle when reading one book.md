@@ -2,7 +2,7 @@
 title: "Talahardin cycle when reading one book"
 date: "2021-12-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-19
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Concept handles, after Alexander"
 date: "2022-06-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-20
 sr-interval: 3

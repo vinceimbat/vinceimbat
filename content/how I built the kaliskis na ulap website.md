@@ -2,7 +2,7 @@
 title: "How I built Kaliskis na Ulap website"
 date: "2022-01-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

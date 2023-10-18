@@ -2,7 +2,7 @@
 title: "Gift economy"
 date: "2022-09-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-12
 sr-interval: 21

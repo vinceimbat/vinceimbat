@@ -2,7 +2,7 @@
 title: "Combine progressive summarization with Talahardin"
 date: "2022-06-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-16
 sr-interval: 1

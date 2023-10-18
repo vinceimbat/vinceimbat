@@ -2,7 +2,7 @@
 title: "5MJ"
 date: "2021-01-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-16
 sr-interval: 4

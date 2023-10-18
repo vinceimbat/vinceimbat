@@ -2,7 +2,7 @@
 title: "The philosophical stance of Thoreau"
 date: "2022-07-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-23
 sr-interval: 1

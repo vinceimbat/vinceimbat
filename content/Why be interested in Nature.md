@@ -2,7 +2,7 @@
 title: "Why be interested in Nature?"
 date: "2022-04-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-27
 sr-interval: 3

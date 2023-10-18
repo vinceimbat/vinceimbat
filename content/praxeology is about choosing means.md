@@ -2,7 +2,7 @@
 title: "Praxeology is about choosing means"
 date: "2019-07-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-02
 sr-interval: 4

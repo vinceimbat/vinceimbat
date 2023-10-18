@@ -2,7 +2,7 @@
 title: "Ahren's Zettelkasten Manual"
 date: "2021-04-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-19
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Flow"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 3

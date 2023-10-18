@@ -2,7 +2,7 @@
 title: "Sa Casa San Pablo"
 date: "2023-04-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-25
 sr-interval: 1

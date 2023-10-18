@@ -2,7 +2,7 @@
 title: "To pursue a mental state as a purpose requires reconstruction"
 date: "2021-02-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-20
 sr-interval: 3

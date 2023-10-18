@@ -2,7 +2,7 @@
 title: "Nicole Alba’s financial management setup"
 date: "2021-05-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-07
 sr-interval: 3

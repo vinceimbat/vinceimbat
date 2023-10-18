@@ -2,7 +2,7 @@
 title: "What we didn't experience also make us interesting"
 date: "2022-10-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-10
 sr-interval: 4

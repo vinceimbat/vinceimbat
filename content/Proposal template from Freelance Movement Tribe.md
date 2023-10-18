@@ -2,7 +2,7 @@
 title: "Proposal template from Freelance Movement Tribe"
 date: "2023-04-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-08
 sr-interval: 1

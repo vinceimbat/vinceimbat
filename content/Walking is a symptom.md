@@ -2,7 +2,7 @@
 title: "Walking is a symptom"
 date: "2023-05-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-06
 sr-interval: 3

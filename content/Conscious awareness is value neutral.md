@@ -2,7 +2,7 @@
 title: "Conscious awareness is value neutral"
 date: "2018-10-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-01
 sr-interval: 3

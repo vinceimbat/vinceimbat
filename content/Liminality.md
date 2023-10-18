@@ -2,7 +2,7 @@
 title: "Liminality"
 date: "2023-03-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-28
 sr-interval: 1

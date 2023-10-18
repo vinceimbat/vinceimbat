@@ -2,7 +2,7 @@
 title: "Information Management Workshop Outline 1"
 date: "2021-09-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-18
 sr-interval: 3

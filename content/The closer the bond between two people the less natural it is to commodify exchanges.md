@@ -2,7 +2,7 @@
 title: "The closer the bond between two people the less natural it is to commodify exchanges"
 date: "2022-09-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 4

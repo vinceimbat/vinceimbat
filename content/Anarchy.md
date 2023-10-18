@@ -2,7 +2,7 @@
 title: "Anarchy"
 date: "2021-02-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 3

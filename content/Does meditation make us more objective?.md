@@ -2,7 +2,7 @@
 title: "Does meditation make us more objective?"
 date: "2022-07-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-25
 sr-interval: 3

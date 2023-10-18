@@ -2,7 +2,7 @@
 title: "How Moby Dick became an ambitious literary achievement"
 date: "2023-02-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-18
 sr-interval: 1

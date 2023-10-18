@@ -3,7 +3,7 @@ title: "My forest garden of the mind"
 date: "2022-08-15"
 aliases: "thoughts/my-forest-garden-of-the-mind"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2026-07-27
 sr-interval: 1099

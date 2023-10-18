@@ -2,7 +2,7 @@
 title: "Customer research"
 date: "2023-05-15"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

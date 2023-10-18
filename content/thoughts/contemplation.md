@@ -3,7 +3,7 @@ title: "Contemplation"
 date: "2023-07-18"
 aliases: "thoughts/contemplation"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-20
 sr-interval: 2

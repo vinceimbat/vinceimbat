@@ -2,7 +2,7 @@
 title: "Ways we can practice the gift today"
 date: "2022-09-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-25
 sr-interval: 4

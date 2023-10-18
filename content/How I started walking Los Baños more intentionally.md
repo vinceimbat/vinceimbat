@@ -2,7 +2,7 @@
 title: "How I started walking Los Baños more intentionally"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

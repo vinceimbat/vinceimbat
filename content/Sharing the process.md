@@ -2,7 +2,7 @@
 title: "Sharing the process"
 date: "2021-08-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-01
 sr-interval: 3

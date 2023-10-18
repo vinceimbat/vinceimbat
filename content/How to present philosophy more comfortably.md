@@ -2,7 +2,7 @@
 title: "How to present philosophy more comfortably"
 date: "2021-08-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-06
 sr-interval: 3

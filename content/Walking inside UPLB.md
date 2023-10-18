@@ -2,7 +2,7 @@
 title: "Walking inside UPLB"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

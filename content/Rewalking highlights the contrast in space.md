@@ -2,7 +2,7 @@
 title: "Rewalking highlights the contrast in space"
 date: "2022-09-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-17
 sr-interval: 4

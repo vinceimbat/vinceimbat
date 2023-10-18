@@ -5,7 +5,7 @@ aliases:
 - "Craig-Mod"
 - "thoughts/craig-mod"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2027-05-16
 sr-interval: 1396

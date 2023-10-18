@@ -2,7 +2,7 @@
 title: "How to combat the lure fo fame"
 date: "2022-03-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-16
 sr-interval: 3

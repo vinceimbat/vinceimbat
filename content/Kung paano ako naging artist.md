@@ -2,7 +2,7 @@
 title: "Kung paano ako naging artist"
 date: "2023-04-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-28
 sr-interval: 4

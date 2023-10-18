@@ -2,7 +2,7 @@
 title: "Photography can be used to propagate certain values"
 date: "2022-05-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-27
 sr-interval: 4

@@ -3,7 +3,7 @@ title: "ANWW20 Lecture Jhoanna Lynn Cruz"
 date: "2023-07-02"
 slug: "anww20-lecture-jhoanna-cruz"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-10-24
 sr-interval: 89

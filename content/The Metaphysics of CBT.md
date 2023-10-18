@@ -3,7 +3,7 @@ title: "The Metaphysics of CBT"
 date: "2018-10-16"
 slug: "the-metaphysics-of-cbt"
 tag:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

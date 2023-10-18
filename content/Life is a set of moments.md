@@ -2,7 +2,7 @@
 title: "Life is a set of moments"
 date: "2021-04-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

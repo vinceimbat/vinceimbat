@@ -2,7 +2,7 @@
 title: "Credentialing can hurt rapid skill acquisition"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-26
 sr-interval: 1

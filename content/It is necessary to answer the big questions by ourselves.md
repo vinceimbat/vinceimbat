@@ -2,7 +2,7 @@
 title: "It is necessary to answer the big questions by ourselves"
 date: "2021-08-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

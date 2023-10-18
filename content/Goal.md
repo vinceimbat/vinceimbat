@@ -2,7 +2,7 @@
 title: "Goal"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-27
 sr-interval: 163

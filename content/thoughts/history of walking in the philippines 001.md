@@ -3,7 +3,7 @@ title: "History of Walking in the Philippines 001"
 date: "2021-06-14"
 aliases: "thoughts/history-of-walking-philippines-001"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

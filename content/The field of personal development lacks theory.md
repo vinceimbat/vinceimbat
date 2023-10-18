@@ -2,7 +2,7 @@
 title: "The field of personal development lacks theory"
 date: "2023-04-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-13
 sr-interval: 3

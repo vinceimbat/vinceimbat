@@ -2,7 +2,7 @@
 title: "The Philippines lack a mass intellegentsia"
 date: "2022-06-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-09
 sr-interval: 6

@@ -2,7 +2,7 @@
 title: "How can I combine truth and beauty in one philosophical practice?"
 date: "2022-07-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-26
 sr-interval: 3

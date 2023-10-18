@@ -2,7 +2,7 @@
 title: "I find sometimes that I can't speak"
 date: "2022-05-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-26
 sr-interval: 3

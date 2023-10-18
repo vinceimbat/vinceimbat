@@ -2,7 +2,7 @@
 title: "Benedict Spinoza"
 date: "2022-08-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-30
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "We create our individual purpose"
 date: "2022-04-25"
 tags:
-- "notes"
+
 - "evergreens"
 sr-due: 2022-04-26
 sr-interval: 1

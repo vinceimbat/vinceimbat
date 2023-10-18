@@ -3,7 +3,7 @@ title: "Dilemma with pre-colonial"
 date: "2023-04-12"
 aliases: "thoughts/dilemma-with-precolonial"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-15
 sr-interval: 20

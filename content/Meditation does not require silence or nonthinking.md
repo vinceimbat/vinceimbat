@@ -2,7 +2,7 @@
 title: "Meditation does not require silence or nonthinking"
 date: "2022-10-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-05
 sr-interval: 1

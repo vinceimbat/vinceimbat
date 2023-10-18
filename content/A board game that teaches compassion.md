@@ -2,7 +2,7 @@
 title: "A board game that teaches compassion"
 date: "2022-02-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-11
 sr-interval: 3

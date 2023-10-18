@@ -2,7 +2,7 @@
 title: "Self-knowledge"
 date: "2018-04-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-22
 sr-interval: 9

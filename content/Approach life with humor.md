@@ -2,7 +2,7 @@
 title: "Approach life with humor"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

@@ -2,7 +2,7 @@
 title: "Life management is energy management"
 date: "2022-06-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-23
 sr-interval: 98

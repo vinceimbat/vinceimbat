@@ -2,7 +2,7 @@
 title: "Foundations of a Strong Website"
 date: "2023-05-17"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

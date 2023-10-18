@@ -2,7 +2,7 @@
 title: "Love"
 date: "2021-03-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-26
 sr-interval: 14

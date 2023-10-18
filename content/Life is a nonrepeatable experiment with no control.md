@@ -2,7 +2,7 @@
 title: "Life is a nonrepeatable experiment with no control"
 date: "2022-05-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 4

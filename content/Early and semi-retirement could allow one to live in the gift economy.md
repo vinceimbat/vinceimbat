@@ -2,7 +2,7 @@
 title: "Early and semi-retirement could allow one to live in the gift economy"
 date: "2022-09-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-16
 sr-interval: 1

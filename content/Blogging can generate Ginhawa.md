@@ -2,7 +2,7 @@
 title: "Blogging can generate Ginhawa"
 date: "2021-03-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Indirect interaction theory per Patterson"
 date: "2021-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-04
 sr-interval: 4

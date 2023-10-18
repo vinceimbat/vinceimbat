@@ -2,7 +2,7 @@
 title: "My strategy for sharing"
 date: "2021-12-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-26
 sr-interval: 3
@@ -29,7 +29,7 @@ Every beginning of the month, I perform [[lms/my monthly review routine]]. Using
 
 # Annually
 
-Every first week of January, I perform [[My annual review routine]]. Using a template, I review monthly reports and aggregate them into an annual report. This annual report gets shared to my email list via TinyLetter. Along with the monthly report, this is a non-negotiable artifact that has to be shared every year.
+Every first week of January, I perform [[lms/my annual review routine]]. Using a template, I review monthly reports and aggregate them into an annual report. This annual report gets shared to my email list via TinyLetter. Along with the monthly report, this is a non-negotiable artifact that has to be shared every year.
 
 # As it happens
 

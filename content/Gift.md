@@ -2,7 +2,7 @@
 title: "gift"
 date: "2023-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-07
 sr-interval: 18

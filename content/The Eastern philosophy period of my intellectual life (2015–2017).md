@@ -2,7 +2,7 @@
 title: "The Eastern philosophy period of my intellectual life (2015–2017)"
 date: "2021-04-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-07
 sr-interval: 3

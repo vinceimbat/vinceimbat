@@ -2,7 +2,7 @@
 title: "Write about something you already have notes on"
 date: "2023-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-30
 sr-interval: 3

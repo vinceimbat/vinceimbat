@@ -2,7 +2,7 @@
 title: "Is visual voice simply choice of subject and environment?"
 date: "2022-07-21"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

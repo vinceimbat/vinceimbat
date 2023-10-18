@@ -3,7 +3,7 @@ title: "Self"
 date: "2018-06-01"
 aliases: "Self"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2025-03-15
 sr-interval: 593

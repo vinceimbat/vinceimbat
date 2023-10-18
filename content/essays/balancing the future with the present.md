@@ -14,7 +14,7 @@ sr-ease: 250
 
 If good things happen in the future but what is true is only the present moment and that—as Marcus Aurelius repeats in his [[essays/meditations by aurelius|Meditations]], anytime we could die—, then the wisest choice of action is to strike a balance between working towards a better future while making sure you are doing something you absolutely have to do right now.
 
-For example, one of my goals is [[essays/a better definition of financial freedom|financial independence]]. However, the "real" motive behind this goal is to experience [[How I Became a Professional Multipotentialite|creative freedom]], that is, the freedom to do something I care about when I want to do it. I want to be able to do something for the sake of doing it, not because I need to earn money or achieve prestige.
+For example, one of my goals is [[essays/a better definition of financial freedom|financial independence]]. However, the "real" motive behind this goal is to experience [[essays/how i became a professional multipotentialite|creative freedom]], that is, the freedom to do something I care about when I want to do it. I want to be able to do something for the sake of doing it, not because I need to earn money or achieve prestige.
 
 Trading off five to ten years of my life to work hard so I can eventually achieve financial freedom and delay the pursuit of my interests puts me at a terrible risk: I could die prematurely, not achieve financial independence, and, worst, not explore my interests. How much better will it be if, along the way to financial independence, I intentionally free myself with some small packets of time to dip my toes in my interests?
 

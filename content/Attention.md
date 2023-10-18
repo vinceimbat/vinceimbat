@@ -2,7 +2,7 @@
 title: "Attention"
 date: "2022-08-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 2

@@ -2,7 +2,7 @@
 title: "Show Your Work"
 date: "2021-02-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-13
 sr-interval: 3

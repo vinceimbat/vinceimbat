@@ -2,7 +2,7 @@
 title: "Web design process by Megan Weeks"
 date: "2023-04-05"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

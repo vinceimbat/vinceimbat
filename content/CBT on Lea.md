@@ -2,7 +2,7 @@
 title: "CBT on Lea"
 date: "2023-04-02"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 | What is happening                           | Interpretation                                                                                          | Emotion                    | Alternative Reasoning                                                                                                                                                                                        |

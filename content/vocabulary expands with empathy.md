@@ -2,7 +2,7 @@
 title: "vocabulary expands with empathy"
 date: "2022-12-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-18
 sr-interval: 4

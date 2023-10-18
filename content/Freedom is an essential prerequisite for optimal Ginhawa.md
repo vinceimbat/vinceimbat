@@ -2,7 +2,7 @@
 title: "Freedom is an essential prerequisite for optimal Ginhawa"
 date: "2021-01-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-25
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Anecdotes of caring in Los Baños"
 date: "2023-01-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-24
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "How to write literature notes"
 date: "2021-09-03"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 
@@ -15,7 +15,7 @@ Applying the [[getting things done]] approach it is best to separate capturing [
 
 When you are ready to work on a note, create a working note in your [[writing inbox]] where you start to play around with these literature notes.
 
-These notes shall remain in the writing inbox until processed iteratively via a [[Spaced repetition writing system]]. Use the process in [[how to convert literature notes to permanent notes]] to create permanent notes.
+These notes shall remain in the writing inbox until processed iteratively via a [[thoughts/spaced repetition writing system]]. Use the process in [[how to convert literature notes to permanent notes]] to create permanent notes.
 
 # References
 

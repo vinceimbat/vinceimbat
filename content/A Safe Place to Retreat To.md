@@ -3,7 +3,7 @@ title: "A Safe Place to Retreat To"
 date: "2020-03-25"
 slug: "a-safe-place-to-retreat-to"
 tags:
-  - "notes"
+  
   - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

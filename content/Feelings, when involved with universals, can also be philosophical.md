@@ -2,7 +2,7 @@
 title: "Feelings, when involved with universals, can also be philosophical"
 date: "2022-07-24"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

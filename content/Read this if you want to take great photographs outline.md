@@ -2,7 +2,7 @@
 title: "Read this if you want to take great photographs outline"
 date: "2022-06-21"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

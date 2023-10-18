@@ -2,7 +2,7 @@
 title: "Project"
 date: "2021-01-26"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

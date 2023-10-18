@@ -2,7 +2,7 @@
 title: "Kasaysayan ng Pakikipagkaibigan ko kay Rem"
 date: "2022-11-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-06
 sr-interval: 4

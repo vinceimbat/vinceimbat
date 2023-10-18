@@ -2,7 +2,7 @@
 title: "Freelance cover letter checklist"
 date: "2023-03-04"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

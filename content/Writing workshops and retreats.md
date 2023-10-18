@@ -2,7 +2,7 @@
 title: "Writing workshops and retreats"
 date: "2023-04-10"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

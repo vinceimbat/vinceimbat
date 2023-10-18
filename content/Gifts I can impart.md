@@ -2,7 +2,7 @@
 title: "Gifts I can impart"
 date: "2022-09-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-29
 sr-interval: 4

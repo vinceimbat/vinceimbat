@@ -2,7 +2,7 @@
 title: "Your Money or Your Life"
 date: "2015-09-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-14
 sr-interval: 3

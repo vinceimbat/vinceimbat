@@ -2,7 +2,7 @@
 title: "PEACEFUL + FREE SOCIETY = Freedom + Tolerance"
 date: "2019-08-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-22
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Commentary on Inviations by Mary Oliver"
 date: "2022-10-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-16
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Thoreau’s economics is similar to YMOYL"
 date: "2022-01-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-14
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "How to convert literature notes to permanent notes"
 date: "2021-09-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-21
 sr-interval: 4

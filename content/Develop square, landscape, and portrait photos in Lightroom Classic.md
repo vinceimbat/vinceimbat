@@ -2,7 +2,7 @@
 title: "Develop square, landscape, and portrait photos in Lightroom Classic"
 date: "2022-07-09"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

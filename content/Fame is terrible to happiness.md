@@ -2,7 +2,7 @@
 title: "Fame is terrible to happiness"
 date: "2022-03-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-25
 sr-interval: 3

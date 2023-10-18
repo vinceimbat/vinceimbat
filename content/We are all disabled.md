@@ -2,7 +2,7 @@
 title: "We are all disabled"
 date: "2023-06-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-16
 sr-interval: 3

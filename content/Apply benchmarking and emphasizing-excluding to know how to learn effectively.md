@@ -2,7 +2,7 @@
 title: "Apply benchmarking and emphasizing-excluding to know how to learn effectively"
 date: "2022-06-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-01
 sr-interval: 11

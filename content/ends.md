@@ -2,7 +2,7 @@
 title: "Ends"
 date: "2019-08-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-13
 sr-interval: 11

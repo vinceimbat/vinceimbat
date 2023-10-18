@@ -2,7 +2,7 @@
 title: "Kalayaan at katotohanan patungo sa ginhawa"
 date: "2019-03-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-11
 sr-interval: 3

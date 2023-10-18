@@ -2,7 +2,7 @@
 title: "Outline of Henry David Thoreau A Life by Laura Dassow Walls"
 date: "2020-10-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

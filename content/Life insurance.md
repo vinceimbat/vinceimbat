@@ -2,7 +2,7 @@
 title: "Life insurance"
 date: "2022-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-30
 sr-interval: 150

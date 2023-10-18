@@ -2,7 +2,7 @@
 title: "Necessary vs unnecessary confrontations"
 date: "2023-03-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-17
 sr-interval: 4

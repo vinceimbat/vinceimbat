@@ -2,7 +2,7 @@
 title: "The art of living is my gift"
 date: "2022-09-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 1

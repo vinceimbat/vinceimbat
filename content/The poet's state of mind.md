@@ -2,7 +2,7 @@
 title: "The poet's state of mind"
 date: "2023-05-19"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

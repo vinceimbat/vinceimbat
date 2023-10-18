@@ -2,7 +2,7 @@
 title: "Research questions should have their own structure note"
 date: "2022-04-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 3

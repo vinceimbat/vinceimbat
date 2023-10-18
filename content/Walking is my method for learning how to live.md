@@ -2,7 +2,7 @@
 title: "Walking is my method for learning how to live"
 date: "2023-03-23"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

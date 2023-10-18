@@ -2,7 +2,7 @@
 title: "Kung natuloy sa pancitan - ang huling ala-ala ko kay Rem"
 date: "2022-11-02"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

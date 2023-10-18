@@ -2,7 +2,7 @@
 title: "Novel Factory Step 1"
 date: "2019-10-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-08
 sr-interval: 3

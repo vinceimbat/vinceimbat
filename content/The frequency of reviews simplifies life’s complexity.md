@@ -2,7 +2,7 @@
 title: "The frequency of reviews simplifies life’s complexity"
 date: "2021-07-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-23
 sr-interval: 3

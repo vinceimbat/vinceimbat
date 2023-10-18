@@ -2,7 +2,7 @@
 title: "Five areas of my life work"
 date: "2021-02-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

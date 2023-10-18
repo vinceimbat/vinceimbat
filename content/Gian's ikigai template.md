@@ -2,7 +2,7 @@
 title: "Gian's ikigai template"
 date: "2021-02-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-13
 sr-interval: 3

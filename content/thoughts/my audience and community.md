@@ -5,7 +5,7 @@ aliases:
 - "My-audience-and-community"
 - "thoughts/my-audience-and-community"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-01
 sr-interval: 14

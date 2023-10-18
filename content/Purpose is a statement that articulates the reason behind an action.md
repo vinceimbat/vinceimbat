@@ -2,7 +2,7 @@
 title: "Purpose is a statement that articulates the reason behind an action"
 date: "2022-04-25"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

@@ -2,7 +2,7 @@
 title: "When your family does not cheer your art"
 date: "2023-05-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-16
 sr-interval: 1

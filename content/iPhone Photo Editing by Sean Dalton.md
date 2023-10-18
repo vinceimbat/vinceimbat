@@ -2,7 +2,7 @@
 title: "iPhone Photo Editing by Sean Dalton"
 date: "2022-06-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

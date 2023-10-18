@@ -2,7 +2,7 @@
 title: "Inner work vs. outer work"
 date: "2022-02-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 3

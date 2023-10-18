@@ -2,7 +2,7 @@
 title: "The Six Optimizing Conditions"
 date: "2020-11-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-14
 sr-interval: 3

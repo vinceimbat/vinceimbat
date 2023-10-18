@@ -2,7 +2,7 @@
 title: "Holding on to the past can prevent us from being present"
 date: "2022-09-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-09
 sr-interval: 4

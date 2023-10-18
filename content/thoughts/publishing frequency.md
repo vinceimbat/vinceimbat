@@ -5,7 +5,7 @@ aliases:
 - "How-often-should-you-share-a-publishable-artifact"
 - "thoughts/publishing-frequency"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-08
 sr-interval: 22

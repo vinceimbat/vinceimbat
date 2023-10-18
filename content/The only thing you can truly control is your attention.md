@@ -2,7 +2,7 @@
 title: "The only thing you can truly control is your attention"
 date: "2021-02-10"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

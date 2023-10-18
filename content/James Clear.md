@@ -2,7 +2,7 @@
 title: "James Clear"
 date: "2016-06-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-10
 sr-interval: 3

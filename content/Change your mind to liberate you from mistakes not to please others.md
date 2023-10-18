@@ -2,7 +2,7 @@
 title: "Change your mind to liberate you from mistakes not to please others"
 date: "2021-05-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

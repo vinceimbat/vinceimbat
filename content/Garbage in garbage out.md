@@ -2,7 +2,7 @@
 title: "Garbage in garbage out"
 date: "2023-06-30"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

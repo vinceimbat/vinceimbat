@@ -4,7 +4,7 @@ date: "2023-05-11"
 slug: "a-life-in-letters"
 aliases: "A-life-in-letters"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-12
 sr-interval: 1

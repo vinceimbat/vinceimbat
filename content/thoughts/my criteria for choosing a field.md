@@ -5,7 +5,7 @@ aliases:
 - "My-criteria-for-choosing-a-field"
 - "thoughts/my-criteria-for-choosing-a-field"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 3

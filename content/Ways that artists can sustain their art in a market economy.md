@@ -2,7 +2,7 @@
 title: "Ways that artists can sustain their art in a market economy"
 date: "2022-09-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-05
 sr-interval: 15

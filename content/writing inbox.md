@@ -2,7 +2,7 @@
 title: "Writing inbox"
 date: "2022-12-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-31
 sr-interval: 3

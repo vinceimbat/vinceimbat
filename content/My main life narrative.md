@@ -2,7 +2,7 @@
 title: "My main life narrative"
 date: "2022-04-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-18
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Canon M50 MK II"
 date: "2022-07-10"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

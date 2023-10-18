@@ -2,7 +2,7 @@
 title: "So Good They Can't Ignore You — Newport"
 date: "2022-09-14"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

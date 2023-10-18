@@ -2,7 +2,7 @@
 title: "Publishing strategies for digital gardeners"
 date: "2022-10-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-02
 sr-interval: 1

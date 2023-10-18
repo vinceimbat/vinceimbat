@@ -2,7 +2,7 @@
 title: "Creations can cross the exchange economy to the gift economy and vice versa"
 date: "2023-01-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-03
 sr-interval: 4

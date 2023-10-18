@@ -2,7 +2,7 @@
 title: "Helping the less fortunate should be voluntary"
 date: "2022-04-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-26
 sr-interval: 3

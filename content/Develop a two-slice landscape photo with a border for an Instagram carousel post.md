@@ -2,7 +2,7 @@
 title: "Develop a two-slice landscape photo with a border for an Instagram carousel post"
 date: "2022-07-09"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

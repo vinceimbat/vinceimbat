@@ -2,7 +2,7 @@
 title: "Cautiousness vs. neuroticism"
 date: "2021-04-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-29
 sr-interval: 3

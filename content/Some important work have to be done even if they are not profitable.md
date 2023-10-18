@@ -2,7 +2,7 @@
 title: "Some important work have to be done even if they are not profitable"
 date: "2022-09-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-17
 sr-interval: 1

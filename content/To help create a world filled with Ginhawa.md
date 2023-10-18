@@ -2,7 +2,7 @@
 title: "To help create a world filled with Ginhawa"
 date: "2021-02-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

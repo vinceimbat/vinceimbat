@@ -2,7 +2,7 @@
 title: "Vignettes on Raymundo gate"
 date: "2023-04-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-21
 sr-interval: 3

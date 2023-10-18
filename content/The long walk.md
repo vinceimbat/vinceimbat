@@ -2,7 +2,7 @@
 title: "The long walk"
 date: "2022-08-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-11-29
 sr-interval: 365

@@ -2,7 +2,7 @@
 title: "Why philosophy and not spirituality?"
 date: "2022-02-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

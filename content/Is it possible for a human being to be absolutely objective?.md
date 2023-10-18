@@ -2,7 +2,7 @@
 title: "Is it possible for a human being to be absolutely objective?"
 date: "2022-07-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-23
 sr-interval: 1

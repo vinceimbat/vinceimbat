@@ -2,7 +2,7 @@
 title: "My daily walking routine"
 date: "2022-07-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-25
 sr-interval: 1

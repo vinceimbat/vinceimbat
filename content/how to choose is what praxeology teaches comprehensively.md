@@ -2,7 +2,7 @@
 title: "How to choose is what praxeology teaches comprehensively."
 date: "2019-07-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-08
 sr-interval: 4

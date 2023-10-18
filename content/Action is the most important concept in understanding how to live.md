@@ -2,7 +2,7 @@
 title: "Action is the most important concept in understanding how to live"
 date: "2019-11-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-17
 sr-interval: 3

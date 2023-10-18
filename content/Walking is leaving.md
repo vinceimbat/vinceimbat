@@ -2,7 +2,7 @@
 title: "Walking is leaving"
 date: "2021-12-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-05
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "How to cope after getting fired"
 date: "2023-01-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-03
 sr-interval: 4

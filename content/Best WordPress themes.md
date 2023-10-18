@@ -2,7 +2,7 @@
 title: "Best WordPress themes"
 date: "2023-04-10"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-13
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "The komun is a gift practice"
 date: "2022-09-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-24
 sr-interval: 4

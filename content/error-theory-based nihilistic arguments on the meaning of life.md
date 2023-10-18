@@ -2,7 +2,7 @@
 title: "Error-theory-based nihilistic arguments on the meaning of life"
 date: "2022-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-11-25
 sr-interval: 326

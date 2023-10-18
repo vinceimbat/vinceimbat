@@ -5,7 +5,7 @@ aliases:
 - "My-criteria-for-choosing-mentors-and-peers"
 - "thoughts/my-ideal-mentors-and-peers"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-14
 sr-interval: 7

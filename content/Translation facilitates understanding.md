@@ -2,7 +2,7 @@
 title: "Translation facilitates understanding"
 date: "2022-10-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-12
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Vision statement"
 date: "2022-02-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-24
 sr-interval: 3

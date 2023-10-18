@@ -2,7 +2,7 @@
 title: "Existential events or crises compel us to think about purpose"
 date: "2022-04-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-02
 sr-interval: 2

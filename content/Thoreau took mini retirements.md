@@ -2,7 +2,7 @@
 title: "Thoreau took mini retirements"
 date: "2023-01-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-19
 sr-interval: 4

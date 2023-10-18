@@ -2,7 +2,7 @@
 title: "Create links betwen permanent notes manually"
 date: "2021-09-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-11
 sr-interval: 4

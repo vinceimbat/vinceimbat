@@ -2,7 +2,7 @@
 title: "Practice is necessary in acquiring skill and knowledge"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-26
 sr-interval: 1

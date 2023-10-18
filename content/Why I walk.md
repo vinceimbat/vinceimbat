@@ -4,7 +4,7 @@ date: "2022-06-16"
 slug: "why-i-walk"
 aliases: "Why-do-I-walk"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-16
 sr-interval: 53

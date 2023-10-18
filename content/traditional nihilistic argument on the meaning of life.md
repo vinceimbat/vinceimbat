@@ -2,7 +2,7 @@
 title: "Traditional nihilistic argument on the meaning of life"
 date: "2022-03-01"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-10-23
 sr-interval: 293

@@ -2,7 +2,7 @@
 title: "Simplicity allows complexity to emerge"
 date: "2021-04-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-15
 sr-interval: 3

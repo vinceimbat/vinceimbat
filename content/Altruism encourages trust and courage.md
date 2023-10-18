@@ -2,7 +2,7 @@
 title: "Altruism encourages trust and courage"
 date: "2023-01-26"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-29
 sr-interval: 3

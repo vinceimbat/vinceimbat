@@ -5,7 +5,7 @@ aliases:
 - "Friedrich-Nietzsche"
 - "thoughts/friedrich-nietzsche"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-07-23
 sr-interval: 362

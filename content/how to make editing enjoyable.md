@@ -2,7 +2,7 @@
 title: "How to make editing enjoyable"
 date: "2022-12-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-12
 sr-interval: 4

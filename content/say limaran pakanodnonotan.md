@@ -2,7 +2,7 @@
 title: "Say Limaran Pakanodnonotan"
 date: "2022-12-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-15
 sr-interval: 4

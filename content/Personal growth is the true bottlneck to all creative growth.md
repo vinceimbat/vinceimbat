@@ -2,7 +2,7 @@
 title: "Personal growth is the true bottlneck to all creative growth"
 date: "2022-08-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

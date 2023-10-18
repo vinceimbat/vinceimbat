@@ -2,7 +2,7 @@
 title: "LMS self-assessment test"
 date: "2022-12-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-28
 sr-interval: 1

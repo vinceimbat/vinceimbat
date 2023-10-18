@@ -2,7 +2,7 @@
 title: "ANWW20 Hunny Laurente"
 date: "2023-06-14"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

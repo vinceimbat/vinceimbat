@@ -2,7 +2,7 @@
 title: "ANWW20 Presentation"
 date: "2023-05-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-18
 sr-interval: 3

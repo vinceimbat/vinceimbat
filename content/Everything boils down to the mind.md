@@ -2,7 +2,7 @@
 title: "Everything boils down to the mind"
 date: "2022-06-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-24
 sr-interval: 4

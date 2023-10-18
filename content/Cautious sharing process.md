@@ -2,7 +2,7 @@
 title: "Cautious sharing process"
 date: "2021-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

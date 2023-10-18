@@ -2,7 +2,7 @@
 title: "No personal intention in a spontaneous order means no justice or injustice"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-19
 sr-interval: 3

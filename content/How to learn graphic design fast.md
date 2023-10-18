@@ -2,7 +2,7 @@
 title: "How to learn graphhic design fast"
 date: "2023-05-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-11
 sr-interval: 3

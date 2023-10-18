@@ -2,7 +2,7 @@
 title: "A system to capture and filter information"
 date: "2021-02-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-13
 sr-interval: 3

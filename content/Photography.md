@@ -2,7 +2,7 @@
 title: "Photography"
 date: "2021-08-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-28
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Appreciation of beauty and excellence"
 date: "2022-05-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-22
 sr-interval: 2

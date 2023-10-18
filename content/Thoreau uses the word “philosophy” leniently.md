@@ -2,7 +2,7 @@
 title: "Thoreau uses the word “philosophy” leniently"
 date: "2021-07-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

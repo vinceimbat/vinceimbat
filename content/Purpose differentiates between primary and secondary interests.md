@@ -2,7 +2,7 @@
 title: "Purpose differentiates between primary and secondary interests"
 date: "2021-02-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

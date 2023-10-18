@@ -2,7 +2,7 @@
 title: "Guidelines on what to add to your reading inbox"
 date: "2021-11-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-02
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Monothetic definitions of religion"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-04-03
 sr-interval: 326

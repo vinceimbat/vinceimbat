@@ -2,7 +2,7 @@
 title: "We need brave spaces rather than safe spaces in all our relationships"
 date: "2021-08-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-20
 sr-interval: 3

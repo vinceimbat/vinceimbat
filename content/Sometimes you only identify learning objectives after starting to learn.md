@@ -2,7 +2,7 @@
 title: "Sometimes you only identify learning objectives after starting to learn"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-02-20
 sr-interval: 309

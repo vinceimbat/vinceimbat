@@ -2,7 +2,7 @@
 title: "The law of non-contradiction (P is not non-P)"
 date: "2021-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-13
 sr-interval: 3

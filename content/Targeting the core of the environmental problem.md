@@ -2,7 +2,7 @@
 title: "Targeting the core of the environmental problem"
 date: "2023-04-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-03
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Functional definitions of religion"
 date: "2022-08-30"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-31
 sr-interval: 1

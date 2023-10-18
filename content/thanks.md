@@ -2,7 +2,7 @@
 title: "Thanks"
 date: "2017-03-24"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

@@ -3,7 +3,7 @@ title: "List of peers and mentors"
 date: "2022-10-05"
 aliases: "thoughts/list-of-peers-and-mentors"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-21
 sr-interval: 3

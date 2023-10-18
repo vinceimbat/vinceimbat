@@ -2,7 +2,7 @@
 title: "Purpose is articulated before an action or a project is performed"
 date: "2022-04-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-04-26
 sr-interval: 1

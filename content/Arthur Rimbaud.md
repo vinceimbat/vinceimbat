@@ -2,7 +2,7 @@
 title: "Arthur Rimbaud"
 date: "2021-12-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-11
 sr-interval: 3

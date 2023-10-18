@@ -2,7 +2,7 @@
 title: "Religion vs spirituality"
 date: "2022-09-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-07
 sr-interval: 3

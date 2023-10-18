@@ -2,7 +2,7 @@
 title: "Rural Philippines and the mystery of inner life"
 date: "2022-05-19"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-23
 sr-interval: 4

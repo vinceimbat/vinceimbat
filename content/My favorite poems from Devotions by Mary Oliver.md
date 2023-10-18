@@ -2,7 +2,7 @@
 title: "My favorite poems from Devotions by Mary Oliver"
 date: "2022-10-08"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

@@ -2,7 +2,7 @@
 title: "Understanding and living are the core of my life work"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-29
 sr-interval: 4

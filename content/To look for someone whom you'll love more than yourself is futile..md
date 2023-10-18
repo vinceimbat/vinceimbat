@@ -2,7 +2,7 @@
 title: "To look for someone whom you'll love more than yourself is futile."
 date: "2019-05-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-15
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Religion and spirituality sometimes teach that feeling bad is something good"
 date: "2022-08-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

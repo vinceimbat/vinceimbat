@@ -2,7 +2,7 @@
 title: "Is there really a need for a field called Spirituality?"
 date: "2021-02-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

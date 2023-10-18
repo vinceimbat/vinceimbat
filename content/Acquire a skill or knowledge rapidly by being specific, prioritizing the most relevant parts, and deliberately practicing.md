@@ -2,7 +2,7 @@
 title: "Acquire a skill or knowledge rapidly by being specific, prioritizing the most relevant parts, and deliberately practicing"
 date: "2022-07-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-29
 sr-interval: 4

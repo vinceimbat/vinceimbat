@@ -17,7 +17,7 @@ In the last nine-ish years, I have published an [annual review](/annual-review/)
 
 I picked these questions from James Clear.
 
-[[My 2020 Annual Review|Last year]], I added a fourth:
+[[essays/2020 annual review|Last year]], I added a fourth:
 
 4. What did I learn this year?
 

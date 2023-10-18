@@ -2,7 +2,7 @@
 title: "Give yourself the freedom to change your mind"
 date: "2022-09-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-11
 sr-interval: 4

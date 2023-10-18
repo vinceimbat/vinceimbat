@@ -2,7 +2,7 @@
 title: "Walking breaks the dominance of commerce and culture to give life to wilderness"
 date: "2023-02-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-12
 sr-interval: 1

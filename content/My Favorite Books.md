@@ -2,7 +2,7 @@
 title: "My Favorite Books"
 date: "2020-09-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-04-26
 sr-interval: 3

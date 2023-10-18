@@ -2,7 +2,7 @@
 title: "Literature notes"
 date: "2021-04-17"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

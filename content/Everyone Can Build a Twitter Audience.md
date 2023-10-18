@@ -2,7 +2,7 @@
 title: "Everyone Can Build a Twitter Audience"
 date: "2020-09-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-01
 sr-interval: 3
@@ -82,5 +82,5 @@ There are exactly two types of tweets:
 - Giving something.
 - Asking for something.
 
-\#evernote
+\
 

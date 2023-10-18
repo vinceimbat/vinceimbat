@@ -2,7 +2,7 @@
 title: "Writing is simply self-expression and communication"
 date: "2022-01-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-16
 sr-interval: 4

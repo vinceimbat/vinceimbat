@@ -2,7 +2,7 @@
 title: "We feel belongingness to people we share metaphysical and epistemological beliefs with"
 date: "2022-11-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-16
 sr-interval: 4

@@ -2,7 +2,7 @@
 title: "Anthropomorphic and non-anthropomorphic religious practices have different consequences"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 4

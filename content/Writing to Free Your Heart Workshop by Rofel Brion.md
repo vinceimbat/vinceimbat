@@ -2,7 +2,7 @@
 title: "Writing to Free Your Heart Workshop by Rofel Brion"
 date: "2023-04-24"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

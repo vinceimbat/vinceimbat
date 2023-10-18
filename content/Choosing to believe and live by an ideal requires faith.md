@@ -2,7 +2,7 @@
 title: "Choosing to believe and live by an ideal requires faith"
 date: "2022-09-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-27
 sr-interval: 4

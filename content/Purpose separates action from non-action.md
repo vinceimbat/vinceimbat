@@ -2,7 +2,7 @@
 title: "Purpose separates action from non-action"
 date: "2022-04-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-01
 sr-interval: 3

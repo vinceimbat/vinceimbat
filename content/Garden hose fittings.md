@@ -2,7 +2,7 @@
 title: "Garden hose fittings"
 date: "2020-08-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-25
 sr-interval: 3

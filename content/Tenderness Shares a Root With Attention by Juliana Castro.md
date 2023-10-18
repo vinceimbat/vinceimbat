@@ -2,7 +2,7 @@
 title: "Tenderness Shares a Root With Attention by Juliana Castro"
 date: "2021-07-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-07-09
 sr-interval: 3

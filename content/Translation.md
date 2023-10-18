@@ -2,7 +2,7 @@
 title: "Translation"
 date: "2022-10-08"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-26
 sr-interval: 4

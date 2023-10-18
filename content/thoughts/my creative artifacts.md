@@ -5,7 +5,7 @@ aliases:
 - "What-creative-artifacts-do-I-want-to-create"
 - "thoughts/my-creative-artifacts"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-03
 sr-interval: 3

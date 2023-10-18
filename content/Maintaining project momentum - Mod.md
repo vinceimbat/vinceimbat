@@ -2,7 +2,7 @@
 title: "Maintaining project momentum - Mod"
 date: "2023-03-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-05
 sr-interval: 1

@@ -2,7 +2,7 @@
 title: "How to apply anarchy in a marriage?"
 date: "2022-06-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-25
 sr-interval: 1

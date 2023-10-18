@@ -2,7 +2,7 @@
 title: "Charles Eisenstein"
 date: "2016-11-09"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-15
 sr-interval: 3

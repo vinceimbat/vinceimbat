@@ -2,7 +2,7 @@
 title: "Levels of beliefs or conclusions about meditation"
 date: "2022-10-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-08
 sr-interval: 3

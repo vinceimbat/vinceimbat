@@ -2,7 +2,7 @@
 title: "The law of identity (P is P)"
 date: "2021-04-27"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 3

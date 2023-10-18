@@ -2,7 +2,7 @@
 title: "Amoralism does not prevent me from feeling strongly against certain behaviors"
 date: "2022-11-04"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-08
 sr-interval: 4

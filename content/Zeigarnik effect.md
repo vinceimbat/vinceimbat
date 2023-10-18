@@ -2,7 +2,7 @@
 title: "Zeigarnik effect"
 date: "2021-09-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-15
 sr-interval: 4

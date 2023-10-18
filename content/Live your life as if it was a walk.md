@@ -2,7 +2,7 @@
 title: "Live your life as if it was a walk"
 date: "2022-11-13"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-17
 sr-interval: 4

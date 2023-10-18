@@ -2,7 +2,7 @@
 title: "Three-column list for community-building"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-29
 sr-interval: 4

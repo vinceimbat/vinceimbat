@@ -2,7 +2,7 @@
 title: "Nonbelievers are expected to be respectful"
 date: "2022-07-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-07-17
 sr-interval: 3

@@ -5,7 +5,7 @@ aliases:
 - "Søren-Kierkegaard"
 - "thoughts/søren-kierkegaard"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2024-07-31
 sr-interval: 370

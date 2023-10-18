@@ -2,7 +2,7 @@
 title: "Translators should aspire to ask how the person they are translating used the words"
 date: "2021-01-31"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-10-11
 sr-interval: 3

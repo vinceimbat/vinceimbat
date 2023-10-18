@@ -2,7 +2,7 @@
 title: "Walking could break your sense of identity"
 date: "2021-12-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-02-13
 sr-interval: 2

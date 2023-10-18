@@ -2,7 +2,7 @@
 title: "Mission statement"
 date: "2021-04-19"
 tags:
-- "notes"
+
 - "evergreens"
 ---
 

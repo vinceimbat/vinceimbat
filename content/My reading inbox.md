@@ -2,7 +2,7 @@
 title: "My reading inbox"
 date: "2021-08-19"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

@@ -2,7 +2,7 @@
 title: "Ginhawa"
 date: "2021-02-11"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2025-05-06
 sr-interval: 849

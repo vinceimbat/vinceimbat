@@ -2,7 +2,7 @@
 title: "Outline of entry to ANWW20"
 date: "2023-03-24"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-25
 sr-interval: 1

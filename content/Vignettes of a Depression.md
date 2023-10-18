@@ -2,7 +2,7 @@
 title: "Vignettes of a Depression"
 date: "2023-05-23"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-05-24
 sr-interval: 1

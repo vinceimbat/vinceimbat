@@ -2,7 +2,7 @@
 title: "Full freedom in controling our attention is a prerequisite for a good life"
 date: "2022-01-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-18
 sr-interval: 92

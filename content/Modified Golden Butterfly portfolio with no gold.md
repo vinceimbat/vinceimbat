@@ -2,7 +2,7 @@
 title: "Modified Golden Butterfly portfolio with no gold"
 date: "2021-05-14"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-06-18
 sr-interval: 3

@@ -3,7 +3,7 @@ title: "Walking in Cablong"
 date: "2023-07-02"
 aliases: "walking-in-cablong"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-04
 sr-interval: 3

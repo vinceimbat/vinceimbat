@@ -2,7 +2,7 @@
 title: "Unmoved mover"
 date: "2022-08-25"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-09-26
 sr-interval: 309

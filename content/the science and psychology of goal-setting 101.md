@@ -2,7 +2,7 @@
 title: "The Science & Psychology Of Goal-Setting 101"
 date: "2020-08-21"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-28
 sr-interval: 3

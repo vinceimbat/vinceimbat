@@ -2,7 +2,7 @@
 title: "How to Take Smart Notes — Ahrens"
 date: "2022-08-17"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-14
 sr-interval: 3

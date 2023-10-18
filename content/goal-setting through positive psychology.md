@@ -2,7 +2,7 @@
 title: "Goal-setting through positive psychology"
 date: "2021-01-05"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

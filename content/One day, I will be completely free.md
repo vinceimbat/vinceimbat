@@ -2,7 +2,7 @@
 title: "One day, I will be completely free"
 date: "2021-04-05"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "My reading list"
 date: "2022-04-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-11-15
 sr-interval: 119

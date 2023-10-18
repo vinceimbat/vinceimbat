@@ -2,7 +2,7 @@
 title: "Most questions people ask are about how to live"
 date: "2018-12-02"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 

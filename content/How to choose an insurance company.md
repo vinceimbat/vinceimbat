@@ -2,7 +2,7 @@
 title: "How to choose an insurance company"
 date: "2022-09-02"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-06
 sr-interval: 4

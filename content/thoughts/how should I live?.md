@@ -5,7 +5,7 @@ aliases:
 - "How-should-I-live"
 - "thoughts/how-should-i-live"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-29
 sr-interval: 4

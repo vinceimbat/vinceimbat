@@ -2,7 +2,7 @@
 title: "Hugo"
 date: "2023-01-03"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-07
 sr-interval: 4

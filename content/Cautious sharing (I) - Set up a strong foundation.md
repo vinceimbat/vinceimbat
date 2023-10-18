@@ -2,7 +2,7 @@
 title: "Cautious sharing (I) - Set up a strong foundation"
 date: "2021-11-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-08-24
 sr-interval: 3

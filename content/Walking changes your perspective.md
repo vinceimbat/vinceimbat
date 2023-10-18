@@ -2,7 +2,7 @@
 title: "Walking changes your perspective"
 date: "2021-12-16"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-29
 sr-interval: 3

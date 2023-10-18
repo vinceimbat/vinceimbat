@@ -2,7 +2,7 @@
 title: "Only consume information that is relevant to your purpose"
 date: "2021-02-12"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-14
 sr-interval: 4

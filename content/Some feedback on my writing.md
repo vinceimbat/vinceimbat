@@ -2,7 +2,7 @@
 title: "Some feedback on my writing"
 date: "2022-04-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-13
 sr-interval: 13

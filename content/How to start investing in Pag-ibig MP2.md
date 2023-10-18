@@ -2,7 +2,7 @@
 title: "How to start investing in Pag-ibig MP2"
 date: "2022-06-06"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-17
 sr-interval: 3

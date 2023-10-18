@@ -2,7 +2,7 @@
 title: "Pangasinan vocabulary words"
 date: "2022-12-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-12-10
 sr-interval: 3

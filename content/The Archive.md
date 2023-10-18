@@ -2,7 +2,7 @@
 title: "The Archive"
 date: "2022-04-28"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-06-07
 sr-interval: 31

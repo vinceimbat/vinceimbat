@@ -2,7 +2,7 @@
 title: "Are habits fully unconscious?"
 date: "2022-09-20"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-23
 sr-interval: 3

@@ -2,7 +2,7 @@
 title: "Five elements of a religion per Herbert"
 date: "2022-08-29"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-09-02
 sr-interval: 4

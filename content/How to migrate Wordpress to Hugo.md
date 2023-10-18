@@ -2,7 +2,7 @@ x---
 title: "How to migrate Wordpress to Hugo"
 date: "2022-02-18"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-01-06
 sr-interval: 3

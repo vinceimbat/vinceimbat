@@ -2,7 +2,7 @@
 title: "What to do Now is the most critical decision"
 date: "2021-07-15"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-08-02
 sr-interval: 215

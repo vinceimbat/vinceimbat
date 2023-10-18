@@ -2,7 +2,7 @@
 title: "Brave space"
 date: "2021-08-07"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2022-05-17
 sr-interval: 4

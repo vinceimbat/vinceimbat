@@ -2,7 +2,7 @@
 title: "Walking as a Way of Knowing - Amoroso"
 date: "2023-03-22"
 tags:
-- "notes"
+
 - "seedlings"
 sr-due: 2023-03-23
 sr-interval: 1

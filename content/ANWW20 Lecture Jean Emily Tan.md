@@ -2,7 +2,7 @@
 title: "ANWW20 Lecture Jean Emily Tan"
 date: "2023-06-14"
 tags:
-- "notes"
+
 - "seedlings"
 ---
 
