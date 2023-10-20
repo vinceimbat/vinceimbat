@@ -13,7 +13,7 @@ sr-ease: 273
 - [[Ultralearning, after Young]]
 - [[Self-directed learning]]
 - [[Nine universal principles of ultralearning]]
-- [[Metalearning]]
+- [[thoughts/metalearning]]
 - [[Do metalearning by asking why, what, and how]]
 - [[Articulate your motivation for learning to help you focus on what matters]]
 - [[Use expert interviews to identify best ways to learn a subject or skill]]

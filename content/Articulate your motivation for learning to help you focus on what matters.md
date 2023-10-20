@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-In [[Metalearning]], the first question you have to answer is: Why am I learning what I am learning?
+In [[thoughts/metalearning]], the first question you have to answer is: Why am I learning what I am learning?
 
 Answering this question provides you with a [[convergence tool]] that helps you focus on the things that truly matter in your project. Articulating clearly your motivation behind your learning project helps you decide what paths to ignore and what to follow. It is critical that your learning plan perfectly aligns with your learning objectives so that you don't waste time on unimportant subjects and underemphasize important ones.
 

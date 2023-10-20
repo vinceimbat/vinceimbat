@@ -11,7 +11,7 @@ sr-ease: 268
 
 [[Ultralearning, after Young]] has the folllowing nine universal principles:
 
-1. [[Metalearning]]
+1. [[thoughts/metalearning]]
 2. Focus
 3. Directness
 4. Drill

@@ -9,7 +9,7 @@ sr-interval: 11
 sr-ease: 286
 ---
 
-When conducting a [[Metalearning]] project, list [[Concepts]], [[Facts]], and [[Procedures]] in three columns to uncover the comprehensive structure of knowledge required to understand for a specific discipline. After this, [[Analyze concepts, facts, and procedures to identify bottlenecks in your learning project]].
+When conducting a [[thoughts/metalearning]] project, list [[Concepts]], [[Facts]], and [[Procedures]] in three columns to uncover the comprehensive structure of knowledge required to understand for a specific discipline. After this, [[Analyze concepts, facts, and procedures to identify bottlenecks in your learning project]].
 
 # References
 

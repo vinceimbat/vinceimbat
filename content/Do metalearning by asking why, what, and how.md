@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-You perform a [[Metalearning]] project by asking three questions:
+You perform a [[thoughts/metalearning]] project by asking three questions:
 
 1. Why am I learning what I am learning?
 2. What knowledge and abilities do I need to acquire?

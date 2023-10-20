@@ -22,4 +22,4 @@ Here are all the monthly reports I currently have:
 - [[2020 Monthly reports]]
 - [[2021 Monthly reports]]
 - [[2022 Monthly reports]]
-- [[lms/2023 monthly reports]]
+- [[lms/2023 monthly reports|2023 monthly reports]]

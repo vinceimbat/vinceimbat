@@ -9,4 +9,21 @@ sr-due: 2023-09-26
 sr-interval: 3
 sr-ease: 250
 ---
+# Epistolary essays on walking
 
+1. [[essays/2023-08-18 letter to J]]
+2. [[essays/2023-08-19 letter to J]]
+3. [[essays/2023-08-21 letter to J]]
+4. [[essays/2023-08-22 letter to J]]
+
+## Sources
+
+- [[thoughts/2023-08-18 seeds|2023-08-18 seeds]]
+- [[2023-08-19 seeds]]
+- [[2023-08-21 seeds]]
+- [[2023-08-22 seeds]]
+- [[2023-08-23 seeds]]
+- [[2023-08-24 seeds]]
+- [[2023-08-29 seeds]]
+- [[2023-09-02 seeds]]
+- [[2023-09-13 seeds]]

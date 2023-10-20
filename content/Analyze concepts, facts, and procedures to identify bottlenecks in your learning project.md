@@ -9,7 +9,7 @@ sr-interval: 11
 sr-ease: 288
 ---
 
-In [[Metalearning]], after you [[Identify concepts, facts, and procedures to understand the knowledge structure of a subject]], you have to anaylze them using the following process:
+In [[thoughts/metalearning]], after you [[Identify concepts, facts, and procedures to understand the knowledge structure of a subject]], you have to anaylze them using the following process:
 
 1. Underline the concepts, facts, and procedures that you are most unfamiliar with. These will be your major bottlenecks.
 2. Look for the most effective resources to overcome these bottlenecks.

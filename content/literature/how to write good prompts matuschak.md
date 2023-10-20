@@ -148,7 +148,7 @@ What is the emotional effect that mnemonic devices should produce? :: Vivid.
 <!--SR:!2023-10-31,17,293-->
 
 Give at least two ways of making a mnemonic device vivid. :: e.g., using visuals, meaningful personal experiences, humor, and disgust
-<!--SR:!2023-10-20,7,253-->
+<!--SR:!2023-11-12,23,273-->
 
 Where should you put mnemonic devices in a retrieval writing prompt? :: In the answer (inside parentheses).
 <!--SR:!2023-10-29,15,293-->
@@ -214,7 +214,7 @@ The five lenses in understanding concepts are:
 5. Significance and implications
 ;;
 Parts and wholes
-<!--SR:!2023-10-20,7,250-->
+<!--SR:!2023-11-14,25,270-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies
@@ -237,7 +237,7 @@ Significance and implications
 <!--SR:!2023-10-26,13,273-->
 
 When thinking about the attributes and tendencies of a concept, what should you consider? :: What's always, sometimes, and never true about that concept.
-<!--SR:!2023-10-20,7,253-->
+<!--SR:!2023-11-15,26,273-->
 
 When thinking about the similarities and differences of a concept, with which should you compare it with? :: Adjacent concepts
 <!--SR:!2023-10-25,12,273-->
@@ -296,7 +296,7 @@ Give two reasons on why you should approach prompt writing iteratively.
 - Identify most difficult to remember
 - Develop complete understanding
 - Connect ideas to life
-<!--SR:!2023-10-20,7,250-->
+<!--SR:!2023-11-05,16,250-->
 
 When engaging with a short piece of text, when is the best time to write prompts? :: After reading and highlighting
 <!--SR:!2023-10-30,16,290-->
@@ -323,7 +323,7 @@ In retrieval practice, what is a "false negative"? :: Knowing the information a 
 <!--SR:!2023-10-21,8,253-->
 
 How do you avoid false negatives in retrieval practice? :: Include enough context to exclude alternative correct answers.
-<!--SR:!2023-10-20,7,253-->
+<!--SR:!2023-11-06,17,253-->
 
 How do you identify what to revise in prompts? :: Notice internal "sighs."
 <!--SR:!2023-10-31,17,290-->

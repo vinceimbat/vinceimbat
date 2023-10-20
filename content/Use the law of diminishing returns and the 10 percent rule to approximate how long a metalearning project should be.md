@@ -9,7 +9,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-When starting a [[Self-directed learning]] project (see [[Ultralearning, after Young]]), you should always do [[Metalearning]] first. However, it is important to set how much research is good enough so that you don't waste time and effort. Remember the [[Law of diminishing returns]]. At some point, you get less benefits from research relative to the time you put into it.
+When starting a [[Self-directed learning]] project (see [[Ultralearning, after Young]]), you should always do [[thoughts/metalearning]] first. However, it is important to set how much research is good enough so that you don't waste time and effort. Remember the [[Law of diminishing returns]]. At some point, you get less benefits from research relative to the time you put into it.
 
 To strike a balance between no research and excessive research, do the following:
 
