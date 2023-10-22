@@ -11,7 +11,6 @@ sr-due: 2027-05-16
 sr-interval: 1396
 sr-ease: 269
 ---
-
 Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[thoughts/henry david thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[thoughts/annie dillard]] who engaged more with [[Nature]] and, thus, talked more to themselves. (Note: How much should I talk to people I meet on my walks?)
 
 What I think I can steal from his process is how he organizes long-walks and create publishable artifacts from those walks.
@@ -26,6 +25,21 @@ More about Craig Mod:
 - [[Craig Mod on newsletters]]
 - [[Ideas on Photography from Craig Mod]]
 - [[How Craig Mod works]]
+
+***
+# How CM creates a book
+
+Cm
+
+Not only before lunch
+
+Internet goes off automatically by 10 pm
+
+Why? When u are writing a book, your mind works outside of clear book writing sessions. When u do internet stuff outside of book writing sessions u deprive urself of that.
+
+Cm has a 10,000 people email list before launching sp
+
+Connecting the books with the membership was the advertising
 
 ---
 Unprocessed

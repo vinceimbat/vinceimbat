@@ -1,9 +1,14 @@
 ---
 title: 2023-08-19 letter to J
 date: 2023-10-20
+aliases:
+  - 2023-08-19 letter to J
 tags:
   - seedlings
 draft: false
+sr-due: 2023-10-25
+sr-interval: 3
+sr-ease: 250
 ---
 Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Ela–Pili–IPB–NLAI
 Back–Pili–Ela–Tiongson–Velasco–Ruby–Data

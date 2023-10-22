@@ -1,9 +1,14 @@
 ---
 title: 2023-08-21 letter to J
 date: 2023-10-20
+aliases:
+  - 2023-08-21 letter to J
 tags:
   - seedlings
 draft: false
+sr-due: 2023-10-25
+sr-interval: 3
+sr-ease: 250
 ---
 Walked: Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Lantican–Pancho–Juliano–F Park–Cuzner–Lopez–Santos
 

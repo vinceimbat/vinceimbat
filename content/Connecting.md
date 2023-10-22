@@ -37,7 +37,7 @@ I have maintained a peaceful, understanding, and loving relationship with my nei
 
 ***
 
-Connecting involves engaging with a [[Scenius]], which is composed of a [[Mentor]] and peers from a [[Community of practice]] ([[thoughts/my ideal mentors and peers]]).
+Connecting involves engaging with a [[thoughts/scenius]], which is composed of a [[Mentor]] and peers from a [[Community of practice]] ([[thoughts/my ideal mentors and peers]]).
 
 I need to invest time and energy to establish long-lasting relationships in real life or online.
 

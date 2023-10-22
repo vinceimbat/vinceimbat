@@ -1,6 +1,8 @@
 ---
 title: 2023-08-18 letter to J
 date: 2023-10-20
+aliases:
+  - 2023-08-18 letter to J
 tags:
   - seedlings
 draft: false

@@ -1,9 +1,14 @@
 ---
 title: 2023-08-22 letter to J
 date: 2023-10-20
+aliases:
+  - 2023-08-22 letter to J
 tags:
-  - evergreens
+  - seedlings
 draft: false
+sr-due: 2023-10-25
+sr-interval: 3
+sr-ease: 250
 ---
 Data–Ruby–Bulusan–Pearl–Banahaw–Diamond–Santos–Lopez–Ela–Pili–Roxas–Pancho–Juliano–Lantican–Velasco–Ruby–Onyx–Data
 
