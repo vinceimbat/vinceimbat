@@ -13,18 +13,20 @@ Dear J,
 
 I stopped on the intersection of Cuzner and Capinpin just after Carabao Park to write these words on my phone.
 
-It's a start of a new school year at UP. Roads are jampacked once again. Yesterday, I saw parents (lots of parents) of what I can only imagine are thousands of new students coming in. It's thst time of the year when I kinda wish I wasn't living in LB.
+As you know, it's a start of a new school year here at UP. Roads are jam-packed once again. Yesterday, I saw parents—lots of them—of what I can only imagine are thousands of freshmen coming in. It's that time of the year when I wish I wasn't living in LB.
 
-Along Carabao Park, I read on a poster welcoming freshies that gashas UP cliche: Para sa Bayan.
+Along Carabao Park, a poster welcomed the initiates: Para sa Bayan.
 
-As children, esp when we grew up with siblings, we were raised by our parents to always think of others first or at least to always care about what they would say. I could imagine this is even truer for females than males. But the reality of this was so true for me.
+As children, especially when we grew up with younger siblings, we were raised by our parents to always think of others first (i.e., our brothers and sisters) or at least to always care about what they would say (i.e., our relatives). I could imagine this might even be truer for you than it was for me.
 
-When I entered church life during puberty, this other-thinking was reinforced. Jesus died for humanity right? Is there anything that needs to be said about the matter?
+Growing up, our parents took away our Saturdays and Sundays—days I would have spent just playing Pokemon on my Gameboy—to attend services at church or go from house to house and try to convince people to listen to us read the Bible. When I began taking church life seriously, almost around puberty, this self-sacrificing spirit was reinforced. I would later cut a portion of my allowance to give to my Deaf Bible student so he can attend meetings at the Kingdom Hall.
 
-And so when I entered UP, these words were not new. They only took on a different subject: the nation, the bayan, that ever powerful social construct. I never went into student politics until I was in fourth year when I left the church and looked for something new to channel my desire to help others. The first three years of college though was spent thinking about others, the Dead and how I could emulate Jesus' self-sacrificing attitude.
+Jesus died for humanity right? Enough said.
 
-In short, I exited 17 years of schooling out into the real world with a very poor sense of Self. And I had to fight my way out of all these institutions to find that for myself.
+And so when I entered UP, the spirit of those words—"Para sa Bayan"—was nothing new. The cliche only took on a different subject: the nation, the bayan, that ever powerful social construct.
 
-That is to say, I had to fight to be someone who cares enough to write these words to you.
+I would not get involved into student politics until I left the church on the summer of 2012, got back to school after a year of absence, and decided that life was still worth living. I spent my last one and a half year at UP Baguio fighting for better mental health services at school, campaigning for the then RH Bill, and advocating for more students rights. But most of the time, I was just really involved in a lot of superfluous internal drama among my political org mates. Fortunately, I was sane enough to avoid more needless toxicity by staying away from frequent tirades against opposing organizations, something my org mates seemed to enjoy very much.
 
-No wonder
+In short, I exited the first 20 years of my life—17 years of that at school—out into the real world with a very poor sense of self. And I had to fight my way out of all these institutions just to realize that there is something in me I could take ownership of.
+
+That is to say, I had to fight my way out of all these institutions to be someone who would even care enough to write these words to you today.

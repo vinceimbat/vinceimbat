@@ -57,7 +57,7 @@ Retrieval practice prompts should be:
 - effortful
 ;;
 consistent
-<!--SR:!2023-10-22,9,270-->
+<!--SR:!2023-11-26,35,290-->
 
 Retrieval practice prompts should be:
 - focused
@@ -67,7 +67,7 @@ Retrieval practice prompts should be:
 - effortful
 ;;
 tractable
-<!--SR:!2023-10-21,8,253-->
+<!--SR:!2023-11-16,25,253-->
 
 Retrieval practice prompts should be:
 - focused
@@ -83,7 +83,7 @@ How do you ensure a retrieval practice prompt is focused? :: Make it about one t
 <!--SR:!2023-10-23,10,273-->
 
 How do you ensure a retrieval practice prompt is consistent? :: It should produce the same answer every time.
-<!--SR:!2023-10-22,9,273-->
+<!--SR:!2023-11-17,26,273-->
 
 How do you ensure a retrieval practice prompt is tractable? :: Write prompts you can always answer correctly.
 <!--SR:!2023-10-25,6,233-->
@@ -133,7 +133,7 @@ Why should you keep the items in a list prompt in the same order? :: You remembe
 <!--SR:!2023-11-11,23,270-->
 
 How do you reinforce memory of an unordered list without cloze deletion? :: Write an explanation prompt for each component of the list.
-<!--SR:!2023-10-21,4,193-->
+<!--SR:!2023-10-30,8,193-->
 
 What's the most important requirement when writing cues for retrieval practice prompts? :: Don't give the answer away.
 <!--SR:!2023-11-13,25,273-->
@@ -160,10 +160,10 @@ What should you do if you're struggling to produce an answer despite the help of
 <!--SR:!2023-10-27,13,273-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
-<!--SR:!2023-10-22,7,253-->
+<!--SR:!2023-11-09,18,253-->
 
 What is the rule of thumb when determining the amount of prompts to write? :: Write more prompts than feels natural.
-<!--SR:!2023-10-22,9,270-->
+<!--SR:!2023-11-25,34,290-->
 
 If you're already familiar with a subject, how much prompts should you write about it? :: Fewer.
 <!--SR:!2023-10-29,15,290-->
@@ -204,7 +204,7 @@ The five lenses in understanding concepts are:
 5. Significance and implications
 ;;
 Similarities and differences
-<!--SR:!2023-10-21,8,253-->
+<!--SR:!2023-11-13,22,253-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies
@@ -285,7 +285,7 @@ Define the Baader-Meinhof Phenomenon. :: New ideas are more salient.
 <!--SR:!2023-10-26,13,273-->
 
 How do you leverage the Baader-Meinhof Phenomenon when learning new ideas? :: Write prompts to extend their salience.
-<!--SR:!2023-10-22,9,273-->
+<!--SR:!2023-11-24,33,293-->
 
 What can you do to increase the chance of remembering a new idea when it is most useful? :: Write prompts about contexts where the idea can be meaningful.
 <!--SR:!2023-10-26,12,273-->
@@ -319,7 +319,7 @@ How do you discourage pattern matching in retrieval practice? :: Keep questions 
 How should you approach binary prompts in retrieval practice? :: Rephrase them as more open-ended prompts.
 <!--SR:!2023-10-25,10,273-->
 
-In retrieval practice, what is a "false negative"? :: Knowing the information a prompt intends to capture but failing to produce a correct answer.
+In retrieval practice, what is a "false negative"? :: Knowing the information you intend to know but failing to produce a correct answer.
 <!--SR:!2023-10-21,8,253-->
 
 How do you avoid false negatives in retrieval practice? :: Include enough context to exclude alternative correct answers.

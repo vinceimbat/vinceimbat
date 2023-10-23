@@ -9,7 +9,6 @@ sr-due: 2023-09-03
 sr-interval: 3
 sr-ease: 250
 ---
-
 A financial management system has three main parts
 
 1. A system to track expenses and income.
