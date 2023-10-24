@@ -8,8 +8,7 @@ sr-due: 2023-10-23
 sr-interval: 1
 sr-ease: 230
 ---
-Walked: Data–Ruby–Velasco–Ela–Pili Drive
-Back: Pili Drive–Ela–Lopez–Santos
+Data–Ruby–Velasco–Ela–Pili Drive–Ela–Lopez–Santos
 
 6:10 pm
 

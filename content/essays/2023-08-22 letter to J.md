@@ -12,7 +12,7 @@ sr-ease: 250
 ---
 Data–Ruby–Bulusan–Pearl–Banahaw–Diamond–Santos–Lopez–Ela–Pili–Roxas–Pancho–Juliano–Lantican–Velasco–Ruby–Onyx–Data
 
-6:12
+6:12 pm
 
 Dear J,
 

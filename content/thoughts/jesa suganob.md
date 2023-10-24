@@ -18,6 +18,8 @@ sr-ease: 250
 5. [[essays/2023-08-23 letter to j|2023-08-23 letter to J]]
 6. [[essays/2023-08-24 letter to j|2023-08-24 letter to J]]
 7. [[essays/2023-08-29 letter to j|2023-08-29 letter to J]]
+8. [[essays/2023-09-02 letter to j|2023-09-02 letter to J]]
+9. [[essays/2023-09-13 letter to j|2023-09-13 letter to J]]
 
 ## Sources
 
@@ -28,5 +30,5 @@ sr-ease: 250
 - [[2023-08-23 seeds]]
 - [[2023-08-24 seeds]]
 - [[2023-08-29 seeds]]
-- [[2023-09-02 seeds]] *
+- [[2023-09-02 seeds]]
 - [[2023-09-13 seeds]] *

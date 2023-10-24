@@ -10,7 +10,7 @@ sr-due: 2023-10-25
 sr-interval: 3
 sr-ease: 250
 ---
-Walked: Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Lantican–Pancho–Juliano–F Park–Cuzner–Lopez–Santos
+Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Lantican–Pancho–Juliano–F Park–Cuzner–Lopez–Santos
 
 6:11 pm
 

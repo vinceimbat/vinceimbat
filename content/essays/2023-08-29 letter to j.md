@@ -4,8 +4,11 @@ date: 2023-10-22
 tags:
   - seedlings
 draft: false
+sr-due: 2023-10-25
+sr-interval: 1
+sr-ease: 230
 ---
-Walked: Lopez–Cuzner–Mondonedo–Roxas–Viado–Pancho–Juliano–Lantican–Velasco–Ruby–Onyx
+Lopez–Cuzner–Mondonedo–Roxas–Viado–Pancho–Juliano–Lantican–Velasco–Ruby–Onyx
 
 7:32 pm
 

@@ -23,7 +23,7 @@ We can also develop this skill of controlling our attention. We can develop it t
 Related
 
 - [[Focus on what you can control]]
-- [[Full freedom in controling our attention is a prerequisite for a good life]]
+- [[thoughts/a good life requires freedom to control attention]]
 
 TO DO
 - What is this watcher? Define and elaborate. It is an ancient Eastern concept but is there a scientific counterpart to it?

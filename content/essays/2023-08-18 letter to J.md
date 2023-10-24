@@ -11,7 +11,7 @@ Data–Ruby–Bulusan–Pearl–Banahaw–Diamond–Santos–Lopez–Ela–Dawis
 
 06:02 pm
 
-J,
+Dear J,
 
 I hate to say this. But if there's another way to break the monotony of daily existence, I'll do that instead of this. If there's another way to see magenta turn to orange and back, I would do that instead of this. If I could stay where I am and wake up old and say, "I lived well," I would do that instead of this.
 

@@ -20,7 +20,7 @@ When my entry was accepted, I prepared for my first national writers workshop:
 - [[ANWW20 Fellows]]
 - [[ANWW20 Presentation]]
 
-Before the workshop, I met with [[Louise Far]], and I had these ideas on walking when we were talking:
+Before the workshop, I met with [[thoughts/louise far]], and I had these ideas on walking when we were talking:
 - What is archetypal in a walk?
 - What does walk show?
 - What are the effects of elements on walking?

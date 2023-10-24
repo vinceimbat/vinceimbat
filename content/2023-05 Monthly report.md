@@ -27,7 +27,7 @@ Wrote the following notes:
 - [[Articulate your purpose as self-transformation]]
 - [[When your family does not cheer your art]]
 - [[The poet's state of mind]]
-- [[Writing prose as a poet]]
+- [[thoughts/writing prose as a poet]]
 - [[vignettes/the very first memory]]
 
 Studied Barry Lopez's work briefly.

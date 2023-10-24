@@ -29,7 +29,7 @@ Ocean assembles certain scenes then sprinkles images around. I could highlight t
 
 # Related
 
-- [[Writing prose as a poet]]
+- [[thoughts/writing prose as a poet]]
 
 # References
 
