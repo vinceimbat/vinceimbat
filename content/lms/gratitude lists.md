@@ -1,11 +1,11 @@
 ---
-title: "Gratitude lists"
-date: "2021-09-18"
+title: Gratitude lists
+date: 2021-09-18
+aliases:
+  - gratitude lists
 tags:
-- "LMS"
-- "seedlings"
+  - evergreens
 ---
-
 To help you write a gratitude list, use the following categories but add more if needed:
 
 - Experiences

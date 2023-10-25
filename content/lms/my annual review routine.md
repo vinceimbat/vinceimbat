@@ -20,7 +20,7 @@ There are three parts to my [[lms/annual review]] process:
 
 # Part II: Perform the core of the annual review
 
-1. [[gratitude lists]]: Write a gratitude list.
+1. [[lms/gratitude lists]]: Write a gratitude list.
 2. [[past and coming year questions]]: Review your past year and think about the present year.
 3. [[My life areas]]: Review areas of responsibility and set new standards if needed.
 4. [[lms/life goals]]: Add new goals and corresponding projects. Refer to [[thoughts/how to set goals]].

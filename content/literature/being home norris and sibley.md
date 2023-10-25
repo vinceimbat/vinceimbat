@@ -24,12 +24,7 @@ You may want to choose one of these prayers and stay with your experience of the
 
 Often the prayers are wordless. They are simply a kind of awareness, a return to gratitude, or to conscience, or to praise. Over time this way of linking what is at hand with what is in the heart can recall us into communing with the wonder and gift of the Presence in the present.
 
-“ For me the orientation that I want to embrace more and more is toward receiving my life, toward a continual intention to make room for Mystery’s way within me. I don’t think we can go deeply into ourselves—but Life seeking itself can go deeply in us. We can be infused, loved, and fathomed by it. And when we are, we cannot help but sing out our joy. We need that activity in us to be ourselves.…”
-
-Excerpt From
-Being Home
-Gunilla Norris
-This material may be protected by copyright.
+For me the orientation that I want to embrace more and more is toward receiving my life, toward a continual intention to make room for Mystery’s way within me. I don’t think we can go deeply into ourselves—but Life seeking itself can go deeply in us. We can be infused, loved, and fathomed by it. And when we are, we cannot help but sing out our joy. We need that activity in us to be ourselves.…
 
 
 # References

@@ -10,8 +10,7 @@ sr-due: 2023-10-25
 sr-interval: 3
 sr-ease: 250
 ---
-Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Ela–Pili–IPB–NLAI
-Back–Pili–Ela–Tiongson–Velasco–Ruby–Data
+Data–Sierra Madre Ext.–Sierra Madre–Onyx–Ruby–Velasco–Ela–Pili–IPB–NLAI–Pili–Ela–Tiongson–Velasco–Ruby–Data
 
 5:30 pm
 
@@ -23,7 +22,7 @@ Thinking about all of these brought me to a question, ungraspable: Why do some o
 
 Writing this, I realize, is sort of meandering on its own. But I am compelled to ask because for more than half of my life, I survived without any need for poetry. I survived without needing to try—to meander. I mean, it's like when I asked my friend the other day if she reads poems and she said, "If I like it, I like it." It's like walking without asking yourself why. So I ask, "Why now? What happened?"
 
-6:05
+6:05 pm
 
 When do we realize that our choice to meander involves life or death?
 
