@@ -7,11 +7,10 @@ aliases:
 tags:
 
 - "seedlings"
-sr-due: 2023-07-21
-sr-interval: 4
+sr-due: 2024-03-16
+sr-interval: 142
 sr-ease: 270
 ---
-
 Projects
 
 - small
