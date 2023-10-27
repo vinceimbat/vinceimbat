@@ -73,7 +73,7 @@ Propose a revision.
 <!--SR:!2023-11-12,21,272-->
 
 How many sources should a copyeditor check when faced with a difficult problem? :: More than one.
-<!--SR:!2023-10-26,9,272-->
+<!--SR:!2023-11-19,24,272-->
 
 Three ways a copyeditor can use a convention or rule.
 - 
@@ -81,7 +81,7 @@ Three ways a copyeditor can use a convention or rule.
 - Ignore
 ;;
 Apply
-<!--SR:!2023-10-26,7,252-->
+<!--SR:!2023-11-23,28,272-->
 
 Three ways a copyeditor can use a convention or rule.
 - Apply
@@ -163,7 +163,7 @@ The four concerns of a copyeditor?
 - 
 ;;
 correctness
-<!--SR:!2023-10-26,7,238-->
+<!--SR:!2023-11-18,23,258-->
 
 What conflicts among their constituencies do copyeditors juggle? :: Conflicts in desire.
 <!--SR:!2023-10-29,10,258-->
@@ -247,7 +247,7 @@ A copyeditor's six principal tasks:
 6. Markup
 ;;
 Language editing
-<!--SR:!2023-10-26,6,241-->
+<!--SR:!2023-11-18,23,261-->
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
@@ -351,7 +351,7 @@ Grammar includes ?? and ?? :: syntax, morphology
 <!--SR:!2023-11-04,11,241-->
 
 Syntax ::: Construction of phrases, clauses, and sentences
-<!--SR:!2023-10-26,6,241!2023-10-29,9,261-->
+<!--SR:!2023-10-29,3,221!2023-10-29,9,261-->
 
 Morphology :::  Forms of words
 <!--SR:!2023-11-01,12,281!2023-11-01,12,281-->
@@ -377,7 +377,7 @@ When faced with a usage issue, a judicious copyeditor should follow the publishe
 What should you do to improve your grasp of usage? :: Learn the history of usage controversies.
 <!--SR:!2023-11-12,19,261-->
 
-Why should you learn the history of usage controversies? :: Some authors' usage are outdated.
+Knowledge of the history of usage controversies is useful especially when working with an author whose ?? :: usage is outdated.
 <!--SR:!2023-10-26,7,261-->
 
 The goal of editing usage is to ?? not ?? :: help readers accept the text, defend the language
@@ -400,7 +400,7 @@ Give at least one task involved in content editing. Give an example you haven't 
 - Checking for biased language.
 - Checking for potential legal problems.
 - Checking for plagiarism.
-<!--SR:!2023-10-26,2,201-->
+<!--SR:!2023-10-30,4,201-->
 
 To avoid problems regarding permissions, a copyeditor must ensure that ?? :: sources and credits are supplied
 <!--SR:!2023-11-10,17,261-->
@@ -448,7 +448,7 @@ Copyeditors are not:
 - publication designers
 ;;
 developmental editors
-<!--SR:!2023-10-26,7,261-->
+<!--SR:!2023-11-15,20,261-->
 
 Copyeditors are not:
 - proofreaders
@@ -571,7 +571,7 @@ How should you approach passes when straining to meet a tight schedule?
 - 
 ;;
 Slow pass + selective pass
-<!--SR:!2023-10-26,7,241-->
+<!--SR:!2023-11-14,19,241-->
 
 What sections should you focus on during a selective second pass? :: Significant or troubling sections identified during first pass
 <!--SR:!2023-11-15,21,261-->

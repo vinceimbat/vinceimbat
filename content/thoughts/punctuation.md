@@ -241,6 +241,142 @@ Was it Jones who concluded that "the manufacturing schedule is entirely unrealis
 
 What is the British convention in punctuating? :: Punctuation in quotation mark if part of original quote.
 
+In traditional British style, single quotation marks are normally used to ?? :: enclose direct quotations.
+
+In traditional British style, double quotation marks are normally used to ?? :: enclose nested quotations
+
+Punctuations to join two independent clauses into a compound sentence.
+- 
+- semicolon
+- colon
+- dash
+;;
+comma
+
+Punctuations to join two independent clauses into a compound sentence.
+- comma
+- 
+- colon
+- dash
+;;
+semicolon
+
+Punctuations to join two independent clauses into a compound sentence.
+- comma
+- semicolon
+- 
+- dash
+;;
+colon
+
+Punctuations used to join two independent clauses into a compound sentence.
+- comma
+- semicolon
+- colon
+- 
+;;
+dash
+
+Compound sentence ::: A sentence made up of two independent clauses.
+
+Four materials that bond independent clauses.
+- 
+- adverb
+- transitional expression
+- punctuation
+;;
+coordinate conjunction
+
+Four materials that bond independent clauses.
+- coordinate conjunction
+- 
+- transitional expression
+- punctuation
+;;
+adverb
+
+Four materials that bond independent clauses.
+- coordinate conjunction
+- adverb
+- 
+- punctuation
+;;
+transitional expression
+
+Four materials that bond independent clauses.
+- coordinate conjunction
+- adverb
+- transitional expression
+- 
+;;
+punctuation
+
+Punctuate: IND coordinate conjunction IND :: IND, coordinate conjunction IND.
+
+Punctuate: IND adverb IND :: IND; adverb [,] IND.
+
+Punctuate:  IND transitional expression IND. :: IND; transitional expression, IND.
+
+Punctuate: IND IND :: IND;IND. or IND: IND. or IND-IND.
+
+Coordinate conjunction ::: A word that connects clauses that are equal to each other.
+
+Seven traditional coordinating conjunctions (cue: FANBOYS) :: for, and, nor, but, or, yet, so
+
+When is the comma before a coordinating conjunction connecting two IND omitted? :: When the clauses are short and readers won't misinterpret which elements are joined.
+
+Give two examples of conjunctive adverbs. Use examples you haven't mentioned before. :: however, indeed, moreover, nevertheless, then, therefore, thus
+
+Give at least one instance when the comma after an adverb connecting two IND is omitted? :: After then, therefore, or thus; when transition is not abrupt; when no emphasis is desired
+
+Give one example of a transitional expression. Use an example you haven't mentioned before. :: for exam­ple, in addition, in other words, namely, that is
+
+A semicolon precedes a transitional expression only when ?? :: what follows is an independent clause.
+
+What punctuation marks can precede a transitional expression connecting an IND and a DEP? :: comma, dash, or DEP inside parentheses
+
+When do you use a semicolon to directly join two IND? :: The IND are closely related or antithetical statements (functions like "and").
+
+When do you use a colon to directly join two IND? :: When the second IND amplifies or illustrates the first (functions like "because").
+
+When do you use a dash to directly join two IND? :: When signaling an abrupt change of thought or tone.
+
+In Chicago style, the first word of an independent clause following a colon is in what case? :: lowercase
+
+Chicago style calls for capitalization of the first word of an independent clause following a colon when what follows the colon is
+- 
+- a question
+- a direct quotation
+- a series of two or more complete sentences
+;;
+a proper name
+
+Chicago style calls for capitalization of the first word of an independent clause following a colon when what follows the colon is
+- a proper name
+- 
+- a direct quotation
+- a series of two or more complete sentences
+;;
+a question
+
+Chicago style calls for capitalization of the first word of an independent clause following a colon when what follows the colon is
+- a proper name
+- a question
+- 
+- a series of two or more complete sentences
+;;
+a direct quotation
+
+Chicago style calls for capitalization of the first word of an independent clause following a colon when what follows the colon is
+- a proper name
+- a question
+- a direct quotation
+- 
+;;
+a series of two or more complete sentences
+
+CONTINUE: PITFALL RUN-ON SENTENCES
+
 # References
 
 Einsohn, A., & Schwartz, M. (2019). *The Copyeditor’s Handbook: A Guide for Book Publishing and Corporate Communications* (4th ed.). University of California Press.

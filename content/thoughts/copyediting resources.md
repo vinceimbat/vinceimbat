@@ -30,7 +30,7 @@ Three best editorial style manuals for beginners. :: CMOS, WIT, and Gregg
 <!--SR:!2023-11-04,11,263-->
 
 To avoid constantly consulting a manual while copyediting, what should you do? :: Memorize basic mechanical rules.
-<!--SR:!2023-10-26,2,244-->
+<!--SR:!2023-11-01,6,244-->
 
 Guidelines in style manuals are ?? not ??. :: recommendations, commandments
 <!--SR:!2023-10-27,5,243-->
@@ -78,7 +78,7 @@ When neither reference books nor language instincts suffice, what reference mate
 <!--SR:!2023-11-09,16,283-->
 
 Language corpora ::: Large computer databases of published texts in English
-<!--SR:!2023-10-26,4,243!2023-11-07,14,283-->
+<!--SR:!2023-11-11,16,263!2023-11-07,14,283-->
 
 Three most widely consulted corpora for English:
 - 

@@ -114,7 +114,7 @@ reconciling changes into a final version
 <!--SR:!2023-10-27,5,242-->
 
 Redlined files ::: original text + tracked changes
-<!--SR:!2023-10-26,4,242!2023-10-30,8,262-->
+<!--SR:!2023-11-09,14,262!2023-10-30,8,262-->
 
 To make in-line edits more legible ?? :: Change whole words
 <!--SR:!2023-10-28,6,242-->
@@ -198,7 +198,7 @@ What mechanical changes need querying?
 - esoteric or complex grammatical issues
 ;;
 revisions that may affect meaning
-<!--SR:!2023-10-26,4,242-->
+<!--SR:!2023-11-11,16,262-->
 
 What mechanical changes need querying?
 - controversial changes
@@ -293,13 +293,13 @@ Provide two helpful thoughts to remind you when feeling annoyed to the author. S
 - Author's work under personal and professional constraints.
 - If they are all careful, you'll be out of work.
 - Treat the manuscript as an ugly newborn.
-<!--SR:!2023-10-26,4,242-->
+<!--SR:!2023-11-05,10,242-->
 
 Chicago recommends using ?? when inserting queries in the document. :: comments
 <!--SR:!2023-11-09,16,282-->
 
 Style sheet ::: Record of mechanical editorial choices
-<!--SR:!2023-10-26,4,243!2023-11-10,17,283-->
+<!--SR:!2023-11-10,15,263!2023-11-10,17,283-->
 
 In a style sheet's list of terms, record only items that ?? :: required a decision
 <!--SR:!2023-10-31,9,262-->
@@ -312,6 +312,7 @@ Give two examples of items that must be included in a style sheet. Say examples 
 - Dates and numbers
 - Miscellaneous notes
 - Footnotes
+- In-text citations
 - Bibliography
 - Punctuation
 - Abbreviations

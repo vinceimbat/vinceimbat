@@ -104,7 +104,7 @@ The two skills required in writing effective retrieval practice prompts are:
 1. Defining the precise knowledge to reinforce.
 2. 
 ;;
-Asking questions that reinforce the specified knowledge.
+Writing prompts that reinforce the knowledge.
 <!--SR:!2023-10-26,13,270-->
 
 The two skills required in writing effective retrieval practice prompts are:
@@ -234,7 +234,7 @@ The five lenses in understanding concepts are:
 5. 
 ;;
 Significance and implications
-<!--SR:!2023-10-26,13,273-->
+<!--SR:!2023-12-15,50,293-->
 
 When thinking about the attributes and tendencies of a concept, what should you consider? :: What's always, sometimes, and never true about that concept.
 <!--SR:!2023-11-15,26,273-->
@@ -279,16 +279,16 @@ Link tag to instances
 <!--SR:!2023-12-04,41,290-->
 
 How do creative prompts differ from usual retrieval practice prompts? :: They help you generate new answers, not recall.
-<!--SR:!2023-10-26,11,273-->
+<!--SR:!2023-11-25,30,273-->
 
 Define the Baader-Meinhof Phenomenon. :: New ideas are more salient.
-<!--SR:!2023-10-26,13,273-->
+<!--SR:!2023-11-30,35,273-->
 
 How do you leverage the Baader-Meinhof Phenomenon when learning new ideas? :: Write prompts to extend their salience.
 <!--SR:!2023-11-24,33,293-->
 
 What can you do to increase the chance of remembering a new idea when it is most useful? :: Write prompts about contexts where the idea can be meaningful.
-<!--SR:!2023-10-26,12,273-->
+<!--SR:!2023-12-01,36,273-->
 
 Give two reasons on why you should approach prompt writing iteratively.
 ;;
