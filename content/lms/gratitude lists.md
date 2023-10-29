@@ -17,7 +17,7 @@ To help you write a gratitude list, use the following categories but add more if
 - Things
 
 Here are my archive of gratitude lists
-- [[private/2020 mid-year gratitude list]]
+- [[lms/2020 mid-year gratitude list]]
 - [[private/2020 gratitude list]]
 - [[private/2021 gratitude list]]
 - [[private/2022 gratitude list]]
