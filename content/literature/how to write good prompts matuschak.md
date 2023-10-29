@@ -37,7 +37,7 @@ Retrieval practice prompts should be:
 - effortful
 ;;
 focused
-<!--SR:!2023-10-27,13,273-->
+<!--SR:!2023-12-20,53,293-->
 
 Retrieval practice prompts should be:
 - focused
@@ -98,24 +98,24 @@ What's the best way to ensure that your prompts are focused, precise, consistent
 <!--SR:!2023-11-21,28,273-->
 
 What should you do to knowledge to write tightly-scoped questions? :: Break it down into discrete components.
-<!--SR:!2023-10-28,14,290-->
+<!--SR:!2023-11-06,9,270-->
 
 The two skills required in writing effective retrieval practice prompts are:
 1. Defining the precise knowledge to reinforce.
 2. 
 ;;
 Writing prompts that reinforce the knowledge.
-<!--SR:!2023-10-26,13,270-->
+<!--SR:!2023-12-24,57,290-->
 
 The two skills required in writing effective retrieval practice prompts are:
 1. 
 2. Asking questions that reinforce the specified knowledge.
 ;;
 Defining the precise knowledge to reinforce.
-<!--SR:!2023-10-28,14,273-->
+<!--SR:!2023-12-08,41,273-->
 
 How did Andy Matuschak integrate writing retrieval practice prompts into his life? :: He spends a few minutes writing prompts for things that interests him.
-<!--SR:!2023-10-27,13,293-->
+<!--SR:!2023-12-06,39,293-->
 
 To avoid being drained and wasting attention, what should you avoid when writing retrieval practice prompts? :: Being obsessively exhaustive.
 <!--SR:!2023-10-29,15,293-->
@@ -157,7 +157,7 @@ Why should you put mnemonic devices inside parentheses when using them in prompt
 <!--SR:!2023-11-07,19,253-->
 
 What should you do if you're struggling to produce an answer despite the help of a mnemonic device? :: Write a prompt to reinforce the association between the answer and the mnemonic device.
-<!--SR:!2023-10-27,13,273-->
+<!--SR:!2023-11-04,7,253-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
 <!--SR:!2023-11-09,18,253-->
@@ -169,13 +169,13 @@ If you're already familiar with a subject, how much prompts should you write abo
 <!--SR:!2023-10-29,15,290-->
 
 What are the two ways to frame retrieval writing prompts for procedures? :: Lists and keywords
-<!--SR:!2023-10-27,13,270-->
+<!--SR:!2023-12-03,36,270-->
 
 What should you do to avoid wordy cloze deletion prompts for procedures? :: Remove unnecessary words to highlight keywords.
 <!--SR:!2023-11-10,22,273-->
 
 If procedures branch and become sufficiently complex, what should you include in your prompts? :: A flowchart.
-<!--SR:!2023-10-28,14,293-->
+<!--SR:!2023-12-12,45,293-->
 
 When should you choose a list-based approach over a keyword-based approach in writing prompts for a procedure? :: When you only need to remember an outline.
 <!--SR:!2023-11-23,30,270-->
@@ -260,7 +260,7 @@ Three useful prompt types for open lists:
 3. Link tag to instances
 ;;
 Link instance to tag
-<!--SR:!2023-10-28,14,290-->
+<!--SR:!2023-12-23,56,310-->
 
 Three useful prompt types for open lists:
 1. Link instance to tag
@@ -302,16 +302,16 @@ When engaging with a short piece of text, when is the best time to write prompts
 <!--SR:!2023-10-30,16,290-->
 
 When engaging with a book, when is the best time to write prompts? :: After reading and highlighting a chapter or a major section
-<!--SR:!2023-10-26,13,270-->
+<!--SR:!2023-12-07,40,270-->
 
 What's the best guide in deciding which piece of knowledge to write a prompt about? :: Curiosity
-<!--SR:!2023-10-28,14,290-->
+<!--SR:!2023-12-21,54,310-->
 
 In retrieval practice, what is a "false positive"? :: Producing an answer without knowing the information you intend to know.
-<!--SR:!2023-10-27,13,270-->
+<!--SR:!2023-12-02,35,270-->
 
 This happens when you memorize the shape of a question and its answer but not understand the knowledge involved. :: Pattern matching
-<!--SR:!2023-10-27,13,293-->
+<!--SR:!2023-12-07,40,293-->
 
 How do you discourage pattern matching in retrieval practice? :: Keep questions short and simple.
 <!--SR:!2023-11-01,13,253-->
@@ -332,7 +332,7 @@ Per Andy Matuschak, how does one revise a prompt in relation to others? :: Do it
 <!--SR:!2023-12-05,42,293-->
 
 Per Andy Matuschak, what is the most important thing to optimize in spaced repetition practice? :: One's emotional connection to these sessions and their contents.
-<!--SR:!2023-10-28,14,290-->
+<!--SR:!2023-12-22,55,310-->
 
 Per Andy Matuschak, what are the two things you can do when you don't care about a prompt anymore?
 1. 

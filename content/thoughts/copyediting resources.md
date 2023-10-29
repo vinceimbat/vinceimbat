@@ -24,7 +24,7 @@ Which free online dictionary is an excellent backup for M-W C? :: American Herit
 <!--SR:!2023-11-03,10,263-->
 
 Gregg Reference Manual ::: An established general reference for business documents.
-<!--SR:!2023-10-27,5,243!2023-10-28,6,243-->
+<!--SR:!2023-11-21,24,263!2023-11-19,22,263-->
 
 Three best editorial style manuals for beginners. :: CMOS, WIT, and Gregg
 <!--SR:!2023-11-04,11,263-->
@@ -33,7 +33,7 @@ To avoid constantly consulting a manual while copyediting, what should you do? :
 <!--SR:!2023-11-01,6,244-->
 
 Guidelines in style manuals are ?? not ??. :: recommendations, commandments
-<!--SR:!2023-10-27,5,243-->
+<!--SR:!2023-11-12,15,243-->
 
 Style manual used by medical journals and publishers. :: AMA
 <!--SR:!2023-11-08,15,283-->
@@ -51,10 +51,10 @@ Style manual used by literary scholars and writers in the humanities. :: MLA
 <!--SR:!2023-10-29,7,263-->
 
 Style manual used by social scientists. :: APA
-<!--SR:!2023-10-27,3,264-->
+<!--SR:!2023-11-13,16,284-->
 
 Style manual used mainly in the natural sciences. :: CSE
-<!--SR:!2023-10-27,5,243-->
+<!--SR:!2023-11-17,20,263-->
 
 What reference book should you consult if you know the thing you are looking for but not what it is called? :: Visual dictionary
 <!--SR:!2023-11-05,11,282-->
@@ -63,7 +63,7 @@ Best usage guide :: Merriam-Webster's Dictionary of English Usage
 <!--SR:!2023-11-04,10,282-->
 
 More current usage guide :: Garner's Modern English Usage
-<!--SR:!2023-10-28,6,243-->
+<!--SR:!2023-11-14,17,243-->
 
 Compare DEU and Garner's take on the sentence-modifying "hopefully." :: DEU: nothing wrong. Garner's: avoid it.
 <!--SR:!2023-11-06,12,282-->
@@ -86,7 +86,7 @@ Three most widely consulted corpora for English:
 - Google Books corpora (Ngram Viewer)
 ;;
 Corpus of Contemporary American English (COCA)
-<!--SR:!2023-10-28,6,243-->
+<!--SR:!2023-11-19,22,263-->
 
 Three most widely consulted corpora for English:
 - Corpus of Contemporary American English (COCA)

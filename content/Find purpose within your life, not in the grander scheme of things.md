@@ -15,7 +15,7 @@ However, for some of us who need to look for a purpose for our lives, because of
 
 Our collective lives doesn’t seem to matter even if we matter to each other. But we still matter to other people and they matter to us. We can still work with this.
 
-This should motivate us to [[Approach life with humor]].
+This should motivate us to [[thoughts/approach life with humor]].
 
 # References
 

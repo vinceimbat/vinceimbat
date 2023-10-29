@@ -10,7 +10,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 Cleanup ::: incorporating query responses
-<!--SR:!2023-10-28,6,242!2023-11-06,13,282-->
+<!--SR:!2023-11-14,17,242!2023-11-06,13,282-->
 
 Saving your files intermittently is a good practice. When should you do so?
 - 
@@ -68,7 +68,7 @@ How should you organize working files?
 3. Use sortable file names.
 ;;
 Create a master project folder (Name - Short Title)
-<!--SR:!2023-10-28,6,242-->
+<!--SR:!2023-11-13,16,242-->
 
 How should you organize working files?
 1. Create a master project folder (Name - Short Title)
@@ -76,7 +76,7 @@ How should you organize working files?
 3. Use sortable file names.
 ;;
 Save versions in subfolders.
-<!--SR:!2023-10-27,5,242-->
+<!--SR:!2023-11-18,21,262-->
 
 How should you organize working files?
 1. Create a master project folder (Name - Short Title)
@@ -103,7 +103,7 @@ A collaborative editorial system needs:
 - reconciling changes into a final version
 ;;
 version control
-<!--SR:!2023-10-28,6,242-->
+<!--SR:!2023-11-12,15,242-->
 
 A collaborative editorial system needs:
 - a work process
@@ -111,12 +111,12 @@ A collaborative editorial system needs:
 - 
 ;;
 reconciling changes into a final version
-<!--SR:!2023-10-27,5,242-->
+<!--SR:!2023-11-09,12,242-->
 
 Redlined files ::: original text + tracked changes
 <!--SR:!2023-11-09,14,262!2023-10-30,8,262-->
 
-To make in-line edits more legible ?? :: Change whole words
+To make in-line edits more legible ?? :: Replace entire words
 <!--SR:!2023-10-28,6,242-->
 
 Deleting or adding a ?? break is not visible on-screen or in a redlined printout warranting a query.
@@ -125,7 +125,7 @@ When copy-pasting text in a redlined document, it shows what two changes? :: the
 <!--SR:!2023-10-30,8,262-->
 
 Queries ::: Comments on a small part of a manuscript
-<!--SR:!2023-10-27,5,243!2023-11-07,14,283-->
+<!--SR:!2023-11-20,23,263!2023-11-07,14,283-->
 
 Good querying skills involve:
 - 
@@ -176,10 +176,10 @@ Give two examples of instances where a query is necessary. Use examples you have
 - logical error
 - factual inaccuracy
 - inconsistency in interpretation of evidence
-<!--SR:!2023-10-27,3,222-->
+<!--SR:!2023-11-05,8,222-->
 
 To assure the author that some routine changes were not arbitrary, what should a copyeditor do? :: Write query on first occurrence.
-<!--SR:!2023-10-28,6,243-->
+<!--SR:!2023-11-16,19,263-->
 
 To save time in writing frequently used boilerplate explanation queries, employ a ?? :: text expander
 <!--SR:!2023-11-09,16,283-->
@@ -190,7 +190,7 @@ What mechanical changes need querying?
 - esoteric or complex grammatical issues
 ;;
 controversial changes
-<!--SR:!2023-10-27,3,222-->
+<!--SR:!2023-11-10,13,242-->
 
 What mechanical changes need querying?
 - controversial changes
@@ -238,7 +238,7 @@ Things to consider when deciding whether to pose an unnecessary substantive quer
 - budget and schedule
 ;;
 readers' acceptance
-<!--SR:!2023-10-27,5,243-->
+<!--SR:!2023-11-12,15,243-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - readers' acceptance
@@ -266,7 +266,7 @@ Why should you avoid brief and vague queries like "Logic?" :: Authors feel chast
 <!--SR:!2023-11-03,9,242-->
 
 Why should you avoid long and discursive queries? :: Authors resent time burden
-<!--SR:!2023-10-27,5,242-->
+<!--SR:!2023-11-16,19,262-->
 
 How can you rephrase a substantive query that invites a yes or no answer? :: Explain why the change is important and describe how it can be done.
 <!--SR:!2023-11-06,13,262-->
@@ -317,7 +317,7 @@ Give two examples of items that must be included in a style sheet. Say examples 
 - Punctuation
 - Abbreviations
 - Alphabetical list
-<!--SR:!2023-10-26,4,242-->
+<!--SR:!2023-11-17,20,262-->
 
 Two most common punctuation styles included in a style sheet. :: serial comma and possessive form of proper names ending in s
 <!--SR:!2023-10-29,7,263-->
@@ -393,7 +393,7 @@ When is the right time to consider addressing the author in first name basis? ::
 <!--SR:!2023-11-14,20,282-->
 
 When communicating to the author, why should you use words like "suggested" or "proposed" instead of "rewritten" and "revised"? :: The former words cede control to the author, making them more receptive to edits.
-<!--SR:!2023-10-26,4,242-->
+<!--SR:!2023-11-15,18,262-->
 
 # The editorial process
 

@@ -33,7 +33,7 @@ What are the two widely used scientific style manuals?
 - CSE
 ;;
 APA
-<!--SR:!2023-10-27,10,272-->
+<!--SR:!2023-12-13,46,292-->
 
 What are the two widely used scientific style manuals?
 - APA
@@ -43,10 +43,10 @@ CSE
 <!--SR:!2023-11-11,20,272-->
 
 What is the best approach when faced with newfangled terms ending in -ize? :: Be suspicious.
-<!--SR:!2023-10-28,11,272-->
+<!--SR:!2023-11-27,30,272-->
 
 What is Eisohn's judgement when using the word "folderize"? :: Avoid on a general audience.
-<!--SR:!2023-10-28,11,272-->
+<!--SR:!2023-11-03,6,252-->
 
 Three ways a copyeditor could respond to a problem.
 - 
@@ -175,7 +175,7 @@ The term used to refer to a copyeditor's intuition and instincts about how to re
 <!--SR:!2023-10-31,11,278-->
 
 How slow should a copyeditor read a manuscript? :: Slow enough to consider each letter and word.
-<!--SR:!2023-10-28,6,238-->
+<!--SR:!2023-11-13,16,238-->
 
 What's the best use of software in editing? :: Reduce time-consuming mechanical tasks.
 <!--SR:!2023-10-29,7,238-->
@@ -187,7 +187,7 @@ The four commandments of copyediting:
 - Don't miss a deadline.
 ;;
 Don't lose, damage, or disorganize versions of the manuscript.
-<!--SR:!2023-10-27,7,238-->
+<!--SR:!2023-11-15,18,238-->
 
 The four commandments of copyediting:
 - Don't lose, damage, or disorganize versions of the manuscript.
@@ -205,7 +205,7 @@ The four commandments of copyediting:
 - Don't miss a deadline.
 ;;
 Don't change the author's meaning.
-<!--SR:!2023-10-27,8,258-->
+<!--SR:!2023-11-22,25,258-->
 
 The four commandments of copyediting:
 - Don't lose, damage, or disorganize versions of the manuscript.
@@ -225,7 +225,7 @@ A copyeditor's six principal tasks:
 6. Markup
 ;;
 Mechanical editing
-<!--SR:!2023-10-28,9,261-->
+<!--SR:!2023-11-29,32,281-->
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
@@ -269,7 +269,7 @@ A copyeditor's six principal tasks:
 6. Markup
 ;;
 Permissions
-<!--SR:!2023-10-27,8,261-->
+<!--SR:!2023-11-30,33,281-->
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
@@ -280,7 +280,7 @@ A copyeditor's six principal tasks:
 6. 
 ;;
 Markup
-<!--SR:!2023-10-28,8,261-->
+<!--SR:!2023-11-26,29,281-->
 
 Mechanical editing ::: Conforming to an editorial style
 <!--SR:!2023-11-17,23,261!2023-11-01,12,281-->
@@ -378,7 +378,7 @@ What should you do to improve your grasp of usage? :: Learn the history of usage
 <!--SR:!2023-11-12,19,261-->
 
 Knowledge of the history of usage controversies is useful especially when working with an author whose ?? :: usage is outdated.
-<!--SR:!2023-10-26,7,261-->
+<!--SR:!2023-11-18,21,261-->
 
 The goal of editing usage is to ?? not ?? :: help readers accept the text, defend the language
 <!--SR:!2023-10-29,7,241-->
@@ -393,7 +393,7 @@ What should a copyeditor do when encountering a clearly incorrect factual statem
 <!--SR:!2023-11-02,13,281-->
 
 Whenever the content is unclear or confusing, the copyeditor's recourse is ?? :: Ask the author to resolve it.
-<!--SR:!2023-10-26,7,261-->
+<!--SR:!2023-11-01,4,241-->
 
 Give at least one task involved in content editing. Give an example you haven't mentioned before.
 ;;
@@ -412,13 +412,13 @@ Give at least one task involved in providing markup.  Give an example you haven'
 <!--SR:!2023-11-06,13,261-->
 
 Line editing ::: improving sentence and paragraph style
-<!--SR:!2023-10-27,7,241!2023-10-31,11,281-->
+<!--SR:!2023-11-16,19,241!2023-10-31,11,281-->
 
 To differentiate it with other kinds of editing, line editing is called ?? by the Editors Canada. :: stylistic editing
 <!--SR:!2023-11-02,13,281-->
 
 Manuscript editing ::: Combination of mechanical editing, line editing, and substantive editing
-<!--SR:!2023-10-28,9,261!2023-11-01,12,281-->
+<!--SR:!2023-11-23,26,261!2023-11-01,12,281-->
 
 Substantive editing :: Heavy editing involving overall structure, content, and flow
 <!--SR:!2023-11-03,10,241-->
@@ -469,7 +469,7 @@ Give at least two tasks involved in developmental editing. Give examples you hav
 - Identifying gaps in subject coverage
 - Devising strategies in communicating content
 - Making the product marketable
-<!--SR:!2023-10-28,4,201-->
+<!--SR:!2023-11-07,10,201-->
 
 Develop protocols for the following on-screen editing tasks:
 - 
@@ -485,7 +485,7 @@ Develop protocols for the following on-screen editing tasks:
 - backing up
 ;;
 version control
-<!--SR:!2023-10-27,7,241-->
+<!--SR:!2023-11-17,20,241-->
 
 Develop protocols for the following on-screen editing tasks:
 - naming files and folders
@@ -547,7 +547,7 @@ How should you respond to stetted revisions concerning minor issues? :: Respect 
 <!--SR:!2023-11-03,12,261-->
 
 If time is limited, what kinds of errors should be prioritized? :: Embarrassing and confusing errors
-<!--SR:!2023-10-28,9,261-->
+<!--SR:!2023-11-22,25,261-->
 
 How should you approach passes when straining to meet a tight schedule?
 - 
@@ -586,13 +586,13 @@ When time is short, what intensity of effort should you give on each page? :: Li
 <!--SR:!2023-11-02,13,281-->
 
 Different ?? require different copyediting priorities. :: documents
-<!--SR:!2023-10-27,8,261-->
+<!--SR:!2023-12-01,34,281-->
 
 The twin-purpose of a business document to prioritize during copyediting. :: Persuade readers and market the business effectively
 <!--SR:!2023-11-17,23,261-->
 
 Sentence adverb ::: An adverb that modifies an entire sentence
-<!--SR:!2023-10-28,9,261!2023-11-02,13,281-->
+<!--SR:!2023-11-21,24,261!2023-11-02,13,281-->
 
 Always follow a sentence adverb with a :: comma
 <!--SR:!2023-10-29,9,261-->
@@ -604,7 +604,7 @@ In "not only ... but also...", the word "also" is :: optional and frequently omi
 <!--SR:!2023-11-02,13,281-->
 
 A ?? is preferable over a ?? to precede "for example" when introducing a list. :: dash, comma
-<!--SR:!2023-10-28,8,261-->
+<!--SR:!2023-11-20,23,261-->
 
 If the author's sentences are clear, correct, and serviceable, ?? :: let them be.
 <!--SR:!2023-11-02,13,281-->
@@ -646,7 +646,7 @@ No need to maintain the author's style
 <!--SR:!2023-11-04,11,241-->
 
 Terms denoting group ownership or participation sometimes appear ?? (i.e., as an attributive rather than a possessive noun) :: without an apostrophe
-<!--SR:!2023-10-27,7,241-->
+<!--SR:!2023-11-24,27,261-->
 
 # References
 

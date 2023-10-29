@@ -1,20 +1,21 @@
 ---
-title: "Approach life with humor"
-date: "2022-04-27"
+title: Approach life with humor
+date: 2022-04-27
+aliases:
+  - Approach life with humor
 tags:
-
-- "evergreens"
+  - evergreens
+  - tlw
 ---
+If life is ultimately meaningless (i.e., [[thoughts/nihilism|nihilism]]), then it is ridiculous to take yourself too seriously. The best way to approach life is through a comic rather than a tragic mode.
 
-If life is ultimately meaningless (i.e., [[thoughts/nihilism]]), then it is ridiculous to take yourself too seriously. The best way to approach life is through a comic rather than a tragic mode.
-
-You shouldn’t aspire to change the world. You should, instead, take things easy—take yourself easy. [[Aspire for mild not wild success]], prioritize [[thoughts/process over product]] (i.e., live in the present moment), live day by day with humor, and recognie that [[thoughts/meaningful living is possible despite meaninglessness]].
+You shouldn’t aspire to change the world. You should, instead, take things easy—take yourself easy. [[thoughts/aspire for mild not wild success|Aspire for mild not wild success]], prioritize [[thoughts/process over product|process over product]] (i.e., live in the present moment), live day by day with humor, and recognize that [[thoughts/meaningful living is possible despite meaninglessness|meaningful living is possible despite meaninglessness]].
 
 People who feel like they need to change the world—to bend it to their own liking—could not live with the idea that their life is ultimately pointless. They believe that they exist for a reason, and they will do whatever it takes to fulfill that reason. They approach life in tragic mode where they are always struggling for something, fighting someone. This often results to catastrophe.
 
-But we could survive life better if we change ourselves rather than our environment. If we approach life with humor, we give everyone a change to see another day. We lessen animosity. We don’t have to turn people into enemies. We don’t have to change them to fit our ideals.
+But we could survive life better if we change ourselves rather than our environment. If we approach life with humor, we give everyone a chance to see another day. We lessen animosity. We don’t have to turn people into enemies. We don’t have to change them to fit our ideals.
 
-Here is [[How to approach life with humor]].
+Here is [[thoughts/how to approach life with humor|how to approach life with humor]].
 
 # References
 
