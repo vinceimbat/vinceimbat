@@ -9,5 +9,5 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-[[Negating the three laws of logic is self-refuting]]
+[[thoughts/negating the laws of logic is self-refuting]]
 

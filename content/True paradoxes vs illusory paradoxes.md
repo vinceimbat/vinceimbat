@@ -13,7 +13,7 @@ A true paradox is a logical contradiction. An easy to understand logical contrad
 
 The reason why true paradoxes cannot be comprehended by the mind is because they do not exist in the first place. [[True paradoxes don’t exist]].
 
-In an intelligible world, true paradoxes cannot exist because they violate [[The three laws of logic]]. Remember, [[The laws of logic are universal and inescapable]] and [[Negating the three laws of logic is self-refuting]]. Someone who accepts logical contradictions can be described as "irrational"—a person who claims to believe what is beyond what the mind can do.
+In an intelligible world, true paradoxes cannot exist because they violate [[The three laws of logic]]. Remember, [[The laws of logic are universal and inescapable]] and [[thoughts/negating the laws of logic is self-refuting]]. Someone who accepts logical contradictions can be described as "irrational"—a person who claims to believe what is beyond what the mind can do.
 
 Illusory paradoxes seem like they're true paradoxes but they're really not, which means, by a little bit of thinking, we can actually intelligibly explain them. I see a lot of this in "spiritual" languages.
 
