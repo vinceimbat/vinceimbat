@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-How to set a [[Goal]] through [[Positive psychology]]?
+How to set a [[Goal]] through [[thoughts/Positive psychology]]?
 
 1. Index your values and commit to them.
 2. Set goals aligned with your values.

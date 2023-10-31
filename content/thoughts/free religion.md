@@ -5,8 +5,8 @@ tags:
   - seedlings
 draft: false
 sr-due: 2023-10-31
-sr-interval: 2
-sr-ease: 230
+sr-interval: 1
+sr-ease: 210
 ---
 Here is [[thoughts/andrew j. brown|Andrew J. Brown's]] advice on how to begin one's journey in [[thoughts/free religion|free religion]].
 
@@ -19,3 +19,15 @@ See [[seiza]].
 >All in all, I genuinely think that holding his eight points in mind, plus a practise of Quiet sitting, along (perhaps) with reading slowly and meditatively through the "Selected Writings on Free Religion and Other Subjects"
 
 >Given your direct, and no doubt very painful, experience with the JWs, getting a strong sense of who you are as a free-religious person before you walk through another community's doors is really, really important. Without a working, recalibrated compass of your own, you won't be able truly to tell whether they are genuinely practising a free-religion or just a slightly more liberal version of conventional religion.
+
+# Translation
+
+I'm playing around possible translation of the word into Filipino. Here are some initial ideas:
+
+- Malayang pag-uulit
+- Malayang pag-iingat
+- Malayang katapatan
+- Malayang pagpapahalaga
+- Malayang paggalang
+- Malayang pagsamba
+- **Malayang pamimintuho**

@@ -5,9 +5,9 @@ aliases:
   - Etymology of the word religion
 tags:
   - seedlings
-sr-due: 2022-08-30
-sr-interval: 1
-sr-ease: 230
+sr-due: 2027-08-18
+sr-interval: 1388
+sr-ease: 250
 ---
 Today, [[Religion is commonly used as a social genus]]. However, the word religion did not originally refer to a group. [[thoughts/religion originally applied to individuals]]. The concept shifted from an individual to a group context through a historical process that took many years.
 
@@ -24,3 +24,16 @@ Schilbrack, K. (2022). The Concept of Religion. In E. N. Zalta (Ed.), The Stanfo
 > Nevertheless, religio had a range of senses and so Augustine could consider but reject it as the right abstract term for “how one worships God” because the Latin term (like the Latin terms for “cult” and “service”) was used for the observance of duties in both one’s divine and one’s human relationships
 > 
 > In the Middle Ages, as Christians developed monastic orders in which one took vows to live under a specific rule, they called such an order religio (and religiones for the plural)
+
+
+_Religion_. (n.d.). Online Etymology Dictionary. Retrieved October 30, 2023, from [https://www.etymonline.com/word/religion](https://www.etymonline.com/word/religion)
+
+Latin religionem (nominative religio) "respect for what is sacred, reverence for the gods; conscientiousness, sense of right, moral obligation; fear of the gods; divine service, religious observance; a religion, a faith, a mode of worship, cult; sanctity, holiness,"
+
+religion
+- respect for what is sacred
+- reverence
+- conscientiousness
+- recognition of and allegiance in manner of life
+
+This noun of action was derived by Cicero from relegere "go through again" (in reading or in thought), from re- "again" + legere "read"
