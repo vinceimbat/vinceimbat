@@ -16,6 +16,6 @@ So a person who is religious is in a state where his cognitive processes and aff
 Religious activities could generate spiritual experiences. But some spiritual experiences can occur irregardless of religiosity.
 
 Related
-- [[Personal religion]]
+- [[thoughts/personal religion]]
 
 # References

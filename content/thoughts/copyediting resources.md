@@ -15,10 +15,10 @@ Four required books for copyeditors (DUST) :: dictionary, usage guide, style man
 <!--SR:!2023-11-09,16,283-->
 
 Most comprehensive English dictionary. ::: Oxford English Dictionary (OED)
-<!--SR:!2023-10-29,7,263!2023-11-08,15,283-->
+<!--SR:!2023-11-24,24,283!2023-11-08,15,283-->
 
 Best free online dictionary :: Merriam-Webster's Collegiate Dictionary (M-W Collegiate)
-<!--SR:!2023-10-30,8,263-->
+<!--SR:!2023-11-28,28,283-->
 
 Which free online dictionary is an excellent backup for M-W C? :: American Heritage Dictionary of the English Language (AHD)
 <!--SR:!2023-11-03,10,263-->
@@ -42,13 +42,13 @@ Style manual used by newspapers and magazines. :: AP
 <!--SR:!2023-11-08,15,283-->
 
 Style manual used by government agencies and some private sector businesses. :: GPO
-<!--SR:!2023-10-30,8,263-->
+<!--SR:!2023-12-02,32,283-->
 
 Style manual used for technical instructions on using digital products. :: Microsoft style
 <!--SR:!2023-11-06,13,283-->
 
 Style manual used by literary scholars and writers in the humanities. :: MLA
-<!--SR:!2023-10-29,7,263-->
+<!--SR:!2023-11-29,29,283-->
 
 Style manual used by social scientists. :: APA
 <!--SR:!2023-11-13,16,284-->
@@ -69,10 +69,10 @@ Compare DEU and Garner's take on the sentence-modifying "hopefully." :: DEU: not
 <!--SR:!2023-11-06,12,282-->
 
 Garner's is best used by ?? :: editors working on academic and professional content
-<!--SR:!2023-10-30,6,242-->
+<!--SR:!2023-11-03,3,222-->
 
 Editors handling a variety of material should consult which usage guide? :: Both DEU and Garner's
-<!--SR:!2023-10-30,6,243-->
+<!--SR:!2023-11-20,20,263-->
 
 When neither reference books nor language instincts suffice, what reference material should you consult next? :: language corpora
 <!--SR:!2023-11-09,16,283-->
@@ -90,11 +90,11 @@ Corpus of Contemporary American English (COCA)
 
 Three most widely consulted corpora for English:
 - Corpus of Contemporary American English (COCA)
-- 
+-
 - Google Books corpora (Ngram Viewer)
 ;;
 Corpus of Historical American English (COHA)
-<!--SR:!2023-10-31,9,263-->
+<!--SR:!2023-12-03,33,283-->
 
 Three most widely consulted corpora for English:
 - Corpus of Contemporary American English (COCA)
@@ -108,7 +108,7 @@ How should language corpora be used vis a vis dictionaries and usage guides? :: 
 <!--SR:!2023-11-10,17,283-->
 
 A rule of thumb on fact-checking for copyeditors. :: Only do it when requested by the client or editorial supervisor.
-<!--SR:!2023-10-30,8,263-->
+<!--SR:!2023-11-29,29,283-->
 
 # References
 

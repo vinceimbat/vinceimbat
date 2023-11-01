@@ -37,21 +37,21 @@ unedited original files
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - unedited original files
-- 
+-
 - author reviewed
 - cleaned up
 ;;
 redlined
-<!--SR:!2023-10-30,8,262-->
+<!--SR:!2023-11-30,30,282-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - unedited original files
 - redlined
-- 
+-
 - cleaned up
 ;;
 author reviewed
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-11-05,5,242-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - unedited original files
@@ -81,13 +81,13 @@ Save versions in subfolders.
 How should you organize working files?
 1. Create a master project folder (Name - Short Title)
 2. Save versions in subfolders.
-3. 
+3.
 ;;
 Use sortable file names.
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-12-02,32,282-->
 
 When is version control most critical? :: When the document is reviewed by more than one person.
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-12-04,34,282-->
 
 A collaborative editorial system needs:
 - 
@@ -114,15 +114,15 @@ reconciling changes into a final version
 <!--SR:!2023-11-09,12,242-->
 
 Redlined files ::: original text + tracked changes
-<!--SR:!2023-11-09,14,262!2023-10-30,8,262-->
+<!--SR:!2023-11-09,14,262!2023-11-26,26,282-->
 
 To make in-line edits more legible ?? :: Replace entire words
-<!--SR:!2023-10-28,6,242-->
+<!--SR:!2023-11-19,19,262-->
 
 Deleting or adding a ?? break is not visible on-screen or in a redlined printout warranting a query.
 
 When copy-pasting text in a redlined document, it shows what two changes? :: the deletion and insertion of the original words
-<!--SR:!2023-10-30,8,262-->
+<!--SR:!2023-12-01,31,282-->
 
 Queries ::: Comments on a small part of a manuscript
 <!--SR:!2023-11-20,23,263!2023-11-07,14,283-->
@@ -142,28 +142,28 @@ how to query
 <!--SR:!2023-11-13,19,282-->
 
 Three purposes of a query:
-- 
+-
 - Clarify
 - Explain a revision
 ;;
 Call out a problem
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-12-01,31,282-->
 
 Three purposes of a query:
 - Call out a problem
-- 
+-
 - Explain a revision
 ;;
 Clarify
-<!--SR:!2023-10-29,7,262-->
+<!--SR:!2023-11-27,27,282-->
 
 Three purposes of a query:
 - Call out a problem
 - Clarify
-- 
+-
 ;;
 Explain a revision
-<!--SR:!2023-10-31,7,222-->
+<!--SR:!2023-11-20,20,242-->
 
 Give two examples of instances where a query is necessary. Use examples you haven't mentioned in the past.
 ;;
@@ -218,11 +218,11 @@ proverbs
 
 Items that don't require sources:
 - proverbs
-- 
+-
 - well-known literary allusions
 ;;
 well-known phrases
-<!--SR:!2023-10-29,7,263-->
+<!--SR:!2023-11-17,17,263-->
 
 Items that don't require sources:
 - proverbs
@@ -242,25 +242,25 @@ readers' acceptance
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - readers' acceptance
-- 
+-
 - budget and schedule
 ;;
 author's workload
-<!--SR:!2023-10-27,5,242-->
+<!--SR:!2023-11-12,12,242-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - readers' acceptance
-- author's workload 
-- 
+- author's workload
+-
 ;;
 budget and schedule
-<!--SR:!2023-10-30,8,262-->
+<!--SR:!2023-11-30,30,282-->
 
 The two parts of a query are :: explanation and proposed revisions
-<!--SR:!2023-10-29,7,262-->
+<!--SR:!2023-11-25,25,282-->
 
-The best queries are ?? but ?? and ?? :: succinct, polite, specific
-<!--SR:!2023-10-29,5,222-->
+The length of queries should be ??, their scope ??, and their manner of delivery ?? :: concise, specific, polite
+<!--SR:!2023-11-03,3,202-->
 
 Why should you avoid brief and vague queries like "Logic?" :: Authors feel chastised.
 <!--SR:!2023-11-03,9,242-->
@@ -285,7 +285,7 @@ Provide two tones to avoid when querying. Say something you haven't mentioned be
 <!--SR:!2023-11-01,8,242-->
 
 Why should queries be phrased in terms of readers' needs? :: They reinforce author and copyeditor teamwork.
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-12-03,33,282-->
 
 Provide two helpful thoughts to remind you when feeling annoyed to the author. Say something you haven't mentioned before.
 ;;
@@ -302,7 +302,7 @@ Style sheet ::: Record of mechanical editorial choices
 <!--SR:!2023-11-10,15,263!2023-11-10,17,283-->
 
 In a style sheet's list of terms, record only items that ?? :: required a decision
-<!--SR:!2023-10-31,9,262-->
+<!--SR:!2023-12-07,37,282-->
 
 Give two examples of items that must be included in a style sheet. Say examples you haven't mentioned before.
 ;;
@@ -320,16 +320,16 @@ Give two examples of items that must be included in a style sheet. Say examples 
 <!--SR:!2023-11-17,20,262-->
 
 Two most common punctuation styles included in a style sheet. :: serial comma and possessive form of proper names ending in s
-<!--SR:!2023-10-29,7,263-->
+<!--SR:!2023-11-18,18,263-->
 
 A (well-received, well received) proposal :: well-received
-<!--SR:!2023-10-31,9,263-->
+<!--SR:!2023-11-30,30,283-->
 
 The proposal was (well-received, well received). :: well received
 <!--SR:!2023-11-09,16,283-->
 
 An edited manuscript is returned to the author or editorial coordinator via a ?? :: transmittal letter
-<!--SR:!2023-10-30,8,262-->
+<!--SR:!2023-11-29,29,282-->
 
 Five steps in writing a transmittal letter:
 1. 

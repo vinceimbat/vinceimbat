@@ -12,7 +12,7 @@ sr-ease: 250
 # Prompts
 
 Prompt design is ?? design. :: task
-<!--SR:!2023-10-31,17,293-->
+<!--SR:!2024-01-11,72,313-->
 
 If prompt design is task design, how should you design prompts? :: Design prompts to produce the change you want.
 <!--SR:!2023-12-03,40,293-->
@@ -21,10 +21,10 @@ How does retrieval practice halt forgetting? :: By recalling repeatedly spaced o
 <!--SR:!2023-11-03,15,233-->
 
 The learning produced by retrieval practice when you try to recall knowledge. :: Testing effect
-<!--SR:!2023-10-29,4,253-->
+<!--SR:!2023-11-13,13,273-->
 
 What differentiates retrieval practice and school tests? :: Retrieval practice tests to produce learning, not assess it.
-<!--SR:!2023-10-31,17,290-->
+<!--SR:!2024-01-07,68,310-->
 
 How is writing spaced repetition prompts similar to language translation? :: They try to reconstruct the original idea.
 <!--SR:!2023-11-19,26,253-->
@@ -41,13 +41,13 @@ focused
 
 Retrieval practice prompts should be:
 - focused
-- 
+-
 - consistent
 - tractable
 - effortful
 ;;
 precise
-<!--SR:!2023-10-30,16,293-->
+<!--SR:!2024-01-06,67,313-->
 
 Retrieval practice prompts should be:
 - focused
@@ -74,10 +74,10 @@ Retrieval practice prompts should be:
 - precise
 - consistent
 - tractable
-- 
+-
 ;;
 effortful
-<!--SR:!2023-10-30,16,290-->
+<!--SR:!2024-01-02,63,310-->
 
 How do you ensure a retrieval practice prompt is focused? :: Make it about one thing.
 <!--SR:!2023-12-06,43,293-->
@@ -118,22 +118,22 @@ How did Andy Matuschak integrate writing retrieval practice prompts into his lif
 <!--SR:!2023-12-06,39,293-->
 
 To avoid being drained and wasting attention, what should you avoid when writing retrieval practice prompts? :: Being obsessively exhaustive.
-<!--SR:!2023-10-29,15,293-->
+<!--SR:!2023-12-30,60,313-->
 
 What prompt best pairs with a factual prompt? :: An explanation prompt.
-<!--SR:!2023-10-31,17,290-->
+<!--SR:!2024-01-10,71,310-->
 
 When should you pair an explanation prompt with a factual prompt? :: When you want to reinforce the fact by making it more meaningful.
 <!--SR:!2023-11-09,21,273-->
 
 How do you write a retrieval practice prompt for an unordered list? :: Use cloze deletions.
-<!--SR:!2023-10-29,15,293-->
+<!--SR:!2023-12-10,40,293-->
 
 Why should you keep the items in a list prompt in the same order? :: You remember the list's visual shape through time.
 <!--SR:!2023-11-11,23,270-->
 
 How do you reinforce memory of an unordered list without cloze deletion? :: Write an explanation prompt for each component of the list.
-<!--SR:!2023-10-30,8,193-->
+<!--SR:!2023-11-21,21,213-->
 
 What's the most important requirement when writing cues for retrieval practice prompts? :: Don't give the answer away.
 <!--SR:!2023-11-13,25,273-->
@@ -142,16 +142,16 @@ Elaborative encoding is the process of making information easier to recall by ??
 <!--SR:!2023-12-11,47,293-->
 
 If a knowledge can't be connected to other memories, how can you still leverage elaborative encoding? :: Make up a mnemonic device.
-<!--SR:!2023-10-29,15,293-->
+<!--SR:!2023-12-28,58,313-->
 
 What is the emotional effect that mnemonic devices should produce? :: Vivid.
-<!--SR:!2023-10-31,17,293-->
+<!--SR:!2024-01-08,69,313-->
 
 Give at least two ways of making a mnemonic device vivid. :: e.g., using visuals, meaningful personal experiences, humor, and disgust
 <!--SR:!2023-11-12,23,273-->
 
 Where should you put mnemonic devices in a retrieval writing prompt? :: In the answer (inside parentheses).
-<!--SR:!2023-10-29,15,293-->
+<!--SR:!2023-12-27,57,313-->
 
 Why should you put mnemonic devices inside parentheses when using them in prompt answers? :: To show they simply help remember the answer.
 <!--SR:!2023-11-07,19,253-->
@@ -166,7 +166,7 @@ What is the rule of thumb when determining the amount of prompts to write? :: Wr
 <!--SR:!2023-11-25,34,290-->
 
 If you're already familiar with a subject, how much prompts should you write about it? :: Fewer.
-<!--SR:!2023-10-29,15,290-->
+<!--SR:!2023-12-30,60,310-->
 
 What are the two ways to frame retrieval writing prompts for procedures? :: Lists and keywords
 <!--SR:!2023-12-03,36,270-->
@@ -243,16 +243,16 @@ When thinking about the similarities and differences of a concept, with which sh
 <!--SR:!2023-12-10,46,293-->
 
 What visual aid can you use to think about the parts and wholes of a concept? :: Venn diagram
-<!--SR:!2023-10-30,16,293-->
+<!--SR:!2024-01-03,64,313-->
 
 When I'm thinking about how a concept matters to me personally, I'm considering its ?? :: significance and implications.
 <!--SR:!2023-12-09,45,290-->
 
 A closed list is like ??, while an open list is like a tag. :: an equation
-<!--SR:!2023-10-31,17,293-->
+<!--SR:!2024-01-09,70,313-->
 
 A closed list is like an equation, while an open list is like ??. :: a tag
-<!--SR:!2023-10-29,15,290-->
+<!--SR:!2023-12-15,45,290-->
 
 Three useful prompt types for open lists:
 1. 
@@ -264,11 +264,11 @@ Link instance to tag
 
 Three useful prompt types for open lists:
 1. Link instance to tag
-2. 
+2.
 3. Link tag to instances
 ;;
 About tag itself
-<!--SR:!2023-10-30,16,290-->
+<!--SR:!2024-01-01,62,310-->
 
 Three useful prompt types for open lists:
 1. Link instance to tag
@@ -299,7 +299,7 @@ Give two reasons on why you should approach prompt writing iteratively.
 <!--SR:!2023-11-05,16,250-->
 
 When engaging with a short piece of text, when is the best time to write prompts? :: After reading and highlighting
-<!--SR:!2023-10-30,16,290-->
+<!--SR:!2024-01-03,64,310-->
 
 When engaging with a book, when is the best time to write prompts? :: After reading and highlighting a chapter or a major section
 <!--SR:!2023-12-07,40,270-->
@@ -326,7 +326,7 @@ How do you avoid false negatives in retrieval practice? :: Include enough contex
 <!--SR:!2023-11-06,17,253-->
 
 How do you identify what to revise in prompts? :: Notice internal "sighs."
-<!--SR:!2023-10-31,17,290-->
+<!--SR:!2023-12-20,50,290-->
 
 Per Andy Matuschak, how does one revise a prompt in relation to others? :: Do it holistically.
 <!--SR:!2023-12-05,42,293-->
@@ -343,10 +343,10 @@ Revise it to reflect why you first cared about it.
 
 Per Andy Matuschak, what are the two things you can do when you don't care about a prompt anymore?
 1. Revise it to reflect why you first cared about it.
-2. 
+2.
 ;;
 Delete it.
-<!--SR:!2023-10-30,16,293-->
+<!--SR:!2024-01-02,63,313-->
 
 ***
 

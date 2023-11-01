@@ -1,14 +1,14 @@
 ---
-title: "Nicole Alba’s financial management setup"
-date: "2021-05-09"
+title: Nicole Alba’s financial management setup
+date: 2021-05-09
+aliases:
+  - Nicole Alba’s financial management setup
 tags:
-
-- "seedlings"
-sr-due: 2023-07-07
-sr-interval: 3
+  - seedlings
+sr-due: 2024-04-02
+sr-interval: 153
 sr-ease: 250
 ---
-
 Nicole divides her finances into two categories:
 
 1. Cash
