@@ -14,7 +14,7 @@ sr-ease: 254
 - [[thoughts/religion originally applied to individuals]]
 - [[Five elements of a religion per Herbert]]
 - [[Religion is a belief in spiritual beings per Tylor]]
-- [[Religion involves a belief in an unseen order per James]]
+- [[thoughts/religion involves a belief in an unseen order per James]]
 - [[Anthropomorphic and non-anthropomorphic religious practices have different consequences]]
 - [[Both anthropomorphic and non-anthropomorphic religious practices involve the supernatural]]
 - [[A supernatural realm exists separate from the natural]]

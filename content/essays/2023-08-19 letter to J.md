@@ -3,9 +3,9 @@ title: 2023-08-19 letter to J
 date: 2023-10-20
 aliases:
   - 2023-08-19 letter to J
+draft: false
 tags:
   - seedlings
-draft: false
 sr-due: 2023-10-25
 sr-interval: 3
 sr-ease: 250

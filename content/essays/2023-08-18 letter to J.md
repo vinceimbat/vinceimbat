@@ -1,11 +1,14 @@
 ---
 title: 2023-08-18 letter to J
 date: 2023-10-20
+draft: false
 aliases:
   - 2023-08-18 letter to J
 tags:
   - seedlings
-draft: false
+sr-due: 2023-11-03
+sr-interval: 1
+sr-ease: 230
 ---
 Data–Ruby–Bulusan–Pearl–Banahaw–Diamond–Santos–Lopez–Ela–Dawis–Aglibut–Pili–Argañosa–Madamba–Viado–Pancho–Juliano–Lantican– Velasco–Ruby–Onyx–Data
 

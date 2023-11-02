@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-A monothetic definition of religion with multiple criteria, which treats religion as a multidimensional complex, can be double-sided when it includes both substantive and functional approaches. In this definition, a set of beliefs about reality influences the behavior of practitioners. The definition of William James ([[Religion involves a belief in an unseen order per James]]) and Clifford Geertz ([[Five elements of a religion per Clifford Geertz]]) are both double-sided.
+A monothetic definition of religion with multiple criteria, which treats religion as a multidimensional complex, can be double-sided when it includes both substantive and functional approaches. In this definition, a set of beliefs about reality influences the behavior of practitioners. The definition of William James ([[thoughts/religion involves a belief in an unseen order per James]]) and Clifford Geertz ([[Five elements of a religion per Clifford Geertz]]) are both double-sided.
 
 # References
 

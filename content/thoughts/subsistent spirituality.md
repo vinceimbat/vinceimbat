@@ -4,7 +4,10 @@ date: 2023-10-04
 tags:
   - seedlings
 draft: false
+sr-due: 2023-11-06
+sr-interval: 4
+sr-ease: 270
 ---
-There's this kind of spirituality that seeks attention, that is always looking for its benefit whether money, good health, luck. This spirituality pays huge importance to what other people say, to following the rules, to punishing the sinners, to being right. It will not stop until it converts the entire world. It is amazed by things magical: concoctions, objects, words,
+There's this kind of spirituality that seeks attention, that is always looking for its benefit whether money, good health, luck. This spirituality pays huge importance to what other people say, to following the rules, to punishing the sinners, to being right. It will not stop until it converts the entire world. It is amazed by things magical: concoctions, objects, and words,
 
 Then there's this quiet, subsistent spirituality that doesn't ask for anything other than itself, and because it is small and almost always hidden, it stays here for eternity.

@@ -13,7 +13,7 @@ The word religion is commonly used in ordinary language today to refer to a grou
 
 Religion as a social genus was used by European Christians in categorizing the cultures they encountered in their colonial ventures. As an example, see the work of Edward Burnett Tylor (1832–1917) ([[Religion is a belief in spiritual beings per Tylor]]).
 
-The concept of religion as a social genus evolved to encompass, in order, theistic, polytheistic, then cosmic criterion. The cosmic criterion articulated by William James ([[Religion involves a belief in an unseen order per James]]) is now the most dominant.
+The concept of religion as a social genus evolved to encompass, in order, theistic, polytheistic, then cosmic criterion. The cosmic criterion articulated by William James ([[thoughts/religion involves a belief in an unseen order per James]]) is now the most dominant.
 
 # References
 

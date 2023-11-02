@@ -14,7 +14,7 @@ There are three parts to my [[lms/annual review]] process:
 
 # Part I: Aggregate the annual report
 
-1. Start the process on January 3 of the year (this is to give way for [[private/My monthly financial review process]] and the [[lms/monthly review]] first).
+1. Start the process on January 3 of the year (this is to give way for [[lms/monthly financial review process]] and the [[lms/monthly review]] first).
 2. Copy and paste the summary of each monthly report ([[lms/monthly reports]]) into a new [[lms/annual reports]]. Use the [[Annual report format]].
 3. Use the annual report to accomplish the core of the annual review.
 

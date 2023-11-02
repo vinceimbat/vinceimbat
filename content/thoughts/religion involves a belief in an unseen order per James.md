@@ -1,14 +1,14 @@
 ---
-title: "Religion involves a belief in an unseen order per James"
-date: "2022-08-29"
+title: Religion involves a belief in an unseen order per James
+date: 2022-08-29
+aliases:
+  - Religion involves a belief in an unseen order per James
 tags:
-
-- "seedlings"
-sr-due: 2022-09-01
-sr-interval: 3
+  - seedlings
+sr-due: 2025-04-26
+sr-interval: 541
 sr-ease: 250
 ---
-
 In the twentieth century, the concept of religion had a third expansion as it included practices that connect people to inanimate forces that lack minds. William James, for example, proposed that the concept of religion generally means a belief on a non-empirical structure, an "unseen order," where human beings live accordingly. To clarify that what James was referring to does not include human-created structures, Clifford Geertz proposed that such order was fundamental and has existed even before human beings. Because of this expansion, atheistic worldviews characterized by a belief in this unseen order, such as Taoism, Buddhism, Stoicism, and Neo-Confucianism were considered religions.
 
 # References

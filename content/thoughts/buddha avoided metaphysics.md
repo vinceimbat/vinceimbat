@@ -13,7 +13,7 @@ The Buddha actually avoided talking about doctrines of metaphysics because he kn
 
 One of the metaphysical teachings he introduced but avoided expounding was the doctrine of the [[Non-self]].
 
-Maybe, avoiding metaphysics is a sign of reverence and respect to questions that ellude answers. Since I couldn't grasp my head around all of it, I bow to wonder and enjoy it. I focus on making the most out of the joy of what I know.
+Maybe, avoiding metaphysics is a sign of reverence and respect to questions that elude answers. Since I couldn't grasp my head around all of it, I bow to wonder and enjoy it. I focus on making the most out of the joy of what I know.
 
 TO DO
 

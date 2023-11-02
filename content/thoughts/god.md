@@ -8,7 +8,6 @@ sr-due: 2022-05-03
 sr-interval: 3
 sr-ease: 250
 ---
-
 Does God need to be worshipped?
 
 Is being worshipped connected with the concept of God.

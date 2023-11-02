@@ -5,9 +5,9 @@ aliases:
 - "My-poetics"
 tags:
 - "seedlings"
-sr-due: 2023-08-04
-sr-interval: 3
-sr-ease: 216
+sr-due: 2024-08-14
+sr-interval: 286
+sr-ease: 236
 ---
 I use the word [[thoughts/poetics|poetics]] liberally to refer to a personal, usually unique, way of creating art.
 
@@ -204,6 +204,7 @@ Seeing life through this metaphor makes [[thoughts/walking]] relevant and writin
 
 1. Use this to improve [[thoughts/my bio]]
 2. Include your commitment to philosophical lyric essay (poetry, personal essay, photography, philosophy)
+3. Revisit poetics and simplify. What do you really stand for? How do you want to contribute? Still focus on creative writing, spirituality, and the art of living. But focus on the methodology: draft, walking, fragmented, decentralized, low-tech, gift-based, subsistent
 
 # Related
 
