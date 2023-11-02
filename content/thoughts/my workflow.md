@@ -26,7 +26,7 @@ I know that regularity is important ([[thoughts/speak your truth frequently]]) a
 
 # Monthly
 
-Every fourth day of the month, I publish an issue of [[Uman]], which is a summary of the highlights of my month and links to the most important work done in the forest garden, usually also evergreens.
+Every fourth day of the month, I publish an issue of [[thoughts/uman]], which is a summary of the highlights of my month and links to the most important work done in the forest garden, usually also evergreens.
 
 I strive to make this newsletter short, like [[Hundred Rabbits]]'  [Summary of Changes](https://tinyletter.com/hundredrabbits).
 
