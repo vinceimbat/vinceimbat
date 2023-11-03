@@ -16,6 +16,11 @@ To support myself in [[thoughts/my quest|my quest]], I take care of my mind and 
 
 I have also mastered my relationship with the material world. I support myself through meaningful work, use resources efficiently, and limit my interaction with the exchange economy by developing [[thoughts/self-reliance|self-reliance]].
 
-For a more detailed long-term vision, see [[thoughts/my best future self exercise|my best future self exercise]].
+# Related
 
-For a shorter, one-year visions, see [[thoughts/personal narrative vision|personal narrative vision]].
+- For a more detailed long-term vision, see [[thoughts/my best future self exercise|my best future self exercise]].
+- For a shorter, one-year visions, see [[thoughts/personal narrative vision|personal narrative vision]].
+
+# To Do
+
+As I go deeper into [[thoughts/free religion|free religion]], I should be open to revising this document to articulate how I aspire to be in a world I share with other human beings, creatures, and non-living things.

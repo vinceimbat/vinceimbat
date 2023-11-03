@@ -1,3 +1,14 @@
+---
+title: Tuloy-Daloy 1st Meeting
+date: 2023-08-21
+tags:
+  - seedlings
+draft: true
+sr-due: 2023-11-06
+sr-interval: 3
+sr-ease: 250
+---
+
 Benjie's barya meditation
 
 ## Persis

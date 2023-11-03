@@ -5,8 +5,8 @@ aliases:
   - Los Baños
 tags:
   - seedlings
-sr-due: 2022-05-23
-sr-interval: 3
+sr-due: 2025-09-02
+sr-interval: 669
 sr-ease: 250
 locations: 
 ---
@@ -18,5 +18,3 @@ This is a good research project. How did the spas started? Are the current baths
 ## Related
 
 - [[The Los Baños internment camp]]
-
-# References

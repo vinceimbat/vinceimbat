@@ -32,19 +32,15 @@ kanban-plugin: basic
 - [ ] SUSTAINING
 - [ ] [S] I have set up the version 1 of my freelance business.
 - [ ] [S] I have fixed the Asus laptop and sold it.
-- [ ] [S] I have improved my editing and proofreading skills.
 - [ ] [S] I have re-applied at Scribbr.
 - [ ] [S] I have re-applied at PaperTrue.
 - [ ] [S] I have legalized my freelance business.
-- [ ] [S] I have built P360,000 worth of emergency fund.
 - [ ] [S] I have curated a minimalist wardrobe.
 - [ ] [S] I have launched a Patreon page.
 - [ ] CREATING
 - [ ] [CR] I have gained clarity about my creative life and have updated my plan for it.
 - [ ] [CR] I have processed DIY MFA highlights and used what I learned to organize my creative life.
-- [ ] [CR] Learn how to use the map plug-in in Obsidian.
 - [ ] [CR] I have reintroduced myself and my work to my audience.
-- [ ] [CR] Study and write walking poems for Cordillera Creative Writing Workshop.
 - [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
 - [ ] [CR] I have organized my virtual reading inbox and have detailed my reading processes in my mind forest.
 - [ ] [CR] I have performed a week-long walk of Los Baños.
@@ -62,15 +58,17 @@ kanban-plugin: basic
 
 - [ ] [S] I have delivered a beautiful and functioning website for Ili Likhaan Ceramics.
 - [ ] [S] I have reviewed my recent work with Candent and Ili and have set up systems, prices, and offers based on these.
-- [ ] [CR] I have gained clarity about my creative life and have updated my plan for it.
 - [ ] [S] I have helped Lea apply in Scribendi.
 - [ ] [S] I have renewed my PWD card.
 - [ ] [R] I have established a habit of sleeping eight hours a day from 11 PM to 7 AM.
+- [ ] [S] I have set up the version 1 of my creative business.
 
 
 ## Primary focus
 
-- [ ] [S] I have set up the version 1 of my creative business.
+- [ ] [S] I have updated four OVIC Global Overviews assigned to me and sent them.
+- [ ] [U] I have taken the first steps in understanding free religion and how I could adopt its ideas into my own way of life.
+- [ ] [O, S] I have fully integrated my financial system and other life areas with Lea’s.
 - [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
 - [ ] [CR] I have written and revised 10-15 epistollary essays about walks in LB.
 
@@ -120,6 +118,9 @@ kanban-plugin: basic
 - [x] [S] I have written a high-quality revision for Chapters 1 and 2 and written a new Chapter 4 for Krys’ research. @[[2023-09-30]]
 - [x] [CR] Modify “A Never-ending Walk” and submit it to INWW. @[[2023-09-30]]
 - [x] [CR] I have improved the design and information architecture of vinceimbat.com. @[[2023-09-30]]
+- [x] OCTOBER 2023
+- [x] [S] I have updated the two OVIC overviews assigned to me and sent them. @[[2023-10-13]]
+- [x] NOVEMBER 2023
 
 
 ## 2022 Done
