@@ -21,7 +21,7 @@ I also started reading [[New Age]] philosophy.
 
 I also started reading contemporary spiritual teachers like [[Eckhart Tolle]].
 
-I devoured [[Nonduality]], [[Advaita Vedanta]], read [[Jeff Foster]]. I never really understood the teachings logically but I really felt good, felt like I found something in me that was always there. I saw that I don't have to be a radical and angry atheist like [[Richard Dawkins]] or the people at the [[Philippine Atheism, Agnosticism, and Secularism Incorporated (PATAS)]] to be truthful. I can be truthful and compassionate. I can have truth and beauty.
+I devoured [[Nonduality]], [[thoughts/advaita vedanta]], read [[Jeff Foster]]. I never really understood the teachings logically but I really felt good, felt like I found something in me that was always there. I saw that I don't have to be a radical and angry atheist like [[Richard Dawkins]] or the people at the [[Philippine Atheism, Agnosticism, and Secularism Incorporated (PATAS)]] to be truthful. I can be truthful and compassionate. I can have truth and beauty.
 
 I tried doing meditation but still struggled. I was finally able to build a yoga plus meditation routine. I felt inner changes. I became less angry.
 

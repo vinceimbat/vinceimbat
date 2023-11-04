@@ -13,7 +13,7 @@ sr-ease: 236
 
 If I am to follow the path of the people whom I say inspire me, it is inevitable that I go against the night. Almost all of them were brave enough to live their truth and know their authentic selves and by doing so serve as role models to all of us who are afraid to listen to ourselves and do what we know is right. How do I show courage? How do I respond to the call of the wild?
 
-This line of thought inspired me to write the poem [[ang unang liwayway]].
+This line of thought inspired me to write the poem [[poems/ang unang liwayway]].
 
 ## References
 

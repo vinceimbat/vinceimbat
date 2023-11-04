@@ -9,7 +9,7 @@ sr-interval: 11
 sr-ease: 285
 ---
 
-In September 28, [[thoughts/henry bugbee]] writes what is probably his most difficult to comprehend entry so far. It is an entry about the possibility of using belief (or [[Faith]])[^1] as a tool for understanding. He first acknowledges that the statement "believe in order to understand" is unclear and invites dishonesty. The statement presupposes that we can believe on something we do not understand.
+In September 28, [[thoughts/henry bugbee]] writes what is probably his most difficult to comprehend entry so far. It is an entry about the possibility of using belief (or [[thoughts/faith]])[^1] as a tool for understanding. He first acknowledges that the statement "believe in order to understand" is unclear and invites dishonesty. The statement presupposes that we can believe on something we do not understand.
 
 Bugbee proposes that to make sense of the statement, we must let go of our preoccupation of forms of knowledge and the methods of yielding them. Instead, we must shift our attention to the "inner activity" of the person yielding the knowledge. This consideration of the thinker's inner activity is something the West is devoid of, especially in disciplines like science and mathematics where the subject-matter is not experience but those abstracted from concrete experience. However, Bugbee suggests that when analyzing the epistemological basis of scientific and mathematical knowledge, the experience of the scientist or mathematician cannot be completely removed from the equation, otherwise, they are not revealing what they presupposed, suggesting they are believing to understand.
 

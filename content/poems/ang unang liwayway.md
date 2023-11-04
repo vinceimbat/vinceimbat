@@ -1,9 +1,11 @@
 ---
-title: "Ang Unang Liwayway"
-date: "2023-02-11"
+title: Ang Unang Liwayway
+date: 2023-02-11
+aliases:
+  - ang unang liwayway
 tags:
-- "seedlings"
-- "filipino"
+  - seedlings
+  - filipino
 sr-due: 2023-02-15
 sr-interval: 4
 sr-ease: 270
