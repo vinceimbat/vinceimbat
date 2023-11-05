@@ -1,9 +1,7 @@
-
 ---
 title: "Create a white border for your photo in Lightroom Classic"
 date: "2022-07-09"
 tags:
-
 - "evergreens"
 ---
 

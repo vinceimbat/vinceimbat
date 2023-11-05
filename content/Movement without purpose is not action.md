@@ -2,7 +2,6 @@
 title: "Movement without purpose is not action"
 date: "2022-04-25"
 tags:
-
 - "evergreens"
 ---
 
