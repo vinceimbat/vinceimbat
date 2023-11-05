@@ -1,14 +1,14 @@
 ---
-title: "Find your purpose through divergence–convergence"
-date: "2022-04-27"
+title: Find your purpose through divergence–convergence
+date: 2022-04-27
+aliases:
+  - find your purpose through divergence–convergence
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2023-02-14
 sr-interval: 43
 sr-ease: 247
 ---
-
 Convergence can only happen after divergence. A [[convergence tool]] like [[thoughts/purpose]] ([[thoughts/purpose is a convergence tool]]) can only be produced by trial and error. Deciding on what to try out is usually done through [[Intuition]] (i.e., [[System 2 Thinking]]).
 
 [[We create our individual purpose]] through the following proces:

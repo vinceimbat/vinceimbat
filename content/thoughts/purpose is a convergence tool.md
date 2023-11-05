@@ -15,4 +15,4 @@ I am partial to the idea that when we were born, we didn't have a given purpose 
 
 However, trying different things out produce too much information and magnets of attention that could easily produce overwhelm. We need a certain tool—a purpose or a question—to make sense of all these information. This means that a purpose is simply a narrowing tool that gives us a sense of control and direction.
 
-Realizing that purpose is simply a convergence tool implies that you can [[find your purpose through divergence–convergence]]. This method applies to thinking about the purpose of your life as well as the purpose of your smaller projects.
+Realizing that purpose is simply a convergence tool implies that you can [[thoughts/find your purpose through divergence–convergence|find your purpose through divergence–convergence]]. This method applies to thinking about the purpose of your life as well as the purpose of your smaller projects.
