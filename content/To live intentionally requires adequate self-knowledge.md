@@ -17,7 +17,7 @@ To know one’s inclinations involves asking:
 •	What emotions do I want to experience more?
 •	What emotions do I want to experience less?
 
-In answering these questions, [[psychology]] could help.
+In answering these questions, [[thoughts/psychology]] could help.
 
 After being familiar with one’s preferences, [[One will naturally desire a society that allows one’s preferences to be satisfied]].
 

@@ -17,7 +17,7 @@ I am an existent who ultimately doesn't know where he came from. I came to a spa
 
 My quest is articulated here as fiction, but really is a metaphor. It is made up of two things:
 1. An articulation of my picture of reality (i.e., [[thoughts/metaphysics]] and [[thoughts/epistemology]])
-2. An articulation of how I respond to this reality (i.e., [[thoughts/ethics]], [[praxeology]], and [[thoughts/poetics]])
+2. An articulation of how I respond to this reality (i.e., [[thoughts/ethics]], [[thoughts/praxeology]], and [[thoughts/poetics]])
 
 In short, my quest is heavily inspired by [[thoughts/my worldview]]. Since my worldview could grow and change in time, so will my quest.
 
