@@ -9,6 +9,15 @@ sr-due: 2023-09-26
 sr-interval: 3
 sr-ease: 250
 ---
+# Title ideas
+
+- A Body Walks Here
+- A Walking Body
+- Body Walking
+- Walking on Both Knees
+- On Both Knees
+- Limb of a Collective Conscious
+
 # Epistolary essays on walking
 
 1. [[essays/2023-08-18 letter to j|2023-08-18 letter to J]]
@@ -31,4 +40,4 @@ sr-ease: 250
 - [[2023-08-24 seeds]]
 - [[2023-08-29 seeds]]
 - [[2023-09-02 seeds]]
-- [[2023-09-13 seeds]] *
+- [[2023-09-13 seeds]]

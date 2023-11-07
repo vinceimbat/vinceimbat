@@ -13,7 +13,7 @@ This is the acronym for the 20th Ateneo National Writer's Workshop organized by 
 
 Ten days before the deadline for passing entries on April 1, 2023, I collated my newsletter articles from Lilim and read the literature on [[Liminality]], [[Autoethnography]], and [[thoughts/walking]].
 
-- [[Ideas on how to approach the ANWW20 entry]]
+- [[thoughts/approaching the anww20 entry]]
 - [[Outline of entry to ANWW20]]
 - [[Entry to ANWW20]]
 - [[Unprocessed notes for ANWW20]]
