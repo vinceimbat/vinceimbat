@@ -28,4 +28,18 @@ I am already doing this listening; I just have to strengthen and cultivate it.
 
 In this [[thoughts/free religion|free religion]] path, it is wise to retreat to my well first and establish that center, that base, that stronghold before moving out.
 
+# On the self
+
+I am partial toward the logical explanation that the [[thoughts/self|self]] exists, which implies that it has boundaries. This means that I am metaphysically distinct from you by virtue of these boundaries: I know things you don't know.
+
+But I realize now that this applies only with the [[mind]], which is not necessarily what the self is. What I'm entertaining now is the possibility of fine-tuning my beliefs about the mind and the self.
+
+Both the mind and the self do not emerge independent of others (i.e., matter, perhaps even discourse). My mind could not have been here without a brain. And since [[action]] requires matter, action and agency could not occur by mind alone. Agency seems indeed a relationship.
+
+The self as I see it now could not be solely equated with the mind. The self is a relationship (which perhaps means it is abstract?). The self is multi-layered and ever-changing. It includes the mind but also the body. And it could not exist (it perishes) without the outside world. It is indeed a river.
+
+This connects me back to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]]'s conception of the self. According to Andrew, his idea of the self was heavily influenced by Buddhist thought and [[thoughts/henri bergson|Henri Bergson]]. For Imaoka, the self is not discrete and permanent. It has been and always will be a part of an eternal, universal, free, creative, and unifying process that involves self, neighbour, and cooperative society (which includes non-humans).
+
+Selves do exist and we must start with them. But we should not remain in the level of the self. Since the nature of the self is to rely on everything around it, eventually, we need to go out and take care of others.
+
 # References
