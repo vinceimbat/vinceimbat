@@ -12,6 +12,6 @@ sr-ease: 250
 
 # References
 
-[[Nassim Taleb]]
+[[thoughts/nassim taleb]]
 
 
