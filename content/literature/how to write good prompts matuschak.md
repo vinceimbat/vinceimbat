@@ -18,7 +18,7 @@ If prompt design is task design, how should you design prompts? :: Design prompt
 <!--SR:!2023-12-03,40,293-->
 
 How does retrieval practice halt forgetting? :: By recalling repeatedly spaced over time
-<!--SR:!2023-11-03,15,233-->
+<!--SR:!2023-12-13,34,233-->
 
 The learning produced by retrieval practice when you try to recall knowledge. :: Testing effect
 <!--SR:!2023-11-13,13,273-->
@@ -89,7 +89,7 @@ How do you ensure a retrieval practice prompt is tractable? :: Write prompts you
 <!--SR:!2023-11-14,20,253-->
 
 How can you ensure that you answer a retrieval practice prompt correctly? :: Use a cue.
-<!--SR:!2023-11-08,20,273-->
+<!--SR:!2024-01-02,54,273-->
 
 To ensure that a prompt is effortful, avoid words that ?? the answer. :: imply
 <!--SR:!2023-11-22,28,270-->
@@ -98,7 +98,7 @@ What's the best way to ensure that your prompts are focused, precise, consistent
 <!--SR:!2023-11-21,28,273-->
 
 What should you do to knowledge to write tightly-scoped questions? :: Break it down into discrete components.
-<!--SR:!2023-11-06,9,270-->
+<!--SR:!2023-12-02,23,270-->
 
 The two skills required in writing effective retrieval practice prompts are:
 1. Defining the precise knowledge to reinforce.
@@ -124,7 +124,7 @@ What prompt best pairs with a factual prompt? :: An explanation prompt.
 <!--SR:!2024-01-10,71,310-->
 
 When should you pair an explanation prompt with a factual prompt? :: When you want to reinforce the fact by making it more meaningful.
-<!--SR:!2023-11-09,21,273-->
+<!--SR:!2024-01-06,58,273-->
 
 How do you write a retrieval practice prompt for an unordered list? :: Use cloze deletions.
 <!--SR:!2023-12-10,40,293-->
@@ -154,13 +154,13 @@ Where should you put mnemonic devices in a retrieval writing prompt? :: In the a
 <!--SR:!2023-12-27,57,313-->
 
 Why should you put mnemonic devices inside parentheses when using them in prompt answers? :: To show they simply help remember the answer.
-<!--SR:!2023-11-07,19,253-->
+<!--SR:!2023-12-26,47,253-->
 
 What should you do if you're struggling to produce an answer despite the help of a mnemonic device? :: Write a prompt to reinforce the association between the answer and the mnemonic device.
-<!--SR:!2023-11-04,7,253-->
+<!--SR:!2023-11-26,17,253-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
-<!--SR:!2023-11-09,18,253-->
+<!--SR:!2024-01-11,63,273-->
 
 What is the rule of thumb when determining the amount of prompts to write? :: Write more prompts than feels natural.
 <!--SR:!2023-11-25,34,290-->
@@ -296,7 +296,7 @@ Give two reasons on why you should approach prompt writing iteratively.
 - Identify most difficult to remember
 - Develop complete understanding
 - Connect ideas to life
-<!--SR:!2023-11-05,16,250-->
+<!--SR:!2023-12-18,39,250-->
 
 When engaging with a short piece of text, when is the best time to write prompts? :: After reading and highlighting
 <!--SR:!2024-01-03,64,310-->
@@ -314,7 +314,7 @@ This happens when you memorize the shape of a question and its answer but not un
 <!--SR:!2023-12-07,40,293-->
 
 How do you discourage pattern matching in retrieval practice? :: Keep questions short and simple.
-<!--SR:!2023-11-01,13,253-->
+<!--SR:!2023-12-11,32,253-->
 
 How should you approach binary prompts in retrieval practice? :: Rephrase them as more open-ended prompts.
 <!--SR:!2023-11-19,25,273-->
@@ -323,7 +323,7 @@ In retrieval practice, what is a "false negative"? :: Knowing the information yo
 <!--SR:!2023-11-18,25,253-->
 
 How do you avoid false negatives in retrieval practice? :: Include enough context to exclude alternative correct answers.
-<!--SR:!2023-11-06,17,253-->
+<!--SR:!2023-12-21,42,253-->
 
 How do you identify what to revise in prompts? :: Notice internal "sighs."
 <!--SR:!2023-12-20,50,290-->

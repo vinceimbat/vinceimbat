@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-According to [[Designing Your Life - Burnett and Evans]], workview is your philosophy of work. It states what work means to you in general. It defines what good work deserves to be. However, it is not a job description.
+According to [[literature/designing your life - burnett and evans]], workview is your philosophy of work. It states what work means to you in general. It defines what good work deserves to be. However, it is not a job description.
 
 A workview answers the following questions.
 

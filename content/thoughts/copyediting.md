@@ -12,7 +12,7 @@ sr-ease: 250
 # Prompts
 
 The copyeditor's prime directive: :: Remember that words matter.
-<!--SR:!2023-11-06,15,252-->
+<!--SR:!2023-11-19,10,232-->
 
 What are the two general-purpose style manuals?
 -
@@ -46,7 +46,7 @@ What is the best approach when faced with newfangled terms ending in -ize? :: Be
 <!--SR:!2023-11-27,30,272-->
 
 What is Eisohn's judgement when using the word "folderize"? :: Avoid on a general audience.
-<!--SR:!2023-11-03,6,252-->
+<!--SR:!2023-11-22,13,252-->
 
 Three ways a copyeditor could respond to a problem.
 - 
@@ -100,31 +100,31 @@ Ignore
 <!--SR:!2023-12-04,34,272-->
 
 Why is it important for a copyeditor to check several sources before making a difficult decision? :: To weigh options and make an informed decision.
-<!--SR:!2023-11-04,13,232-->
+<!--SR:!2023-12-06,27,232-->
 
 Copyeditors serve three constituencies:
-- 
+-
 - the publisher
 - readers
 ;;
 authors
-<!--SR:!2023-11-01,12,278-->
+<!--SR:!2023-12-27,48,298-->
 
 Copyeditors serve three constituencies:
 - authors
-- 
+-
 - readers
 ;;
 the publisher
-<!--SR:!2023-11-01,12,278-->
+<!--SR:!2023-12-23,44,298-->
 
 Copyeditors serve three constituencies:
 - authors
 - the publisher
-- 
+-
 ;;
 readers
-<!--SR:!2023-11-01,12,278-->
+<!--SR:!2023-12-24,45,298-->
 
 What is the goal shared by the copyeditor, author, publisher, and readers? :: An error-free publication.
 <!--SR:!2023-12-13,43,298-->
@@ -253,12 +253,12 @@ A copyeditor's six principal tasks:
 1. Mechanical editing
 2. Correlating parts
 3. Language editing
-4. 
+4.
 5. Permissions
 6. Markup
 ;;
 Content editing
-<!--SR:!2023-11-02,11,241-->
+<!--SR:!2023-11-15,6,221-->
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
@@ -283,7 +283,7 @@ Markup
 <!--SR:!2023-11-26,29,281-->
 
 Mechanical editing ::: Conforming to an editorial style
-<!--SR:!2023-11-17,23,261!2023-11-01,12,281-->
+<!--SR:!2023-11-17,23,261!2023-12-10,31,281-->
 
 Give at least two things that mechanical editing aims to make consistent. Give examples you haven't mentioned before.
 ;;
@@ -300,13 +300,13 @@ Give at least two things that mechanical editing aims to make consistent. Give e
 <!--SR:!2023-12-08,38,281-->
 
 The most common mistake made by novice copyeditors is rewriting portions of a text while ignoring ?? :: mechanical inconsistencies
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-14,35,281-->
 
 The rules in an editorial style is not a matter of ?? but of ?? :: correctness, preference
-<!--SR:!2023-11-04,4,241-->
+<!--SR:!2023-11-11,2,221-->
 
-If an editorial style is unavailable, what should the copyeditor do? :: Create a style sheet to achieve consistency.
-<!--SR:!2023-11-02,13,281-->
+If an editorial style is unavailable, what should the copyeditor do? :: Create a style sheet.
+<!--SR:!2024-01-03,55,301-->
 
 Give at least two tasks involved in correlating parts of the manuscript. Give examples you haven't mentioned before.
 ;;
@@ -318,7 +318,7 @@ Give at least two tasks involved in correlating parts of the manuscript. Give ex
 - comparing the entries in the list of illustrations to the illustrations themselves
 - comparing the TOC against the headings
 - comparing footnotes or endnotes against the bibliography
-<!--SR:!2023-11-05,12,241-->
+<!--SR:!2023-12-22,43,261-->
 
 Language editing involves correcting errors in:
 1. 
@@ -330,49 +330,49 @@ Grammar
 
 Language editing involves correcting errors in:
 1. Grammar
-2. 
+2.
 3. Diction
 ;;
 Usage
-<!--SR:!2023-11-01,12,281-->
+<!--SR:!2023-12-26,47,301-->
 
 Language editing involves correcting errors in:
 1. Grammar
 2. Usage
-3. 
+3.
 ;;
 Diction
-<!--SR:!2023-11-01,12,281-->
+<!--SR:!2023-12-26,47,301-->
 
 Grammar ::: Rules on arranging words in sentences
-<!--SR:!2023-12-09,39,281!2023-11-02,13,281-->
+<!--SR:!2023-12-09,39,281!2023-12-30,51,301-->
 
 Grammar includes ?? and ?? :: syntax, morphology
-<!--SR:!2023-11-04,11,241-->
+<!--SR:!2023-12-13,34,261-->
 
 Syntax ::: Construction of phrases, clauses, and sentences
 <!--SR:!2023-11-10,10,241!2023-12-02,32,281-->
 
 Morphology :::  Forms of words
-<!--SR:!2023-11-01,12,281!2023-11-01,12,281-->
+<!--SR:!2023-12-13,34,281!2023-12-25,46,301-->
 
 Most linguistic issues concern ?? :: usage
 <!--SR:!2023-12-14,44,301-->
 
 Usage ::: Collective habits of a language's native speakers.
-<!--SR:!2023-11-05,12,241!2023-12-08,38,301-->
+<!--SR:!2023-12-18,39,261!2023-12-08,38,301-->
 
 Diction ::: Word choice
-<!--SR:!2023-11-02,13,281!2023-11-02,13,281-->
+<!--SR:!2023-12-28,49,301!2024-01-02,54,301-->
 
 The rules for language editing are far more ?? than those for mechanical editing. :: subjective
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-28,49,301-->
 
 What is the correct grammatical number of the word data? :: Both plural and singular.
-<!--SR:!2023-11-01,12,281-->
+<!--SR:!2023-12-27,48,301-->
 
 When faced with a usage issue, a judicious copyeditor should follow the publisher's style guide or ?? :: replace the word
-<!--SR:!2023-11-01,10,261-->
+<!--SR:!2023-12-14,35,281-->
 
 What should you do to improve your grasp of usage? :: Learn the history of usage controversies.
 <!--SR:!2023-11-12,19,261-->
@@ -384,23 +384,23 @@ The goal of editing usage is to ?? not ?? :: help readers accept the text, defen
 <!--SR:!2023-11-18,18,241-->
 
 The question to ask when editing usage. :: "Is this sentence acceptable as the author has written it?"
-<!--SR:!2023-11-05,12,241-->
+<!--SR:!2023-11-16,7,221-->
 
 Why shouldn't you solely rely on Strunk and White? :: Oudated; Consider new linguistic data.
-<!--SR:!2023-11-05,12,241-->
+<!--SR:!2023-12-17,38,261-->
 
 What should a copyeditor do when encountering a clearly incorrect factual statement? :: Query.
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-29,50,301-->
 
-Whenever the content is unclear or confusing, the copyeditor's recourse is ?? :: Ask the author to resolve it.
-<!--SR:!2023-11-01,4,241-->
+Whenever the content is unclear or confusing, the copyeditor's recourse is ?? :: Ask the author to clarify.
+<!--SR:!2023-11-21,12,241-->
 
 Give at least one task involved in content editing. Give an example you haven't mentioned before.
 ;;
 - Checking for biased language.
 - Checking for potential legal problems.
 - Checking for plagiarism.
-<!--SR:!2023-11-02,2,181-->
+<!--SR:!2023-11-10,1,161-->
 
 To avoid problems regarding permissions, a copyeditor must ensure that ?? :: sources and credits are supplied
 <!--SR:!2023-11-10,17,261-->
@@ -409,28 +409,28 @@ Give at least one task involved in providing markup.  Give an example you haven'
 ;;
 - Tagging
 - Identifying and listing unfamiliar symbols
-<!--SR:!2023-11-06,13,261-->
+<!--SR:!2023-12-25,46,281-->
 
 Line editing ::: improving sentence and paragraph style
 <!--SR:!2023-11-16,19,241!2023-12-15,45,301-->
 
 To differentiate it with other kinds of editing, line editing is called ?? by the Editors Canada. :: stylistic editing
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-11-17,8,261-->
 
 Manuscript editing ::: Combination of mechanical editing, line editing, and substantive editing
-<!--SR:!2023-11-23,26,261!2023-11-01,12,281-->
+<!--SR:!2023-11-23,26,261!2023-12-28,49,301-->
 
 Substantive editing :: Heavy editing involving overall structure, content, and flow
-<!--SR:!2023-11-03,10,241-->
+<!--SR:!2023-11-14,5,221-->
 
 Copyeditors are not:
-- 
+-
 - rewriters or ghostwriters
 - developmental editors
 - publication designers
 ;;
 proofreaders
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-29,50,301-->
 
 Copyeditors are not:
 - proofreaders
@@ -469,7 +469,7 @@ Give at least two tasks involved in developmental editing. Give examples you hav
 - Identifying gaps in subject coverage
 - Devising strategies in communicating content
 - Making the product marketable
-<!--SR:!2023-11-07,10,201-->
+<!--SR:!2023-11-14,5,181-->
 
 When handling digital files, develop protocols for the following on-screen editing tasks:
 -
@@ -477,7 +477,7 @@ When handling digital files, develop protocols for the following on-screen editi
 - backing up
 ;;
 naming files and folders
-<!--SR:!2023-11-05,5,241-->
+<!--SR:!2023-11-24,15,261-->
 
 Develop protocols for the following on-screen editing tasks:
 - naming files and folders
@@ -496,7 +496,7 @@ backing up
 <!--SR:!2023-12-06,36,261-->
 
 Macros ::: Programmed commands that perform routine mechanical editing operations
-<!--SR:!2023-11-04,11,221!2023-11-01,12,281-->
+<!--SR:!2023-12-03,24,221!2023-12-25,46,301-->
 
 Ideally, how many times should a copyeditor go through a manuscript? :: Three: one preliminary skim and two complete passes
 <!--SR:!2023-11-13,19,261-->
@@ -505,7 +505,7 @@ A preliminary skim involves? :: Assessing the quality of writing and noting diff
 <!--SR:!2023-11-21,21,241-->
 
 Why should copyeditors read very, very slowly on the first pass? :: To catch every possible mistake.
-<!--SR:!2023-11-04,13,281-->
+<!--SR:!2023-12-29,50,301-->
 
 What are the three objectives of the second pass?
 1. 
@@ -535,27 +535,27 @@ Improve your perceptual acuity on the second pass by ?? :: Changing the appearan
 <!--SR:!2023-11-10,17,261-->
 
 How should you schedule the second pass? :: Without interruption.
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-15,36,281-->
 
 Why should the second pass be scheduled without interruption? :: You need short-term memory to catch inconsistencies.
-<!--SR:!2023-11-07,13,241-->
+<!--SR:!2023-12-07,28,241-->
 
 What should a copyeditor show when responding to an author's query responses? :: Empathy
-<!--SR:!2023-11-03,12,281-->
+<!--SR:!2023-12-29,50,301-->
 
 How should you respond to stetted revisions concerning minor issues? :: Respect author
-<!--SR:!2023-11-03,12,261-->
+<!--SR:!2023-12-27,48,281-->
 
 If time is limited, what kinds of errors should be prioritized? :: Embarrassing and confusing errors
 <!--SR:!2023-11-22,25,261-->
 
 How should you approach passes when straining to meet a tight schedule?
-- 
+-
 - Slow pass + no second pass
 - Slow pass + selective pass
 ;;
 Two quick passes
-<!--SR:!2023-11-03,12,261-->
+<!--SR:!2023-12-07,28,261-->
 
 How should you approach passes when straining to meet a tight schedule?
 - Two quick passes
@@ -577,13 +577,13 @@ What sections should you focus on during a selective second pass? :: Significant
 <!--SR:!2023-11-15,21,261-->
 
 What should you do to remember the most troubling sections to return to on the second pass? :: Mark them during first pass.
-<!--SR:!2023-11-01,12,281-->
+<!--SR:!2023-12-25,46,301-->
 
 When time is short, how many pages of the manuscript should you cover? :: All
-<!--SR:!2023-11-01,12,281-->
+<!--SR:!2023-12-27,48,301-->
 
 When time is short, what intensity of effort should you give on each page? :: Light effort
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2024-01-01,53,301-->
 
 Different ?? require different copyediting priorities. :: documents
 <!--SR:!2023-12-01,34,281-->
@@ -592,7 +592,7 @@ The twin-purpose of a business document to prioritize during copyediting. :: Per
 <!--SR:!2023-11-17,23,261-->
 
 Sentence adverb ::: An adverb that modifies an entire sentence
-<!--SR:!2023-11-21,24,261!2023-11-02,13,281-->
+<!--SR:!2023-11-21,24,261!2023-12-30,51,301-->
 
 Always follow a sentence adverb with a :: comma
 <!--SR:!2023-12-02,32,281-->
@@ -601,13 +601,13 @@ Always follow a sentence adverb with a :: comma
 <!--SR:!2023-11-12,19,261-->
 
 In "not only ... but also...", the word "also" is :: optional and frequently omitted
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2024-01-03,55,301-->
 
 A ?? is preferable over a ?? to precede "for example" when introducing a list. :: dash, comma
 <!--SR:!2023-11-20,23,261-->
 
 If the author's sentences are clear, correct, and serviceable, ?? :: let them be.
-<!--SR:!2023-11-02,13,281-->
+<!--SR:!2023-12-14,35,281-->
 
 Benefits of resisting the urge to recast an author's phrase in your own voice.
 -
@@ -634,16 +634,16 @@ Benefits of resisting the urge to recast an author's phrase in your own voice.
 - No need to maintain the author's style
 ;;
 Shorter cleanup and copyediting
-<!--SR:!2023-11-07,7,241-->
+<!--SR:!2023-11-13,4,221-->
 
 Benefits of resisting the urge to recast an author's phrase in your own voice.
 - Easier mechanical editing
 - Smoother client relationship
 - Shorter and easier cleanup and copyediting
-- 
+-
 ;;
 No need to maintain the author's style
-<!--SR:!2023-11-04,11,241-->
+<!--SR:!2023-12-06,27,241-->
 
 Terms denoting group ownership or participation sometimes appear ?? (i.e., as an attributive rather than a possessive noun) :: without an apostrophe
 <!--SR:!2023-11-24,27,261-->

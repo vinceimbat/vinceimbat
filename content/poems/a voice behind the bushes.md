@@ -3,8 +3,8 @@ title: "A Voice Behind the Bushes"
 date: "2023-06-01"
 tags:
 - "seedlings"
-sr-due: 2023-06-04
-sr-interval: 3
+sr-due: 2024-06-03
+sr-interval: 206
 sr-ease: 250
 ---
 Light touches dust and you arise  

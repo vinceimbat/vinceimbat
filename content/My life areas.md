@@ -12,7 +12,7 @@ sr-ease: 215
 I have six [[thoughts/life area]]s:
 1. [[Overseeing]]
 2. [[thoughts/understanding]]
-3. [[Restoring]]
+3. [[lms/restoring]]
 4. [[Connecting]]
 5. [[Sustaining]]
 6. [[thoughts/creating]]

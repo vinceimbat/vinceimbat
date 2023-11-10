@@ -11,6 +11,8 @@ Total: Php 324,000 (P27,000/month good for 1 year)
 - [ ] Put Php 162,000 in a high yield savings account (e.g. Uno Digital Bank).
 - [ ] Put Php 162,000 in a high yield time deposit account (e.g. Tonik for 6%).
 
+
+
 # Capital
 
 

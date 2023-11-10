@@ -10,7 +10,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 Cleanup ::: incorporating query responses
-<!--SR:!2023-11-14,17,242!2023-11-06,13,282-->
+<!--SR:!2023-11-14,17,242!2023-12-29,50,302-->
 
 Saving your files intermittently is a good practice. When should you do so?
 - 
@@ -21,10 +21,10 @@ At the end of every session
 
 Saving your files intermittently is a good practice. When should you do so?
 - At the end of every session
-- 
+-
 ;;
 At the end of every major stage
-<!--SR:!2023-11-05,12,262-->
+<!--SR:!2023-11-14,5,242-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - 
@@ -51,16 +51,16 @@ Versions of files that must be saved corresponding to major stages of the editor
 - cleaned up
 ;;
 author reviewed
-<!--SR:!2023-11-05,5,242-->
+<!--SR:!2023-11-21,12,242-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - unedited original files
 - redlined
 - author reviewed
-- 
+-
 ;;
 cleaned up
-<!--SR:!2023-11-07,14,262-->
+<!--SR:!2024-01-01,53,282-->
 
 How should you organize working files?
 1. 
@@ -90,12 +90,12 @@ When is version control most critical? :: When the document is reviewed by more 
 <!--SR:!2023-12-04,34,282-->
 
 A collaborative editorial system needs:
-- 
+-
 - version control
 - reconciling changes into a final version
 ;;
 a work process
-<!--SR:!2023-11-08,15,282-->
+<!--SR:!2024-01-06,58,302-->
 
 A collaborative editorial system needs:
 - a work process
@@ -108,13 +108,13 @@ version control
 A collaborative editorial system needs:
 - a work process
 - version control
-- 
+-
 ;;
 reconciling changes into a final version
-<!--SR:!2023-11-09,12,242-->
+<!--SR:!2023-12-07,28,242-->
 
 Redlined files ::: original text + tracked changes
-<!--SR:!2023-11-09,14,262!2023-11-26,26,282-->
+<!--SR:!2024-01-03,55,282!2023-11-26,26,282-->
 
 To make in-line edits more legible ?? :: Replace entire words
 <!--SR:!2023-11-19,19,262-->
@@ -125,14 +125,14 @@ When copy-pasting text in a redlined document, it shows what two changes? :: the
 <!--SR:!2023-12-01,31,282-->
 
 Queries ::: Comments on a small part of a manuscript
-<!--SR:!2023-11-20,23,263!2023-11-07,14,283-->
+<!--SR:!2023-11-20,23,263!2024-01-03,55,303-->
 
 Good querying skills involve:
-- 
+-
 - how to query
 ;;
 when to query
-<!--SR:!2023-11-08,15,282-->
+<!--SR:!2024-01-09,61,302-->
 
 Good querying skills involve:
 - when to query
@@ -176,13 +176,13 @@ Give two examples of instances where a query is necessary. Use examples you have
 - logical error
 - factual inaccuracy
 - inconsistency in interpretation of evidence
-<!--SR:!2023-11-05,8,222-->
+<!--SR:!2023-11-13,4,202-->
 
 To assure the author that some routine changes were not arbitrary, what should a copyeditor do? :: Write query on first occurrence.
 <!--SR:!2023-11-16,19,263-->
 
 To save time in writing frequently used boilerplate explanation queries, employ a ?? :: text expander
-<!--SR:!2023-11-09,16,283-->
+<!--SR:!2024-01-09,61,303-->
 
 What mechanical changes need querying?
 - 
@@ -203,18 +203,18 @@ revisions that may affect meaning
 What mechanical changes need querying?
 - controversial changes
 - revisions that may affect meaning
-- 
+-
 ;;
 esoteric or complex grammatical issues
-<!--SR:!2023-11-03,9,222-->
+<!--SR:!2023-11-13,4,202-->
 
 Items that don't require sources:
-- 
+-
 - extremely familiar phrases
 - well-known literary allusions
 ;;
 proverbs
-<!--SR:!2023-11-08,15,282-->
+<!--SR:!2024-01-08,60,302-->
 
 Items that don't require sources:
 - proverbs
@@ -227,10 +227,10 @@ well-known phrases
 Items that don't require sources:
 - proverbs
 - well-known phrases
-- 
+-
 ;;
 well-known literary allusions
-<!--SR:!2023-11-05,12,242-->
+<!--SR:!2023-12-06,27,242-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - 
@@ -260,16 +260,16 @@ The two parts of a query are :: explanation and proposed revisions
 <!--SR:!2023-11-25,25,282-->
 
 The length of queries should be ??, their scope ??, and their manner of delivery ?? :: concise, specific, polite
-<!--SR:!2023-11-03,3,202-->
+<!--SR:!2023-11-11,2,182-->
 
 Why should you avoid brief and vague queries like "Logic?" :: Authors feel chastised.
-<!--SR:!2023-11-03,9,242-->
+<!--SR:!2023-11-14,5,222-->
 
 Why should you avoid long and discursive queries? :: Authors resent time burden
 <!--SR:!2023-11-16,19,262-->
 
 How can you rephrase a substantive query that invites a yes or no answer? :: Explain why the change is important and describe how it can be done.
-<!--SR:!2023-11-06,13,262-->
+<!--SR:!2023-11-18,9,242-->
 
 Provide two tones to avoid when querying. Say something you haven't mentioned before.
 ;;
@@ -282,7 +282,7 @@ Provide two tones to avoid when querying. Say something you haven't mentioned be
 - challenging author's expertise or intellectual ability
 - complaining
 - rebuking
-<!--SR:!2023-11-01,8,242-->
+<!--SR:!2023-11-13,4,222-->
 
 Why should queries be phrased in terms of readers' needs? :: They reinforce author and copyeditor teamwork.
 <!--SR:!2023-12-03,33,282-->
@@ -293,10 +293,10 @@ Provide two helpful thoughts to remind you when feeling annoyed to the author. S
 - Author's work under personal and professional constraints.
 - If they are all careful, you'll be out of work.
 - Treat the manuscript as an ugly newborn.
-<!--SR:!2023-11-05,10,242-->
+<!--SR:!2023-12-03,24,242-->
 
 Chicago recommends using ?? when inserting queries in the document. :: comments
-<!--SR:!2023-11-09,16,282-->
+<!--SR:!2024-01-14,66,302-->
 
 Style sheet ::: Record of mechanical editorial choices
 <!--SR:!2023-11-10,15,263!2023-11-10,17,283-->
@@ -326,30 +326,30 @@ A (well-received, well received) proposal :: well-received
 <!--SR:!2023-11-30,30,283-->
 
 The proposal was (well-received, well received). :: well received
-<!--SR:!2023-11-09,16,283-->
+<!--SR:!2024-01-09,61,303-->
 
 An edited manuscript is returned to the author or editorial coordinator via a ?? :: transmittal letter
 <!--SR:!2023-11-29,29,282-->
 
 Five steps in writing a transmittal letter:
-1. 
+1.
 2. Review instructions.
 3. Explain decisions.
 4. Point pervasive issues.
 5. Explain larger concerns.
 ;;
 Praise.
-<!--SR:!2023-11-07,14,282-->
+<!--SR:!2023-12-31,52,302-->
 
 Five steps in writing a transmittal letter:
 1. Praise.
-2. 
+2.
 3. Explain decisions.
 4. Point pervasive issues.
 5. Explain larger concerns.
 ;;
 Provide review instructions.
-<!--SR:!2023-11-06,13,242-->
+<!--SR:!2023-12-11,32,242-->
 
 Five steps in writing a transmittal letter:
 1. Praise.
@@ -365,27 +365,27 @@ Five steps in writing a transmittal letter:
 1. Praise.
 2. Review instructions.
 3. Explain decisions.
-4. 
+4.
 5. Explain larger concerns.
 ;;
 Point pervasive issues.
-<!--SR:!2023-11-04,10,242-->
+<!--SR:!2023-11-13,4,222-->
 
 Five steps in writing a transmittal letter:
 1. Praise.
 2. Provide review instructions.
 3. Explain decisions.
 4. Point pervasive issues.
-5. 
+5.
 ;;
 Explain items that require more work.
-<!--SR:!2023-11-07,14,262-->
+<!--SR:!2023-11-16,7,242-->
 
 When offering praise to the author, use the pronoun ?? :: you
-<!--SR:!2023-11-08,15,282-->
+<!--SR:!2024-01-07,59,302-->
 
 How do you begin a transmittal letter if there's not much to admire about the manuscript? :: Convey interest in the subject or commend the author for tackling a difficult subject.
-<!--SR:!2023-11-03,9,242-->
+<!--SR:!2023-11-30,21,242-->
 
 Even if you are an expert on the author's topic, it's best to use the ?? to avoid irritating the author.
 

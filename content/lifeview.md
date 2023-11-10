@@ -26,7 +26,7 @@ A lifeview is your ideas about the world and how it works. It answers the follow
 
 Here is [[My lifeview]].
 
-According to [[Designing Your Life - Burnett and Evans]], a lifeview is a necessary complement to a [[workview]] in creating one's life compass. A well-designed life has a bias towards coherence between your lifeview and your [[workview]]. To find this coherence, ask the following questions:
+According to [[literature/designing your life - burnett and evans]], a lifeview is a necessary complement to a [[workview]] in creating one's life compass. A well-designed life has a bias towards coherence between your lifeview and your [[workview]]. To find this coherence, ask the following questions:
 
 - Where do your views on work and life complement one another?
 - Where do they clash?
