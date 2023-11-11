@@ -253,6 +253,8 @@ If you become open-minded enough to accept reality, you’ll be freed to reframe
 
 The only response to a gravity problem is acceptance. And this is where all good designers begin. This is the “You Are Here” or “Accept” phase of design thinking. Acceptance.
 
+Gravity problems aren’t actually problems. They’re circumstances that you can do nothing to change. There is no solution to a gravity problem—only acceptance and redirection.
+
 ***
 
 ## Health
@@ -327,6 +329,371 @@ Designing something changes the future that is possible.
 
 So, although it is not possible to know your future, or figure out a great life design before you begin, at least you have a good idea of your starting point.
 
+***
+## Spend more time living not planning life
+
+It’s not hard to imagine that if we added up all the hours spent trying to figure out life, for some of us they would outweigh the hours spent actually living life. Really. Living. Life.
+
+Worry, analysis, and speculation are not our best discovery tools, and most of us have, at one time or another, gotten incredibly lost and confused using them. They tend to keep us spinning in circles and spending weeks, months, or years sitting on that couch (or at a desk, or in a relationship) 
+
+trying to figure out what to do next. It’s as if life were this great big DIY project, but only a select few actually got the instruction manual.
+
+This is not designing your life.
+
+This is obsessing about your life.
+
+***
+## Life design is finding your own answers to perennial questions
+
+What is the good life? How do you define it? How do you live it?
+
+Why am I here?
+
+What am I doing?
+
+Why does it matter?
+
+What is my purpose?
+
+What’s the point of it all?
+
+Life design is a way for you to figure out your own answers to these perennial questions, and to figure out your own good life.
+
+***
+## Steps in designing your life
+
+1. Knowing what's on your life design dashboard.
+2. Building your compass.
+
+***
+## How to build a compass
+
+You need two things to build your compass—a Workview and a Lifeview. To start out, we need to discover what work means to you. What is work for? Why do you do it? What makes good work good? If you discover and are able to articulate your philosophy of work (what it’s for and why you do it), you will be less likely to let others design your life for you. Developing your own Workview is one component of the compass you are building; a Lifeview is second.
+
+if you are alive, you have a Lifeview. A Lifeview is simply your ideas about the world and how it works. What gives life meaning? What makes your life worthwhile or valuable? How does your life relate to others in your family, your community, and the world? What do money, fame, and personal accomplishment have to do with a satisfying life? How important are experience, growth, and fulfillment in your life?
+
+your Workview and Lifeview will change
+
+you don’t have to have it all figured out for the rest of your life; you just have to create the compass for what life is about for you right now.
+
+***
+## Why it is important to build your own compass
+
+there are lots of powerful voices in the world, and lots of powerful voices in our heads, all telling us what to do or who to be. And because there are many models for how life is supposed to be lived, we all run the risk, like Parker, of accidentally using someone else’s compass and living someone else’s life. The best way to avoid this is to articulate clearly our own Workview and Lifeview, so we can build our own unique compass.
+
+***
+## Aspire for a life of coherency
+
+Our goal for your life is rather simple: coherency.A coherent life is one lived in such a way that you can clearly connect the dots between three things:
+- Who you are
+- What you believe
+- What you are doing
+
+Most of us have to make some trade-offs and compromises along the way, including some we may not like.
+
+But that will be okay, because it’s a conscious decision, which allows you to stay “on course” and coherent. Living coherently doesn’t mean everything is in perfect order all the time. It simply means you are living in alignment with your values and have not sacrificed your integrity along the way. When you have a good compass guiding you, you have the power to cut these kinds of deals with yourself. If you can see the connections between who you are, what you believe, and what you are doing, you will know when you are on course, when there is tension, when there might need to be some careful compromises, and when you are in need of a major course correction. Our experience with our students has shown that the ability to connect these three dots increases your sense of self, and that helps you create more meaning in your life and have greater satisfaction.
+***
+## How to write a workview
+
+Write a short reflection about your Workview.
+
+This should take about thirty minutes. Try to shoot for 250 words—less than a page of typed writing.
+
+A Workview should address the critical issues related to what work is and what it means to you. It is not just a list of what you want from or out of work, but a general statement of your view of work. It’s your definition for what good work deserves to be.
+
+- Why work?
+- What’s work for?
+- What does work mean?
+- How does it relate to the individual, others, society?
+- What defines good or worthwhile work?
+- What does money have to do with it?
+- What do experience, growth, and fulfillment have to do with it?
+
+we’re not interested in what work you want to do, but why you work.
+
+What we’re after is your philosophy of work—what it’s for, what it means. This will essentially be your work manifesto.
+
+take the time to reflect and articulate what work and vocation mean to you (and perhaps what you hope work means for others as well).
+
+Workviews can and do range widely in what they address and how they incorporate different issues, such as service to others and the world, money and standard of living, and growth, learning, skills, and talents. All of these can be part of the equation. We want you to address what you think is important.
+
+***
+## Work is the largest single component of our life
+
+When using the term “work,” we mean the broadest definition—not just what you do to make money or for “a job.” Work is often the largest single component of most people’s waking lives, and over a lifetime it occupies more of our attention and energy than anything else we do.
+
+***
+## Work that is socially meaningful brings more satisfaction
+
+You do not have to address the question of service to others or any explicit connection to social issues. However, the positive psychologist Martin Seligman found that the people who can make an explicit connection between their work and something socially meaningful to them are more likely to find satisfaction, and are better able to adapt to the inevitable stresses and compromises that come with working in the world.
+
+***
+## How to write a lifeview
+
+This should also take no more than thirty minutes and be 250 words or so.
+
+write down whatever critical defining values and perspectives provide the basis for your understanding of life. Your Lifeview is what provides your definition of what have been called “matters of ultimate concern.”
+
+- Why are we here?
+- What is the meaning or purpose of life?
+- What is the relationship between the individual and others?
+- Where do family, country, and the rest of the world fit in?
+- What is good, and what is evil?
+- Is there a higher power, God, or something transcendent, and if so, what impact does this have on your life?
+- What is the role of joy, sorrow, justice, injustice, love, peace, and strife in life?
+
+design is values-neutral, and we don’t take sides.
+
+***
+## Integrate your workview and lifeview
+
+Read over your Workview and Lifeview, and write down a few thoughts on the following questions (please try to answer each of the questions):
+- Where do your views on work and life complement one another?
+- Where do they clash?
+- Does one drive the other? How?
+
+this reflection will result in some editing of one or both of your views. By having your Workview and your Lifeview in harmony with each other, you increase your own clarity and ability to live a consciously coherent, meaningful life—one in which who you are, what you believe, and what you do are aligned. When you’ve got an accurate compass, you’ll never stray off course for long.
+
+it’s crucial for you to assess how well your work fits your values and priorities—how coherent your work is with who you are and what you believe.
+
+***
+## How to use workview and lifeview as a compass
+
+Ultimately, what these two views do is give you your “True North.” They create your compass. They will help you know if you’re on course or off course. At any moment you can assess where you are in relation to your True North.
+
+Anytime you start to feel your life is not working, or you’re going through a major transition, it’s good to do a compass calibration. We do them at least once a year.
+
+Anytime you’re changing your situation, or pursuing a new thing, or wondering what you’re doing at a particular job—stop. Before you start, it’s a good idea to check your compass and orient yourself.
+
+I won’t always know where I’m going—but I can always know whether I’m going in the right direction.
+***
+## Use engagement and energy to find your way
+
+Wayfinding is the ancient art of figuring out where you are going when you don’t actually know your destination. For wayfinding, you need a compass and you need a direction. Not a map—a direction.
+
+Since there’s no onedestination in life, you can’t put your goal into your GPS and get the turn-by-turn directions for how to get there. What you can do is pay attention to the clues in front of you, and make your best way forward with the tools you have at hand. We think the first clues are engagement and energy.
+
+We are not suggesting a life singularly focused on engagement and energy level. We are suggesting that focused attention on engagement and energy level can provide very helpful clues to wayfinding your path forward. Life design consists of a whole set of ideas and tools that work together flexibly.
+***
+## Engagement
+
+When you learn what activities reliably engage you, you’re discovering and articulating something that can be very helpful in your life design work.
+
+Logging when you are and aren’t engaged and energized will help you pay attention to what you’re doing and discover what’s working.
+***
+## Flow
+
+Flow is engagement on steroids. Flow is that state of being in which time stands still, you’re totally engaged in an activity, and the challenge of that particular activity matches up with your skill—so you’re neither bored because it’s too easy nor anxious because it’s too hard.
+
+- Experiencing complete involvement in the activity.
+- Feeling a sense of ecstasy or euphoria.
+- Having great inner clarity—knowing just what to do and how to do it.
+- Being totally calm and at peace.
+- Feeling as if time were standing still—or disappearing in an instant.
+
+Flow can happen during almost any physical or mental activity, and often when both are combined.
+
+Flow is one of those “hard to describe but you know it when you feel it” qualitative experiences that you’ll have to identify for yourself. 
+
+Flow is play for grown-ups.
+
+Flow is one key to what we call adult play, and a really rewarding and satisfying career involves a lot of flow states. The essence of play is being fully immersed and joyful in what you’re doing, without being constantly distracted by concerns about the outcomes. When we’re in flow, that’s exactly what’s going on—we are fully present to what we’re doing, so present we don’t even notice time. Seen this way, flow is something we should strive to make a regular part of our work life
+***
+## Track your flow states
+
+As the ultimate state of personal engagement, flow experiences have a special place in designing your life, so it’s important to get good at capturing them in your Good Time Journal.
+***
+## Be mindful of where you invest your attention
+
+the way we invest our attention is critical to whether or not we feel high or low energy.
+***
+## Track your energy flows
+
+We engage in physical and mental activities all day long. Some activities sustain our energy and some drain it; we want to track those energy flows as part of our Good Time Journal exercise. Once you have a good handle on where your energy goes every week, you can start redesigning your activities to maximize your vitality.
+
+high levels of engagement often coincide with high levels of energy, but not necessarily.
+
+Energy is also unique in that it can go negative—some activities can actually suck the life right out of us and send us drained into whatever comes next. Boredom is a big energy-suck, but it’s much easier to recover from boredom than from being de-energized, so it’s important to pay specific attention to your energy levels.
+***
+## Redesign your current life not a new life
+
+life design is about getting more out of your current life—and not only about redesigning a whole new life.
+
+most life design work is directed at tuning up and improving the life you’re in, without having to make huge structural changes like changing jobs
+***
+## Follow the joy to find your direction
+
+He just had to find a way to craft his job so that he was doing more of what he loved and less of what he hated.
+
+Here’s another key element when you’re wayfinding in life: follow the joy; follow what engages and excites you, what brings you alive. Most people are taught that work is always hard and that we have to suffer through it. Well, there are parts of any job or any career that are hard and annoying—but if most of what you do at work is not bringing you alive, then it’s killing you. It’s your career, after all, and you are going to be spending a lot of time doing it—we calculate it at 90,000 to 125,000 hours during the course of your lifetime. If it’s not fun, a lot of your life is going to suck.
+
+Work is fun when you are actually leaning into your strengths and are deeply engaged and energized by what you’re doing.
+***
+## Parts of a good time journal
+
+There are two elements to the Good Time Journal:
+- Activity Log (where I record where I’m engaged and energized)
+- Reflections (where I discover what I am learning)
+
+The Activity Log simply lists your primary activities and how engaged and energized you were by those activities. We recommend that you make Activity Log entries daily, to be sure to capture lots of good information. If every few days is easier, that’s fine as well, but log activities at least twice a week or you’ll miss too much.
+
+The second element of the Good Time Journal is reflection, looking over your Activity Log and noticing trends, insights, surprises—anything that is a clue to what does and doesn’t work for you.
+***
+## How to accomplish a good time journal
+
+All of us are motivated by different kinds of work activities. Your job is to figure out which ones motivate you—with as much specificity as you can. It will take a while to get the hang of this, because, if you’re like most people, you’ve not been paying detailed attention to this sort of thing.
+
+A day is made up of many moments, some of which are great, some of which suck, and most of which lie somewhere in between. Your job is to drill down into the particulars of your day and catch yourself in the act of having a good time.
+
+We recommend doing your Activity Log for at least three weeks, or whatever period of time you need to be sure you capture all the various kinds of activities that arise in your current situation
+
+Then we recommend that you do your Good Time Journal reflection weekly, so your reflections are based on more than just a single experience of each activity.
+
+Write your weekly reflections on blank pages in your Good Time Journal.
+
+1. Complete a log of your daily activities, using the worksheet provided (or in your own notebook). Note when you are engaged and/or energized and what you are doing during those times. Try to do this daily, or at the very least every few days.
+2. Continue this daily logging for three weeks.
+3. At the end of each week, jot down your reflections—notice which activities are engaging and energizing, and which ones are not.
+4. Are there any surprises in your reflections?
+5. Zoom in and try to get even more specific about what does or does not engage and energize you.
+6. Use the AEIOU method as needed to help you in your reflections.
+***
+## How to approach energy-negative tasks
+
+give himself small rewards when he completes “energy-negative” tasks. The best way to deal with these energy-negative activities is to make sure that you are well rested and have the energy reserves needed to “do them right.” Otherwise, you might find yourself doing them again—costing you more energy than they should.
+***
+## Look closer at your good time journal
+
+After a week or two, when you’ve got a decent body of entries in your Good Time Journal and you’re starting to notice some interesting things, it’s time to zoom in and take the exercise to the next level. Typically, after you start to get the hang of paying more detailed attention to your days, you notice that some of your log entries could be more specific: you need to zoom in to see more clearly. The idea is to try to become as precise as possible; the clearer you are on what is and isn’t working for you, the better you can set your wayfinding direction.
+
+This more precise version tells a much more useful story about what specific activity or behavior engages you. And it opens the door to developing even greater self-awareness. When your entries have that kind of detail in them, your reflections can be more insightful.
+
+Getting great insights out of your Good Time Journal reflections isn’t always easy, so here’s a tool designers use to make detailed and accurate observations—part of getting good at the curiosity mind-set. It’s the AEIOU method that provides you five sets of questions you can use when reflecting on your Activity Log.
+
+Activities. What were you actually doing? Was this a structured or an unstructured activity? Did you have a specific role to play (team leader) or were you just a participant (at the meeting)?
+
+Environments. Our environment has a profound effect on our emotional state. Notice where you were when you were involved in the activity. What kind of a place was it, and how did it make you feel?
+
+Interactions. What were you interacting with—people or machines? Was it a new kind of interaction or one you are familiar with? Was it formal or informal?
+
+Objects. Were you interacting with any objects or devices? What were the objects that created or supported your feeling engaged?
+
+Users. Who else was there, and what role did they play in making it either a positive or a negative experience?
+
+Using AEIOU can really help you to zoom in effectively and discover specifically what it is that is or isn’t working for you.
+
+As you work on your reflections in the Good Time Journal, try using this AEIOU method to get more out of your observations. It is important to record whatever comes up and not to judge yourself—there are no right or wrong feelings about your experience. The thing to focus on is that this kind of information is going to be incredibly helpful in designing your life.
+***
+## Mine your past for good times
+
+Your past is waiting to be mined for insights, too—especially your mountaintop moments, or “peak experiences.” Peak experiences in our past—even our long-ago past—can be telling. Take some time to reflect on your memories of past peak work-related experiences and do a Good Time Journal Activity Log and reflection on them to see what you find. Those memories have stuck with you for good reason. You can make a list of those peak experiences, or write them out as a narrative or story.
+
+Having the narrative of your peak experiences written down will make it easier to extract from those stories the activities that most engaged and energized you, and to discover insights that you can apply today.
+
+Using past experience is particularly useful if you aren’t currently in a situation that lends itself to a successful Good Time Journal exercise, such as if you’re between jobs. It’s also helpful if you’re just getting started on your professional life and don’t yet have much experience. If so, think about activities that you did in other areas of your life (perhaps even decades ago) when you felt that life was working. A historical Good Time Journal on past projects from school, summer programs, volunteer projects—anything that you were seriously engaged by—can be useful. When looking back, do beware of revisionist history—being too kind to the good days or too critical of the bad times. Just try to be honest.
+***
+## You choose better when you have lots of good ideas to choose from
+
+Designers know that when you choose from lots of options you choose better.
+
+I’m never stuck, because I can always generate a lot of ideas.
+
+I need a lot of ideas so that I can explore any number of possibilities for my future.
+
+When you think like a designer, you know how to ideate—how to “flare”—to come up with lots of options for lots of possible futures.
+
+You can’t know what you want until you know what you might want, so you are going to have to generate a lot of ideas and possibilities.
+
+Quantity has a quality all its own. In life design, more is better, because more ideas equal access to better ideas, and better ideas lead to a better design. Expanding your thinking improves your ability to ideate and allows for more innovation. If you work through lots of ideas, your chances of hitting on some that can be really energizing for you go up, which increases your chance of creating something that can work and that you’ll love. More ideas also equal new insights.
+
+Designers love to ideate broadly and wildly. They love the crazy ideas as much as or more than the sensible ones.
+
+The crazy ideas may not be the ones we pick (and rarely are, actually), but often after having the crazy ideas, we have moved to a new creative space, and we can see new and innovative possibilities that can work.
+
+We want you to have lots of ideas and lots of options.
+
+When you have lots of ideas, you can build prototypes of your life and test them out. That’s what life designers do.
+***
+## Never choose your first solution to any problem
+
+Designers know that you never go with your first idea.
+
+Many people are like Grant: they get stuck trying to make their first idea work.
+
+So many people get stuck chasing their first idea, or the perfect idea, or that one big idea that will solve the problem, will be the answer, and will dig them out of whatever hole they are currently stuck in. That’s a lot of pressure. Believing that there’s only one idea out there leads to a lot of pressure and indecision.
+
+Our minds are generally lazy and like to get rid of problems as quickly as possible, so they surround first ideas with a lot of positive chemicals to make us “fall in love” with them. Do not fall in love with your first idea. This relationship almost never works out. Most often, our first solutions are pretty average and not very creative. Humans have a tendency to suggest the obvious first. Learning to use great ideation tools helps you overcome this bias toward the obvious and helps you regain a sense of creative confidence.
+***
+## Avoid job listings when looking for a job
+
+Most people do the same thing Sharon did when they need work: they look at the job listings and look for a job that they think they can get. This is one of the worst ways to get a job, and actually has the lowest success rate.
+
+This way of thinking is not design thinking; it’s just grasping whatever might be in reach, and it’s unlikely to result in long-term satisfaction.
+***
+## Each of us have more than one life in us
+
+There’s always got to be a better idea, a better way—even a best way. That kind of thinking is pretty dangerous to life design. The truth is that all of us have more than one life in us.
+
+And if you accept this idea—that there are multiple great designs for your life, though you’ll still only get to live one—it is rather liberating. There is no one idea for your life. There are many lives you could live happily and productively (no matter how many years old you are), and there are lots of different paths you could take to live each of those productive, amazingly different lives.
+***
+## Avoid judgment to generate many ideas
+
+Designers learn to have lots of wild ideas because they know that the number one enemy of creativity is judgment. Our brains are so tightly wired to be critical, find problems, and leap to judgment that it’s a wonder any ideas ever make it out! We have to defer judgment and silence the inner critic if we want to get all our ideas out.
+***
+## How to mind map
+
+1. Pick a topic.
+2. Make the mind map.
+3. Make secondary connections and create concepts (mash it all up)
+
+Step two is making the mind map. For this, you take the original idea and write down five or six things related to that idea. Be rigorous in writing down the first words that come to mind. Now repeat this process with the words in the second ring. Draw three or four lines from each word, and free-associate new words related to these prompts. The words that come up for you do not need to be associated to the words or question in the center, only the word in the second ring. Repeat this process until you have at least three or four rings of word associations.
+
+This whole process of creating layers and word associations took three to five minutes; you want to give yourself a time limit so you do this fast and bypass your inner censor. The next step is to take this random association of words and highlight a few things that might be interesting (or that jump out at you) and mash them together into a few concepts. You want to pick from the very outer layer or perimeter of the mind map, because that is the stuff that is two or three steps away from your conscious thinking.
+
+It’s important to remember when you do this not to censor your words. That’s why we suggest you do it fast. Just write down the first words that come to mind. If you censor yourself, you limit your potential for generating new and novel ideas.
+
+Also, you should create your mind map on a big piece of paper. You are looking for lots of ideas—so make your map as graphic and as big as possible.
+***
+## Anchor problems
+
+There’s a certain class of problems—the ones that just won’t go away—that we call anchor problems. Like a physical anchor, they hold us in one place and prevent motion.
+
+If we are going to practice good life design, it is important to notice when we are stuck with an anchor problem.
+
+Don’t make a doable problem into an anchor problem by wedding yourself irretrievably to a solution that just isn’t working. Reframe the solution to some other possibilities, prototype those ideas (take some test hikes), and get yourself unstuck. Anchor problems keep us stuck because we can only see one solution—the one we already have that doesn’t work. Anchor problems are not only about our current, failed approach. They are really about the fear that, no matter what else we try, that won’t work either, and then we’ll have to admit that we’re permanently stuck—meaning we’re screwed—and we’d rather be stuck than screwed. Sometimes it is more comfortable to hold on to our familiar, failed approach to the problem than to risk a worse failure by attempting the big changes that we think will be required to eliminate it. This is a pretty common but paradoxical human behavior. Change is always uncertain, and there is no guarantee of success, no matter how hard you try. It makes sense to be fearful.
+
+An anchor problem is a real problem, just a hard one. It’s actionable—but we’ve been stuck on it so long or so often that it seems insurmountable (which is why such a problem has to be reframed, then opened up with new ideas, then knocked down to size by prototyping).
+***
+## Lessen fear and risk by using prototypes
+
+The way forward is to reduce the risk (and the fear) of failure by designing a series of small prototypes to test the waters. It is okay for prototypes to fail—they are supposed to—but well-designed prototypes teach you something about the future.
+
+Prototypes lower your anxiety, ask interesting questions, and get you data about the potential of the change that you are trying to accomplish. One of the principles of design thinking is that you want to “fail fast and fail forward,” into your next step. When you’re stuck with an anchor problem, try reframing the challenge as an exploration of possibilities (instead of trying to solve your huge problem in one miraculous leap), then decide to try a series of small, safe prototypes of the change you’d like to see happen. It should result in getting unstuck and finding a more creative approach to your problem.
+***
+## Mind map your good time journal
+
+From your Good Time Journal, pick one of the areas of greatest interest to you, or an activity during which you were really engaged (e.g., balancing the budget or pitching a new idea), and make it the center of your map. Then generate a bunch of connected words and concepts, using the mind-mapping technique.
+
+From your Good Time Journal, pick something you’ve identified as really energizing you in your work and life (e.g., art class, giving feedback to colleagues, health-care access, keeping things running right) and mind-map this out.
+
+From your Good Time Journal, pick one of the experiences when you were in a state of flow, put the experience itself at the center of a mind map, and complete your mapping of your experience with this state
+
+Look at the outer ring of one of your maps and pick three disparate items that catch your eye. You’ll know which ones they are intuitively—they should literally “jump out” at you.
+
+Now try to combine those three items into a possible job description that would be fun and interesting to you and would be helpful to someone else (again, it need not be practical or appeal to lots of people or employers).
+
+Name your role and draw a napkin sketch of it (a quick visual drawing of what it is)
+
+Do this exercise three times—once for each of your mind maps—making sure that the three versions are different from one another.
+
+The whole point was to defer judgment and quiet your internal problem-finding critic. If you never did, you probably found the exercise pretty silly. If that’s you, welcome to the club of smart modern people trying to do the right thing (which is to get the right answer right away). Take another look at your work, and find out if you can see it in a new light, or come back and try again in a few days.
+
+The point of this exercise isn’t to generate a specific result; it’s to get your mind going all over the place and ideating without judgment. By taking the exercise all the way to imagining how to combine elements creatively into surprising roles or jobs, you’ve successfully moved out of problem solving (what do I do next?) into design thinking (what can I imagine?). Now you’re working with a designer’s mind-set, and you’ve got lots of important ideas down on paper in a creative format.
+
+***
+## Unsorted
+
+Enjoyment is a guide to finding the right work for you.
 
 # References
 
