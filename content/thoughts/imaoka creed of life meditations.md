@@ -12,5 +12,6 @@ sr-ease: 213
 1. [[imaoka statement one]]
 2. [[imaoka statement two]]
 3. [[imaoka statement three]]
+4. [[thoughts/imaoka statement four|imaoka statement four]]
 
 # References

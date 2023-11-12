@@ -8,7 +8,9 @@ sr-due: 2023-10-31
 sr-interval: 3
 sr-ease: 250
 ---
+# Related
 
+- [[thoughts/imaoka creed of life meditations|imaoka creed of life meditations]]
 
 
 # References

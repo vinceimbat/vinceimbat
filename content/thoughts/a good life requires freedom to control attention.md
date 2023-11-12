@@ -9,7 +9,7 @@ sr-due: 2022-11-18
 sr-interval: 92
 sr-ease: 230
 ---
-[[The only thing you can truly control is your attention]]. In fact, [[Life is about controlling your attention]]. Therefore, the quality of one’s life is directly proportional to how one controls one’s attention. For this to happen though, one needs [[Freedom]]. The more one has freedom to do what one has to do, the happier one can become.
+[[The only thing you can truly control is your attention]]. In fact, [[Life is about controlling your attention]]. Therefore, the quality of one’s life is directly proportional to how one controls one’s attention. For this to happen though, one needs [[thoughts/freedom]]. The more one has freedom to do what one has to do, the happier one can become.
 
 Life is both beautiful and painful. Being in front something beautiful or painful is both a choice and a product of randomness. To experience beauty, I can take steps to be in front of me without my volition. The same process happens with pain.
 
