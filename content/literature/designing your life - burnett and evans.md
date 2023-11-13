@@ -592,7 +592,7 @@ Having the narrative of your peak experiences written down will make it easier t
 
 Using past experience is particularly useful if you aren’t currently in a situation that lends itself to a successful Good Time Journal exercise, such as if you’re between jobs. It’s also helpful if you’re just getting started on your professional life and don’t yet have much experience. If so, think about activities that you did in other areas of your life (perhaps even decades ago) when you felt that life was working. A historical Good Time Journal on past projects from school, summer programs, volunteer projects—anything that you were seriously engaged by—can be useful. When looking back, do beware of revisionist history—being too kind to the good days or too critical of the bad times. Just try to be honest.
 ***
-## You choose better when you have lots of good ideas to choose from
+## You choose better when you have lots of good choices
 
 Designers know that when you choose from lots of options you choose better.
 
@@ -613,6 +613,8 @@ The crazy ideas may not be the ones we pick (and rarely are, actually), but ofte
 We want you to have lots of ideas and lots of options.
 
 When you have lots of ideas, you can build prototypes of your life and test them out. That’s what life designers do.
+
+The serial team—who started with just one idea—tended to keep refining the same idea over and over, never really innovating. The conclusion is that if your mind starts with multiple ideas in parallel, it is not prematurely committed to one path and stays more open and able to receive and conceive more novel innovations. Designers have known this all along—you don’t want to start with just one idea, or you’re likely to get stuck with it.
 ***
 ## Never choose your first solution to any problem
 
@@ -689,6 +691,95 @@ Do this exercise three times—once for each of your mind maps—making sure tha
 The whole point was to defer judgment and quiet your internal problem-finding critic. If you never did, you probably found the exercise pretty silly. If that’s you, welcome to the club of smart modern people trying to do the right thing (which is to get the right answer right away). Take another look at your work, and find out if you can see it in a new light, or come back and try again in a few days.
 
 The point of this exercise isn’t to generate a specific result; it’s to get your mind going all over the place and ideating without judgment. By taking the exercise all the way to imagining how to combine elements creatively into surprising roles or jobs, you’ve successfully moved out of problem solving (what do I do next?) into design thinking (what can I imagine?). Now you’re working with a designer’s mind-set, and you’ve got lots of important ideas down on paper in a creative format.
+***
+## You will live many different lives
+
+This life you are living is one of many lives you will live.
+
+The plain and simple truth is that you will live many different lives in this lifetime. If the life you are currently living feels a bit off, don’t worry; life design gives you endless mulligans. You can do it over at any point, at any time. “Correction shots” are always allowed.
+
+in reality, life is more of an abstract painting—one that’s open to multiple interpretations.
+
+There are multiple great lives (and plans) within me, and I get to choose which one to build my way forward to next.
+***
+## Stop obsessing about your one best life
+
+where people go wrong (regardless of their age, education, or career path) is thinking they just need to come up with a plan for their lives and it will be smooth sailing. If only they make the right choice (the best, true, only choice), they will have a blueprint for who they will be, what they will do, and how they will live.
+
+He thought there was one best way to spend his life, and he had to know what it was or he’d be settling for second best—or worse. But that’s not true. We all contain enough energy and talents and interests to live many different types of lives, all of which could be authentic and interesting and productive. Asking which life is best is asking a silly question; it’s like asking whether it’s better to have hands or feet.
+
+After finally accepting that there were at least three great careers he could live into well, he discovered a fourth. That’s the sort of thing that happens when you stop trying to “get it right” and start designing your way forward.
+***
+## Create odyssey plans
+
+One of the most powerful ways to design your life is to design your lives.
+
+imagine and write up three different versions of the next five years of your life. We call these Odyssey Plans.
+
+Of course, we can only live out one at a time, but we want to ideate multiple variations in order to choose creatively and generatively.
+
+Try not to think of your Odyssey Plans as “Plan A, Plan B, and Plan C”—where A is the really good plan and B is the okay plan and C is the plan that you really hope you don’t get stuck with but that you would accept as tolerable if absolutely necessary. Every Odyssey Plan is a Plan A, because it’s really you and it’s really possible. Odyssey Plans are sketches of possibilities that can animate your imagination and help you choose which wayfinding direction you will actually take to start prototyping and living into next.
+
+Criteria for choosing what’s next may be based on available resources (proximity, time, money), coherence (how the alternative fits into your Lifeview and Workview), your confidence level (do you believe you can do this?), and how much you like it.
+
+if you listen to people tell their stories, most people’s lives are actually lived as a series of two-to-four-year seasons strung together.
+
+Five years cover one good four-year chunk with an extra year of buffer time.
+
+create three very different alternative versions of you.
+
+We want you to come up with three truly different alternatives—not three variations on a theme.
+
+Life One—That Thing You Do.
+
+Your first plan is centered on what you’ve already got in mind—either your current life expanded forward or that hot idea you’ve been nursing for some time. This is the idea you already have—it’s a good one and it deserves attention in this exercise.
+
+Life Two—That Thing You’d Do If Thing One Were Suddenly Gone.
+
+when you really force your imagination to believe that you have to make a living doing something other than doing That Thing You Do, you’ll come up with something.
+
+Life Three—The Thing You’d Do or the Life You’d Live If Money or Image Were No Object.
+
+If you knew you could make a decent living at it and you knew no one would laugh at you or think less of you for doing it—what would you do?
+
+1. A visual/graphical timeline. Include personal and noncareer events as well
+2. A title for each option in the form of a six-word headline describing the essence of this alternative.
+3. Questions that this alternative is asking—preferably two or three. A good designer asks questions to test assumptions and reveal new insights. In each potential timeline, you will investigate different possibilities and learn different things about yourself and the world. What kinds of things will you want to test and explore in each alternative version of your life?
+4. A dashboard where you can gauge
+	1. Resources (Do you have the objective resources—time, money, skill, contacts—you need to pull off your plan?)
+	2. Likability (Are you hot or cold or warm about your plan?)
+	3. Confidence (Are you feeling full of confidence, or pretty uncertain about pulling this off?)
+	4. Coherence (Does the plan make sense within itself? And is it consistent with you, your Workview, and your Lifeview?)
+
+Possible considerations
+- Geography—where will you live?
+- What experience/learning will you gain?
+- What are the impacts/results of choosing this alternative?
+- What will life look like? What particular role, industry, or company do you see yourself in?
+
+Other ideas
+- Do keep in mind things other than career and money. Even though those things are important, if not central, to the decisive direction of your next few years, there are other critical elements that you want to pay attention to.
+- Any of the considerations listed above can be a springboard for forming your alternative lives for the next five years. If you find yourself stuck, try making a mind map out of any of the design considerations listed above. Don’t overthink this exercise, and don’t skip it.
+
+Odyssey Plans can define important things still to do in our lives, and help us remember dreams we may have forgotten.
+
+You may want to do different alternative plans for different areas of your life: alternatives for career, for love, for health, or for play. Or you may want to combine these elements. The only wrong way to do this is to not do it at all.
+
+share your Odyssey Plan alternatives.
+
+there isn’t a single right answer to what’s next for you. Consider which alternative rates high on resources, likability, confidence, and coherence. Which version of you gives you that jazzy, feel-good, light-my-fire kind of feeling? Which version feels draining?
+
+The best way to interact with your alternatives is to share them aloud with a group of friends—ideally, with your Life Design Team
+
+or the group you are reading this book with, as we suggested in the introduction. The most fun and effective way to go through the life design process is to do it in a group of three to six people, including yourself, who meet as a team. It can work fine if the only person doing life design is you, but a group is highly preferable, with everyone both doing the work and supporting the others’ life designs. It may be easier than you think to find two to five other people willing to do this with you. Just give the book away to a few likely suspects, get together to discuss it, and see what you find.
+
+You want to invite people who will ask good questions but not offer critiques or unwanted advice. The ground rules for listening are these: Tell your listeners not to critique, review, or advise. You want them to receive, reflect, and amplify. Find two to five people who are “there for you” and will show up for an evening dedicated to helping you design your life (or who are willing to read this chapter, at the very least).
+
+If you really don’t want to or can’t find a group to share with, then video yourself presenting your Odyssey Plans and watch and listen to yourself as though you weren’t the author; then see what you have to say to yourself and jot down your ideas.
+
+Life design is about generating options, and this exercise of designing multiple lives will guide you in whatever’s next for you.
+
+Every possible version of you holds unknowns and compromises, each with its own identifiable and unintended consequences. You are not so much finding answers in this exercise as learning to embrace and explore the questions, and be curious about the possibilities.
 
 ***
 ## Unsorted

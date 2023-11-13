@@ -130,7 +130,7 @@ How do you write a retrieval practice prompt for an unordered list? :: Use cloze
 <!--SR:!2023-12-10,40,293-->
 
 Why should you keep the items in a list prompt in the same order? :: You remember the list's visual shape through time.
-<!--SR:!2023-11-11,23,270-->
+<!--SR:!2024-01-12,61,270-->
 
 How do you reinforce memory of an unordered list without cloze deletion? :: Write an explanation prompt for each component of the list.
 <!--SR:!2023-11-21,21,213-->
@@ -148,7 +148,7 @@ What is the emotional effect that mnemonic devices should produce? :: Vivid.
 <!--SR:!2024-01-08,69,313-->
 
 Give at least two ways of making a mnemonic device vivid. :: e.g., using visuals, meaningful personal experiences, humor, and disgust
-<!--SR:!2023-11-12,23,273-->
+<!--SR:!2024-02-07,87,293-->
 
 Where should you put mnemonic devices in a retrieval writing prompt? :: In the answer (inside parentheses).
 <!--SR:!2023-12-27,57,313-->
@@ -172,7 +172,7 @@ What are the two ways to frame retrieval writing prompts for procedures? :: List
 <!--SR:!2023-12-03,36,270-->
 
 What should you do to avoid wordy cloze deletion prompts for procedures? :: Remove unnecessary words to highlight keywords.
-<!--SR:!2023-11-10,22,273-->
+<!--SR:!2024-02-03,83,293-->
 
 If procedures branch and become sufficiently complex, what should you include in your prompts? :: A flowchart.
 <!--SR:!2023-12-12,45,293-->

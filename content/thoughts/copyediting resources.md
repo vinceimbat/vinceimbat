@@ -33,7 +33,7 @@ To avoid constantly consulting a manual while copyediting, what should you do? :
 <!--SR:!2023-11-23,14,244-->
 
 Guidelines in style manuals are ?? not ??. :: recommendations, commandments
-<!--SR:!2023-11-12,15,243-->
+<!--SR:!2023-12-17,35,243-->
 
 Style manual used by medical journals and publishers. :: AMA
 <!--SR:!2023-11-19,10,263-->
@@ -69,7 +69,7 @@ Compare DEU and Garner's take on the sentence-modifying "hopefully." :: DEU: not
 <!--SR:!2023-12-24,45,302-->
 
 Garner's is best used by ?? :: editors working on academic and professional content
-<!--SR:!2023-11-11,2,202-->
+<!--SR:!2023-11-16,4,202-->
 
 Editors handling a variety of material should consult which usage guide? :: Both DEU and Garner's
 <!--SR:!2023-11-20,20,263-->
@@ -78,7 +78,7 @@ When neither reference books nor language instincts suffice, what reference mate
 <!--SR:!2024-01-10,62,303-->
 
 Language corpora ::: Large computer databases of published texts in English
-<!--SR:!2023-11-11,16,263!2024-01-04,56,303-->
+<!--SR:!2024-01-09,58,283!2024-01-04,56,303-->
 
 Three most widely consulted corpora for English:
 - 
@@ -105,7 +105,7 @@ Google Books corpora (Ngram Viewer)
 <!--SR:!2023-11-17,8,263-->
 
 How should language corpora be used vis a vis dictionaries and usage guides? :: Supplement
-<!--SR:!2023-11-10,17,283-->
+<!--SR:!2024-01-18,67,303-->
 
 A rule of thumb on fact-checking for copyeditors. :: Only do it when requested by the client or editorial supervisor.
 <!--SR:!2023-11-29,29,283-->

@@ -13,11 +13,11 @@ Cleanup ::: incorporating query responses
 <!--SR:!2023-11-14,17,242!2023-12-29,50,302-->
 
 Saving your files intermittently is a good practice. When should you do so?
-- 
+-
 - At the end of ever major stage
 ;;
 At the end of every session
-<!--SR:!2023-11-10,17,282-->
+<!--SR:!2023-11-21,9,262-->
 
 Saving your files intermittently is a good practice. When should you do so?
 - At the end of every session
@@ -27,13 +27,13 @@ At the end of every major stage
 <!--SR:!2023-11-14,5,242-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
-- 
+-
 - redlined
 - author reviewed
 - cleaned up
 ;;
 unedited original files
-<!--SR:!2023-11-10,17,282-->
+<!--SR:!2023-12-31,49,282-->
 
 Versions of files that must be saved corresponding to major stages of the editorial process:
 - unedited original files
@@ -99,11 +99,11 @@ a work process
 
 A collaborative editorial system needs:
 - a work process
-- 
+-
 - reconciling changes into a final version
 ;;
 version control
-<!--SR:!2023-11-12,15,242-->
+<!--SR:!2023-12-16,34,242-->
 
 A collaborative editorial system needs:
 - a work process
@@ -185,20 +185,20 @@ To save time in writing frequently used boilerplate explanation queries, employ 
 <!--SR:!2024-01-09,61,303-->
 
 What mechanical changes need querying?
-- 
+-
 - revisions that may affect meaning
 - esoteric or complex grammatical issues
 ;;
 controversial changes
-<!--SR:!2023-11-10,13,242-->
+<!--SR:!2023-12-25,43,262-->
 
 What mechanical changes need querying?
 - controversial changes
-- 
+-
 - esoteric or complex grammatical issues
 ;;
 revisions that may affect meaning
-<!--SR:!2023-11-11,16,262-->
+<!--SR:!2023-12-27,45,262-->
 
 What mechanical changes need querying?
 - controversial changes
@@ -233,12 +233,12 @@ well-known literary allusions
 <!--SR:!2023-12-06,27,242-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
-- 
+-
 - author's workload
 - budget and schedule
 ;;
 readers' acceptance
-<!--SR:!2023-11-12,15,243-->
+<!--SR:!2023-12-14,32,243-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - readers' acceptance
@@ -246,7 +246,7 @@ Things to consider when deciding whether to pose an unnecessary substantive quer
 - budget and schedule
 ;;
 author's workload
-<!--SR:!2023-11-12,12,242-->
+<!--SR:!2023-12-22,40,262-->
 
 Things to consider when deciding whether to pose an unnecessary substantive query:
 - readers' acceptance
@@ -260,7 +260,7 @@ The two parts of a query are :: explanation and proposed revisions
 <!--SR:!2023-11-25,25,282-->
 
 The length of queries should be ??, their scope ??, and their manner of delivery ?? :: concise, specific, polite
-<!--SR:!2023-11-11,2,182-->
+<!--SR:!2023-11-16,4,182-->
 
 Why should you avoid brief and vague queries like "Logic?" :: Authors feel chastised.
 <!--SR:!2023-11-14,5,222-->
@@ -299,7 +299,7 @@ Chicago recommends using ?? when inserting queries in the document. :: comments
 <!--SR:!2024-01-14,66,302-->
 
 Style sheet ::: Record of mechanical editorial choices
-<!--SR:!2023-11-10,15,263!2023-11-10,17,283-->
+<!--SR:!2023-12-20,38,263!2024-01-20,69,303-->
 
 In a style sheet's list of terms, record only items that ?? :: required a decision
 <!--SR:!2023-12-07,37,282-->

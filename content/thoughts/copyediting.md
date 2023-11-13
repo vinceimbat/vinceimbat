@@ -37,10 +37,10 @@ APA
 
 What are the two widely used scientific style manuals?
 - APA
-- 
+-
 ;;
 CSE
-<!--SR:!2023-11-11,20,272-->
+<!--SR:!2024-01-04,53,272-->
 
 What is the best approach when faced with newfangled terms ending in -ize? :: Be suspicious.
 <!--SR:!2023-11-27,30,272-->
@@ -67,10 +67,10 @@ Ask author to revise.
 Three ways a copyeditor could respond to a problem.
 - Leave it alone.
 - Ask author to revise.
-- 
+-
 ;;
 Propose a revision.
-<!--SR:!2023-11-12,21,272-->
+<!--SR:!2024-01-07,56,272-->
 
 How many sources should a copyeditor check when faced with a difficult problem? :: More than one.
 <!--SR:!2023-11-19,24,272-->
@@ -229,14 +229,14 @@ Mechanical editing
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
-2. 
+2.
 3. Language editing
 4. Content editing
 5. Permissions
 6. Markup
 ;;
 Correlating parts
-<!--SR:!2023-11-11,18,261-->
+<!--SR:!2023-11-23,11,241-->
 
 A copyeditor's six principal tasks:
 1. Mechanical editing
@@ -303,7 +303,7 @@ The most common mistake made by novice copyeditors is rewriting portions of a te
 <!--SR:!2023-12-14,35,281-->
 
 The rules in an editorial style is not a matter of ?? but of ?? :: correctness, preference
-<!--SR:!2023-11-11,2,221-->
+<!--SR:!2023-11-13,1,201-->
 
 If an editorial style is unavailable, what should the copyeditor do? :: Create a style sheet.
 <!--SR:!2024-01-03,55,301-->
@@ -351,7 +351,7 @@ Grammar includes ?? and ?? :: syntax, morphology
 <!--SR:!2023-12-13,34,261-->
 
 Syntax ::: Construction of phrases, clauses, and sentences
-<!--SR:!2023-11-10,10,241!2023-12-02,32,281-->
+<!--SR:!2023-12-05,23,241!2023-12-02,32,281-->
 
 Morphology :::  Forms of words
 <!--SR:!2023-12-13,34,281!2023-12-25,46,301-->
@@ -375,7 +375,7 @@ When faced with a usage issue, a judicious copyeditor should follow the publishe
 <!--SR:!2023-12-14,35,281-->
 
 What should you do to improve your grasp of usage? :: Learn the history of usage controversies.
-<!--SR:!2023-11-12,19,261-->
+<!--SR:!2024-01-19,68,281-->
 
 Knowledge of the history of usage controversies is useful especially when working with an author whose ?? :: usage is outdated.
 <!--SR:!2023-11-18,21,261-->
@@ -400,10 +400,10 @@ Give at least one task involved in content editing. Give an example you haven't 
 - Checking for biased language.
 - Checking for potential legal problems.
 - Checking for plagiarism.
-<!--SR:!2023-11-10,1,161-->
+<!--SR:!2023-11-14,2,181-->
 
 To avoid problems regarding permissions, a copyeditor must ensure that ?? :: sources and credits are supplied
-<!--SR:!2023-11-10,17,261-->
+<!--SR:!2023-12-23,41,261-->
 
 Give at least one task involved in providing markup.  Give an example you haven't mentioned before.
 ;;
@@ -460,7 +460,7 @@ publication designers
 <!--SR:!2023-12-07,37,281-->
 
 How is proofreading different from copyediting? :: Proofreading corrects errors introduced after copyediting and other later processes.
-<!--SR:!2023-11-11,18,261-->
+<!--SR:!2023-12-30,48,261-->
 
 Give at least two tasks involved in developmental editing. Give examples you haven't mentioned before.
 ;;
@@ -508,20 +508,20 @@ Why should copyeditors read very, very slowly on the first pass? :: To catch eve
 <!--SR:!2023-12-29,50,301-->
 
 What are the three objectives of the second pass?
-1. 
+1.
 2. Catch missed mechanical errors
 3. Fix introduced errors
 ;;
 Incorporate answers to global questions
-<!--SR:!2023-11-11,18,261-->
+<!--SR:!2023-11-19,7,241-->
 
 What are the three objectives of the second pass?
 1. Incorporate answers to global questions
-2. 
+2.
 3. Fix introduced errors
 ;;
 Catch missed mechanical errors
-<!--SR:!2023-11-11,18,261-->
+<!--SR:!2023-12-28,46,261-->
 
 What are the three objectives of the second pass?
 1. Incorporate answers to global questions
@@ -532,7 +532,7 @@ Fix introduced errors
 <!--SR:!2023-12-14,44,301-->
 
 Improve your perceptual acuity on the second pass by ?? :: Changing the appearance and haptic experience of the document (e.g., remove markups, change font, print the document)
-<!--SR:!2023-11-10,17,261-->
+<!--SR:!2023-12-25,43,261-->
 
 How should you schedule the second pass? :: Without interruption.
 <!--SR:!2023-12-15,36,281-->
@@ -598,7 +598,7 @@ Always follow a sentence adverb with a :: comma
 <!--SR:!2023-12-02,32,281-->
 
 "not only" always precedes :: the items being contrasted
-<!--SR:!2023-11-12,19,261-->
+<!--SR:!2023-12-31,49,261-->
 
 In "not only ... but also...", the word "also" is :: optional and frequently omitted
 <!--SR:!2024-01-03,55,301-->
@@ -620,12 +620,12 @@ Easier mechanical editing
 
 Benefits of resisting the urge to recast an author's phrase in your own voice.
 - Easier mechanical editing
-- 
+-
 - Shorter and easier cleanup and copyediting
 - No need to maintain the author's style
 ;;
 Smoother client relationship
-<!--SR:!2023-11-12,19,261-->
+<!--SR:!2024-01-03,52,261-->
 
 Benefits of resisting the urge to recast an author's phrase in your own voice.
 - Easier mechanical editing
