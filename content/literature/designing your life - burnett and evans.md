@@ -15,7 +15,6 @@ sr-ease: 246
 - [[my workview vs my lifeview]]
 
 ***
-
 ## Reframe dysfunctional beliefs
 
 Dysfunctional beliefs prevent so many people from designing the life they want.
@@ -25,15 +24,11 @@ Reframing questions and problems is one of the most important mind-sets of a des
 Examples of dysfunctional beliefs:
 - Your degree determines your career. Reframe: 3/4 of all collefe grads don't end up working in a career related to their majors.
 - True happiness comes from designing a life that works for you. Reframe: True happiness comes from designing a life that works for you.
-
 ***
-
 ## Encore career
 
 An “encore” career involves work that combines personal meaning, continued income, and social impact.
-
 ***
-
 ## Design thinking might be the best approach in living life
 
 When emotions are involved, design thinking has proved to be the best problem-solving tool.
@@ -51,9 +46,7 @@ It’s never too late to design a life you love.
 
 To do
 - The best way to write this note is to describe the nature of life first (i.e., no clear goal, cannot be planned)
-
 ***
-
 ## Designing your life doesn’t involve a clear goal
 
 - Connect here why life doesn't always start with a purpose.
@@ -65,9 +58,7 @@ Because life doesn't have a clear goal or destination (or at least not at first)
 - build your way forward until you come up with something that works
 
 Designers embrace change. They are not attached to a particular outcome, because they are always focused on what will happen next—not what the final result will be.
-
 ***
-
 ## What a well-designed life looks like
 
 A well-designed life has a look and feel all of its own—a beautiful aesthetic that speaks to you.
@@ -79,9 +70,7 @@ A well-designed life is not a life of drudgery. You weren’t put on this earth 
 Problem Finding + Problem Solving = Well-Designed Life
 
 A well-designed life is supported by a healthy body, an engaged mind, and often, though not always, some form of spiritual practice.
-
 ***
-
 ## Start with empathy
 
 Every design started with a problem.
@@ -91,9 +80,7 @@ Every design started with a problem.
 - Start by empathizing by the person using your life: You.
 - Once you have empathize with yourself, brainstorm to create a prototype that you will use to discover what you don't know yet.
 - We allow what we discover to pivot, i.e. to reframe our original point of view and modify or change our prototype.
-
 ***
-
 ## One life can have many designs
 
 There isn’t just one solution to your life. There are many designs for your life, all filled with hope for the kind of creative and unfolding reality that makes life worth living into. Your life is not a thing, it’s an experience; the fun comes from designing and enjoying the experience.
@@ -101,9 +88,7 @@ There isn’t just one solution to your life. There are many designs for your li
 There are many versions of you, and they are all “right.” And life design will help you live into whatever version of you.
 
 Try stuff.
-
 ***
-
 ## What life design is
 
 Life design is about imagining a life you want, building it, and seeing something that has never existed before emerge.
@@ -114,17 +99,13 @@ You have three goals:
 3. To increase your ability to generate new ideas for your life design.
 
 A well-designed life is a life that makes sense. It’s a life in which who you are, what you believe, and what you do all line up together. When you have a well-designed life and someone asks you, “How’s it going?,” you have an answer. You can tell that person that your life is going well, and you can tell how and why. A well-designed life is a marvelous portfolio of experiences, of adventures, of failures that taught you important lessons, of hardships that made you stronger and helped you know yourself better, and of achievements and satisfactions. It’s worth emphasizing that failures and hardships are a part of every life, even the well-designed ones.
-
 ***
-
 ## Build a team that will support you in your life design
 
 Get a design team. Read the book together. Do the exercises together. Collaborate to support one another in designing your lives.
 
 The different backgrounds in your group assures that you generate truly unique solutions.
-
 ***
-
 ## Have a bias to action
 
 Before you can do life design, you need to learn to think like a designer.
@@ -132,9 +113,7 @@ Before you can do life design, you need to learn to think like a designer.
 Designers don’t think their way forward. Designers build their way forward.
 
 you are not just going to be dreaming up a lot of fun fantasies that have no relationship to the real world—or the real you. You are going to build things (we call them prototypes), try stuff, and have a lot of fun in the process.
-
 ***
-
 ## Build the mindsets of a designer
 
 The five mind-sets you are going to learn in order to design your life are curiosity, bias to action, reframing, awareness, and radical collaboration. These are your design tools, and with them you can build anything, including a life you love.
@@ -144,9 +123,7 @@ The five mind-sets you are going to learn in order to design your life are curio
 - **Reframing.** Reframing is essential to finding the right problems and the right solutions. Learn to step back, examine your biases, and open new solutions.
 - **Awareness.** Learn to let go of the first idea or of a good but not great solution. Learn to see designs from the mess. Let go of the end goal of life and focus on the process—on what is next.
 - **Radical collaboration.** Many of the best ideas about how to live your life will come from other people. Know how to ask and identify the right questions to ask.
-
 ***
-
 ## Passion comes after mastery
 
 only one in five young people between twelve and twenty-six have a clear vision of where they want to go, what they want to accomplish in life, and why.
@@ -156,9 +133,7 @@ only one in five young people between twelve and twenty-six have a clear vision 
 Developing a passion takes time. Passion comes after trying something, realizing one wants it, and developing a mastery of it.
 
 Passion is a result of a good life design, not the cause.
-
 ***
-
 ## There is no one passion that rules them all
 
 Most people do not have that one thing they are passionate about—that singular motivator that drives all of their life decisions and infuses every waking moment with a sense of purpose and meaning.
@@ -166,17 +141,13 @@ Most people do not have that one thing they are passionate about—that singular
 In truth, most people are passionate about many different things, and the only way to know what they want to do is to prototype some potential lives, try them out, and see what really resonates with them. We are serious about this: you don’t need to know your passion in order to design a life you love. Once you know how to prototype your way forward, you are on the path to discovering the things you truly love, passion or not.
 
 The reframe for the question “What do you want to be when you grow up?” is this: “Who or what do you want to grow into?”
-
 ***
-
 ## Engaging in life design increases your luck
 
 We can assure you that at times it will take you out of your comfort zone.
 
 What happens when you engage in life design? Actually, something quite extraordinary happens. Things you want start to show up in your life. You start to hear of job openings you were dreaming about. People you were interested in meeting just happen to be in town. What is happening here? For starters, it’s that “getting good at being lucky” thing we mentioned earlier, a result of curiosity and awareness, and a by-product of using the five mind-sets. In addition, the process of discovering who you are and what you want has a rather extraordinary effect on your life. There will be effort and action involved, no doubt, but it will seem, rather surprisingly, as if everyone is conspiring to help you. And, by being aware of the process, you will have a lot of fun along the way.
-
 ***
-
 ## Start designing your life by taking stock of it
 
 But before you can figure out which direction to head in, you need to know where you are and what design problems you are trying to solve.
@@ -187,18 +158,14 @@ In order to start where we are, we need to break life down into some discrete ar
 
 The idea is to pick what to design first, and be curious about how you might design this particular area of your life.
 
-Awareness and curiosity are the design mind-sets you need to begin building your way forward.
+Awareness and curiosity are the design mindsets you need to begin building your way forward.
 
 You can’t know where you are going until you know where you are.
-
 ***
-
 ## Wicked problems
 
 Problems that are resistant to resolution.
-
 ***
-
 ## Problem finding is as important as problem solving
 
 In design thinking, we put as much emphasis on problem finding as we do on problem solving. After all, what’s the point of working on the wrong problem? We emphasize this because it’s actually not always so easy to understand what our problems are.
@@ -214,9 +181,7 @@ people waste a lot of time working on the wrong problem. If they are lucky, they
 How often do we fall in love with our first idea and then refuse to let it go? No matter how badly it turns out. More important, do we really think it is a good idea to let our earnest but misguided seventeen-year-old self determine where we work for the rest of our lives? And what about now? How often do we go with our first idea and think we know answers to questions we’ve never really investigated? How often do we check in with ourselves to see if we are really working on the right problem?
 
 Beware of working on a really good problem that’s not actually the right problem, not actually your problem.
-
 ***
-
 ## How to find problems
 
 Often we approach our problems as if they are an addition or subtraction problem. We either want to get something (add) or get rid of something (subtract).
@@ -224,9 +189,7 @@ Often we approach our problems as if they are an addition or subtraction problem
 Usually, we define our problem by what’s missing, but not always.
 
 Instead of assuming he knew all the answers before he asked the questions, he would have been curious.
-
 ***
-
 ## Avoid gravity problems
 
 We also tend to get mired in what we call gravity problems.
@@ -254,9 +217,7 @@ If you become open-minded enough to accept reality, you’ll be freed to reframe
 The only response to a gravity problem is acceptance. And this is where all good designers begin. This is the “You Are Here” or “Accept” phase of design thinking. Acceptance.
 
 Gravity problems aren’t actually problems. They’re circumstances that you can do nothing to change. There is no solution to a gravity problem—only acceptance and redirection.
-
 ***
-
 ## Health
 
 And by “healthy” we mean being well in mind, body, and spirit—emotional health, physical health, and mental health. The relative importance of each of these aspects of health is up to you. How you measure your own health in these areas is your call. But once you’ve figured out how you define “health,” you need to pay attention to it.
@@ -264,7 +225,6 @@ And by “healthy” we mean being well in mind, body, and spirit—emotional he
 Again, there is no objective perfect balance of these different areas of health, just a subjective personal sense that either “I have enough” or “Something is missing.”
 
 How you rate your health will factor significantly into how you assess the quality of your life and what you might want to redesign going forward.
-
 ***
 ## Work
 
@@ -273,7 +233,6 @@ you won’t be able to understand how to design your work until you understand h
 By “work” we mean your participation in the great ongoing human adventure on the planet. You may or may not be getting paid for it, but this is the stuff you “do.”
 
 Don’t for a minute reduce work only to that which you get paid for. Most people have more than one form of work at a time.
-
 ***
 ## Play
 
@@ -282,14 +241,12 @@ Play is all about joy.
 Play is any activity that brings you joy when you do it. It can certainly include organized activity or competition or productive endeavors, but when those things are done “for the joy of it” they are play. When an activity is done to win, to advance, to achieve—even if it’s “fun” to do so—it’s not play. It may be a wonderful thing, but it’s still not play. The question here is what brings you joy purely in the doing.
 
 Play is about activity that brings joy just for the pure sake of the doing of it. It can include organized activity or productive endeavors, but only if they are done for fun and not merit. We contend that all lives need some play, and that making sure there is some play in our day is a critical life design step. 
-
 ***
 ## Love
 
 Love comes to us in a wide range of types, from affection to community to eroticism, and from a huge array of sources, from parents to friends to colleagues to lovers, but they all share that people thing. That sense of connection. Who are the people in your life, and how is love flowing to and from you and others?
 
 Our primary relationship is where we go first for love, children typically come next, and then it’s a flood of people and pets and community and anything else that is an object of affection. And it is as critical to feel loved by others as it is to love—it has to go both ways.
-
 ***
 ## Use a life dashboard to assess your life before redesigning
 
@@ -312,14 +269,12 @@ you may want to come back to this assessment and check the dashboard one more ti
 Are you happy right now with where your gauges stand in each of these four areas? Have you looked at them honestly? Are there areas that need action? Have you perhaps come up against one of your wicked problems?
 
 Ask yourself if your problem is actionable. Also, look for some expression of balance and proportionality in your dashboard—very important for design—without imagining that there is some perfect symmetry or balance between all the areas in your life.
-
 ***
 ## Life design is never done
 
 Since life design is an iterative process of prototypes and experimentation, there are lots of on ramps and off ramps along the way. If you’re beginning to think like a designer, you will recognize that life is never done.
 
 We are only done designing our lives when we die. Until then, we’re involved in a constant iteration of the next big thing: life as we know it.
-
 ***
 ## Life design changes your future
 
@@ -328,7 +283,6 @@ As you begin to think like a designer, remember one important thing: it’s impo
 Designing something changes the future that is possible.
 
 So, although it is not possible to know your future, or figure out a great life design before you begin, at least you have a good idea of your starting point.
-
 ***
 ## Spend more time living not planning life
 
@@ -341,7 +295,6 @@ trying to figure out what to do next. It’s as if life were this great big DIY 
 This is not designing your life.
 
 This is obsessing about your life.
-
 ***
 ## Life design is finding your own answers to perennial questions
 
@@ -358,13 +311,11 @@ What is my purpose?
 What’s the point of it all?
 
 Life design is a way for you to figure out your own answers to these perennial questions, and to figure out your own good life.
-
 ***
 ## Steps in designing your life
 
 1. Knowing what's on your life design dashboard.
 2. Building your compass.
-
 ***
 ## How to build a compass
 
@@ -416,17 +367,14 @@ What we’re after is your philosophy of work—what it’s for, what it means. 
 take the time to reflect and articulate what work and vocation mean to you (and perhaps what you hope work means for others as well).
 
 Workviews can and do range widely in what they address and how they incorporate different issues, such as service to others and the world, money and standard of living, and growth, learning, skills, and talents. All of these can be part of the equation. We want you to address what you think is important.
-
 ***
 ## Work is the largest single component of our life
 
 When using the term “work,” we mean the broadest definition—not just what you do to make money or for “a job.” Work is often the largest single component of most people’s waking lives, and over a lifetime it occupies more of our attention and energy than anything else we do.
-
 ***
 ## Work that is socially meaningful brings more satisfaction
 
 You do not have to address the question of service to others or any explicit connection to social issues. However, the positive psychologist Martin Seligman found that the people who can make an explicit connection between their work and something socially meaningful to them are more likely to find satisfaction, and are better able to adapt to the inevitable stresses and compromises that come with working in the world.
-
 ***
 ## How to write a lifeview
 
@@ -443,7 +391,6 @@ write down whatever critical defining values and perspectives provide the basis 
 - What is the role of joy, sorrow, justice, injustice, love, peace, and strife in life?
 
 design is values-neutral, and we don’t take sides.
-
 ***
 ## Integrate your workview and lifeview
 

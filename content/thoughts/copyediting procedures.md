@@ -63,12 +63,12 @@ cleaned up
 <!--SR:!2024-01-01,53,282-->
 
 How should you organize working files?
-1. 
+1.
 2. Save versions in subfolders.
 3. Use sortable file names.
 ;;
 Create a master project folder (Name - Short Title)
-<!--SR:!2023-11-13,16,242-->
+<!--SR:!2024-01-05,53,262-->
 
 How should you organize working files?
 1. Create a master project folder (Name - Short Title)
@@ -136,10 +136,10 @@ when to query
 
 Good querying skills involve:
 - when to query
-- 
+-
 ;;
 how to query
-<!--SR:!2023-11-13,19,282-->
+<!--SR:!2024-01-26,74,302-->
 
 Three purposes of a query:
 -
@@ -176,7 +176,7 @@ Give two examples of instances where a query is necessary. Use examples you have
 - logical error
 - factual inaccuracy
 - inconsistency in interpretation of evidence
-<!--SR:!2023-11-13,4,202-->
+<!--SR:!2023-11-21,8,202-->
 
 To assure the author that some routine changes were not arbitrary, what should a copyeditor do? :: Write query on first occurrence.
 <!--SR:!2023-11-16,19,263-->
@@ -206,7 +206,7 @@ What mechanical changes need querying?
 -
 ;;
 esoteric or complex grammatical issues
-<!--SR:!2023-11-13,4,202-->
+<!--SR:!2023-11-15,2,182-->
 
 Items that don't require sources:
 -
@@ -282,7 +282,7 @@ Provide two tones to avoid when querying. Say something you haven't mentioned be
 - challenging author's expertise or intellectual ability
 - complaining
 - rebuking
-<!--SR:!2023-11-13,4,222-->
+<!--SR:!2023-11-15,2,202-->
 
 Why should queries be phrased in terms of readers' needs? :: They reinforce author and copyeditor teamwork.
 <!--SR:!2023-12-03,33,282-->
@@ -354,22 +354,22 @@ Provide review instructions.
 Five steps in writing a transmittal letter:
 1. Praise.
 2. Provide review instructions.
-3. 
+3.
 4. Point pervasive issues.
 5. Explain larger concerns.
 ;;
 Explain decisions.
-<!--SR:!2023-11-13,19,262-->
+<!--SR:!2024-01-24,72,282-->
 
 Five steps in writing a transmittal letter:
 1. Praise.
-2. Review instructions.
+2. Provide review instructions.
 3. Explain decisions.
 4.
 5. Explain larger concerns.
 ;;
 Point pervasive issues.
-<!--SR:!2023-11-13,4,222-->
+<!--SR:!2023-11-15,2,202-->
 
 Five steps in writing a transmittal letter:
 1. Praise.

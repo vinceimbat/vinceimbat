@@ -21,7 +21,7 @@ How does retrieval practice halt forgetting? :: By recalling repeatedly spaced o
 <!--SR:!2023-12-13,34,233-->
 
 The learning produced by retrieval practice when you try to recall knowledge. :: Testing effect
-<!--SR:!2023-11-13,13,273-->
+<!--SR:!2024-01-01,49,293-->
 
 What differentiates retrieval practice and school tests? :: Retrieval practice tests to produce learning, not assess it.
 <!--SR:!2024-01-07,68,310-->
@@ -136,7 +136,7 @@ How do you reinforce memory of an unordered list without cloze deletion? :: Writ
 <!--SR:!2023-11-21,21,213-->
 
 What's the most important requirement when writing cues for retrieval practice prompts? :: Don't give the answer away.
-<!--SR:!2023-11-13,25,273-->
+<!--SR:!2024-02-15,94,293-->
 
 Elaborative encoding is the process of making information easier to recall by ?? :: connecting it with other memories.
 <!--SR:!2023-12-11,47,293-->
@@ -198,13 +198,13 @@ Attributes and tendencies
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies
-2. 
+2.
 3. Parts and wholes
 4. Causes and effects
 5. Significance and implications
 ;;
 Similarities and differences
-<!--SR:!2023-11-13,22,253-->
+<!--SR:!2024-01-29,77,273-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies

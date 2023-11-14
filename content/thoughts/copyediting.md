@@ -175,7 +175,7 @@ The term used to refer to a copyeditor's intuition and instincts about how to re
 <!--SR:!2023-12-13,43,298-->
 
 How slow should a copyeditor read a manuscript? :: Slow enough to consider each letter and word.
-<!--SR:!2023-11-13,16,238-->
+<!--SR:!2024-01-04,52,258-->
 
 What's the best use of software in editing? :: Reduce time-consuming mechanical tasks.
 <!--SR:!2023-11-22,22,258-->
@@ -303,7 +303,7 @@ The most common mistake made by novice copyeditors is rewriting portions of a te
 <!--SR:!2023-12-14,35,281-->
 
 The rules in an editorial style is not a matter of ?? but of ?? :: correctness, preference
-<!--SR:!2023-11-13,1,201-->
+<!--SR:!2023-11-16,3,221-->
 
 If an editorial style is unavailable, what should the copyeditor do? :: Create a style sheet.
 <!--SR:!2024-01-03,55,301-->
@@ -499,7 +499,7 @@ Macros ::: Programmed commands that perform routine mechanical editing operation
 <!--SR:!2023-12-03,24,221!2023-12-25,46,301-->
 
 Ideally, how many times should a copyeditor go through a manuscript? :: Three: one preliminary skim and two complete passes
-<!--SR:!2023-11-13,19,261-->
+<!--SR:!2024-01-22,70,281-->
 
 A preliminary skim involves? :: Assessing the quality of writing and noting difficult sections
 <!--SR:!2023-11-21,21,241-->
@@ -634,7 +634,7 @@ Benefits of resisting the urge to recast an author's phrase in your own voice.
 - No need to maintain the author's style
 ;;
 Shorter cleanup and copyediting
-<!--SR:!2023-11-13,4,221-->
+<!--SR:!2023-11-24,11,221-->
 
 Benefits of resisting the urge to recast an author's phrase in your own voice.
 - Easier mechanical editing

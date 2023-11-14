@@ -62,3 +62,5 @@ Suddenly the house wiggled tben rain but it wasnt that strong
 I heard this animal flying aroubd by rhe wind.
 I went downstairs. I saw Pua there. She came from outside. I got her. Felt that she has a fever.
 We went inside the bedroom under the mosquito net. Saw her lie down like Kako.
+
+[[2023-11-11]]: Claire exhumes Rem. But Rem has bones left. Not dust.

@@ -21,7 +21,7 @@ Best free online dictionary :: Merriam-Webster's Collegiate Dictionary (M-W Coll
 <!--SR:!2023-11-28,28,283-->
 
 Which free online dictionary is an excellent backup for M-W C? :: American Heritage Dictionary of the English Language (AHD)
-<!--SR:!2023-11-13,4,243-->
+<!--SR:!2023-11-15,2,223-->
 
 Gregg Reference Manual ::: An established general reference for business documents.
 <!--SR:!2023-11-21,24,263!2023-11-19,22,263-->
@@ -51,7 +51,7 @@ Style manual used by literary scholars and writers in the humanities. :: MLA
 <!--SR:!2023-11-29,29,283-->
 
 Style manual used by social scientists. :: APA
-<!--SR:!2023-11-13,16,284-->
+<!--SR:!2024-01-14,62,304-->
 
 Style manual used mainly in the natural sciences. :: CSE
 <!--SR:!2023-11-17,20,263-->
