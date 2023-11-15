@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 ## 2023
 
+- [[2023-11-14]]: [[literature/bluets nelson|Bluets by Maggie Nelson]]
 - [[2023-10-10]]: [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] ★
 - [[2023-07-16]]: [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]] ★
 - [[2023-07-13]]: [[thoughts/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]] ★
