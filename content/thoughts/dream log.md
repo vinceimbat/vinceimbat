@@ -64,3 +64,5 @@ I went downstairs. I saw Pua there. She came from outside. I got her. Felt that 
 We went inside the bedroom under the mosquito net. Saw her lie down like Kako.
 
 [[2023-11-11]]: Claire exhumes Rem. But Rem has bones left. Not dust.
+
+[[2023-11-16]]: Days of storm. Then some signs of fair weather. But then out of nowhere, tornadoes: three of them. I saw from a window. I heard someone shout, "Aman Jehovah!"
