@@ -78,7 +78,7 @@ I was only able to sustain this routine for a couple of weeks. I was not my hero
 
 Here are two of my best entries:
 - [[2020-10-08 seeds]]
-- [[2020-10-10 seeds]]
+- [[thoughts/2020-10-10 seeds]]
 - [[2020-10-15 seeds]]
 - [[2020-10-18 seeds]]
 - [[2020-10-19 seeds]]

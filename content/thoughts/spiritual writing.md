@@ -25,5 +25,14 @@ The didactic part of the equation is where you will find your strength. Insights
 
 And then develop enough expressivism.
 
+# What the spiritual writing course will be
+
+The course avoids metaphysical and epistemological talk, although these will be welcomed as content of writing outputs.
+
+The course will be primarily about using writing to explore our beliefs and values, help ourselves live with integrity on the values we set for ourselves, and deepen our faith and commitment to our personal beliefs.
+
+It will also be about developing processes in expressing our beliefs. This involves finding the right forms to fit what we want to say and developing skills in expressing ourselves in writing.
+
+The course will also involve advice on reading right, taking care of our writings, and deciding how we share our work to others.
 
 # References
