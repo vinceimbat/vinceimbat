@@ -1,14 +1,14 @@
 ---
-title: "Three-column list for community-building"
-date: "2022-08-25"
+title: Three-column list for community-building
+date: 2022-08-25
+aliases:
+  - three-column list for community-building
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-08-29
 sr-interval: 4
 sr-ease: 270
 ---
-
 [[literature/belong agrawal]]. For column one, use values from [[My top values]].
 
 ## Qualities I’m looking for 🙂

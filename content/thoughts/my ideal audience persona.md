@@ -1,18 +1,17 @@
 ---
-title: "My ideal persona"
-date: "2023-02-18"
-slug: "my-ideal-audience-persona"
+title: My ideal persona
+date: 2023-02-18
+slug: my-ideal-audience-persona
 aliases:
-- "My-ideal-persona"
-- "my-ideal-persona"
+  - My-ideal-persona
+  - my-ideal-persona
+  - My ideal audience persona
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2023-02-21
 sr-interval: 3
 sr-ease: 259
 ---
-
 I am writing this to guide me in finding the right people to connect to and build relationships with professionally and personally. I want to embody [[Radha Agrawal]]'s principle that we have to work towards removing compartmentalizations among the people I build relationships with (i.e., the people I like to work with should also be the people I could eventually call my friends).
 
 Although I will go to as much detail as I can in describing this ideal persona, I would summarize it by saying this: my ideal persona is also myself—an extension of my values. They may not be exactly like me, but they represent the people I want to see more in the world. Multiply my ideal persona and you get individuals building the utopia that I want to live in. Because of this, their psychographics is more imprtant than their demographics.
@@ -46,3 +45,10 @@ This list of values and beliefs are not exhaustive. But they are basically my va
 This list is not an exclusion criteria. It is an ideal that represents possible connections I can build.
 
 My mentors and peers, ideally must share these values and beliefs, but they are different from fans by virtue of them having a practice like mine (see [[thoughts/my ideal mentors and peers]]).
+
+# Unprocessed thoughts
+
+- spiritual
+- may have gone through a trauma from dogmatic beliefs
+- Seeks a free and creative way to be
+- Into arts (esp. writing and photography)

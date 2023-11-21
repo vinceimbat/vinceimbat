@@ -1,12 +1,13 @@
 ---
-title: 2023-11-17 seeds
-date: 2023-11-17
+title: Isa Akong Ilog
+date: 2023-11-20
 tags:
-  - seeds
+  - seedlings
+draft: false
+sr-due: 2023-11-23
+sr-interval: 3
+sr-ease: 250
 ---
-- [[poems/isa akong ilog|isa akong ilog]]
-- [[thoughts/unitarianism|unitarianism]]
-
 Ilog ako
 ang mga hinagap at damdamin koy dumadaloy sa kailaliman at paminsan-minsay tumitilamsik sa baybayin.
 Bagaman madalas tahimik lang ang agos ko, sa pagragasa ng tubig ulanng nanggagaling sa tuktok ng mga bundok sa paligid ko, umaapaw ang mga mithiin ko
@@ -19,6 +20,3 @@ Ako ang bukas
 At ang araw pagkatapos ng bukas
 
 Ako ang sandaling ito na dito rin magwawakas
-
-***
-Unitarianism is primarily an openness to a plural world, a diverse world, and a genuine curiosity to all beliefs and perspectives. A unitian's commitment to a certain belief is not more than his commitment to the possibility of a plural, free society.

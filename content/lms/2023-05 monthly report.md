@@ -1,9 +1,10 @@
 ---
-title: "2023-05 Monthly report"
-date: "2023-06-01"
+title: 2023-05 Monthly report
+date: 2023-06-01
+aliases:
+  - 2023-05 Monthly report
 tags:
-- "LMS"
-- "evergreens"
+  - evergreens
 ---
 # Summary
 

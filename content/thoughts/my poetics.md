@@ -60,7 +60,7 @@ I want to be able to support myself while pursuing this life work with a source 
 # What I want my audience to feel + achieve
 
 I have done some work defining:
-- [[My ideal audience persona]]
+- [[thoughts/my ideal audience persona]]
 - [[thoughts/my audience and community]]
 - [[thoughts/my ideal mentors and peers]]
 

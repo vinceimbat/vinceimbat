@@ -3,6 +3,7 @@ title: What's Next For The Long Walk
 date: 2023-11-19
 tags:
   - evergreens
+  - tlw
 draft: false
 ---
 Dear friends,
@@ -44,3 +45,5 @@ As I end this letter, I want to take this opportunity once more to thank you for
 With the warmest of wishes,
 
 Vince
+
+![Dilapidated cieling](essays/images/ymca-cieling.jpg)
