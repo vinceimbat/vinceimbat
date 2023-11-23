@@ -17,9 +17,11 @@ I want to write personal, honest, sincere, and earnest writings rather than auth
 
 I want to combine personal story, story-telling, and good research to try to create works that teach “values” in a subtle, facilitative way. I want to use the first person voice but I also want to demonstrate good research.
 
+Also, an atheist spiritual voice that moves, inspires, and reminds us of our existence through verse and story.
+
 # Models
 
-I like the write simple yet elegant sentences. Models:
+I like simple yet elegant sentences. Models:
 
 - Ben Hewitt
 - Rofel Brion

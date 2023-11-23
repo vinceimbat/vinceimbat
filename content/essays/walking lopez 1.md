@@ -8,7 +8,6 @@ tags:
   - "lilim"
   - "evergreens"
 ---
-
 ![One-man trolley](essays/images/one-man-trolley.jpg)
 
 There is something magical about walking beside the railroad at San Jose, on a crisp summer morning. An ironic silence wraps over and under the tracks, amplified by the thin fog that hazes metal, stone, and wood. At first, you won’t see a single soul walking here at this time of the day. The narrow concrete road beside the tracks is fair game for any solitary saunterer. And yet—and you only get this once you’ve stayed here for at least a couple of days—you know that any minute now, a noisy trolley, which locals call “skates,” would appear. You anticipate its arrival, and this dance between silence and anticipation creates that magic.
