@@ -1,0 +1,60 @@
+---
+title: Toward a Free Subsistent Spirituality
+date: 2023-11-25
+tags:
+  - seedlings
+draft: false
+---
+It has been told that the historian Arnold Toynbee once visited the Ise Grand Shrine of Japan. The Ise Grand Shrine, also known as Ise Jingū, is a network of several Shinto shrines scattered around Mie Prefecture and encircling two main shrines, Naikū and Gekū. Perhaps, it was after seeing these two shrines when Toynbee wrote the following words on the visitor's log book: "I feel in this holy place the underlying unity of all religions."
+
+I encountered this account in "What is [[Free Religion]]?" one of the seven selected writings of [[thoughts/shinichiro imaoka|Shin'ichirō Imaoka]] featured in the appendix of *[[literature/cosmic sage williams|Cosmic Sage]]*, George Williams' biography of Imaoka. In the same essay, Imaoka mentioned that the visit of a famous Buddhist poet named Saigyo on the same shrine moved him to write a poem in tears for "something divine and inexplicable." Imaoka then concluded that both Toynbee and Saigyo are "free religionists" as they perceived the sublime across religious boundaries and that Shinto, the natural religion of the Japanese people, is a form of free religion as it moves anyone visiting regardless of their religious background into an appreciation of what it means to be human.
+
+What these accounts tell me is that **spirituality is a lot simpler and accessible than what most of us make it to be**. I am very interested in understanding and articulating this simple spirituality because my personal history with religion and spirituality has led me to an unexpected state where I'm not ready to join a church or any form of institutional religion and yet I would describe myself as someone who is very spiritual and perhaps even very religious.
+
+My gut tells me that **spirituality can never be monopolized by any church or group**. It can be institutionalized, of course, but it will never be caged. This is because **spirituality is primarily a personal matter, one that relies heavily on an individual's subjective experience**. Furthermore, as [[thoughts/scott barry kaufman|Scott Barry Kaufman]] would agree, spirituality is more prevalent in the population. In fact, I would say that all human beings are born with a natural predisposition to be spiritual. I will explain more later.
+
+# The Parable of Two Farmers
+
+When I was still living in my hometown in Pangasinan, I used to walk every afternoon on this long and winding road about ten minutes away from our house by bicycle. Whenever I reach the beginning of the trail, I get off my bike and start walking. The walk would begin around four and end around six when the sun has completely set. I would sit on the side of the road, usually on the grass, to watch the sun go down.
+
+Around this time, farmers, some of which I personally know, begin their way home. One farmer goes home riding a *kuliglig* with some hay behind him. Another rides his small, rusty bike. Many walk, especially those who live in small huts just along the road.
+
+Most farmers would not care to look at the sunset. Looking forward to a tasty dinner after a long tiresome day under the sun, most are just eager to reach home. But once, I witnessed two farmers walking across the field via a *pilalipil* as the sun, beaming as it usually does at this time, was seconds away from disappearing behind the mountains of Zambales. Something moved the first man to stop and watch the sun. The man following him did the same and placed his arm around the shoulders of his companion. They joined me from afar in paying homage to this large ball of fire that feeds us and the crops around us with nurturing light tirelessly day after day.
+
+When I went home that day, I contemplated about what made those two farmers different from all the other farmers I've seen throughout my many walks. I thought about myself and what makes me launch myself into deep thought about perennial questions that doesn't seem to bother many of those I encounter every day.
+
+# Spirituality is an Attitude of Caring
+
+It is by no means a complete and final answer, but as of now, I am partial to the idea that spirituality, at its core, is a way of seeing the world and being in it. In other words, it is an attitude. Specifically, spirituality is an attitude of caring as oppose to an attitude of apathy.
+
+The walker-writer [[thoughts/craig mod|Craig Mod]] often differentiates the United States (his country of origin) from Japan (his country of residence) by using the word "care" to describe the latter. After describing Japan's pro-people social systems, such as its health system and social services that make it easier for the Japanese to pursue creative and entrepreneurial pursuits, Mod would argue that these systems are a reflection of a people who "care" (in more colorful language, "who gives a fuck"). Some would say that this culture of caring flows from Shinto itself, the Japanese natural religion or way of life.
+
+This predisposition to care is what I think is at the root of spirituality and religion. We seem to be born with it. It begins with ourselves. It is within our nature to preserve the self, to protect it, and to avoid anything that harms it. At the same time, we seem to be able as early as childhood to direct this attitude of caring to things outside of ourselves: to a caregiver, a pet, a stranger, or even an inanimate toy.
+
+A closer look at this idea that spirituality is simply an attitude of caring tells me a few things about it:
+
+1. **Spirituality is active.**  Attitude is a word that involves both a feeling about something and an expressed behavior toward it. This is exactly what spirituality is. It begins within but always seeks to get out of the confines of the self. It constantly seeks action and expression. Interestingly, the attitude of caring (i.e., spirituality) is often maintained through an active practice, whether meditation, praying, writing, or a physically active practice, such as walking or yoga. Without this active practice, the attitude could weaken.
+2. **Spirituality is dynamic.** Although I seem to naturally have the ability to care about myself and others, I won't always express it. It opens then closes only to open again. In my parable of the two farmers, the farmers who didn't stop to look at the sunset are not necessary "non-spiritual." As human beings, they undoubtedly care about something. They may not care about the sunset, but they may feel strongly about their wives and children that they act toward them with an even greater sense of care—love. This too is spirituality. Spirituality keeps on changing; it shape-shifts. So, we can never fully institutionalize it or put rules around it. It will always break free from those rules.
+3. **Spirituality is object-neutral.**  To emphasize the point I just made above, the object of my attitude of care could be different from yours. I could care a lot about my craft of writing, while you care a lot about a loved one or a principle. Since spirituality is simply the attitude we direct towards something, it doesn't choose its object. We do the choosing, and we can channel it toward anything.
+4. **Spirituality is pluralistic.** We don't have to direct our attitude of caring toward a single thing or person. My life is too complex to focus on just one thing or one person. The nature of my life necessitates that I care about many things at once. Some will take more of my attention and care than others at any given moment, but the object of my care could change any time. I don't have to burden myself with chaining my devotion to a single being.
+5. **Spirituality is medium-neutral.**  My brand of spirituality can be expressed in different ways. A minister expresses it through preaching, an artist through her works, a meditator through meditation, a philosopher through logic, and the farmer through his crops. Since the attitude of caring is highly subjective, each individual chooses how best to express it based on his or her strengths and tendencies. Spirituality is not nurtured by a single method alone. There is no ladder to climb, only various spokes connecting to the center of a wheel. Also, since I am multifaceted individual, I don't have to choose a single media to express my attitude of caring. I could explore and use different media across different cultures and traditions to express my spirituality.
+6. **Spirituality is subsistent.**  Taken simply as an attitude, my spirituality does not need a lot. It simply needs an object of care and a medium of expressing that care. It doesn't ask me to follow stringent rules. It simply requests that I be my most loving and caring self.
+7. **Spirituality is accessible.**  Since it is simply an attitude and doesn't ask a lot from us, it is more accessible to anyone no matter what their cultural and religious background is. Spirituality can be owned by those who go to church and those who don't. It can be owned by those who believe in a personal God and those who do not.
+8. **Spirituality is portable.**  Since it is simply an attitude, I can carry it with me wherever I go. I could call upon it at any time. I don't have to be in a specific "holy" place to activate it. I don't need pastor or a guru to call it forth. It is always with me like a shadow.
+
+# Spiritual vs. Non-spiritual
+
+But why do we need an adjective like "spiritual" to label an attitude of caring?
+
+I personally need a label because I am aware that it is easy to slide into the way of apathy, a life that is characterized by not caring at anything at all, sometimes even to oneself. This attitude that life isn't worth caring at all could easily lead to thoughts that life is no longer worth living. I've been in that place several times in my short life and it is a place I hope to never return to again. I am intent in distancing myself from that place that I need to constantly remind myself of the better alternative. A label, such as "spiritual," can be a useful mnemonic device.
+
+I need to emphasize at this point that the desire to end one's life should never be taken a sign of a person's "spiritual" weakness, as is often the view in many institutionalized religions. My depression and the suicidal ideations that came with it and returned in two occasions (the end of my six-year relationship in 2018 and the coming of my tinnitus in 2020) has taught me that most if not all of us who have, at one point, decided to kill ourselves, did so out of our intense longing to end our suffering. Suicide is often seen as a way out of suffering, not life. Remove the suffering and the suicidal will always want to continue living.
+
+And this is why, I think, the question of suicide is so important, if not central, to my understanding of spirituality. I couldn't talk about spirituality without talking about the most existential of all questions: "Why shouldn't I kill myself?"
+
+For me, spirituality (the attitude of caring) is impossible without taking a courageous leap of faith on the goodness that is lurking behind every tiny crevice of a universe that can be so easily filled with darkness. The evidence for a world that is beautiful and good is often missing that one needs to simply believe it is there. Why shouldn't I kill myself? I'm not very sure why I shouldn't, but I trust that if I avoid this thought for just one day, I will find something out there that would convince me to begin "caring" about something, perhaps even myself.
+
+Writing this reminds me of why I love the word "subsistent" in describing the kind of spirituality I'm proposing here. The word subsistent is primarily used to describe a condition that allows one continue to exist (i.e., to get by). At the same time, it also involves a means that is simple, minimal, and does not need a lot.
+
+This is the spirituality that I aspire for—a subsistent spirituality, a spirituality that will allow me to continue to believe in the worthiness of living and that is so lightweight that I can run freely with the winds of life.
+

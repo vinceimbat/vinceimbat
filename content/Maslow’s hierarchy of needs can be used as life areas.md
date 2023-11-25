@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-I will be using [[Maslow’s heirarchy of needs]], as revised by [[Scott Barry Kaufman]], to sharpen my categorization in [[My life areas]]. I notice that there is already a stark similarity between the two:
+I will be using [[Maslow’s heirarchy of needs]], as revised by [[thoughts/scott barry kaufman]], to sharpen my categorization in [[My life areas]]. I notice that there is already a stark similarity between the two:
 
 |              | **Maslow’s Hierarchy of Needs** | **My Life Areas**           |
 | ------------ | ------------------------------- | --------------------------- |
