@@ -9,7 +9,7 @@ tags:
 
 I'm an essayist, poet, and photographer.
 
-Welcome to my little home in the web. This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints—both in the [[wilderness of the mind]] and the [[wilderness of geographic space]]. I use the word "footprints" here as inspired by a quote from [[Herbert Fingarette]]:
+Welcome to my little home in the web. This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints—both in the [[thoughts/mental wilderness]] and the [[thoughts/geographical wilderness]]. I use the word "footprints" here as inspired by a quote from [[Herbert Fingarette]]:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 

@@ -60,9 +60,9 @@ Tried deploying jekyll blog on cloudflare. It worked. But then I realized how li
 - Wrote links to new terms of art I used in the homepage copy:
 	- [[thoughts/forest garden of the mind]]
 	- [[thoughts/seeds]]
-	- [[Wilderness of the mind]]
-	- [[Wilderness of geographic space]]
-	- [[The Wilderness]]
+	- [[thoughts/mental wilderness]]
+	- [[thoughts/geographical wilderness]]
+	- [[thoughts/wilderness]]
 	- [[The long walk]]
 - Created a favicon using Canva.
 - Used custom domain and pointed vinceimbat.com to the Github pages.
