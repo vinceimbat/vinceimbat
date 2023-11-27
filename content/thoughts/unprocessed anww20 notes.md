@@ -1,14 +1,14 @@
 ---
-title: "Unprocessed notes for ANWW20"
-date: "2023-03-27"
+title: Unprocessed notes for ANWW20
+date: 2023-03-27
 tags:
-
-- "seedlings"
-sr-due: 2023-03-28
-sr-interval: 1
+  - seedlings
+aliases:
+  - Unprocessed notes for ANWW20
+sr-due: 2024-09-05
+sr-interval: 283
 sr-ease: 230
 ---
-
 I sought to explain my experience while walking. Why did all of a sudden I question my motivation for something I have been doing for a long time.
 
 Walking as a means of traversing liminality

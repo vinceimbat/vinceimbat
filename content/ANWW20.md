@@ -13,7 +13,7 @@ Ten days before the deadline for passing entries on April 1, 2023, I collated my
 - [[thoughts/approaching the anww20 entry]]
 - [[Outline of entry to ANWW20]]
 - [[Entry to ANWW20]]
-- [[Unprocessed notes for ANWW20]]
+- [[thoughts/unprocessed anww20 notes]]
 
 When my entry was accepted, I prepared for my first national writers workshop:
 - [[Advice for ANWW20]]

@@ -1,15 +1,19 @@
 ---
-title: A Free Subsistent Spirituality
+title: "A Goodness Lurking: The Quest for a Free, Subsistent Spirituality"
 date: 2023-11-25
 aliases:
   - essays/toward a free subsistent spirituality
+  - essays/a free subsistent spirituality
 tags:
-  - seedlings
+  - tlw
+  - evergreens
 draft: false
 sr-due: 2023-11-26
 sr-interval: 1
 sr-ease: 227
 ---
+![Dried leaves](essays/images/dried-leaves.jpg)
+
 It has been told that the historian Arnold Toynbee once visited the Ise Grand Shrine of Japan. The Ise Grand Shrine, also known as Ise Jingū, is a network of several Shinto shrines scattered around Mie Prefecture and encircling two main shrines, Naikū and Gekū. It was perhaps after seeing these two shrines that Toynbee wrote the following words on the visitor's logbook: "I feel in this holy place the underlying unity of all religions."
 
 I encountered this account in "What is [[Free Religion]]?" one of the seven selected writings of [[thoughts/shinichiro imaoka|Shin'ichirō Imaoka]] featured in the appendix of *[[literature/cosmic sage williams|Cosmic Sage]]*, George Williams' biography of who was once called "the Emerson of Japan." In the same essay, Imaoka mentioned that the visit of a famous Buddhist poet, Saigyo, to the same shrine moved him to write a poem in tears for "something divine and inexplicable." Imaoka then concluded that both Toynbee and Saigyo are "free religionists" as they perceived the sublime across religious boundaries and that Shinto, the natural religion of the Japanese people, is a form of free religion as it moves anyone visiting regardless of their religious background into an appreciation of what it means to be human.
@@ -67,6 +71,7 @@ Once one trusts the goodness lurking out there, one begins to care about oneself
 Writing this reminds me of why I like using the word "subsistent" to describe the kind of spirituality I'm proposing here. The word subsistent is primarily used to describe a condition that allows one to continue to exist (i.e., to get by). At the same time, it also refers to something that thrives on minimal resources.
 
 This is the spirituality that I aspire for—a subsistent spirituality that will allow me to continue to believe in the worthiness of living and that is so lightweight that I can run with it freely with the winds of life.
+![Red chair](essays/images/red-chair.jpg)
 
 # A Free, Subsistent Spirituality
 
@@ -104,4 +109,6 @@ In other words, the little things re-sparked my faith in the goodness that lurke
 
 This new lesson continued to sustain me even after the depressive episode. It helped me face the second spiritual wilderness I experienced when I decided to leave the Jehovah's Witnesses a year after my depressive episode. In that second spiritual wilderness, I took an intensely minimal and careful approach to my spirituality. Yes, I explored different traditions and attended different groups, but I always took a skeptical approach. I took away what resonated with me but left the beliefs and rituals too heavy to carry around. I reasoned that leaving my childhood religion took away a lot from me, and I would like to honor that journey by ensuring that the next version of my spirituality is one I could truly call my own.
 
-It has been over ten years since I entered this second spiritual wilderness. I wouldn't describe it as an ecstatic life. Yes, I've never felt as free as before. But the wilderness is a tough place to be in for obvious reasons. It doesn't give you the same comfort you had back at the place you left. For me, the biggest challenge since embracing a free, subsistent spirituality has always been community. I discovered early on that in spiritual and religious circles, skepticism is often under-appreciated and even subtly discouraged. Most religious and spiritual groups require a strong measure of devotion that is always almost binding. Therefore, it can be difficult to find a community of people who would encourage the same free, subsistent spirituality that I have designed for myself. In fact, it wasn't until this year that I started connecting with individuals who share a similar desire to keep their spiritual lives as lean as possible so that they may never be burdened by the unnecessary accessories of devotion and that they can keep their eyes to what is truly most important—developing an attitude of deep caring toward oneself, one's neighbor, society, and the entire universe.
+It has been over ten years since I entered this second spiritual wilderness. I wouldn't describe it as an ecstatic life. Yes, I've never felt as free as before. But the wilderness is a tough place to be in for obvious reasons. It doesn't give you the same comfort you had back at the place you left. For me, the biggest challenge since embracing a free, subsistent spirituality has always been community. I discovered early on that in spiritual and religious circles, skepticism is often under-appreciated and even subtly discouraged. Most religious and spiritual groups require a strong measure of devotion that is always almost binding. Therefore, it can be difficult to find a community of people who would encourage the same free, subsistent spirituality that I have designed for myself. In fact, it wasn't until this year that I started connecting with individuals who share a similar desire to keep their spiritual lives as lean as possible so that the unnecessary accessories of devotion may never burden them and that they can keep their eyes on what truly matters—developing an attitude of deep caring toward oneself, one's neighbor, society, and the entire universe.
+
+![Abandoned building](essays/images/ymca-front.jpg)
