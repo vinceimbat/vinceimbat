@@ -1,11 +1,14 @@
 ---
-title: "Notes from introduction to Walden"
-date: "2023-05-23"
+title: Introduction to Walden – Merwin
+date: 2023-05-23
+aliases:
+  - Notes from introduction to Walden
 tags:
-
-- "seedlings"
+  - seedlings
+sr-due: 2023-12-01
+sr-interval: 3
+sr-ease: 250
 ---
-
 Reaped from the land both physically and mentally
 
 Pursued truth in the quiet of nature
