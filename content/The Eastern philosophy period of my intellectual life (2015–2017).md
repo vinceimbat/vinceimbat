@@ -11,7 +11,7 @@ sr-ease: 250
 
 The return of my "spiritual" inclinations - exposure to Eastern thought.
 
-After college, I started looking for a differeny way of working. I found blogging and read bloggers. One of them was [[Dave Ursillo]]. His writing really resonated to me and did something I didn't expect. He woke up my “spiritual” side.
+After college, I started looking for a differeny way of working. I found blogging and read bloggers. One of them was [[thoughts/dave ursillo]]. His writing really resonated to me and did something I didn't expect. He woke up my “spiritual” side.
 
 Because Dave was a yogi and he shared some of his favorite books about yoga, I got acquainted first with [[Hinduism]]. With his suggestion, I read the [[Bhagavad Gita]], the [[Yoga Sutras of Patanjali]], and [[The Heart of Yoga]] by Desikachar). I also met the works on [[Spiritual humanism]] by [[Jay Lakhani]]. Even at this point, I was still trying to connect secular knowledge with religious wisdom.
 

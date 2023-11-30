@@ -1,11 +1,14 @@
 ---
-title: "Deep philosophy"
-date: "2022-02-22"
+title: Deep philosophy
+date: 2022-02-22
+aliases:
+  - Deep philosophy
 tags:
-
-- "seedlings"
+  - seedlings
+sr-due: 2023-12-03
+sr-interval: 3
+sr-ease: 250
 ---
-
 A way of philosophizing first articulated by [[Ran Lahav]]. He previously called it "contemplative philosophy" and "philosophical companionships." It was born out of his disatisfaction from academic philosophy's emphasis on absract reasoning and [[Philosophical practice]]'s distancing from what Lahav calls the "original philosophical mission":   Creating inner transformations while connecting to the foundation of reality.
 
 Deep philosophy has four main tenets:

@@ -29,7 +29,7 @@ Examples of lyrical philosophy
 - the Whirlwind in Job
 - Ecclesiastes
 
-Note that the term "lyrical philosophy" is not as accepted or used in academia as the word "[[Lyric philosophy]]" popularized by [[Jan Zwicky]] through her book of the same title. Although both trace their ancestry back to [[thoughts/ludwig wittgenstein]] and I can imagine how the two can easily merge into a single concept, [[thoughts/edward mooney]] and Zwicky have subtle differences in how they use each idea.
+Note that the term "lyrical philosophy" is not as accepted or used in academia as the word "[[thoughts/lyric philosophy]]" popularized by [[Jan Zwicky]] through her book of the same title. Although both trace their ancestry back to [[thoughts/ludwig wittgenstein]] and I can imagine how the two can easily merge into a single concept, [[thoughts/edward mooney]] and Zwicky have subtle differences in how they use each idea.
 
 # Related
 

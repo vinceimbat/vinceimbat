@@ -112,4 +112,4 @@ I cultivate a forest garden of the mind, which I call my collection of notes fro
 - [[Poetry and narrative trace their history so readers can re-enact them]]
 - [[steal like an artist - kleon]]
 -  [[Meditation does not require silence or nonthinking]]
-- [[Lyric philosophy]]
+- [[thoughts/lyric philosophy]]

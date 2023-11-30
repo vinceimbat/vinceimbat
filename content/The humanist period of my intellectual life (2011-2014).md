@@ -15,7 +15,7 @@ This is the period in my intellectual history that I let go of my childhood reli
 - Going to the [[University of the Philippines]] exposed me to critical thinking and perspectives. I read how [[Karl Marx]] labelled religion as the opium of the people, how religion only exists because of this opiate function, and that it is a social construct created by humans not by God. Despite bombardment of radical views, I remained faithful to my beliefs and grew deeper in my religious devotion. I volunteered in the Deaf ministry, a challenging ministry that not many JWs were willing to take, and quite honestly we in the Deaf ministry were discriminated even by our fellow JWs.
 - In 2011, I went through a spiralling depression, which led me to want to die and attempt vengeance against God.
 - I read the book [[Bondage of the Mind]] and [[The Bible as History]], and never looked at the Old Testament the same way again.
-- I started being interested in [[Humanism]].
+- I started being interested in [[thoughts/humanism]].
 - I went back to school and joined a political party. It is there where I was able to build a political identity. I embraced social democracy. I no more had a religion. I found a political advocacy.
 
 To do
