@@ -20,6 +20,8 @@ See [[seiza]].
 
 >Given your direct, and no doubt very painful, experience with the JWs, getting a strong sense of who you are as a free-religious person before you walk through another community's doors is really, really important. Without a working, recalibrated compass of your own, you won't be able truly to tell whether they are genuinely practising a free-religion or just a slightly more liberal version of conventional religion.
 
+Free religion is a dance between [[thoughts/doubt|doubt]] and [[thoughts/faith|faith]]. We try to have faith, to trust, to commit, to devote, but our intention is for us to be truly free—to change, listen, and be who we really are. Because we are unique individuals with a measure of freedom bounded by our relationships with our neighbors, society, and the natural world. Our intention is to maximize the amount of freedom given to us without destroying the balance. We flow mindfully. We change mindfully. Our goal is to live in a world where everyone is free to change and listen to their truest self, which allows others to do and preserving the world where all these is possible.
+
 # Translation
 
 I'm playing around possible translation of the word into Filipino. Here are some initial ideas:

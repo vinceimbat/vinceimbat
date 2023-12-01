@@ -1,14 +1,14 @@
 ---
-title: "Emotions"
-date: "2022-07-24"
+title: Emotions
+date: 2022-07-24
+aliases:
+  - Emotions
 tags:
-
-- "seedlings"
-sr-due: 2022-07-27
-sr-interval: 3
+  - seedlings
+sr-due: 2025-08-15
+sr-interval: 623
 sr-ease: 250
 ---
-
 Emotions can be described using three words:
 1. [[Affect]]
 2. Emotion
