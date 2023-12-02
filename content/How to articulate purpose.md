@@ -22,7 +22,7 @@ On the other hand, if you said that your purpose is to be happy, you have articu
 When articulating purpose, it might be useful to remember the following guidelines:
 - [[A purpose is not always the same as a core desired mental state]]
 - There is a difference between [[Primary vs secondary purposes]].
-- [[We create our individual purpose]].
+- [[thoughts/we create our individual purpose]].
 - [[Focus on feeling good and purpose will follow]].
 
 Here are [[Ways to create our individual purpose]].

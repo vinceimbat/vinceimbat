@@ -24,7 +24,7 @@ A lifeview is your ideas about the world and how it works. It answers the follow
 - Is there a higher power, God, or something transcendent, and if so, what impact does this have on your life?
 - What is the role of joy, sorrow, justice, injustice, love, peace, and strife in life?
 
-Here is [[My lifeview]].
+Here is [[thoughts/my lifeview]].
 
 According to [[literature/designing your life - burnett and evans]], a lifeview is a necessary complement to a [[workview]] in creating one's life compass. A well-designed life has a bias towards coherence between your lifeview and your [[workview]]. To find this coherence, ask the following questions:
 

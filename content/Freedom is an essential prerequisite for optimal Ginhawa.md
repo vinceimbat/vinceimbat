@@ -8,7 +8,6 @@ sr-due: 2022-11-25
 sr-interval: 3
 sr-ease: 250
 ---
-
 [[There are no objective definitions]]. While we can provide a dictionary or professional definition for "Ginhawa” (e.g., “Feeling good), this definition is simply a consensual definition agreed upon by convention. [[A dictionary is simply a collection of commonly-agreed-upon definitions]].
 
 Even if Ginhawa-ness exists in the platonic realm, even if we can say that all of us experience Ginhawa in its core form, the context (i.e., the physical and mental states) that makes Ginhawa possible is unique for each individual. What makes you feel Ginhawa is not what makes me feel Ginhawa.

@@ -1,14 +1,14 @@
 ---
-title: "Purpose does not arise from the objective physical world"
-date: "2022-04-27"
+title: Purpose does not arise from the objective physical world
+date: 2022-04-27
+aliases:
+  - Purpose does not arise from the objective physical world
 tags:
-
-- "seedlings"
-sr-due: 2022-05-01
-sr-interval: 4
+  - seedlings
+sr-due: 2026-01-31
+sr-interval: 792
 sr-ease: 270
 ---
-
 Purpose is mind-dependent. Individual minds create it.
 [[Purpose is conscious]].
 

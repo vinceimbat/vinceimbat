@@ -11,7 +11,7 @@ sr-ease: 247
 ---
 Convergence can only happen after divergence. A [[convergence tool]] like [[thoughts/purpose]] ([[thoughts/purpose is a convergence tool]]) can only be produced by trial and error. Deciding on what to try out is usually done through [[Intuition]] (i.e., [[System 2 Thinking]]).
 
-[[We create our individual purpose]] through the following proces:
+[[thoughts/we create our individual purpose]] through the following proces:
 
 1. We try a lot of things using intuition to decide what resonates with us.
 2. We use both mind and body to feel what resonates ([[Focus on what feels good and purpose will follow]]).
@@ -23,4 +23,4 @@ As long as you are in the divergence phase, your intentions will remain tentativ
 
 This is why formal education does not work. It sets a strict schedule on one's psychological development, forcing one to make premature work and career decisions, which hamper the organic discovery of one's purpose. You cannot force this process like what schooling does. Some people find it fast, some take lots of time.
 
-This also shows why purpose is highly individualistic. [[There is no single purpose everyone must follow]].
+This also shows why purpose is highly individualistic. [[thoughts/there is no single purpose everyone must follow]].

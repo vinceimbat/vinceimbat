@@ -6,11 +6,11 @@ tags:
 ---
 
 - [[Purpose is a statement that articulates the reason behind an action]]
-- [[We create our individual purpose]]
+- [[thoughts/we create our individual purpose]]
 - [[Purpose is ideally motivational]]
 - [[Benefits of articulating your purpose]]
 - [[How to articulate purpose]]
-- [[Purpose does not arise from the objective physical world]]
+- [[thoughts/purpose does not arise from the objective physical world]]
 - [[Purpose is what we ultimately want]]
 - [[To pursue a mental state as a purpose requires reconstruction]]
 - [[How I articulated my purpose in the past]]

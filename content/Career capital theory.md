@@ -29,6 +29,6 @@ I don't fully resonate with the career capital theory because it completely igno
 Related
 
 - [[Early and semi-retirement could allow one to live in the gift economy]]
-- [[Some important work have to be done even if they are not profitable]]
+- [[thoughts/some important work are necessary even if unprofitable]]
 
 # References

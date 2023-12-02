@@ -34,6 +34,6 @@ Related
 - [[Commodity exchange facilitates freedom and individualism]]
 - [[Art is a gift]]
 - [[Ways we can practice the gift today]]
-- [[Some important work have to be done even if they are not profitable]]
+- [[thoughts/some important work are necessary even if unprofitable]]
 
 # References

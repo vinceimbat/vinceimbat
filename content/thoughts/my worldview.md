@@ -40,7 +40,7 @@ Metaphysics is a difficult topic to navigate because [[thoughts/we agree about w
 
 Others
 - [[God does not exist]].
-- [[There is no single purpose everyone must follow]].
+- [[thoughts/there is no single purpose everyone must follow]].
 
 # Epistemology
 

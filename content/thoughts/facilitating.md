@@ -1,14 +1,14 @@
 ---
-title: "Facilitating"
-date: "2021-02-11"
+title: Facilitating
+date: 2021-02-11
+aliases:
+  - Facilitating
 tags:
-
-- "seedlings"
-sr-due: 2023-04-24
-sr-interval: 3
+  - seedlings
+sr-due: 2024-09-13
+sr-interval: 286
 sr-ease: 251
 ---
-
 This is the fourth among the [[Five areas of my life work]].
 
 I use facilitating instead of teaching because I don’t want to be a teacher. A [[Facilitator]]:
@@ -32,6 +32,4 @@ As listed in [[thoughts/living]], I can facilitate the application of methods an
 - Using systems and methods to accomplish basic well-being goals
 - Creating a personal philosophy of living
 - Creating a life manual
-
-Tags: [[Unfruitful]]
 

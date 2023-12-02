@@ -11,7 +11,7 @@ sr-ease: 271
 
 ## Where do your view on work and life complement one another?
 
-Both [[My lifeview]] and [[My workview]] have this minimalist balanced view of money that recognizes the need for it but only in a limited role—a supportive role. What is more important are the things that occur in the gift space especially those related to my vocation.
+Both [[thoughts/my lifeview]] and [[thoughts/my workview]] have this minimalist balanced view of money that recognizes the need for it but only in a limited role—a supportive role. What is more important are the things that occur in the gift space especially those related to my vocation.
 
 I realized that I have never truly been driven by money. I have been very cheap in my life and could be even cheaper if needed. The more I don't think about how I can generate more income, the better. And this is why I am attracted to a patronage.
 

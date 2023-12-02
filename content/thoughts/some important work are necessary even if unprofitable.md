@@ -1,15 +1,15 @@
 ---
-title: "Some important work have to be done even if they are not profitable"
-date: "2022-09-16"
+title: Some important work are necessary even if unprofitable
+date: 2022-09-16
+aliases:
+  - Some important work have to be done even if they are not profitable
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-09-17
 sr-interval: 1
 sr-ease: 230
 ---
-
-Imagine a venn diagram. The first circle (A) is a set of important work that has to be done. The second circle (B) is a set of lucrative and profitable work. The two circles combine to create an intersecting circle (C), which are important work that are also lucrative and profitable.
+Imagine a Venn diagram. The first circle (A) is a set of important work that has to be done. The second circle (B) is a set of lucrative and profitable work. The two circles combine to create an intersecting circle (C), which are important work that are also lucrative and profitable.
 
 We are usually advised to choose as our career the sweetspot that combines A and B. This is taught even in cultural frameworks like the ikigai. But what these frameworks are missing is that there are creative kinds of work that are important and have to be done but are not lucrative or even slightly profitable because there is no market for them or the market is not enough. Their value just does not exist but it doesn't mean that their value will not come in the future or that they have 0 value. As long as the maker sees them as valuable, they have to be done.
 
@@ -22,5 +22,3 @@ Not all work must require monetary payment before it happens. If this is the cas
 We need to intentionally create a space for two or three things that we do without pay.
 
 The most difficult thing about being an artist is constantly convincing others that what you are doing is important despite being unprofitable.
-
-# References

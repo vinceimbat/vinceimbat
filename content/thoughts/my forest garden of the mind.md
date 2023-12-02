@@ -16,7 +16,7 @@ I use a forest garden as a metaphor to work with my metaphor of [[thoughts/wilde
 
 The metaphor is inspired by [[thoughts/digital gardening]], which involves a sense of ownership to place or at least a relationship between self and space.
 
-My forest garden of the mind has a variety of species in it: [essays](tags/essays), [poems](tags/poems), [vignettes](tags/vignettes), and [[Photography|photographs]].
+My forest garden of the mind has a variety of species in it: [essays](tags/essays), [poems](tags/poems), [vignettes](tags/vignettes), and [[thoughts/photography|photographs]].
 
 Walking (i.e., thinking) in the garden starts by collecting [[thoughts/seeds]] and continues with planting them, tending them until they become [[thoughts/seedlings]] and eventually [[thoughts/evergreens]]
 

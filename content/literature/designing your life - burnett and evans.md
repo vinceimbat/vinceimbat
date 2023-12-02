@@ -10,8 +10,8 @@ sr-interval: 2
 sr-ease: 246
 ---
 - [[life design assessment]]
-- [[My workview]]
-- [[My lifeview]]
+- [[thoughts/my workview]]
+- [[thoughts/my lifeview]]
 - [[my workview vs my lifeview]]
 
 ***

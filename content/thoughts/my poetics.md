@@ -175,13 +175,13 @@ Alongside this intellectual work is a different but related practice, which coul
 
 ### Facilitative
 
-Whenever I am ready, I want to work on applying my ideas to individuals on a more personal, intimate, and practical level through [[Facilitating]].
+Whenever I am ready, I want to work on applying my ideas to individuals on a more personal, intimate, and practical level through [[thoughts/facilitating]].
 
 ### Emotional and intellectual
 
 I want my work to feel both emotional and intellectual.
 
-[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[thoughts/writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[thoughts/walking]], [[thoughts/poetry]], and [[Photography]], which provides a rest to intellectual work or facilitates and even guides the former.
+[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[thoughts/writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[thoughts/walking]], [[thoughts/poetry]], and [[thoughts/photography]], which provides a rest to intellectual work or facilitates and even guides the former.
 
 ### Process over product
 

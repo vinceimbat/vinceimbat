@@ -52,7 +52,7 @@ You can start exploring the digital garden by clicking on the following points o
 - [[thoughts/walking|Walking]]
 - [[newsletter|Newsletters]]
 - [[thoughts/poetry|Poetry]]
-- [[Photography]]
+- [[thoughts/photography]]
 
 I also send a weekly newsletter called **ᜇ The Long Walk**. It is a newsletter about philosophical and contemplative living through walking and writing. Every Sunday, I ask myself whether there is something worth sharing in the forest garden. Whether it is a poem, vignette, insight, or essay, I send one. If there isn't anything worth sharing, I don't force it.
 

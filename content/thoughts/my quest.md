@@ -26,7 +26,7 @@ The beliefs about reality within my worldview that is most relevant to my quest 
 2. [[thoughts/life is inherently meaningless]].
 3. [[thoughts/meaningful living is possible despite meaninglessness]].
 4. Believing on a God can be convenient, but [[God does not exist]].
-5. Since God does not exist and [[There is no single purpose everyone must follow]], I am left to DIY how to live.
+5. Since God does not exist and [[thoughts/there is no single purpose everyone must follow]], I am left to DIY how to live.
 
 The beliefs about responding to reality within my worldview most relevant to my quest are as follows:
 1. The formula for living is simply this: [[To live well simply means to set your own intentions and live according to them]].

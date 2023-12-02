@@ -12,7 +12,7 @@ The reason why there is no destiny is because, we seem to have [[Free will]]—t
 
 For me, the thought that there is no universal, absolute, natural purpose arising from the universe with which I "ought" to comply with is liberating.
 
-That means [[We create our individual purpose]]. I don't have to follow a set of rules written on unearthed decaying papyrus.
+That means [[thoughts/we create our individual purpose]]. I don't have to follow a set of rules written on unearthed decaying papyrus.
 
 I make my own rules.
 

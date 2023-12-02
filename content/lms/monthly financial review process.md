@@ -13,19 +13,20 @@ sr-ease: 250
 ## 2023-11
 
 1. Reconcile VF.
-2. Determine the total CF amount needed for the month.
+2. Reconcile CF.
+3. Determine the total CF amount needed for the month.
 	1. Put all remaining money from individual expenses back into "Ready to Assign."
 	2. Calculate the total funds required by each expense.
 	3. Deduct the number from step 1 from the number from step 2.
-3. Divide this total CF amount by two.
-4. Add Php 10,000 to Lea's share (for Vince's subsidy).
-5. Deduct Php 10,000 from Vince's share.
-6. Send Vince's share (from VF Next Month Fund or CF EF).
-7. Determine total amount needed for other expenses under VF.
-8. Fill other expenses under VF (from VF Next Month Fund or CF EF).
-9. Send Lea's share (from LF Next Month Fund or CF EF).
-10. Budget CF.
-11. Ensure that the total amount in Uno matches total amount of CF EF.
+4. Divide this total CF amount by two.
+5. Add Php 10,000 to Lea's share (for Vince's subsidy).
+6. Deduct Php 10,000 from Vince's share.
+7. Send Vince's share (from VF Next Month Fund or CF EF).
+8. Determine total amount needed for other expenses under VF.
+9. Fill other expenses under VF (from VF Next Month Fund or CF EF).
+10. Send Lea's share (from LF Next Month Fund or CF EF).
+11. Budget CF.
+12. Ensure that the total amount in Uno matches total amount of CF EF.
 
 Lea's subsidy: Php 10,000
 

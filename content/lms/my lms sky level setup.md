@@ -26,5 +26,5 @@ To ensure that I am performing actions that lead me toward my goals, I set up [[
 - [[My top five character strengths]]
 - [[My top three sources of self-actualization]]
 - [[thoughts/my best future self exercise]]
-- [[My lifeview]]
-- [[My workview]]
+- [[thoughts/my lifeview]]
+- [[thoughts/my workview]]

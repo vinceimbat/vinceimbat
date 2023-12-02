@@ -23,7 +23,7 @@ A workview answers the following questions.
 
 According to Burnett and Evans, a workview is a necessary complement to a [[lifeview]] in creating one's life compass.
 
-Here is [[My workview]].
+Here is [[thoughts/my workview]].
 
 # References
 
