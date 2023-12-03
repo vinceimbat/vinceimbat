@@ -4,8 +4,10 @@ date: 2023-11-11
 tags:
   - seedlings
 draft: false
+sr-due: 2023-12-05
+sr-interval: 3
+sr-ease: 269
 ---
-
 # Daily
 
 ## Morning
@@ -37,6 +39,3 @@ draft: false
 
 - Monthly moai guided walks
 - Monthly uman articles
-
-
-# References

@@ -8,7 +8,6 @@ sr-due: 2022-11-25
 sr-interval: 1
 sr-ease: 230
 ---
-
 The acronym stands for:
 - Activities
 	- What were you doing?

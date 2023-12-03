@@ -7,7 +7,7 @@ aliases:
 tags:
   - evergreens
 ---
-There are four parts to my [[lms/monthly review]]:
+There are four parts to my [[lms/monthly review|monthly review]]:
 
 1. Write the [[lms/monthly reports|Monthly report]].
 2. Review my [[Sky level]].

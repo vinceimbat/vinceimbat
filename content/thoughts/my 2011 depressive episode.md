@@ -1,20 +1,13 @@
 ---
-title: 2023-11-04 seeds
-date: 2023-11-05
+title: My 2011 depressive episode
+date: 2023-12-02
 tags:
-  - seeds
+  - seedlings
+draft: false
+sr-due: 2023-12-03
+sr-interval: 1
+sr-ease: 230
 ---
-- [[my 2011 depressive episode]]
-
-A non-subsistent spirituality requires a lot from you, many of these are unnecessary in your growth and existence. 
-
-What is enough for each one is different
-
-Walking sermons
-
-Is it possible that my life management system is too complex already that it is no longer subsistent?
-
-***
 Breakup
 
 First week of symptoms

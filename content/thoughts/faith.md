@@ -23,6 +23,8 @@ This is the middle path that leads to contentment. This is why contentment is al
 
 The real job here is keeping that faith and nurturing it, practicing it, actively pursuing meaning and the search for affirmations for this faith.
 
+Faith as used by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[thoughts/free religion|free religion]] refers to openness to one's mind, heart, and neighbor.
+
 # References
 
 Webb, S. E. (1999). Presence, Memory, and Faith: Passages from a Notebook on The Inward Morning. In E. F. Mooney (Ed.), _Wilderness and the Heart: Henry Bugbee’s Philosophy of Place, Presence, and Memory_ (pp. 32–72). The University of Georgia Press.

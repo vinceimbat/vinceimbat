@@ -58,19 +58,21 @@ kanban-plugin: basic
 
 - [ ] [S] I have delivered a beautiful and functioning website for Ili Likhaan Ceramics.
 - [ ] [S] I have reviewed my recent work with Candent and Ili and have set up systems, prices, and offers based on these.
-- [ ] [S] I have helped Lea apply in Scribendi.
+- [ ] [S] I have opened a Scribendi through Lea.
 - [ ] [S] I have renewed my PWD card.
 - [ ] [R] I have established a habit of sleeping eight hours a day from 11 PM to 7 AM.
 - [ ] [S] I have set up the version 1 of my creative business.
+- [ ] [CR] I have written and revised 10-15 epistollary essays about walks in LB.
+- [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
 
 
 ## Primary focus
 
-- [ ] [S] I have updated four OVIC Global Overviews assigned to me and sent them.
-- [ ] [U] I have taken the first steps in understanding free religion and how I could adopt its ideas into my own way of life.
+- [ ] [CR] I have conducted a seven-day walk of my routes in LB that includes sending a daily missive to a pop-up newsletter containing writing and photographs.
+- [ ] [CR] I have studied and articulated an aesthetics for writing inspired by a free, creative, and subsistent spirituality; established a more authentic writing practice; and began teaching writing as a gateway to free religion.
+- [ ] [CO] I have assisted Lea in starting a life design project to help her find the best life work for her.
 - [ ] [O, S] I have fully integrated my financial system and other life areas with Lea’s.
-- [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
-- [ ] [CR] I have written and revised 10-15 epistollary essays about walks in LB.
+- [ ] [U] I have taken the first steps in understanding free religion and how I could adopt its ideas into my own way of life.
 
 
 ## 2023 Done
@@ -121,6 +123,10 @@ kanban-plugin: basic
 - [x] OCTOBER 2023
 - [x] [S] I have updated the two OVIC overviews assigned to me and sent them. @[[2023-10-13]]
 - [x] NOVEMBER 2023
+- [x] [S] I have updated four OVIC Global Overviews assigned to me and sent them. @[[2023-11-09]]
+- [x] [S] I have updated three OVIC Overviews assigned to me and sent them. @[[2023-11-20]]
+- [x] DECEMBER 2023
+- [x] [S] I have updated three OVIC Overviews assigned to me and sent them. @[[2023-12-01]]
 
 
 ## 2022 Done

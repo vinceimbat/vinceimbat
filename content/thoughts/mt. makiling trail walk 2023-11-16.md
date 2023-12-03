@@ -1,11 +1,13 @@
 ---
-title: 2023-11-16 seeds
-date: 2023-11-16
+title: Mt. Makiling Trail Walk 2023-11-16
+date: 2023-12-02
 tags:
-  - seeds
+  - seedlings
+draft: false
+sr-due: 2023-12-05
+sr-interval: 3
+sr-ease: 250
 ---
-- [[mt. makiling trail walk 2023-11-16]]
-
 Clouds moving fast
 Tree branches falling
 I don't even have to walk. I just have to stand completely still under these towering trees. And I will hear their heart beating. Or was that mine?
