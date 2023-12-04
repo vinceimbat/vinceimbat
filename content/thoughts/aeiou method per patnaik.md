@@ -1,9 +1,10 @@
 ---
-title: "AEIOU method per Patnaik"
-date: "2022-11-24"
+title: AEIOU method per Patnaik
+date: 2022-11-24
+aliases:
+  - aeiou method per patnaik
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-11-25
 sr-interval: 1
 sr-ease: 230

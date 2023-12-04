@@ -17,4 +17,4 @@ Thoreau's idealism flows naturally into his poetry, walking, journal entries, et
 
 Thoreau developed his own flavor of transcendentalism.
 
-Question to myself: [[How can I combine truth and beauty in one philosophical practice?]]
+Question to myself: [[thoughts/express truth with beauty]]
