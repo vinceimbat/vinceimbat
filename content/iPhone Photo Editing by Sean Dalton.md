@@ -8,7 +8,6 @@ sr-due: 2022-08-20
 sr-interval: 3
 sr-ease: 250
 ---
-
 Editing on your photo actually makes your editing color accurate because most people consume photos on their phones anyway.
 
 Three parts of a photo

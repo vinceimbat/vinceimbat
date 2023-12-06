@@ -8,7 +8,6 @@ sr-due: 2023-09-26
 sr-interval: 309
 sr-ease: 270
 ---
-
 The notion of the unmoved mover is presented in [[Aristotle]]'s Book XI of his Metaphysics. 
 
 Aristotle's most basic argument is that everything that is in motion is moved by something else. However, there cannot be an infinite cause of things that are moving. At some point, there has to be an ultimate cause.

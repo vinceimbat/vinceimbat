@@ -38,7 +38,7 @@ February 23, 1945
 2,122 civilian internees
 Breakfast of unhusked rice (palay) and ersatz (coffee)
 
-Los Baños interment camp started in December 1942 when the Japnese when the Japanese sent 800 single males from Santo Tomas University, which they converted into a hospital, to the Agricultural College of UPLB. These males were from Cebu, which the Japanese captured in early 1942.
+Los Baños interment camp started in December 1942 when the Japanese when the Japanese sent 800 single males from Santo Tomas University, which they converted into a hospital, to the Agricultural College of UPLB. These males were from Cebu, which the Japanese captured in early 1942.
 
 Prisoners were 3 days old to 70 years old. Ten nationalities:
 1. Americans - 1575

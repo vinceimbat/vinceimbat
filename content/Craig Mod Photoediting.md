@@ -8,7 +8,6 @@ sr-due: 2022-06-18
 sr-interval: 3
 sr-ease: 250
 ---
-
 His photos are arranged in collections based on years. Within those years are subfolders of months (01-12). That's it. No days.
 
 4-5 hours of editing 10,000 images
@@ -28,7 +27,7 @@ CM duplicates photos and does tons of edits on them. CMD + apostrophe.
 
 When you pull down the highlights too much, photo goes to HDR mode.
 
-Reduce nois by lessening luminance and adding clarity.
+Reduce noise by lessening luminance and adding clarity.
 
 4:5 portrait is so much better than 2:3 for portrait.
 
