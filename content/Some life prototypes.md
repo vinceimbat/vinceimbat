@@ -11,7 +11,7 @@ sr-ease: 250
 
 Some of the objectives I try to satisfy through my [[thoughts/use-inspired basic research]] on [[thoughts/living]] are the following:
 
-- Learning through [[Self-directed learning]]
+- Learning through [[thoughts/self-directed learning]]
 - Designing a ground-level productivity system
 - Reconnecting with one’s [[thoughts/true self]]
 - Designing a system that aligns one’s actions with one’s true self

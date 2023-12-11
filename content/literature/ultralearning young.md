@@ -11,7 +11,7 @@ sr-ease: 273
 ---
 - [[How James Clear used ultralearning to improve his writing]]
 - [[Ultralearning, after Young]]
-- [[Self-directed learning]]
+- [[thoughts/self-directed learning]]
 - [[Nine universal principles of ultralearning]]
 - [[thoughts/metalearning]]
 - [[Do metalearning by asking why, what, and how]]
