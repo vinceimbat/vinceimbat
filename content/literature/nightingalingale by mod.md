@@ -418,4 +418,7 @@ But when I read something like that (aside from running back towards well-crafte
 
 # 36
 
-2022-02-
+2022-02-11
+
+Too many combinations for the stories and photos. So I'm forcing myself to choose a "complete" sequence by the end of tomorrow. (By no means final.)
+

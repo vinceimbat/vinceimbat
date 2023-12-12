@@ -16,4 +16,10 @@ Do not think of result. The purpose of seiza is become a person of lower belly. 
 
 The seiza posture is an independent posture. Our body and mind is closely related.
 
-# References
+Stop exhaling at the point of 80%.
+
+Practice concaving upper belly. You will see later you can put power in lower belly.
+
+# Resources
+
+- Hara: The Vital Center of Man (book)
