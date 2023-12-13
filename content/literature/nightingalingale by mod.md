@@ -422,3 +422,9 @@ But when I read something like that (aside from running back towards well-crafte
 
 Too many combinations for the stories and photos. So I'm forcing myself to choose a "complete" sequence by the end of tomorrow. (By no means final.)
 
+But the stories — so many of so many people. I love it. It's a book about people, though almost no photos of people! I'm OK with this.
+
+I can sit for hours in this room shifting pieces around. But it's really when you say: Hey, you've got ten minutes to fit these five stories and ten photos in somewhere, that real work gets done. Decisions are made, some semblance of progress.
+
+I went back through my discard pile of photos (it is _huge_) and ended up pulling out a small stack. I like this. I feel kinder, looking back now. Perhaps channeling a little Paul. I can remember almost every photo, the moment I pressed the shutter, why I pressed it then, what I felt, what happened in the seconds before and after.
+
