@@ -14,7 +14,7 @@ tags:
 - Mitchell’s vs the Machines
 - Sleep by Max Richter
 - The Lives of Others (2006) ✔
-- Minari (2020)
+- Minari (2020) ✔
 - There will be blood (2007)
 - The Cure (1997)
 - The Tragedy of Macbeth (2021)
@@ -26,6 +26,7 @@ tags:
 - A Muppet Family Christmas (1987) (https://www.youtube.com/watch?v=Bi9qSKZuvC4)
 - Keith Haring: Street Art Boy
 - Hoji Tsuchiya (https://vimeo.com/hojitsuchiya)
+- The Last Black Man in San Francisco
 
 ## Documentaries
 

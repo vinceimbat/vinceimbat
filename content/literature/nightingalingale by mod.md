@@ -428,3 +428,14 @@ I can sit for hours in this room shifting pieces around. But it's really when yo
 
 I went back through my discard pile of photos (it is _huge_) and ended up pulling out a small stack. I like this. I feel kinder, looking back now. Perhaps channeling a little Paul. I can remember almost every photo, the moment I pressed the shutter, why I pressed it then, what I felt, what happened in the seconds before and after.
 
+# 37
+
+As I slid and kneeled across the floor, we completed a sequence — the first full sequence of _TBOT_. Not a stone-cold DONE sequence by any means, but it's something. The majority of pieces are in place. Pen in mouth, I was re-writing bits on my knees. Not very ergonomic.
+
+I can see some callbacks I had before missed, and see how certain things need to reference other things.
+
+My next step is to, tomorrow, get it all organized in Ulysses, which I mainly use when drafting stuff. That is: Put it in order in a folder as it lay on the floor. Figure out if I'm going to include the images just yet. Start making my paper scribble corrections to the digital copies. Print it all out. Read it all.
+
+I suspect I'll start to see _more_ connections, and start to feel out a better sequencing. I may give this rough version to a friend, just to have someone to talk through structure with.
+
+My spidey-sense tells me I have about … 20% more of what I have now to write. That is, some 5,000 more words or so? To be written. 5,000 words to be revealed. I'm excited to find them / place them in the context of the rest.
