@@ -18,7 +18,7 @@ The statement also asks that we recognize the uniqueness of each person. If we s
 
 I have written many times that our adherence to certain things and institutions reflect [[faith]]. For example, our adherence to a government reflects our faith in representative leadership. None of these assures that we we will live a good life. If nothing is assured and everything requires faith, then I should choose whom I will give my faith to liberally.
 
-Having faith on the ever-changing river that is me and my neighbour means I will never put up walls to inhibit the flow. Instead, in my daily dealings and my work, I will be partial in my belief that I and my neighbour can always change and will always change and that I should help myself and my neighbour embrace our true uniqueness and, therefore, [[thoughts/freedom]].
+Having faith on the ever-changing river that is me and my neighbour means I will never put up walls to inhibit the flow. Instead, in my daily dealings and my work, I will be partial in my belief that I and my neighbour can always change and will always change and that I should help myself and my neighbour embrace our true uniqueness and, therefore, [[thoughts/freedom|freedom]].
 
 I am aware that this free, ever-changing river that makes each of us unique could be the root of division like war. But I chose to be open, listen, and trust on the ability of this uniqueness to create a vibrant, beautiful world.
 

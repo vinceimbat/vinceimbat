@@ -24,6 +24,4 @@ Thinking about this reminds me of my project to embrace simplicity. A subsistent
 
 The [[thoughts/free religion|free religion]] project, the simplicity project, and the tech minimalism project are all interconnected toward a united cooperative world that brings all of us to our freest selves.
 
-
-
 # References

@@ -24,5 +24,4 @@ All: How can we all reach our depths and be truly free while supporting each oth
 
 Question: How can I continue to pursue true freedom (i.e., being in touch with my depth) while living in a way that is mindful of my interconnectedness with my neighbour and the rest of creation?
 
-
 # References
