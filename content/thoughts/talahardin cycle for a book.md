@@ -1,14 +1,14 @@
 ---
-title: "Talahardin cycle when reading one book"
-date: "2021-12-10"
+title: Talahardin cycle when reading one book
+date: 2021-12-10
+aliases:
+  - Talahardin cycle when reading one book
 tags:
-
-- "seedlings"
-sr-due: 2022-06-19
-sr-interval: 4
+  - seedlings
+sr-due: 2026-01-06
+sr-interval: 752
 sr-ease: 272
 ---
-
 Assuming that you have chosen a good book, you can apply the [[thoughts/my studying process]] to produce two kinds of artifacts:
 1. [[thoughts/evergreens]]
 2. Product-oriented notes like [[Structure notes]], [[Outline notes]], or drafts.

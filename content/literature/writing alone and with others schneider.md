@@ -205,7 +205,7 @@ Those of us who teach—really teach—know that we are simply midwives to that 
 7. Observe.
 8. Remember.
 9. Imagine.
-10. Find and keep in contact with other writer/artists who can pro- vide you with an intimate community of support, give you honest critical response, strengthen you, and encourage your work.
+10. Find and keep in contact with other writer/artists who can provide you with an intimate community of support, give you honest critical response, strengthen you, and encourage your work.
 
 # Writing is talking
 

@@ -19,7 +19,7 @@ The [[thoughts/talahardin]] cycle refers to the holistic process of using the sy
 5. Reflecting ([[My daily review routine]])
 
 The cycle can be done in two ways:
-1. [[Talahardin cycle when reading one book]]
+1. [[thoughts/talahardin cycle for a book]]
 2. [[Talahardin cycle as one study session]]
 
 # References
