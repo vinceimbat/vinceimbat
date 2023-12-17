@@ -415,7 +415,7 @@ Your best, your deepest writing, often will not come to you first. You have to f
 
 “Poetry is emotion recollected in tranquillity.” Making art with our words often begins with emotion remembered. Then another kind of creation takes over as remembered images are changed, imagined in the solitary act of writing.
 
-Once you have begun to trust this way of writing—this magical “open sesame” of beginning with the intimate detail and trusting changes and disconnections—it will become perfectly clear how impossible, how ab- surd it is to ask a roomful of people, “All right, class, now write a story.” Or to say to a friend, “There’s a sunset. Write a poem.” If the sunset is right there, why should the friend write a sunset? Writing doesn’t come like that. It comes up from memory or imagination, and it skips like a flat stone across the water until finally it sinks into the depths where wonderful monsters and beautiful creatures dwell.
+Once you have begun to trust this way of writing—this magical “open sesame” of beginning with the intimate detail and trusting changes and disconnections—it will become perfectly clear how impossible, how absurd it is to ask a roomful of people, “All right, class, now write a story.” Or to say to a friend, “There’s a sunset. Write a poem.” If the sunset is right there, why should the friend write a sunset? Writing doesn’t come like that. It comes up from memory or imagination, and it skips like a flat stone across the water until finally it sinks into the depths where wonderful monsters and beautiful creatures dwell.
 
 ***
 # Insights
