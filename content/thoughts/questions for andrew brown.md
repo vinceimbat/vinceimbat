@@ -8,6 +8,8 @@ sr-due: 2023-11-28
 sr-interval: 1
 sr-ease: 230
 ---
+Carsons Inlet
+
 How I encountered Brown.
 - August 2022: Reading about Henry Thoreau -> Discovered Edward Mooney (studying how to write philosophical content but with a beautiful artistic style) -> Henry Bugbee -> Andrew J. Brown (through his article "Henry Bugbee: An Atheistic Mysticism Free of Mythological Trappings")
 - I was really surprises you were a minister and an atheist

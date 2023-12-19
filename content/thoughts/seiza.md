@@ -20,6 +20,16 @@ Stop exhaling at the point of 80%.
 
 Practice concaving upper belly. You will see later you can put power in lower belly.
 
+Rapara (upper belly)
+Sitapara (lower belly)
+Tanden
+
+Subtle difference of zazen and seiza is dropping the solar plexus.
+
+zazen is very self-power position (I must experience satori with my self-power).
+
+Heso = navel should face heaven (up)
+
 # Resources
 
 - Hara: The Vital Center of Man (book)

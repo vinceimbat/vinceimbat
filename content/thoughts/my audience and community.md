@@ -33,5 +33,5 @@ This community grows and continues to exist by:
 
 # Related
 
-- [[Three ways to find the frontiers of knowledge]]
+- [[thoughts/three ways to find the frontiers of knowledge]]
 

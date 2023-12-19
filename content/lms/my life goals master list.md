@@ -68,7 +68,6 @@ kanban-plugin: basic
 
 ## Primary focus
 
-- [ ] [CR] I have conducted a seven-day walk of my routes in LB that includes sending a daily missive to a pop-up newsletter containing writing and photographs.
 - [ ] [CR] I have studied and articulated an aesthetics for writing inspired by a free, creative, and subsistent spirituality; established a more authentic writing practice; and began teaching writing as a gateway to free religion.
 - [ ] [CO] I have assisted Lea in starting a life design project to help her find the best life work for her.
 - [ ] [O, S] I have fully integrated my financial system and other life areas with Lea’s.
@@ -127,6 +126,8 @@ kanban-plugin: basic
 - [x] [S] I have updated three OVIC Overviews assigned to me and sent them. @[[2023-11-20]]
 - [x] DECEMBER 2023
 - [x] [S] I have updated three OVIC Overviews assigned to me and sent them. @[[2023-12-01]]
+- [x] [CR] I have conducted a seven-day walk of my routes in LB that includes sending a daily missive to a pop-up newsletter containing writing and photographs. @[[2023-12-11]]
+- [x] [S] I have updated four OVIC Overviews assigned to me and sent them. @[[2023-12-15]]
 
 
 ## 2022 Done
