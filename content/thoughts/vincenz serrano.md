@@ -10,4 +10,4 @@ sr-due: 2023-12-03
 sr-interval: 71
 sr-ease: 250
 ---
-Author of [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us]].
+Author of [[lms/literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us]].

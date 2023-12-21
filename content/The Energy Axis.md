@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-This is an exercise in [[literature/belong agrawal]]. Here are the steps:
+This is an exercise in [[lms/literature/belong agrawal]]. Here are the steps:
 1. Make a list of people you are currently spending time with in a regular basis.
 2. Categorize these people (e.g., family, friends, workmates, etc.). For each category, designate a color.
 3. On a piece of paper, draw X and Y axes at the middle. The X axis presents how a particular relationship makes you feel: negative or positive. The Y axis presents the level of vitality or enthusiasm a relationship has: low or high.

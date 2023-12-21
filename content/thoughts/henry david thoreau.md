@@ -34,7 +34,7 @@ How did he synthesize what he read with what he sees outdoors?
 - [[Thoreau prioritized content over style in his writing]]
 - [[How did writing travel excursions help Thoreau fulfill his quest?]]
 - [[Thoreau took mini retirements]]
-- [[literature/introduction to walden merwin]]
+- [[lms/literature/introduction to walden merwin]]
 
 # References
 

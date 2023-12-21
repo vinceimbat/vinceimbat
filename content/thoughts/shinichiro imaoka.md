@@ -22,7 +22,7 @@ One would notice this tweaking of Emerson's individualistic free religion in Ima
 
 # Egolessness
 
-While reading [[literature/cosmic sage williams|Cosmic Sage]], I am struck by the depiction of Imaoka as someone who is egoless. Williams said that when talking to him, Imaoka always tried to reverse the flow of information by asking questions. Meanwhile, I am still bothered whenever someone unknowingly monopolizes the conversation by not asking questions. Perhaps, this annoyance also is a symptom of a strong ego.
+While reading [[lms/literature/cosmic sage williams|Cosmic Sage]], I am struck by the depiction of Imaoka as someone who is egoless. Williams said that when talking to him, Imaoka always tried to reverse the flow of information by asking questions. Meanwhile, I am still bothered whenever someone unknowingly monopolizes the conversation by not asking questions. Perhaps, this annoyance also is a symptom of a strong ego.
 
 I'm starting to see that the mainstream literary career is an ego-filled career. This further reaffirms that while letters are important to me, a life focused on becoming the best writer I can be is not what I want. It is not what I'm really called to do. When facilitating a writing session at the beach of Sampaloc Lake, I felt at home. I was confident. I felt like myself. I am convinced that everything I knew before is still true: the inner path is my true calling. The more I could become more compassionate and egoless, the better.
 

@@ -178,7 +178,7 @@ Rem's death made me closer to my community. Thinking about the meaning of commun
 
 While I contemplated community, I helped a friend translate the foreword of her upcoming book, walked with some friends at Makiling Botanic Gardens, and shared space with others at the Ginhawa Breathing Space event at Tanay, Rizal. There, I walked around the Hermitage and Organic Gardens (HOGAR) of the Institute for Consecrated Life in Asia (ICLA) and did a hike to Mt. Kulis with my partner and some old and new friends. The trip helped me grieve Rem and provided some much-needed inspiration to write a few poems and some issues of TLW.
 
-After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book *[[literature/designing your life - burnett and evans|Designing Your Life]]* by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
+After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book *[[lms/literature/designing your life - burnett and evans|Designing Your Life]]* by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
 
 ## December
 

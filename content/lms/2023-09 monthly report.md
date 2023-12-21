@@ -19,8 +19,8 @@ In response to my reading of [[thoughts/a religion of ones own by moore|A Religi
 Favorite quote collected from my commonplace book in my Talahardin: [[quotes/how to cherish life anabi|how to cherish life anabi]]
 
 The best things I read this month were:
-- [[literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
-- [[literature/nightingalingale by mod|The Nightingalingale Newsletter by Craig Mod]]
+- [[lms/literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
+- [[lms/literature/nightingalingale by mod|The Nightingalingale Newsletter by Craig Mod]]
 
 # Newsletters
 
@@ -37,7 +37,7 @@ Learned that I didn't get in CCWW, which prompted questions about the trajectory
 
 Sent a collection of 12 Pangasinan poems as entry to the Gawad Bienvenido Lumbera literary contest. Like I said above, I am using these application processes to force me to do work and teach myself writing. For the GBL, it was about learning poetry, particularly revising it. To prepare for the GBL, I chose the best Pangasinan anlong (poems) in my Talahardin. I started with the minimum number set by the contest guidelines (7) but later added five more when I discovered the theme of the collection by accident. I called the collection Kasabi Kaagwan or When Noon Comes, thus the number 12.
 
-Then I created a [[thoughts/poem revision process|poem revision process]] based on [[literature/billy collins masterclass|Billy Collins' Masterclass]] and used it to improve each poem in the collection.
+Then I created a [[thoughts/poem revision process|poem revision process]] based on [[lms/literature/billy collins masterclass|Billy Collins' Masterclass]] and used it to improve each poem in the collection.
 
 I am pretty sure I won't win any awards but I have 12 poems that have were way better than when I first wrote them (way way better!) and this for me is enough.
 
@@ -83,7 +83,7 @@ Vignettes
 
 Learned that I didn't get in CCWW, which prompted questions about the trajectory of my writing life.
 
-Created a [[thoughts/poem revision process|poem revision process]] based on [[literature/billy collins masterclass|Billy Collins' Masterclass]].
+Created a [[thoughts/poem revision process|poem revision process]] based on [[lms/literature/billy collins masterclass|Billy Collins' Masterclass]].
 
 Started considering how to be a writing coach by a [webinar](https://www.youtube.com/watch?v=TOWUuWujqV4&t=1821s).
 
@@ -110,7 +110,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 - Explored draft as literature.
 - Learned about Obsidian Leaflet.
 - Finalized map and learned how to generate QR codes that don't expire.
-- Read [[literature/modern manuscripts and drafts by scandura|Modern manuscripts and drafts by Jani Scandura]].
+- Read [[lms/literature/modern manuscripts and drafts by scandura|Modern manuscripts and drafts by Jani Scandura]].
 - Sent it to Katipunan.
 
 ## Bohol trip
@@ -165,7 +165,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 ## Sustaining
 
 - Bought a new subscription to InLife HMO.
-- Created [[literature/improving your editing efficiency by hart|Improving your editing efficiency by Hart]].
+- Created [[lms/literature/improving your editing efficiency by hart|Improving your editing efficiency by Hart]].
 - Wrote a proposal for the expansion of the Ili website.
 - Applied to a knowledge manager role.
 - Finished working on Krys' paper.
@@ -181,19 +181,19 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 
 ## Books
 
-[[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
-[[literature/abi nako by cruz|Abi Nako by Cruz]] (unfinished)
-[[literature/the dominant animal by scanlan|The Dominant Animal by Scanlan]] (unfinished)
-[[literature/simple living in history by alexander and mcleod|Simple Living in History by Alexander and McLeod]] (unfinished)
+[[lms/literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
+[[lms/literature/abi nako by cruz|Abi Nako by Cruz]] (unfinished)
+[[lms/literature/the dominant animal by scanlan|The Dominant Animal by Scanlan]] (unfinished)
+[[lms/literature/simple living in history by alexander and mcleod|Simple Living in History by Alexander and McLeod]] (unfinished)
 Get Clients Now (unfinished)
 
 ## Articles
 
-Re-read [[literature/lynda barry kios]]
+Re-read [[lms/literature/lynda barry kios]]
 
 ## Newsletters
 
-[[literature/nightingalingale by mod|Nightingalingale by Craig Mod]] 
+[[lms/literature/nightingalingale by mod|Nightingalingale by Craig Mod]] 
 
 ## Podcasts
 

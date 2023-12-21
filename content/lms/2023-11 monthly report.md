@@ -19,7 +19,7 @@ Practicing seiza for a month has taught me a lot about being mindful with my pos
 
 ## Shinichiro Imaoka (1881–1988)
 
-Andrew also advised looking into the life of [[thoughts/shinichiro imaoka|Shinichiro Imaoka (1881–1988)]], dubbed the Emerson of Japan, and the proponent of a uniquely Eastern liberal religious concept called "[[thoughts/free religion|free religion]]." Imaoka was raised a Pureland Buddhist but later converted to Anglicanism, Congregationalism, and Unitarianism before embracing his own spiritual philosophy of free religion. Imaoka's life and conversions were detailed in a biography by George Williams called [[literature/cosmic sage williams|Cosmic Sage]].
+Andrew also advised looking into the life of [[thoughts/shinichiro imaoka|Shinichiro Imaoka (1881–1988)]], dubbed the Emerson of Japan, and the proponent of a uniquely Eastern liberal religious concept called "[[thoughts/free religion|free religion]]." Imaoka was raised a Pureland Buddhist but later converted to Anglicanism, Congregationalism, and Unitarianism before embracing his own spiritual philosophy of free religion. Imaoka's life and conversions were detailed in a biography by George Williams called [[lms/literature/cosmic sage williams|Cosmic Sage]].
 
 Imaoka didn't leave us a clear definition of free religion, so it can be challenging to explain the concept. That said, reading and reflecting on [[imaoka creed of life|Imaoka's Creed of Life]] helps one understand free religion better. It is what I did per Andrew's advice.
 
@@ -45,13 +45,13 @@ In my journal entry dated [[2023-11-23]], I began to dream:
 
 And so, I asked: why not convert writing itself into a form of ministry? I liked the sound of this idea. But how does one convert writing into a form of ministry?
 
-The first thing I did was to return to spiritual writing. Spiritual writing is something widely explored by the [[thoughts/transcendentalism|American Transcendentalists]], a group led by no other than Emerson himself, Imaoka's hero of free religion. According to Lawrence Buell in his book [[literature/literary transcendentalism buell|Literary Transcendentalism]], one of the things the transcendentalists explored in the nineteenth century was how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
+The first thing I did was to return to spiritual writing. Spiritual writing is something widely explored by the [[thoughts/transcendentalism|American Transcendentalists]], a group led by no other than Emerson himself, Imaoka's hero of free religion. According to Lawrence Buell in his book [[lms/literature/literary transcendentalism buell|Literary Transcendentalism]], one of the things the transcendentalists explored in the nineteenth century was how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
 
 These goals make sense. For writing to become a spiritual and religious practice, it has to help one strengthen their spirituality while, at the same time, helping them express that spirituality through words.
 
 There was something missing here though. What the transcendentalists did with writing was turn it into a spiritual practice. But it wasn't necessarily a ministry. A ministry is essentially a service; one needs to identify who to minster to. Although I love the solitary experience of writing and the challenge of improving my craft, I missed working directly with people, something I did with the Deaf in the past. How can I convert writing into a ministry that allowed me to experience a similar direct connection with others?
 
-Enter [[Pat Schneider]]. I discovered her after her book *How the Light Gets In* appeared in my research on spiritual writing. While reading the Wikipedia entry about her, I learned that she developed a relatively popular writing method that became known as the Amherst Writers and Artists (AWA) method, after the group that Schneider started. The method was detailed in Schneiders book [[literature/writing alone and with others schneider|Writing Alone and with Others]], which I am currently reading. I am yet to finish it, but I am starting to agree with Peter Below, who wrote the Foreword of the book, when he said that Schneider might be "the wisest teacher of writing I know."
+Enter [[Pat Schneider]]. I discovered her after her book *How the Light Gets In* appeared in my research on spiritual writing. While reading the Wikipedia entry about her, I learned that she developed a relatively popular writing method that became known as the Amherst Writers and Artists (AWA) method, after the group that Schneider started. The method was detailed in Schneiders book [[lms/literature/writing alone and with others schneider|Writing Alone and with Others]], which I am currently reading. I am yet to finish it, but I am starting to agree with Peter Below, who wrote the Foreword of the book, when he said that Schneider might be "the wisest teacher of writing I know."
 
 Schneider used the AWA writing method in creating writing groups for writers from different walks of life and writing workshops for those who wanted to deepen their craft. What interests and inspires me the most is that, Schneider started writing groups for low-income women and children as well as those in prison. Schneider passionately believes that everyone is a writer and that writing a powerful method for self-actualization for all.
 
@@ -116,7 +116,7 @@ For now, here's a journal entry I wrote about this:
 
 ## Lea's Life Design
 
-- Started reviewing highlights for [[literature/designing your life - burnett and evans|Designing Your Life]] in preparation for activating Lea's main project.
+- Started reviewing highlights for [[lms/literature/designing your life - burnett and evans|Designing Your Life]] in preparation for activating Lea's main project.
 - Lea and I did the first exercise in [[projects/life design|life design]]: We did the HWLP Dashboard and talked about our insights.
 - Sat at the abandoned YMCA Plaza building and wrote/updated our [[workview]] and [[lifeview]].
 
@@ -132,7 +132,7 @@ For now, here's a journal entry I wrote about this:
 ## Writing Ministry
 
 - I realized that although I still want a ministry, I'm not sure if I want to be a pastor again. Realization: Since I've dabbled with writing for almost half my life, I am considering living a ministry with writing at the center. Although working directly with people is something I would also love to have.
-- Writing as a ministry: Enter [[Pat Schneider]]. I discovered her through her spiritual writing book How the Light Gets In. But I started studying here AWA method through her book [[literature/writing alone and with others schneider|Writing Alone and with Others]].
+- Writing as a ministry: Enter [[Pat Schneider]]. I discovered her through her spiritual writing book How the Light Gets In. But I started studying here AWA method through her book [[lms/literature/writing alone and with others schneider|Writing Alone and with Others]].
 	- I wrote on [[2023-11-23]]: "Whilst I adhere to free religion, I don't think being a pastor is really for me. I am not close to the possibility. But I am currently so in love with writing that it is what's calling me strongest right now. The only difference now is that aside from a personal writing practice, I intend to write with others together. I see writing is a vehicle to fulfill my ministry as a serious writer and a writing teacher following the tradition of the writing process movement."
 - Did the first exercise: Beginning at Your Own Beginning.
 
@@ -173,14 +173,14 @@ For now, here's a journal entry I wrote about this:
 # Media Consumption
 
 ## Books
-- [[literature/being home norris and sibley|Being Home]] (unfinished)
-- [[literature/bluets nelson|Bluets]] (finished)
-- [[literature/cosmic sage williams|Cosmic Sage]] (finished)
+- [[lms/literature/being home norris and sibley|Being Home]] (unfinished)
+- [[lms/literature/bluets nelson|Bluets]] (finished)
+- [[lms/literature/cosmic sage williams|Cosmic Sage]] (finished)
 - Bought *Canoeing in the Wilderness*
 - Bought *A Gathering of Larks*
-- [[literature/literary transcendentalism buell|Literary Transcendentalism]] (unfinished)
+- [[lms/literature/literary transcendentalism buell|Literary Transcendentalism]] (unfinished)
 - Bought *The Road by McCarthy*
-- [[literature/writing alone and with others schneider|Writing Alone and with Others]] (unfinished)
+- [[lms/literature/writing alone and with others schneider|Writing Alone and with Others]] (unfinished)
 
 ## Articles
 - "Mapping the notions of the self and the world in the works of Henri Bergson and Nishida Kitarō" by Mohit Abrol (unfinished)

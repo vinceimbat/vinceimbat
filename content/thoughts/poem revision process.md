@@ -8,7 +8,7 @@ sr-due: 2023-10-03
 sr-interval: 1
 sr-ease: 228
 ---
-This is a poem revision process inspired by [[literature/billy collins masterclass|Billy Collins' Masterclass]]. It offers different suggestions to tackle specific parts and elements of the poem.
+This is a poem revision process inspired by [[lms/literature/billy collins masterclass|Billy Collins' Masterclass]]. It offers different suggestions to tackle specific parts and elements of the poem.
 
 The best way to use this is as a checklist. Run through the checklist for each poem to be revised.
 

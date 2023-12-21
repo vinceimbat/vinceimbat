@@ -14,7 +14,7 @@ Here are my favorite adventures in writing, philosophy, and contemplation in Aug
 
 ## Jack Gilbert's "Existential" Poetry
 
-After reading [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]], I realized I wanted to get back to my study of [[thoughts/existentialism|existentialism]]. So, I decided to look for an existentialist [[thoughts/poetry|poetry]] book. Someone on Reddit suggested [[thoughts/jack gilbert|Jack Gilbert's]] *[[literature/refusing heaven by jack gilbert|Refusing Heaven]]*. I was surprised to learn that the first poem in this collection, "A Brief for the Defense," was actually a poem I read years back, which I really loved for these lines:
+After reading [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]], I realized I wanted to get back to my study of [[thoughts/existentialism|existentialism]]. So, I decided to look for an existentialist [[thoughts/poetry|poetry]] book. Someone on Reddit suggested [[thoughts/jack gilbert|Jack Gilbert's]] *[[lms/literature/refusing heaven by jack gilbert|Refusing Heaven]]*. I was surprised to learn that the first poem in this collection, "A Brief for the Defense," was actually a poem I read years back, which I really loved for these lines:
 
 >We must have the stubbornness to accept our gladness in the ruthless furnace of this world. To make injustice the only measure of our attention is to praise the Devil.
 
@@ -40,11 +40,11 @@ I managed to publish three newsletter issues:
 
 ## Lyric Essays
 
-This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I came to a realization: I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing or the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
+This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[lms/literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I came to a realization: I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing or the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
 
 What resulted was [[essays/mulimuli pangasiniani|Mulimuli Pangasiniani]], which I translated into English as [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]. It is a lyric essay about my personal struggles in writing in my mother tongue.
 
-While working on this essay, I read the works of other lyric essayists. A boo that was particularly helpful was the anthology *[[literature/a harp in the stars by noble|A Harp in the Stars]]* edited by R. B. Noble.
+While working on this essay, I read the works of other lyric essayists. A boo that was particularly helpful was the anthology *[[lms/literature/a harp in the stars by noble|A Harp in the Stars]]* edited by R. B. Noble.
 
 ## Epistolary Essays on Walking
 
@@ -119,7 +119,7 @@ TLW
 - [[poems/in july|In July]]
 
 Others
-- Studied [[literature/billy collins masterclass|Billy Collins Masterclass]].
+- Studied [[lms/literature/billy collins masterclass|Billy Collins Masterclass]].
 - Translated Migs' questionnaire.
 - Realized I wanted to focus on writing lyric essays.
 	- I started doing research on lyric essays, documenting it in a note: [[thoughts/lyric essay|lyric essay]]
@@ -184,7 +184,7 @@ Others
 
 ## Buhian
 
-- Started reading [[literature/what is a literary draft by biassi and wassenaar|"What is a literary draft?" by Biassi and Wassenaar]].
+- Started reading [[lms/literature/what is a literary draft by biassi and wassenaar|"What is a literary draft?" by Biassi and Wassenaar]].
 
 # Others
 
@@ -236,14 +236,14 @@ Others
 
 ## Books
 
-- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
-- [[literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
-- [[literature/the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
+- [[lms/literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
+- [[lms/literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
+- [[lms/literature/the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] (unfinished)
 - [[thoughts/ghazalia maralus ya ayat by villafania|Ghazalia: Maralus ya Ayat by Santiago Villafania]] (unfinished)
 - [[thoughts/saray anlong nen kookaburra by ariola-nepascua|Saray Anlong nen Kookaburra by Alma Ariola-Nepascua]] (unfinished)
-- [[literature/a harp in the stars by noble|A Harp in the Stars by Noble]] (unfinished)
-- [[literature/abi nako by cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
+- [[lms/literature/a harp in the stars by noble|A Harp in the Stars by Noble]] (unfinished)
+- [[lms/literature/abi nako by cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
 
 I bought new books:
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]]
