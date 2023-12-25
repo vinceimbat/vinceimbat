@@ -4,6 +4,9 @@ date: "2023-08-21, Monday, 2:19:59 pm"
 tags:
 - "seedlings"
 - "pangasinan"
+sr-due: 2023-12-28
+sr-interval: 3
+sr-ease: 250
 ---
 Ayadyari. Anggapoy itsura to.
 
