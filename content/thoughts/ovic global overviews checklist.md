@@ -24,7 +24,7 @@ sr-ease: 230
 - [ ] Neutral in tone: presents different views on the issue without favoring one side or the other.
 - [ ] Does not reflect a Western or personal bias on the global topic.
 - [ ] Does not use editorializing terms such as “Interestingly,” “clearly,” “for better or worse,” “it seems indisputable that,” “political blunder,” etc.
-- [ ] Does not use of terms like “so-called” on items not in dispute.
+- [ ] Does not use terms like “so-called” on items not in dispute.
 
 # Quotes
 
