@@ -426,6 +426,10 @@ Treat your writing practice like your free religions (perhaps everything!): begi
 
 I will not need to ask whether the form should be story or poem or novel or play. Painter Ben Shahn has written a book titled The Shape of Content. In it he says, “Form is the shape of content.” Those six words are among the most important I have ever learned about making art. If you are true to the content, the form will take care of itself.
 
+# Exercises
+
+- [[vignettes/kisses|kisses]]
+
 # Topics to check
 
 - Writing process movement
