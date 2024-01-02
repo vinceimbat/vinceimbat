@@ -15,8 +15,9 @@ Numbers in parentheses represent the month I finished reading the book.
 
 I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/reading/), which I learned through [Austin Kleon](https://austinkleon.com/tag/my-reading-year/) ([who also keeps his own list](https://austinkleon.com/tag/my-reading-year/)).
 
-## 2023
+# 2023
 
+- [[2023-12-25]]: [[literature/things become other things mod|Things Become Other Things by Craig Mod]] ★★
 - [[2023-11-24]]: [[literature/cosmic sage williams|Cosmic Sage by George Williams]]
 - [[2023-11-14]]: [[literature/bluets nelson|Bluets by Maggie Nelson]]
 - [[2023-10-10]]: [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] ★
@@ -29,7 +30,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **May Nagsabi Sa Akin** by Rofel Brion (4) ★
 - **Kapag Natagpuan Kita = Once I Find You** by Rofel Brion (1)
 
-## 2022
+# 2022
 
 - **Designing Your Life** by Bill Burnett and Dave Evans (12) ★★
 - **The Gift** by Lewis Hyde (9)
@@ -39,14 +40,14 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **Transcend** by Scott Barry Kaufmann (3) ★
 - **A Philosophy of Walking** by Frédéric Gros (1) ★
 
-## 2021
+# 2021
 
 - **Be the Gateway** by Dan Blank (4) ★
 - **How I Cured My Silent Reflux** by Don Daniels (2)
 - **Sandali** by Rofel Brion (1) ★
 - **How to Take Smart Notes** by Sonke Ahrens (1) ★★
 
-## 2020
+# 2020
 
 - **The Lord of the Rings: The Fellowship of the Ring** by J.R.R. Tolkien (12)
 - **Dept. of Speculation** by Jenny Offil (12) ★
@@ -67,7 +68,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **Rewiring Tinnitus** by Glenn Schweitzer (02)
 - **Sailing Alone Around the Room** by Billy Collins (01) ★
 
-## 2019
+# 2019
 
 - **The War of Art** by Steven Pressfield (12)
 - **Meditations** by Marcus Aurelius (11)
@@ -88,7 +89,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **The Little Prince** by Antoine de Saint-Exupéry (01)
 - **Night** by Elie Wiesel (01)
 
-## 2018
+# 2018
 
 - **Show Your Work** by Austin Kleon (12) ★
 - **Steal Like an Artist** by Austin Kleon (12) ★
@@ -101,7 +102,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **Wherever You Go, There You Are** by Jon Kabat-Zinn
 - **Square One** by Steve Patterson (01) ★★ ([Read my summary](https://vinceimbat.com/square-one/))
 
-## 2017
+# 2017
 
 - **Saved** by Ben Hewitt ★
 - **Early Retirement Extreme** by Jacob Lund Fisker (10) ★★
@@ -120,7 +121,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **The 2-Hour Job Search** by Steve Dalton (02)
 - **Pivot** by Jenny Blake (01) ★
 
-## 2016
+# 2016
 
 - **Smart Choices** by John Hammond, Ralph Keeney, and Howard Raiffa ★ (12)
 - **A Handmade Life** by William Coperthwaite (11) ★
@@ -138,7 +139,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **Essential Zen Habits** by Leo Babauta (01)
 - **The Power of Now** by Eckhart Tolle (01)
 
-## 2015
+# 2015
 
 - **The Fire Starter Sessions** by Danielle LaPorte (12)
 - **I Am We** by Dave Ursillo (09)
@@ -151,10 +152,10 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **The Renaissance Soul** by Margaret Lobenstine (03) ★★
 - **The Miracle Morning** by Hal Elrod
 
-## 2014
+# 2014
 
 - **Flourish** by Martin Seligman
 
-## Unsorted
+# Unsorted
 
 - **Moneyless Manifesto** by Mark Boyle

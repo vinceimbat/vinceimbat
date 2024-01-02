@@ -28,7 +28,7 @@ My point is that financial freedom, as a state, is actually more accessible than
 
 What are the benefits of thinking of financial freedom this way? For one, the definition helps you really dig deep on what you are really aiming for when you say you want financial freedom. If what you are aiming for is the freedom to engage in a creative endeavor, do you really need to wait years when your investments are already working for you before you start? Or would it be better to remember that you could die any time and that it might be wiser to set aside some time in your days or weeks to start doing something you really care about _now_?
 
-People who keep their expenses low so that they work fewer hours have more moments of financial freedom than those who spend a lot and, therefore, work a lot. The former may not have total financial freedom, but they have [[Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan|"enough"]] financial freedom to do things they actually care about _now_.
+People who keep their expenses low so that they work fewer hours have more moments of financial freedom than those who spend a lot and, therefore, work a lot. The former may not have total financial freedom, but they have [[essays/pagpapaubaya|"enough"]] financial freedom to do things they actually care about _now_.
 
 Artists don't have to put off their art to focus on making money for themselves first. If they look at financial freedom as a state that can be replicated and inserted at any time of the day, [[essays/creative freedom is all that matters|they could start what they want to do now]].
 

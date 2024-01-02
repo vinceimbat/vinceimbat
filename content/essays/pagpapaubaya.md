@@ -1,13 +1,16 @@
 ---
-title: "Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan"
-date: "2018-04-03"
-slug: "kasapatan-pagpapaubaya-kapayapaan"
+title: Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan
+date: 2018-04-03
+slug: kasapatan-pagpapaubaya-kapayapaan
 tags:
-  - "essays"
-  - "seedlings"
+  - essays
+  - seedlings
 sr-due: 2022-08-20
 sr-interval: 3
 sr-ease: 250
+aliases:
+  - kasapatan-pagpapaubaya-kapayapaan
+  - Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan
 ---
 ![Kubo Dark](kubo_dark.jpg)
 

@@ -128,7 +128,7 @@ The walk also encouraged me to return to photography. I wanted to take good phot
 
 After doing photography and walking for almost a month, I felt the urge to return to my foundation: philosophy and contemplation. I reminded myself that my walks and photos would be more meaningful if I am more intentional about them, that is if I use them to deepen my sense of meaning. To facilitate this meaning-making, I continued to sharpen my writing this month. I continued marinating myself in narratives, which helped me elevate my experiences while walking.
 
-Another highlight of June was ordering, unboxing, and reading *[[Kissa by Kissa — Mod|Kissa by Kissa]]* by Craig Mod. I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
+Another highlight of June was ordering, unboxing, and reading *[[literature/kissa by kissa mod|Kissa by Kissa]]* by Craig Mod. I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
 
 ![[files/savia_birthday.jpg]]
 

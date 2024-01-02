@@ -50,6 +50,7 @@ Fubar - out of working order; seriously, perhaps irreparably, damaged.
 Gable - the part of a wall that encloses the end of a pitched roof.
 Gaffer - an old man; a lighting electrician on a motion-picture or television set
 Gaudy
+Geld - to castrate (an animal); to deprive of a natural or essential part
 Glen - a narrow valley.
 Gutful - a quantity of food or drink sufficient to fill one's stomach.
 
