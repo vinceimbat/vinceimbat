@@ -9,7 +9,7 @@ sr-due: 2023-12-26
 sr-interval: 3
 sr-ease: 250
 ---
-This is an exercise in [[lms/literature/belong agrawal|Belong]]. Here are the steps:
+This is an exercise in [[literature/belong agrawal|Belong]]. Here are the steps:
 
 1. Make a list of people you are currently spending time with in a regular basis.
 2. Categorize these people (e.g., family, friends, workmates, etc.). For each category, designate a color.

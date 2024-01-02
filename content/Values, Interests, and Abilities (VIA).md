@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-This exercise was from [[lms/literature/belong agrawal]]
+This exercise was from [[literature/belong agrawal]]
 
 ## Values
 

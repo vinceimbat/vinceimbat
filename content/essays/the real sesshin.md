@@ -48,7 +48,7 @@ That said, I see a contradiction between my philosophy of work and my life philo
 
 ## November 23, Wednesday
 
-Continuing the exercises in *[[lms/literature/designing your life - burnett and evans|Designing Your Life]]*, I went down memory lane. I listed all work- and nonwork-related activities I have engaged in throughout the years and graded each in terms of engagement and energy levels. I also placed a star on activities that brought me to flow. For each activity that induced flow, I wrote a quick reflection about what was happening during each activity that made the experience incredible. The authors of the book called this a “good time journal.”
+Continuing the exercises in *[[literature/designing your life - burnett and evans|Designing Your Life]]*, I went down memory lane. I listed all work- and nonwork-related activities I have engaged in throughout the years and graded each in terms of engagement and energy levels. I also placed a star on activities that brought me to flow. For each activity that induced flow, I wrote a quick reflection about what was happening during each activity that made the experience incredible. The authors of the book called this a “good time journal.”
 
 While washing the dishes, I listened to **[a TED interview with the poet Ross Gay about joy](https://podcasts.apple.com/us/podcast/the-ted-interview/id1437306870?i=1000584059525&utm_source=substack&utm_medium=email)**.
 

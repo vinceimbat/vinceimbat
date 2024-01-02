@@ -23,7 +23,7 @@ Emily Dickinson is a poet of real delicacy and decorum.
 
 # To Do
 
-See notes from [[lms/literature/billy collins masterclass|Billy Collins' Masterclass]] for thoughts on Emily Dickinson.
+See notes from [[literature/billy collins masterclass|Billy Collins' Masterclass]] for thoughts on Emily Dickinson.
 
 
 # References

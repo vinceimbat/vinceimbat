@@ -146,4 +146,4 @@ Scotland
 
 # Related
 
-- [[lms/literature/billy collins masterclass|Billy Collins Masterclass]]
+- [[literature/billy collins masterclass|Billy Collins Masterclass]]

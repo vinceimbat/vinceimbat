@@ -53,11 +53,11 @@ Long before he left, Rem told his brother to homeschool Jai, his son. Jai has ex
 
 # Books
 
-On October, I finished reading [[lms/literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]], which I enjoyed.
+On October, I finished reading [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]], which I enjoyed.
 
-I started reading [[lms/literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] and [[lms/literature/bluets nelson|Bluets by Nelson]].
+I started reading [[literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] and [[literature/bluets nelson|Bluets by Nelson]].
 
-In the morning, I read and savor one meditation from [[lms/literature/being home norris and sibley|Being Home by Norris and Sibley]], a book I borrowed from Rem's library.
+In the morning, I read and savor one meditation from [[literature/being home norris and sibley|Being Home by Norris and Sibley]], a book I borrowed from Rem's library.
 
 ---
 
@@ -116,7 +116,7 @@ Poetry
 
 ## Editing + Proofreading
 
-- Read [[lms/literature/the copyeditors handbook einsohn and schwartz|The Copyeditors Handbook by Einsohn and Schwartz]] (Preface to Chapter 3) and wrote prompts.
+- Read [[literature/the copyeditors handbook einsohn and schwartz|The Copyeditors Handbook by Einsohn and Schwartz]] (Preface to Chapter 3) and wrote prompts.
 - Learned how to use flashcards in the Obsidian Spaced Repetition plugin.
 - Wrote review prompts for How to write good prompts by Andy Matuschak and practiced using them.
 
@@ -193,16 +193,16 @@ Poetry
 
 ## Books
 
-- [[lms/literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (finished)
+- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (finished)
 - Creative Inc. (unfinished)
-- [[lms/literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
-- [[lms/literature/bluets nelson|Bluets by Nelson]] (unfinished)
-- [[lms/literature/being home norris and sibley|Being Home by Norris and Sibley]] (unfinished)
+- [[literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
+- [[literature/bluets nelson|Bluets by Nelson]] (unfinished)
+- [[literature/being home norris and sibley|Being Home by Norris and Sibley]] (unfinished)
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own]] (unfinished)
 
 ## Articles
 
-- [[lms/literature/how to write good prompts matuschak|How to write good prompts by Andy Matuschak]]
+- [[literature/how to write good prompts matuschak|How to write good prompts by Andy Matuschak]]
 - 100r.co website
 
 ## Podcasts

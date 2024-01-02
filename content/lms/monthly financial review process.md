@@ -15,7 +15,7 @@ sr-ease: 250
 1. Reconcile VF.
 2. Reconcile CF.
 3. Determine the total CF amount needed for the month.
-	1. Put all remaining money from individual expenses back into "Ready to Assign."
+	1. Put all remaining money from individual expenses back into "Ready to Assign" (except for savings builder).
 	2. Calculate the total funds required by each expense.
 	3. Deduct the number from step 1 from the number from step 2.
 4. Divide this total CF amount by two.
@@ -29,15 +29,6 @@ sr-ease: 250
 12. Ensure that the total amount in Uno matches total amount of CF EF.
 
 Lea's subsidy: Php 10,000
-
-The subsidy could be allocated to the following expenses in VF.
-
-Food - 5,000
-Rent - 3,500
-Dining out - 1,000
-Pets - 500
-
-Total: 10,000
 
 # Old Process
 

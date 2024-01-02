@@ -18,4 +18,5 @@ Here are my [[lms/monthly reports|monthly reports]] for 2023.
 - [[lms/2023-08 monthly report|2023-08 monthly report]]
 - [[lms/2023-09 monthly report|2023-09 monthly report]]
 - [[lms/2023-10 monthly report|2023-10 monthly report]]
-- 
+- [[lms/2023-11 monthly report|2023-11 monthly report]]
+- [[lms/2023-12 monthly report|2023-12 monthly report]]

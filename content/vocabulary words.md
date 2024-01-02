@@ -9,6 +9,6 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-- [[English vocabulary words]]
+- [[english vocabs]]
 - [[Filipino vocabulary words]]
 - [[Pangasinan vocabulary words]]

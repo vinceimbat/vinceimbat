@@ -8,7 +8,7 @@ sr-due: 2023-12-03
 sr-interval: 3
 sr-ease: 254
 ---
-I wrote this after reading about [[thoughts/shinichiro imaoka|Shinichiro Imaoka's]] conversion process in *[[lms/literature/cosmic sage williams|Cosmic Sage]]*.
+I wrote this after reading about [[thoughts/shinichiro imaoka|Shinichiro Imaoka's]] conversion process in *[[literature/cosmic sage williams|Cosmic Sage]]*.
 
 From being the son of JW parents, I embraced the faith myself through the example of others but most importantly, Niko Rabe. I once dreamt of following his footsteps. I communicated with him and even joined him in the ministry. When I reached Baguio, Ced Bartolome became a model but also Roy Agbayani and Crispin Rulloda.
 
