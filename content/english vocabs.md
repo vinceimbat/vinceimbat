@@ -52,6 +52,7 @@ Gaffer - an old man; a lighting electrician on a motion-picture or television se
 Gaudy
 Geld - to castrate (an animal); to deprive of a natural or essential part
 Glen - a narrow valley.
+Goatherd - one who tends goats
 Gutful - a quantity of food or drink sufficient to fill one's stomach.
 
 # H
