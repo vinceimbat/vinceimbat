@@ -74,6 +74,13 @@ kanban-plugin: basic
 - [ ] [U] I have taken the first steps in understanding free religion and how I could adopt its ideas into my own way of life.
 
 
+## 2024 Done
+
+**Complete**
+- [ ] [CR] I have edited, prepared, and printed 20 photographs to be given to my friends as a gift. @[[2024-01-01]]
+- [x] [S] I have updated three OVIC global overviews assigned to me and sent them. @[[2024-01-01]]
+
+
 ## 2023 Done
 
 **Complete**

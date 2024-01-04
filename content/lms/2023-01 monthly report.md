@@ -1,23 +1,21 @@
 ---
 title: 2023-01 Monthly report
 date: 2023-02-02
-aliases:
-  - 2023-01 Monthly report
 draft: true
 tags:
   - evergreens
 ---
 ## Summary
 
-I started this month doing my annual review. While doing this, I also assisted Lea in performing her own annual review as part of setting up her minimum viable life management system. After finishing my annual review, I finished the trial run of updating the Bookbright OVIC overviews and accomplished the Proofreading Pal application process.
+I started this month doing my annual review and assisted Lea in performing her own annual review as part of setting up her minimum viable life management system. After finishing my annual review, I finished the trial run of updating the Bookbright OVIC overviews and accomplished the Proofreading Pal application process.
 
-While I engaged in very little philosophizing this month, I did caught several good insights including an insight about why commitments should be celebrated and why altruism is important. Most of the writing I did this month was journaling and poetry. I had a very deep experience looking at the moon at Aglibut Ave during one of my walks that I wrote a poem draft about it. Using insights I learned from Billy Collins' poetry masterclass, I also edited some of my poems, which I later sent to TLDTD.
+I engaged in very little philosophizing this month, but I caught several good insights, including an insight about why commitments should be celebrated and why altruism is important. Most of the writing I did this month was journaling and poetry. I had a very deep experience looking at the moon at Aglibut Ave during one of my walks that I wrote a poem draft about it. Using insights I learned from Billy Collins' poetry masterclass, I also edited some of my poems, which I later sent to TLDTD.
 
-Meanwhile, Benjie and I continued LBLP, and I shared my favorite photos of 2022, which received positive feedback. The best walk I did this month was my walk with Lea to Dampalit Falls. Someone from IG also reached out to me expressing their gratitude for the work I did in my website, which has been helpful for them in building their own life management system.
+Benjie and I continued LBLP, and I shared my favorite photos of 2022, which received positive feedback. The best walk I did this month was my walk with Lea to Dampalit Falls. Someone from IG also reached out to me expressing their gratitude for the work I did in my website, which has been helpful for them in building their own life management system.
 
 This month was filled with time spent reconnecting with my relationships. During this month, Lea and I helped Champy go through solving her dental problems. I also got into a three-hour call with Megs and Cams and joined Tuloy-Daloy in creating an urn for Rem made of mud. Lea and I also met Rio and Mac at San Pablo. Later this month, I went home to Pangasinan to attend Tito Lito's funeral and reconnect with Jay Vee and our friends. After this, I bonded with my cousins in Binmaley.
 
-In between all of these activities, I spent time getting more clarity on what source of income to look for. I read Pivot to clarify my runway and strengths. Then I tried applying at editing and academic writing platforms, trying out things and feeling if they are a fit. To add income, I also sold some unused books.
+In between all of these activities, I spent time getting more clarity on what source of income to look for. I read Pivot to clarify my runway and strengths. Then, I tried applying at editing and academic writing platforms, trying out things and feeling if they are a fit. To add income, I also sold some unused books.
 
 ## Studies
 
@@ -65,10 +63,10 @@ In between all of these activities, I spent time getting more clarity on what so
 ## Life Areas
 
 ### Overseeing
-- I wrote [[2022 gratitude list]].
+- I wrote [[lms/2022 gratitude list]].
 - Reviewing some Uman issues I wrote to complete my gratitude list revealed to me patterns in my thinking throughout the year. It showed me, for example, the kind of writing I want to explore.
 - By doing the annual review, I realized its importance for insight generation.
-- I answered the [[2022 past and coming year questions]].
+- I answered the [[lms/2022 past and coming year questions]].
 - I reviewed my life areas and standards and updated them.
 - I also finished filling up my life goals masterlist.
 - I wrote the [[2022 annual review]].

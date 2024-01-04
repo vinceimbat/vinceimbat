@@ -1,18 +1,30 @@
 ---
-title: "Past and Coming Year Questions format"
-date: "2022-01-04"
+title: 2023 Past and coming year questions
+date: 2024-01-03
 tags:
-- "LMS"
-- "evergreens"
+  - evergreens
 ---
-
 # Past Year Questions
 
 ## List your 3 top wins for the year.
 
+1. Admitting that I need help in navigating grieving my past spiritual life and embracing a free, creative spirituality that does not run away from anything.
+2. Regaining some consistency of income stream after being saved by gigs.
+3. Accelerating my growth in writing, photography, walking, and spirituality by meeting archetypes and nurturing my relationships with them.
+
 ## What are the biggest lessons you’ve learned in the past year?
 
+1. Never feel guilty protecting your boundary.
+2. The right archetypes will accelerate your growth.
+3. Contentment is a choice. You can choose to be contented no matter what the situation if you have faith.
+
 ## What were the risks you took?
+
+1. Dedicating some time writing that essay for ANWW20 even if I still didn't have a consistent source of income.
+2. Presenting an intimate and sensitive personal story to an audience of strangers.
+3. Asking Lea to subsidize a significant amount of my couple fund contribution.
+4. Dedicating a lot of time writing entries for workshops and contests while still without a consistent source of income.
+5. Emailing Cinque and asking for a possible part-time role in Bookbright.
 
 ## What was your most loving service?
 
@@ -32,6 +44,7 @@ tags:
 
 ## What stories from the past year are you letting go of?
 
+***
 # Coming Year Questions
 
 ## What would make 2021 the best ever?
@@ -63,7 +76,3 @@ tags:
 ## What one word or phrase would you like to have as your theme?
 
 ## Set Your Intention:
-
-## Reference
-
-This was taken from Tiago Forte

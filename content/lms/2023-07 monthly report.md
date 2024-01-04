@@ -29,7 +29,7 @@ Lastly, I added my essay [[essays/a never-ending walk|A Never-ending Walk]] in [
 
 The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
-- [[thoughts/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
+- [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 
 I also re-read [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
 
@@ -157,7 +157,7 @@ Essays
 
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
 - [[thoughts/overlap by sean mccabe|Overlap by Sean McCabe]]
-- [[thoughts/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
+- [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 - [[thoughts/the songlines by bruce chatwin|The Songlines by Bruce Chatwin]] - unfinished
 - [[thoughts/wanderlust by rebecca solnit|Wanderlust by Rebecca Solnit]] - unfinished
 - [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read

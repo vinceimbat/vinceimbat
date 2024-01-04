@@ -10,7 +10,6 @@ To create an annual report, simply copy and paste eache [[lms/monthly reports]] 
 
 # Annual reports
 
-- [[private/2020 annual report]]
-- [[private/2021 annual report]]
-- [[private/2022 annual report]]
-
+- [[lms/2020 annual report|2020 annual report]]
+- [[lms/2021 annual report|2021 annual report]]
+- [[lms/2022 annual report|2022 annual report]]

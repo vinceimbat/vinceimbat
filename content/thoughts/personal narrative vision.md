@@ -8,7 +8,7 @@ tags:
 To write a new personal narrative vision, follow these steps:
 
 1. Read last year’s PNV and find some inspiration. Note any unachieved ideas that you might want to carry over to the new year.
-2. Refer to the [[past and coming year questions]], [[lms/life goals]], and [[My life areas]] and write a present-tense description of each of the five major areas: life system, physical health, mental health, relationships, sustenance, and life work as if it were the last day of the coming year. Detail specific goals and standards you have achieved at that time.
+2. Refer to the [[lms/past and coming year questions]], [[lms/life goals]], and [[My life areas]] and write a present-tense description of each of the five major areas: life system, physical health, mental health, relationships, sustenance, and life work as if it were the last day of the coming year. Detail specific goals and standards you have achieved at that time.
 3. Write a new story for the coming year in the present tense, piecing together the goals and standards you wrote in the previous step into a narrative description of the last day of the coming year.
 
 Here is the list of all your personal narrative visions so far:

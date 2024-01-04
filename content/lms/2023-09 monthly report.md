@@ -7,45 +7,28 @@ draft: true
 ---
 # Summary
 
-Previous issue: [[essays/uman 2023-08|Uman 2023-08]]
+After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[thoughts/henry bugbee|Henry Bugbee's]] philosophy, while walking one night at Ela Ave., I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[essays/a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation. Indeed, [[thoughts/faith generates contentment|faith generates contentment]].
 
-# Mind Walks
+In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]]. I noticed that starting a dream log seems to make me have more dreams and remember them.
 
-[[thoughts/faith generates contentment|faith generates contentment]]
-[[thoughts/art is never finished|art is never finished]]
-
-In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]].
-
-Favorite quote collected from my commonplace book in my Talahardin: [[quotes/how to cherish life anabi|how to cherish life anabi]]
+My favorite thought note this month is: [[thoughts/art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
 
 The best things I read this month were:
 - [[literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
 - [[literature/nightingalingale by mod|The Nightingalingale Newsletter by Craig Mod]]
 
-# Newsletters
+I published three newsletters this month:
 
-TLW
 - [[poems/this morning|This Morning]]
 - [[vignettes/the possibility of love|The Possibility of Love]]
 - [[vignettes/sabel|Sabel]]
 
-# Using Writing Workshop Applications the Right Way
+My application to the Cordillera Creative Writing Workshop (CCWW) was rejected and this got me thinking about how I'm approaching these applications and my writing life. I realized that, since the acceptance rate to these writing events is pretty low, the healthiest attitude when applying is to expect rejection. Then, use the application process to these events to force you to do your work. Everything should be about your personal projects. Articulate what your art stands for, focus on creating a portfolio around that stand, and never rely on others to tell you you're good or publishable. Stick to your gut feeling and use contests, workshops, and fellowships to serve your vision, not the other way around. I used this newfound perspective in approaching the submission process to the Gawad Bienvenido Lumbera (GBL).
 
-Learned that I didn't get in CCWW, which prompted questions about the trajectory of my writing life.
-- Discuss your new perspective on applications.
-- The healthiest attitude to approach these application processes should be not to use them to accumulate laurels but to use that as what they really are: as forces to compel you to do the work. Whether you get in or not (highly likely you won't), you were able to move your personal project. Everything is about your personal projects. Articulate what your art stands for and focus on creating a portfolio around that stand and never ever rely on other people to tell you you're good or publishable. Stick to your gut feel and use contests, workshops, and fellowships to serve your vision, not the other way around.
+September was jam-packed with writing projects. Aside from the GBL and writing revisions for a client, I also worked on an essay that forced me to articulate my entire writing system and practice for the first time. It was a fun essay that braids walking and my note-writing system and their implications for literature in general.
 
-Sent a collection of 12 Pangasinan poems as entry to the Gawad Bienvenido Lumbera literary contest. Like I said above, I am using these application processes to force me to do work and teach myself writing. For the GBL, it was about learning poetry, particularly revising it. To prepare for the GBL, I chose the best Pangasinan anlong (poems) in my Talahardin. I started with the minimum number set by the contest guidelines (7) but later added five more when I discovered the theme of the collection by accident. I called the collection Kasabi Kaagwan or When Noon Comes, thus the number 12.
+Around the middle of the month, Lea and I visited Bohol to celebrate our anniversary. The trip helped me get back to photography.
 
-Then I created a [[thoughts/poem revision process|poem revision process]] based on [[literature/billy collins masterclass|Billy Collins' Masterclass]] and used it to improve each poem in the collection.
-
-I am pretty sure I won't win any awards but I have 12 poems that have were way better than when I first wrote them (way way better!) and this for me is enough.
-
-Worked on an essay on my writing system, which I sent for publication to a literary journal. If it gets accepted, you'll be the first to know. If not, I'll immediately share it here.
-
-# Bohol
-
-Bohol trip. Something to write more about. To be honest, it is difficult for me to write about Bohol. Among all the provinces I've visited in the Philippines, this was the most commercialized, and I felt so distrustful of people the whole time. I am still looking for the right angle and story to share to you about that trip. For now, let some photos tell the story.
 ***
 
 # Studies

@@ -7,60 +7,20 @@ draft: true
 ---
 # Summary
 
-## Epistolary Essays on Walking
+Jesa and I have finished revising all our essays and sent them to each other. We've exchanged our initial impressions about each other's work and considered our options moving forward.
 
-I mentioned in previous months that Jesa Suganob and I are collaborating on a writing project exploring walking through epistolary essays. On October, we finished revising all our essays and sent them to each other. We've began exchanging impressions about each other's work and are currently discussing how best to move the project forward. I can't wait where this collaboration will take us. Wherever it goes, you'll be the first to know.
-
-If you're curious to see what an epistolary essay on walking looks like, here's an example: [[essays/2023-09-02 letter to j|2023-09-02 letter to J]].
-
-## TLW
-
-I published two issues of The Long Walk last October 2023. In case you missed them, here they are:
+I published two issues of The Long Walk last October 2023.
 - [[poems/a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
 - [[thoughts/approach life with humor|Approach life with humor]] (note)
 
-## Photography via Darktable
+Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[essays/uman 2023-09|last month's issue of Uman]].
 
-Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I'm starting to veer away from expensive subscription-based photography software in lieu of free and open-source software like Darktable. It's surprisingly easy to use and arguable even more powerful than Lightroom. The photos from my recent trip to Bohol, which I shared on Instagram and [[essays/uman 2023-09|last month's issue of Uman]], were edited in Darktable.
+I went back home to Pangasinan, and I also visited my sister and her kids in Baguio. On October 15, a Sunday, I spent the morning walking from Engineer's Hill to Magsaysay Ave. in search of a Middle-Eastern restaurant. Alas I came too early; the beef won't be ready until lunch time. To kill time, I walked to and from the Bell Church. This walk led me down memory lane. This walk and my entire stay at Baguio made me realize that more than ten years after I left the church without saying goodbye to any of the friends and family I made there, I still grieve this loss.
 
-## Walking Baguio
+After leaving Baguio, I finally accepted that I could no longer go through this long postponed grieving process alone. I knew I needed help, so I reached out to [[thoughts/andrew j. brown|Andrew J. Brown]] via email, which he generously returned with advice on how to begin embracing a free and creative religious existence.
 
-This month I went back home to Pangasinan. I try to visit my family (that includes my dogs) every four months for around a couple of weeks. On this return, I also visited my sister and her kids in Baguio. I spent an entire day walking the streets I used to walk a lot at as a young pastor to the Deaf more than ten years ago.
-
-[Photo of my old room at Villalon Street]
-
-[Photo of Future Diner]
-
-[Photo of Callalily Street]
-
-For some reason, this particular walk was emotionally difficult. I realized that I was still harboring some grief from leaving my childhood religion, one activated by walking on the same paths I walked to before.
-
-It was a painful walk, but one which I knew had to happen. One day, I plan on re-walking not just this particular route but all the routes I used to walk at in the past. I have walked almost all the streets of Baguio before and I intend to do so one day with a different mind.
-
-## Free Religion
-
-
-
-## Rem
-
-This month, my friends and Rem Tananuan's family remembered him one year after his departure. I wrote extensively last year about this event, which I consider one of the greatest losses of my life. Rem was and still is the best friend I have ever had and his influence on my work, particularly on my poetry, views on writing, and spirituality is strong. He is in every poem I write, perhaps even in this essay.
-
-With a few friends, we visited his mother and family at their house at Batangas on a day spent chatting, sharing food, playing video games, and communing with his library.
-
-Long before he left, Rem told his brother to homeschool Jai, his son. Jai has exhibited exeptional gifts that are way advance of his age. On the day of our visit, Jai sat on his uncle's chair coloring scribbles of planets he drew.
-
-[Photo of Jai]
-
-# Books
-
-On October, I finished reading [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]], which I enjoyed.
-
-I started reading [[literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] and [[literature/bluets nelson|Bluets by Nelson]].
-
-In the morning, I read and savor one meditation from [[literature/being home norris and sibley|Being Home by Norris and Sibley]], a book I borrowed from Rem's library.
-
----
-
+With a few friends, I also visited Tita Cora and Rem's family at their house at Batangas to remember Rem's first death anniversary. The day was spent chatting, sharing food, playing video games, and communing with Rem's library.
+***
 # Studies
 
 - Studied Git using the Udemy course.

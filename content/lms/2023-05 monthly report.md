@@ -1,8 +1,7 @@
 ---
 title: 2023-05 Monthly report
 date: 2023-06-01
-aliases:
-  - 2023-05 Monthly report
+draft: true
 tags:
   - evergreens
 ---
@@ -10,9 +9,9 @@ tags:
 
 This month, I started seriously considering that my field was letters. Although I still see my work as an exploration of how to think, feel, and live better, I do these in the context of using beautiful words. I think this was affected by my recent achievements in writing.
 
-Despite being busy with client work, I would consider this month as a month of writing. I wrote five poems, mostly in their final forms. I read The Elements of Style, finally, and immediately felt its effect on how I write. I have also started reading On Writing Well, which is a powerful complement to it. But the biggest gift I received was the advice I got from Sir Rofel Brion, Froi, and Taks on how to approach the ANWW20. Their ideas were enough to make me feel relaxed and more confident in reading the works of my co-fellows.
+Despite being busy with client work, I would consider this month as a month of writing. I wrote five poems, mostly in their final forms. I read *The Elements of Style*, finally, and immediately felt its effect on how I write. I have also started reading *On Writing Well*, which is a powerful complement to it. But the biggest gift I received was the advice I got from Sir Rofel Brion, Froi, and Taks on how to approach the ANWW20. Their ideas were enough to make me feel relaxed and more confident in reading the works of my co-fellows.
 
-Froi read my essay and liked it: he said I would go far in walking and writing. He advised me to tweak the essay and send it to Palanca just to try. This I did, which became a very instructive experience. More than the skills I learned while doing this project, I am grateful for the realization that I have to confront my past life as a Jehovah's Witness more intentionally. I started doing this by journaling, walking, and watching the film Apostasy. This month, I was also able to send my first TLW email after 6 months.
+Froi read my essay and liked it: he said I would go far in walking and writing. He advised me to tweak the essay and send it to Palanca just to try. This I did, which became a very instructive experience. More than the skills I learned while doing this project, I'm grateful for the realization that I have to confront my past life as a Jehovah's Witness more intentionally. I started doing this by journaling, walking, and watching the film Apostasy. This month, I was also able to send my first TLW email after 6 months.
 
 Still in writing, I contended with some difficult feelings about my family not showing interest in what I do. I was reminded by Keri Smith's words: I shouldn't expect my family to cheer me on in my art, especially now that we have grown far apart.
 

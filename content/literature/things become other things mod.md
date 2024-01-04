@@ -559,6 +559,7 @@ The peninsula begins to eat itself in spring
 - Try to use poetry by combining images together or putting them alongside each other or in one section
 - A formula: describe what you see in the walk, go specific to one person or place, find a story there, then wrap it up with a witty, poetic conclusion that could tie everything together
 - Photo: very minimalist colors, low exposure
+- The drinking scene affected me (see diary entry for [[2023-12-17]]). CM skips time, goes to the past by returning to the present via the gravity of the walking act. While he walks, objects in the landscape triggers his knowledge about the history of the place, his personal history, meditations on walking, and stories of people he meets in the walk.
 
 # References
 

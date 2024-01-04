@@ -6,22 +6,22 @@ tags:
 aliases:
   - My annual review routine
 ---
-There are three parts to my [[lms/annual review]] process:
+There are three parts to my [[lms/annual review|annual review]] process:
 
 1. Aggregate the annual report.
 2. Perform the core of the annual review.
-3. Write the annual review article and publish it
+3. Write the annual review article and publish it.
 
 # Part I: Aggregate the annual report
 
-1. Start the process on January 3 of the year (this is to give way for [[lms/monthly financial review process]] and the [[lms/monthly review]] first).
-2. Copy and paste the summary of each monthly report ([[lms/monthly reports]]) into a new [[lms/annual reports]]. Use the [[Annual report format]].
+1. Start the process on January 3 of the year (this is to give way for [[lms/monthly financial review process|monthly financial review]] and [[lms/monthly review|monthly review]] first).
+2. Copy and paste the summary of each [[lms/monthly reports|monthly report]] into a new [[lms/annual reports|annual report]] using the [[templates/annual report|annual report template]].
 3. Use the annual report to accomplish the core of the annual review.
 
 # Part II: Perform the core of the annual review
 
-1. [[lms/gratitude lists]]: Write a gratitude list.
-2. [[past and coming year questions]]: Review your past year and think about the present year.
+1. [[lms/gratitude lists|Gratitude list]]: Write a gratitude list.
+2. [[lms/past and coming year questions|Past and coming year questions]]: Review your past year and think about the present year.
 3. [[My life areas]]: Review areas of responsibility and set new standards if needed.
 4. [[lms/life goals]]: Add new goals and corresponding projects. Refer to [[thoughts/how to set goals]].
 4. [[thoughts/personal narrative vision]]: Review last year’s personal narrative vision and write next year’s.
