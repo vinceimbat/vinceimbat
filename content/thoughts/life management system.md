@@ -20,11 +20,11 @@ Although these structures can easily become complex, their sole purpose is simpl
 
 One cannot immediately create [[an optimized life management system]]. A more realistic starting point is a [[Minimum viable life management system]] that can be iterated and optimized through time. Ideally, a life management system should be an accurate system of managing actions grounded on sound philosophy. And because of this, it is more than just a consolidation of life hacks and productivity tips. It should be a reflection of one’s worldview and life philosophy (see [[Theory vs philosophy of living vs life management system]]).
 
-A system has to be put in place whether or not there are inputs so that when inputs do come, one is ready. This principle involves performing regular [[Review]] even if there are only a few things to review.
+A system has to be put in place whether or not there are inputs so that when inputs do come, one is ready. This principle involves performing regular [[thoughts/review]] even if there are only a few things to review.
 
 # My Implementation
 
-- [[lms/my lms sky level setup]]
+- [[thoughts/my lms sky level setup]]
 - [[My LMS ground level setup]]
 - [[My LMS reviews setup]]
 

@@ -1,20 +1,21 @@
 ---
-title: "Personal Narrative Vision"
-date: "2022-08-11"
-aliases: "Personal-Narrative-Vision"
+title: Personal Narrative Vision
+date: 2022-08-11
+aliases:
+  - Personal-Narrative-Vision
+  - thoughts/personal narrative vision
 tags:
-- "evergreens"
+  - evergreens
 ---
 To write a new personal narrative vision, follow these steps:
 
 1. Read last year’s PNV and find some inspiration. Note any unachieved ideas that you might want to carry over to the new year.
-2. Refer to the [[lms/past and coming year questions]], [[lms/life goals]], and [[My life areas]] and write a present-tense description of each of the five major areas: life system, physical health, mental health, relationships, sustenance, and life work as if it were the last day of the coming year. Detail specific goals and standards you have achieved at that time.
-3. Write a new story for the coming year in the present tense, piecing together the goals and standards you wrote in the previous step into a narrative description of the last day of the coming year.
+2. Refer to the [[thoughts/past and coming year questions|past and coming year questions]], [[thoughts/life goals|life goals]], and [[thoughts/life area|life areas]] and write a present-tense description of what the last day of the present year would look like.
 
 Here is the list of all your personal narrative visions so far:
 
-- [[2020 (Mid-Year) Personal Narrative Vision]]
-- [[2021 Personal Narrative Vision]]
-- [[2022 Personal Narrative Vision]]
-- [[lms/2023 personal narrative vision|2023 personal narrative vision]]
-
+- [[thoughts/2020 mid-year personal narrative vision|2020 mid-year personal narrative vision]]
+- [[thoughts/2021 personal narrative vision|2021 personal narrative vision]]
+- [[thoughts/2022 personal narrative vision|2022 personal narrative vision]]
+- [[thoughts/2023 personal narrative vision|2023 personal narrative vision]]
+- [[thoughts/2024 personal narrative vision|2024 personal narrative vision]]

@@ -33,7 +33,7 @@ sr-ease: 290
 23. [[Walking is an experiential introduction to states of being]]
 24. [[Walking establishes the connection between mind and matter]]
 25. [[Rewalking highlights the contrast in space]]
-26. [[Live your life as if it was a walk]]
+26. [[thoughts/live as if you are walking]]
 27. [[explore metaphysical and epistemological beliefs as if it was a walk]]
 28. [[Walking is scouting for what is possible]]
 29. [[Walking breaks the dominance of commerce and culture to give life to wilderness]]

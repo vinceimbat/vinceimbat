@@ -18,7 +18,7 @@ sr-ease: 250
 
 After the end state arrives, the doer continues the process through the following steps:
 
-4. [[Review]] and reflect on whether the the end state matched the original desire or goal. This is the basis of reviews.
+4. [[thoughts/review]] and reflect on whether the the end state matched the original desire or goal. This is the basis of reviews.
 5. Based on the comparison between the original desire and the end state, decide whether to pursue the goal again or set a new goal.
 
 This is the core process of intentional living, which gets complicated when several actions are involved.

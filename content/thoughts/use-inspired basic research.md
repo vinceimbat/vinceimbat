@@ -20,7 +20,7 @@ There are three kinds of research:
 
 I ascribe to a use-inspired basic research, because I seek a fundamental understanding of nature so that I could solve immediate problems.
 
-To apply a use-inspired basic research in [[My life plan]], I need to do two things:
+To apply a use-inspired basic research in [[thoughts/my life plan]], I need to do two things:
 
 1. Generate insight through creating prototypes ([[Some life prototypes]]).
 2. Develop ideas far enough that they become “obvious”.

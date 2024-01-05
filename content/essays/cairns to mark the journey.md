@@ -34,27 +34,27 @@ Here are the annual reviews and some synopsis on what they contain.
 
 - Reviews the different achievements and major shifts I went through in 2019 including practicing intermittent fasting, transitioning to editing as my major livelihood, returning to drawing, reading Thoreau, and finding a new relationship after going through a breakup. It also tells about my struggles with tinnitus.
 
-[[My 2018 Annual Review|My 2018 Annual Review]]
+[[essays/2018 annual review|2018 annual review]]
 
 - Talks about the grieving process I went through after ending a six-year-long relationship. Also shares my first attempts in establishing daily creative routines to explore new passions like poetry, photography, translation, and philosophy.
 
-[[My 2017 annual review|My 2017 Annual Review]]
+[[essays/2017 annual review|My 2017 Annual Review]]
 
 - Tells about how I found different communities that support my different passions (a writing community, a meditation community, and a permaculture community). It also talks about my relaunch of this website, my attempts (and, again, failures) to live a sustainable life, and my first serious encounter with the mind-blowing world of philosophy.
 
-[[My 2016 annual review|My 2016 Annual Review]]
+[[essays/2016 annual review|My 2016 Annual Review]]
 
 - Shares about a year full of books—books that helped me understand my place in the bigger scheme of things, specifically in the material world, and how this relates to my attempt to create a fulfilling creative life.
 
-[[My 2015 annual review|My 2015 Annual Review]]
+[[essays/2015 annual review|My 2015 Annual Review]]
 
 - Narrates my adventures (and failures) in my first attempt to live in Metro Manila for an extended period of time, which led me to go back home to the province to recuperate and give more time to my creative pursuits. Tells about a year filled with travels and “spiritual” discoveries.
 
-[[My 2014 annual review|My 2014 Annual Review]]
+[[essays/2014 annual review|My 2014 Annual Review]]
 
 - Reviews the ups and downs (mostly downs) of my first year after college. It also contains goals that I set myself for 2015.
 
-[[My 2013–2014 annual review|My 2013–2014 Annual Review]]
+[[essays/2013-2014 annual review|My 2013–2014 Annual Review]]
 
 - Tells about the different challenges I faced the first year after college. It also narrates how I tackled the question, “What will I do with my life?” which led me to start a blog and work online.
 

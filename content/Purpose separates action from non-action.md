@@ -18,6 +18,6 @@ An example of an action is “throwing a dart.”
 - Your [[thoughts/purpose]] is to hit the bull’s eye.# Intention separates action from non-action
 - Your [[Means]] to satisfy that intention is to throw the dart.
 - The [[End state]] is whatever happens after you throw the dart.
-- The [[Review]] is when you realize you didn’t hit the bull’s eye.
+- The [[thoughts/review]] is when you realize you didn’t hit the bull’s eye.
 
 # References

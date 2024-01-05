@@ -3,7 +3,7 @@ My current life management system has the following sub-areas
 - Theory
 - [[ground level]]
 - [[00 - A/Sky level]]
-- [[Review]]
+- [[thoughts/review]]
 - Project Management
 - Talahardin
 - Talakahon

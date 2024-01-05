@@ -8,7 +8,7 @@ tags:
 
 It is important to [[Write permanent notes about what you read to test understanding]]. However, it is distracting to switch back and forth between reading a book and writing [[thoughts/evergreens]].
 
-Applying the [[getting things done]] approach it is best to separate capturing [[Loose ends]] and processing them (see [[Barbell method of reading]]). Then, follow this process:
+Applying the [[thoughts/getting things done]] approach it is best to separate capturing [[Loose ends]] and processing them (see [[Barbell method of reading]]). Then, follow this process:
 - For physical books, write notes directly on a note in [[Zotero]] or draw a dot or line in the margin of interesting passages. You will have to set a reminder to look into these markings when processing the book.
 - For web articles, copy+paste interesting excerpts into a note in Zotero.
 - For digital books and PDFs, export highlights and annotations in Zotero.

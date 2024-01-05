@@ -16,7 +16,7 @@ I am writing this to guide me in finding the right people to connect to and buil
 
 Although I will go to as much detail as I can in describing this ideal persona, I would summarize it by saying this: my ideal persona is also myself—an extension of my values. They may not be exactly like me, but they represent the people I want to see more in the world. Multiply my ideal persona and you get individuals building the utopia that I want to live in. Because of this, their psychographics is more imprtant than their demographics.
 
-My intention is to locate, connect, and serve the interests of my ideal persona at any given moment in my journey. I will serve them using my current skills. I will do my best to align [[My livelihood system]] with their needs. I shall do this as I work towards fulfilling [[My life plan]] and [[thoughts/my quest]]. My ultimate goal is to live a life where in I am doing what I love serving the people that I love.
+My intention is to locate, connect, and serve the interests of my ideal persona at any given moment in my journey. I will serve them using my current skills. I will do my best to align [[My livelihood system]] with their needs. I shall do this as I work towards fulfilling [[thoughts/my life plan]] and [[thoughts/my quest]]. My ultimate goal is to live a life where in I am doing what I love serving the people that I love.
 
 # Psychographics
 

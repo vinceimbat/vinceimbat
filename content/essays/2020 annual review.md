@@ -25,9 +25,9 @@ I answer the first three questions for the four big areas of my life: health, re
 
 Since this post is long overdue, let’s get right into it. Here is my 2020 annual review.
 
-## What went well this year?
+# What went well this year?
 
-### Health
+## Health
 
 My single biggest achievement in this area is taking care of whatever hearing is left to me so that my tinnitus does not increase in volume. Even more important is developing a healthier response to the noise, which eventually lead to habituation, or me getting used to the sound.
 
@@ -37,7 +37,7 @@ The second health achievement I am most proud of this year was losing 30 lbs or 
 
 Following this diet meant giving up intermittent fasting, which is a habit I established last year and which, I considered my most important health goal back then. It is clear now that intermittent fasting wasn’t helping me control my weight (in fact, I was obese before my LPR) and, worse, it was messing up with my stomach acids. Today, I eat smaller but frequent meals and it has worked well for me.
 
-### Relationships
+## Relationships
 
 Interestingly, the pandemic had a reverse effect on my relationship with Lea, my girlfriend. While it forced us to be apart (something we are thankful is finally over), our relationship actually thrive within those 300 days we were separated. Don’t get us wrong, being separated was not good for us; it would have destroyed us if it went further. However, a benefit of the separation was that it forced us to think creatively in maintaining our bond while away from each other. It created good habits that we still do even if we’re already together in person.
 
@@ -47,7 +47,7 @@ Aside from building my relationship with Lea, I was also able to build new relat
 
 While I built new friendships, I was also able to nurture existing friendships. The pandemic deepened my relationships with a few close friends. Losing physicla connection encouraged many of us to seek alternative ways to connect via the Internet. If done right, these can actually be really great temporary replacements to physical connections. The pandemic forced me to start daily, weekly, and monthly habits that connect me to loved ones (a Zoom call with my sister tonight, another with cousins tomorrow, a weekly catchup with an accountability group every Wednesday, etc.) I wish that these habits will remain even after the pandemic.
 
-### Sustenance
+## Sustenance
 
 Obviously, the pandemic was not easy for a lot of people’s finances and for the economy in general. However, like any disaster, the pandemic also proved to be a great wake up call for most people’s business and work life. Perhaps one of the pandemic’s most important lessons is that online-based work is more lockdown-proof than industries that rely heavily on physical contact. This is something I am very grateful for.
 
@@ -55,7 +55,7 @@ While the pandemic led to economic loses, many of which were caused primarily by
 
 In a previous post [[essays/how i became a professional multipotentialite|"How I Became a Professional Multipotentialite"]], I also showed that I have massively cut my working hours because of my new editing job. This is probably the best thing that happened to me in this area last year. This meant more free time for me to do projects that are not necessarily income-generating but are more aligned to what I want to do.
 
-### Meaning
+## Meaning
 
 Living a meaningful life in 2020 was obviously challenging because of the pandemic. The biggest drawback for this year was that there was very little travel possible. Traveling was a big part of my life before the pandemic as most of the people I care about are far from me. Despite this, the restrictions, again, encouraged us to be more creative: we all needed to find ways to feel alive even when we were socially isolated. And that was what I did.
 
@@ -69,9 +69,9 @@ But perhaps my biggest creative project in 2020 was immersing in Thoreau’s wor
 
 Aside from Thoreau, my biggest win this year was establishing a minimum viable life system. Starting in July 2020, I started exploring [Caroline Miller](https://www.carolinemiller.com/)’s goal-setting work book, which I coupled with [Tiago Forte](https://fortelabs.co/)’s Annual Review process, which I converted into a mid-year review. Moving forward, I started learning a lot from Tiago’s work and built my own life management system, which totally changed how I function in a daily basis. The life system I established this year solved the problems I was struggling with for many years, and it has profoundly improved my sanity. It is still a work in progress. For example, this year, I moved from Evernote (the main app I was using) to [Craft](https://www.craft.do/), which was a more beautiful note-taking app that has most of the things I need. I also streamlined my annual review process to be more efficient. I’ll be sharing more about my system in the future. 
 
-## What didn’t go so well this year?
+# What didn’t go so well this year?
 
-### Health
+## Health
 
 My tinnitus started bothering me in January 1, 2020, but that issue started back in 2019. It got bad because of a series of mistakes I made last 2019. While 2020 was the year it started bothering me, it was also the year of recovering from it—searching for help, trying out different therapies, finding what might help me, and sticking to what works.
 
@@ -81,23 +81,23 @@ Like my tinnitus, and like all other health issues, my LPR was the culmination o
 
 Obviously, things got better for me when I started correcting my diet, but good eating habits from the start could have prevented this health issue.
 
-### Relationships
+## Relationships
 
 There were two things that didn’t go well for me in this area last 2020. First, my relationship with my younger sister got strained. We were not used to living in the same house—a reality we had to face after she was forced to stay with us indefinitely because of the pandemic. The differences between our personalities got out of hand and we arrived into a mutual understanding that we can no longer live in the ame house for that long again. I believe things will get better in the future. But for now, this is my reality, and I have learned to be comfortable with it.
 
 Another thing that I think was a failure in this area was the death of two of our pets. While I have already made peace with this, I still believe I could have done better to prevent what happened. It was a learning experience. I became a more mindful pet owner after it. Now that I transferred to Laguna, I have decided not to keep pets for the time being, knowing how large a responsibility they actually are (and should be).
 
-### Sustenance
+## Sustenance
 
 While I am grateful that this is an area of my life that is currently stable, I am also aware that I am not yet as resilient as I possibly can. I still need to establish alternative sources of income so that I have a financial safety net.
 
-### Meaning
+## Meaning
 
 After doing Tiago Forte’s Annual Review, which I turned into a mid-year review, the biggest thing I realized from the process was that I was not really setting big, scary goals for myself. I was playing it safe. I wasn’t taking any risks. I forgave myself for this especially because 2020 was a particularly difficult year. But this 2021, I challenge myself to step up—to really do the work that I am called to do and to take more risks and expose myself to more challenges.
 
-## What am I working towards?
+# What am I working towards?
 
-### Health
+## Health
 
 After going through a strict diet, I now have lost 30 lbs or 13.6 kgs. This was a big personal achievement, but it is still beyond my ideal weight. For the first quarter of 2021, I would like to achieve a more normal weight by dropping from 192.7 lbs (current) to 178 lbs, which means I have to lose 14.7 more lbs in about seven weeks. I would like to achieve this healthily and sustainably through healthy eating habits and regular physical activity.
 
@@ -109,17 +109,17 @@ Aside from this, my other goals are:
 
 Overall, my intention for 2021 is not to have a serious health issue caused by my lifestyle choices. I would like to train myself to make better health choices every day.
 
-### Relationships
+## Relationships
 
 My 2020 was a relationship-filled year, even when I was mostly isolated from people. I was able to build ties with new and old friends online. Now that I recently moved to Los Baños, I am looking forward to actually nurturing more of those relationships. I am also looking forward to being more intentional on the relationships that I build, hoping that they will support the mission I am pursuing.
 
-### Sustenance
+## Sustenance
 
 For the past years, I have followed the books _Your Money or Your Life_ (YMOYL) and _Early Retirement Extreme_ (ERE) in thinking about and managing my money. While I still subscribe to the practices taught by these books, I have a growing curiosity on what alternative systems exist out there. I have read that [Paul Jarvis](https://pjrvs.com/), for example, does not resonate with the Financial Independence, Retire Early (FIRE) tradition that both YMOYL and ERE espouse. I wonder why that is the case.
 
 This year, I would like to revisit my beliefs about money and restructure a system that works for me and helps me manage my financial goals and actions. In addition to this, I would like to look for another source of stable income, which will serve as my safety net in case editing projects come slow. I would also like to reconsider entrepreneurship so that I can align money-making with something I actually enjoy doing. Hopefully, I could be able to launch a product to test in the market before the year ends.
 
-### Meaning
+## Meaning
 
 This 2021, as I am transitioning in a new place, I want to listen more to what my true self is telling me to pursue. Righ now, it is telling me to fully commit to developing my life system and philosophy of living further. To do this, I will have to establish a note-writing system—a daily practice of developing ideas into succinct, individual notes in the tradition of Niklas Luhmann’s zettelkasten and [Andy Matuschak](https://andymatuschak.org/)’s evergreen notes. I am considering publishing these notes as Borradores.
 
@@ -127,7 +127,7 @@ My hope is that through a daily practice of developing atomic ideas, I would sha
 
 Aside from this, I also expect to finish translating all my favorite Thoreau journal quotes. By the end of 2021, I am hoping to have a first draft manuscript of Ang Talaarawan ni Thoreau, a collection con devotional of Thoreau journal quotes in Filipino.
 
-## What did I learn this year?
+# What did I learn this year?
 
 To end my annual review, I’m going to share to you several of the most important insights and lessons I learned in 2020.
 

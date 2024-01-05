@@ -11,7 +11,7 @@ sr-ease: 230
 
 I have four kinds of reviews:
 
-- [[lms/annual review]]
-- [[lms/monthly review]]
-- [[Weekly review]]
-- [[lms/daily review]]
+- [[thoughts/annual review]]
+- [[thoughts/monthly review]]
+- [[thoughts/weekly review]]
+- [[thoughts/daily review]]

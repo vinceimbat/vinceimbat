@@ -14,10 +14,10 @@ Note: Don't stress too much about what to read next. Let your curiosity and need
 
 Reading is such an important part of my [[thoughts/understanding]] process, specifically, the [[thoughts/my studying process]].
 
-My reading process follows classic [[getting things done]] method:
+My reading process follows classic [[thoughts/getting things done]] method:
 
 1. Collect: I [[Use a reading inbox to capture useful reading materials]]. I am mindful in adding materials here, though. I follow some [[Guidelines on what to add to your reading inbox]].
-3. Process: For a detailed presentation, see [[How to manage a reading inbox]]. I review my reading inbox weekly as part of [[lms/my weekly review routine]] to delete materials that I will no longer read. The materials I do read, especially those for learning ([[Decide whether to read for fun or for learning]]), are read with the intention of taking notes ([[Reading without note-taking is only beneficial in the short-term]])
+3. Process: For a detailed presentation, see [[How to manage a reading inbox]]. I review my reading inbox weekly as part of [[thoughts/my weekly review routine]] to delete materials that I will no longer read. The materials I do read, especially those for learning ([[Decide whether to read for fun or for learning]]), are read with the intention of taking notes ([[Reading without note-taking is only beneficial in the short-term]])
 4. Organize: I archive everything I read. I detailed how I do archiving for each reading material type in the note detailing the implementation of [[My reading inbox]].
 
 # Related

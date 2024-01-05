@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-[[James Clear]] used at least five of the principles of [[Ultralearning, after Young]] to improve his writing.
+[[thoughts/james clear]] used at least five of the principles of [[Ultralearning, after Young]] to improve his writing.
 
 1. Metalearning: He examined other popular bloggers and authors. He used their methods to create a map for what he needs to do to become a successful writer.
 2. Focus: He immediately became a full-time writer. He used the vast majority of his time reading and writing.

@@ -11,6 +11,6 @@ sr-ease: 235
 
 Routines make it easier to perform, track, and build on [[Habit]]s. 
 
-- [[lms/my annual review routine]]
-- [[lms/my monthly review routine]]
-- [[My daily routine]]
+- [[thoughts/my annual review routine]]
+- [[thoughts/my monthly review routine]]
+- [[thoughts/my daily routine]]

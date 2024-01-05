@@ -15,4 +15,4 @@ A financial management system has three main parts
 2. A system to track liquid cash assets.
 3. A system to track investments.
 
-Here is [[lms/my financial management system|my financial management system]].
+Here is [[thoughts/my financial management system|my financial management system]].

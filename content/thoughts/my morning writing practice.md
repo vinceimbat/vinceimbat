@@ -11,7 +11,7 @@ sr-interval: 99
 sr-ease: 216
 ---
 
-If I don't have to work on a project during the writing block of the uninterrupted morning block of [[My daily routine]], I jump right into the core of my creative practice: writing inside [[thoughts/forest garden of the mind]].
+If I don't have to work on a project during the writing block of the uninterrupted morning block of [[thoughts/my daily routine]], I jump right into the core of my creative practice: writing inside [[thoughts/forest garden of the mind]].
 
 I do my writing in the morning to take the most advantage of the clarity and focus and usually have after a good sleep.
 

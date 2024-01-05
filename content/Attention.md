@@ -12,7 +12,7 @@ sr-ease: 248
 # Attention
 
 1. [[Pay attention and respond accordingly]]
-2. [[Pay attention to what we pay attention to]]
+2. [[thoughts/pay attention to what we pay attention to]]
 3. [[Items are magnets for your attention – James Clear]]
 4. [[Life is about controlling your attention]]
 5. [[thoughts/develop authenticity by managing attention]]

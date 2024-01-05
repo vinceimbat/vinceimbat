@@ -10,14 +10,14 @@ sr-ease: 294
 ---
 The word action is a concept, a mental model used to describe a phenomena that occurs in the real world. The phenomena is this: Action is behavior with intention that intervenes in one’s status quo and results in an end state that may or may not approximate one’s original goal. It is the employment of means to attain a [[desire]].
 
-[[James Clear]] said that [[Habit]] is the smallest unit of behavior. I disagree: it is action. [[action is the basic unit of behavior|Action is the basic unit of behavior]].
+[[thoughts/james clear]] said that [[Habit]] is the smallest unit of behavior. I disagree: it is action. [[action is the basic unit of behavior|Action is the basic unit of behavior]].
 
 Actions has several parts:
 
 1. [[thoughts/intention]]
 2. [[Means]] 
 3. [[End state]]
-4. [[Review]]
+4. [[thoughts/review]]
 
 ---
 Action, a definition
@@ -55,7 +55,7 @@ A study of action involves an understanding of both mental and physical states b
 
 ## Related
 
-- [[An action succeeded if its end state approximates its intention]]
+- [[thoughts/an action succeeds if its end state approximates its intention]]
 - [[All actions rely on knowledge]]
 
 # References

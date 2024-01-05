@@ -11,7 +11,7 @@ sr-ease: 270
 
 The long walk is life itself.
 
-[[Live your life as if it was a walk]]
+[[thoughts/live as if you are walking]]
 
 [[metaphysics and epistemology map out the terrain for the long walk]]
 - this means philosophy in general

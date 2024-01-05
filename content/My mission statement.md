@@ -10,12 +10,12 @@ sr-ease: 251
 ---
 
 Integrate here:
-- [[My daily routine]]
-- [[My daily walking routine]]
+- [[thoughts/my daily routine]]
+- [[thoughts/my daily walking routine]]
 
 ***
 
-I am committed to living a life filled with Ginhawa by developing [[thoughts/mindfulness]] and [[thoughts/understanding]], so I can always perform the right and compassionate [[thoughts/action]] in [[My life areas]].
+I am committed to living a life filled with Ginhawa by developing [[thoughts/mindfulness]] and [[thoughts/understanding]], so I can always perform the right and compassionate [[thoughts/action]] in [[thoughts/my life areas]].
 
 I am committed to maintaining and improving my [[thoughts/life management system]], my mental and physical [[thoughts/health]], my relationships, and my sustenance work, so that they support me in pursuing my vision and fulfilling my purpose ([[My life areas support my life work]]).
 

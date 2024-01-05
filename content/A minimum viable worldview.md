@@ -16,7 +16,7 @@ In the past, I immersed myself in many business books. I chose to be a freelance
 
 Looking back at all the business books I read, I realized I wasted a lot of my precious time. Most were really just fluff and their advice often operated on a very shallow understanding of human life and society. In my view, income generation is only a subset of the bigger human pursuit of navigating the material world. And yet, most business books treat income generation as the "be all and end all" of human existence. People who sincerely want to learn "how to make a living" would be better off not reading any of these books.
 
-Having said this, not all business concepts are useless. As I ventured into my intention to pursue a [[My 2017 annual review|self-directed study of philosophy]] this year, I struggled with a particular problem early on that reminded me of a concept I picked up from reading business books. This concept solved my problem and I think it is a useful tool for anyone starting a similar journey in life. In this post, I'll share the concept and how I applied it to my problem.
+Having said this, not all business concepts are useless. As I ventured into my intention to pursue a [[essays/2017 annual review|self-directed study of philosophy]] this year, I struggled with a particular problem early on that reminded me of a concept I picked up from reading business books. This concept solved my problem and I think it is a useful tool for anyone starting a similar journey in life. In this post, I'll share the concept and how I applied it to my problem.
 
 ## Metaphysics and Ethics
 

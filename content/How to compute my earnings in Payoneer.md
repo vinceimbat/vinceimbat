@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-Every month, I receive money via Payoneer, which I transfer to Gcash. However the money is in USD and is converted into PHP via this service. The process of transfering money from Payoneer to Gcash involves fees and income that have to be logged in my expense and income tracker to make [[lms/monthly financial review process]] as accurate as possible.
+Every month, I receive money via Payoneer, which I transfer to Gcash. However the money is in USD and is converted into PHP via this service. The process of transfering money from Payoneer to Gcash involves fees and income that have to be logged in my expense and income tracker to make [[thoughts/monthly financial review process]] as accurate as possible.
 
 1. Go to Payoneer and take note of the amount of money you will transfer (usually, the entire amount).
 2. Go to Gcash and attempt a cash-in from Payoneer.

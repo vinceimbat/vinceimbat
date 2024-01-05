@@ -4,11 +4,10 @@ date: "2021-02-11"
 aliases: "Understanding"
 tags:
 - "seedlings"
-sr-due: 2029-07-21
-sr-interval: 2181
-sr-ease: 273
+sr-due: 2026-12-30
+sr-interval: 1091
+sr-ease: 253
 ---
-
 [[thoughts/understanding mainly informs action|Understanding mainly informs action]]. I do not try to understand to decorate myself or to win arguments. I try to understand to develop wisdom, feel good, and always act appropriately.
 
 Understanding is the core of my life. I am a philosopher first before a writer or anything else. I am committed in living a philosophical and contemplative life and write beautifully about or inspired by this journey.
@@ -38,17 +37,19 @@ In the Philippines, these three levels are usually explored in academic psycholo
 
 I study a lot of different subjects and here is [[thoughts/my studying process|my studying process]].
 
-# Areas
-
 The [[thoughts/life area|life areas]] under understanding are the following:
 
-## Understanding - LMS Theory
+# Understanding - LMS Theory
 
-## Understanding - Forest Garden
+My life management system is built on careful thinking based on reality.
 
-## Understanding - Worldview
+# Understanding - Talahardin
 
-My worldview contains how I see the world ([[thoughts/epistemology|epistemology]], [[thoughts/metaphysics|metaphysics]]), how I act ([[thoughts/ethics|ethics]]), and how I create ([[thoughts/poetics|poetics]])
+I am effectively and efficiently collecting intermediate packets (IPs) in a multi-device note-taking app using a system that allows for easy capture and retrieval. I maintain a daily note-writing practice to cultivate this system of interconnected notes of different varieties.
+
+# Understanding - Worldview
+
+I have articulated a life philosophy that explains how I see the world ([[thoughts/epistemology|epistemology]], [[thoughts/metaphysics|metaphysics]]), how I act ([[thoughts/ethics|ethics]]), and how I create ([[thoughts/poetics|poetics]]).
 
 # To do
 

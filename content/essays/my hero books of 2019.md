@@ -7,7 +7,7 @@ tags:
 ---
 ![My Hero Books of 2019](Hero_Books_2019.jpg)
 
-It was a great reading year for me. I started tracking my reading this year after seeing this page from [Frank Chimero](https://frankchimero.com/reading/). I also tried remembering the books I read since 2015. [[lms/library|My list]] is incomplete because I forgot a lot of books I read, but it's near accurate, and it clearly shows I read more books this 2019 than any other year that came before it. James Clear was right: [what gets tracked, gets improved](https://jamesclear.com/habit-tracker).
+It was a great reading year for me. I started tracking my reading this year after seeing this page from [Frank Chimero](https://frankchimero.com/reading/). I also tried remembering the books I read since 2015. [[thoughts/library|My list]] is incomplete because I forgot a lot of books I read, but it's near accurate, and it clearly shows I read more books this 2019 than any other year that came before it. James Clear was right: [what gets tracked, gets improved](https://jamesclear.com/habit-tracker).
 
 All-in-all, I read 18 books. I know it's far from the lists of the likes of [Austin Kleon](https://austinkleon.com/category/my-reading-years/) (who reads 100+ books a year!), but I am proud of what I accomplished with my reading habit this year. I don't really consider myself a fast reader, and I don't think I want to be one. When I love a book, especially when it's highly practical, I write a summary of it, which involves going back to each chapter of the book and really analyzing its main points. I remember the book easier that way, and I enjoy the process very much.
 

@@ -12,6 +12,6 @@ And then, once the potential of the situation is already working for you, add fu
 
 The idea is to sprint downhill, not grind uphill."
 
-~ [[James Clear]]
+~ [[thoughts/james clear]]
 
 # References
