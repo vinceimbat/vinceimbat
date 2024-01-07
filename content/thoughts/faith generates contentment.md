@@ -15,5 +15,3 @@ But reflecting on Bugbee makes me want to challenge this. I could find contentme
 # To do
 
 - Add insights from Wilderness and the Heart and my diary entry on [[2023-09-06]].
-
-# References

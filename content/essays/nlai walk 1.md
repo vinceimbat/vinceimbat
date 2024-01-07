@@ -8,7 +8,6 @@ sr-due: 2023-07-20
 sr-interval: 1
 sr-ease: 230
 ---
-
 People were still walking around the gallery when we began sitting down on a circle of chairs. I started the workshop by asking them to introduce themselves and describe their most favorite walk route. I introduced myself and told them about the road I used to visit almost every afternoon back in Pangasinan. The road that will later be named Snake Road.
 
 I told them how I felt like I owned the road in the past, how I would lie down on the side looking at the stars after farmers have gone home—farmers I personally know. I told them how I left Pangasinan a couple of months after it was cemented—after motorcycle riders, Tiktokers, vendors, and teenagers began flocking every afternoon on what was once my favorite walk route.

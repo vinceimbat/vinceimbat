@@ -66,7 +66,7 @@ Getting accepted at ANWW20, being heard and yet receiving useful feedback, and l
 
 ## What one word or phrase best sums up and describes your experience this past year?
 
-Archetypes
+Faith
 
 ## What stories from the past year are you letting go of?
 

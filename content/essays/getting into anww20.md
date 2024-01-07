@@ -28,7 +28,7 @@ I finished the gig, the client was happy, and she told me the proposal was accep
 
 What does this long story have to do with writing a book about Los Baños?
 
-The Ateneo Institute of Literary Arts and Practices (AILAP) released a call of submission for its 20th Ateneo National Writer's Workshop (ANWW20) this year. AILAP was particularly interested in essay submissons that combine academic writing with literary, creative, and poetic writing. The deadline for submissions was April 1.
+The Ateneo Institute of Literary Arts and Practices (AILAP) released a call of submission for its 20th Ateneo National Writer's Workshop (ANWW20) this year. AILAP was particularly interested in essay submissions that combine academic writing with literary, creative, and poetic writing. The deadline for submissions was April 1.
 
 The deadline was at the back of my mind while I was was helping my client write her research proposal last March. I consider the essay, specifically the personal narrative essay, as my main creative writing form, and I was interested in how I could combine research and literary writing in my work, so attending AILAP's workshop made a lot of sense.
 

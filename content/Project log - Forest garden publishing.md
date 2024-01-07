@@ -63,7 +63,7 @@ Tried deploying jekyll blog on cloudflare. It worked. But then I realized how li
 	- [[thoughts/mental wilderness]]
 	- [[thoughts/geographical wilderness]]
 	- [[thoughts/wilderness]]
-	- [[The long walk]]
+	- [[thoughts/the long walk]]
 - Created a favicon using Canva.
 - Used custom domain and pointed vinceimbat.com to the Github pages.
 - Waited for security certificate to be awarded to site.

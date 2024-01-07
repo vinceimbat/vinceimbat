@@ -7,7 +7,7 @@ tags:
 ![Banner](files/banner.jpg)
 <h2>I was thrown here—alone and oblivious. The landscape is gray, cold, and frightening. I stared at the horizon and immediately understood—I knew nothing of this terrain.</h2>
 
-I wanted to leave, but instead, I did what I knew I had to do. I set forth for [[The long walk|a long walk]] into [[thoughts/wilderness|the Wilderness]].
+I wanted to leave, but instead, I did what I knew I had to do. I set forth for [[thoughts/the long walk|a long walk]] into [[thoughts/wilderness|the Wilderness]].
 
 As I walk, I cover two planes simultaneously—a finite [[thoughts/geographical wilderness]] and a vast and never-ending [[thoughts/mental wilderness]]. [[thoughts/walking|Walking]] in geographic space expands the mind. Walking the mind deepens the meaning of geographic space.
 

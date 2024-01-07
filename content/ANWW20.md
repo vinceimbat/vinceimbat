@@ -5,7 +5,6 @@ tags:
 
 - "seedlings"
 ---
-
 This is the acronym for the 20th Ateneo National Writer's Workshop organized by the Ateneo Institute of Literary Arts and Practices (AILAP) that ran from June 9–12, 2023.
 
 Ten days before the deadline for passing entries on April 1, 2023, I collated my newsletter articles from Lilim and read the literature on [[Liminality]], [[Autoethnography]], and [[thoughts/walking]].

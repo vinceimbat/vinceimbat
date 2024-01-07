@@ -13,7 +13,7 @@ Welcome to my little home in the web. This [[thoughts/my forest garden of the mi
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 
-While I recognize my tendency to be allured to blueprints I do my best to resist them and maintain an openness to knowledge and the larger world where knowledge arise. This commitment necessitates that I give myself the permission to change my beliefs as [[the long walk]] unravels.
+While I recognize my tendency to be allured to blueprints I do my best to resist them and maintain an openness to knowledge and the larger world where knowledge arise. This commitment necessitates that I give myself the permission to change my beliefs as [[thoughts/the long walk]] unravels.
 
 As common among digital gardeners, I use botanical language in organizing my work. [[thoughts/my forest garden of the mind|My forest garden of the mind]] is what I refer to the this collection of writings. This is what I walk and tend to every day.
 
