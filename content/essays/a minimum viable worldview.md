@@ -1,16 +1,15 @@
 ---
-title: "A minimum viable worldview"
-date: "2018-01-20"
-slug: "minimum-viable-worldview"
+title: A minimum viable worldview
+date: 2018-01-20
+aliases:
+  - minimum-viable-worldview
 tags:
-- "essays"
-- "seedlings"
+  - seedlings
 sr-due: 2022-08-20
 sr-interval: 3
 sr-ease: 250
 ---
-
-![Minimum Viable Worldview](minimum_viable_worldview_mvw.png)
+![Minimum Viable Worldview](essays/images/minimum_viable_worldview_mvw.png)
 
 In the past, I immersed myself in many business books. I chose to be a freelancer and freelancing was a pretty scary endeavor. It requires a lot of affirmation, inspiration, and instruction. In hindsight, I think reading a lot of business books while I freelanced was inevitable.
 

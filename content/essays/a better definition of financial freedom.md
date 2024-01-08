@@ -32,4 +32,4 @@ People who keep their expenses low so that they work fewer hours have more momen
 
 Artists don't have to put off their art to focus on making money for themselves first. If they look at financial freedom as a state that can be replicated and inserted at any time of the day, [[essays/creative freedom is all that matters|they could start what they want to do now]].
 
-Clarifying our definitions of things makes us think about them more, shedding light on not very obvious truths and insights. This is why I really love [[A minimum viable worldview|philosophy]]. It just makes me a better human being.
+Clarifying our definitions of things makes us think about them more, shedding light on not very obvious truths and insights. This is why I really love [[essays/a minimum viable worldview|philosophy]]. It just makes me a better human being.
