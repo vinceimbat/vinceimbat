@@ -23,6 +23,8 @@ kanban-plugin: basic
 - [ ] [CO] I have created a plan on how I can establish my inner core and outer core communities.
 - [ ] [CO] I have established a habit of regularly searching for and reaching out to peers who do the work that I want to do in the space that I want to contribute to.
 - [ ] SUSTAINING
+- [ ] [S] I have added SSS into my retirement savings portfolio.
+- [ ] [S] I have purchased a better HMO card for Lea and I.
 - [ ] [S] I have renewed my PWD card.
 - [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
 - [ ] [S] I have curated a minimalist wardrobe.
@@ -41,9 +43,9 @@ kanban-plugin: basic
 
 ## Primary focus
 
-- [ ] [O] I have performed all tasks under my annual review routine.
+- [ ] [CR] I have performed a week-long re-walk of some routes I walked in Baguio City as a JW minister.
+- [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
-- [ ] [CR] I have performed a week-long walk of Baguio City intended to trigger and write memories of my life as a JW minister.
 - [ ] [CO] I have assisted Lea in starting a life design project to help her find the best life work for her.
 - [ ] [S] I have legalized my freelance business.
 
@@ -53,6 +55,7 @@ kanban-plugin: basic
 **Complete**
 - [x] JANUARY 2024
 - [x] [S] I have updated three OVIC global overviews assigned to me and sent them. @[[2024-01-01]]
+- [x] [O] I have performed all tasks under my annual review routine. @[[2024-01-07]]
 
 
 ## 2023 Done

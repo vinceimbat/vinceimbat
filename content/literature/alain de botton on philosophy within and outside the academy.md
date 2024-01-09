@@ -9,7 +9,6 @@ sr-due: 2023-07-28
 sr-interval: 3
 sr-ease: 250
 ---
-
 Wanted to write books in general
 
 Philosophers closer to mathematicians

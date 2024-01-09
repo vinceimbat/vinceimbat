@@ -12,9 +12,9 @@ Schedule: Monday, afternoon
 - Clear Email.
 - Open Cleanfox and unsubscribe from unwanted email lists.
 - Review Calendar (two weeks backwards and four weeks forward).
-- Clear Desktop and Downloads.
-- Delete or archive articles in Instapaper.
 - Clear Google Drive Inbox.
+- Delete or archive articles in Instapaper.
+- Clear Desktop and Downloads.
 - Process Drafts.
 - Process audio recordings.
 - Clear physical inbox.
@@ -32,8 +32,8 @@ Schedule: Monday, afternoon
 - Sync Projects list on Things, Obsidian, and Finder (if necessary).
 - Process Inbox at Things (prioritize and file new open loops ).
 - Review all tasks under Anytime and see any tasks with no priority tag and tag them.
-- Review High priority tasks and check accomplished tasks or convert tasks to Medium priority.
-- Review Medium priority tasks and see if any can be converted to High priority tasks.
+- Review High priority tasks: Check accomplished tasks, schedule tasks, or convert tasks to Medium priority.
+- Review Medium priority tasks: Check if any can be converted to High priority tasks and schedule them.
 - Look at all High priority tasks and choose Today tasks.
    - Note: This task is done daily rather than weekly.
 - Reconcile YNAB couple fund.

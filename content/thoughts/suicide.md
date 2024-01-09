@@ -21,6 +21,12 @@ Suicide is the single most important motivation. We want to find the good in lif
 
 For those who have never experience the urge to harm themselves, be grateful for it, but never ever judged those who do. And while you're life is perfect, make the most of your situation by finding meaning as much as you can so that you are ready whenever things go south. Because they always do.
 
+# Unprocessed
+
+If you decide to stop living, then there's no getting better. It just stops altogether.
+
+So, the decision is either to stop altogether or wait for things to get better. Most of the time, they do. Ginhawa. Relief is more accessible than we usually believe.
+
 # To do
 - Connect Alber Camus.
 - [[my suicide attempts]]
