@@ -34,11 +34,16 @@ kanban-plugin: basic
 - [ ] CREATING
 - [ ] [CR] I have started a book project about walking in Los Baños. An intimate contemplative walking guide for Los Baños.
 - [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
+- [ ] [CR] I have climbed Mt. Makiling
 - [ ] [CR] I have started a walking in Pangasinan project.
 - [ ] [CR] I have started compiling resources for a history of walking in the Philippines.
 - [ ] [CR] I have learned how to take binaural videos effectively. I have learned how to edit them. I have compiled them in my YouTube.
 - [ ] [CR] I have completed The Complete 2023 Web Development Bootcamp.
 - [ ] [CR] I have translated all my favorite Thoreau entries from English to Filipino.
+- [ ] [CR] I have led a walk and talk event.
+- [ ] [CR] I have conducted a photo-only walk around Los Baños.
+- [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (around May 2024).
+- [ ] [CR] I have performed a walk project with Uwa.
 
 
 ## Primary focus
