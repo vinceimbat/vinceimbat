@@ -30,7 +30,7 @@ Schedule: Monday, afternoon
    - Check the Goals for this month and see if any needs a project.
    - Prioritize your project list.
 - Sync Projects list on Things, Obsidian, and Finder (if necessary).
-- Process Inbox at Things (prioritize and file new open loops ).
+- Process Inbox at Things (prioritize and file new open loops).
 - Review all tasks under Anytime and see any tasks with no priority tag and tag them.
 - Review High priority tasks: Check accomplished tasks, schedule tasks, or convert tasks to Medium priority.
 - Review Medium priority tasks: Check if any can be converted to High priority tasks and schedule them.

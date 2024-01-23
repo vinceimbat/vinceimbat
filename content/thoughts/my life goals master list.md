@@ -48,7 +48,6 @@ kanban-plugin: basic
 
 ## Primary focus
 
-- [ ] [CR] I have performed a week-long re-walk of some routes I walked in Baguio City as a JW minister.
 - [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
 - [ ] [CO] I have assisted Lea in starting a life design project to help her find the best life work for her.
@@ -61,6 +60,7 @@ kanban-plugin: basic
 - [x] JANUARY 2024
 - [x] [S] I have updated three OVIC global overviews assigned to me and sent them. @[[2024-01-01]]
 - [x] [O] I have performed all tasks under my annual review routine. @[[2024-01-07]]
+- [x] [CR] I have performed a week-long re-walk of some routes I walked in Baguio City as a JW minister. @[[2024-01-20]]
 
 
 ## 2023 Done

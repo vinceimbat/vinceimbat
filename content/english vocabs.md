@@ -77,6 +77,7 @@ Languor - the state or feeling, often unpleasant, of tiredness or inertia.
 Largesse - generosity in bestowing money or gifts upon others.
 Lassitude - a state of physical or mental weariness; lack of energy
 Lip service - support for someone or something that is expressed by someone in words but that is not shown in that person's actions.
+Lisp - to pronounce the sibilants \s\ and \z\ imperfectly especially by turning theminto \th\ and \t͟h\; to speak falteringly, childishly, or with a lisp
 Lush - habitual heavy drinker
 Luxuriate - enjoy oneself in a luxurious way; take self-indulgent delight
 
@@ -87,6 +88,7 @@ Maelstrom - a powerful whirlpool in the sea or a river; a situation or state of 
 Mauve
 Mendicant - given to begging
 Mien - a person's look or manner, especially one of a particular kind indicating their character or mood
+Minuet - a slow graceful dance in ³/₄ timecharacterized by forward balancing, bowing, and toe pointing
 Moor - verb; to make fast with or as if with cables, lines, or anchors
 
 # N
