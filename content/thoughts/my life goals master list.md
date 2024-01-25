@@ -48,9 +48,8 @@ kanban-plugin: basic
 
 ## Primary focus
 
-- [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
+- [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
-- [ ] [CO] I have assisted Lea in starting a life design project to help her find the best life work for her.
 - [ ] [S] I have legalized my freelance business.
 
 
@@ -61,6 +60,7 @@ kanban-plugin: basic
 - [x] [S] I have updated three OVIC global overviews assigned to me and sent them. @[[2024-01-01]]
 - [x] [O] I have performed all tasks under my annual review routine. @[[2024-01-07]]
 - [x] [CR] I have performed a week-long re-walk of some routes I walked in Baguio City as a JW minister. @[[2024-01-20]]
+- [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-01-23]]
 
 
 ## 2023 Done

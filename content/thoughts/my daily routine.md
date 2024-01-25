@@ -1,9 +1,9 @@
 ---
 title: My daily routine
 date: 2021-01-06
-slug: my-daily-routine
 aliases:
   - My-daily-routine
+  - my daily routine
 tags:
   - evergreens
 ---
@@ -16,6 +16,8 @@ My daily objective is to nurture all [[thoughts/my life areas|my life areas]] bu
 |               | Connecting            |
 |               | Restoring             |
 
+The important thing to remember is that my mornings should be used to strengthen my religious and spiritual life as well as my writing life. In other words, they should be used to practice *being* and *thinking*. A successful morning for me is one when I felt I existed, read, wrote, and thought deeply, which should help me make progress on at least one specific subject.
+
 # Pre-desk (~8:00–9:00)
 
 - Wake up.
@@ -24,7 +26,6 @@ My daily objective is to nurture all [[thoughts/my life areas|my life areas]] bu
 - Walk with Lea (if she is awake).
 - Weigh in.
 - Drink two glasses of water.
-- Meditate.
 
 # Uninterrupted morning block (~9:00–12:00)
 
@@ -40,19 +41,31 @@ My daily objective is to nurture all [[thoughts/my life areas|my life areas]] bu
 
 Core block is non-negotiable. If a project requires more time, I could forgo of subsequent phases of my morning routine to accommodate it, except my core routine.
 
-- Write [[5MJ]].
-- Free write one to three pages on my [[Diary]].
+- Meditate.
 - Read one poem.
+- Write [[5MJ]].
 - Open and back up laptop.
-- Write daily review report (See [[thoughts/my daily review routine]]).
+- Write a [[thoughts/daily working log|daily working log]]; look at the [[menu]] for the week to get a sense of what I'd like to do.
 
 ## Writing block
 
 Details here are allowed to change depending on my projects and their status.
 
-- If a project is available, open [[thoughts/things|things]] and perform a preplanned menu of actions (ideally prepared during the [[thoughts/weekly review|weekly review]]).
+- If a project is available, see my menu or open [[thoughts/things|Things]] and perform what to do from a set of preplanned actions prepared during the [[thoughts/weekly review|weekly review]]).
 - If a project is unavailable, perform [[thoughts/my morning writing practice|my morning writing practice]].
 - I am also allowed to just use to read through a stack of material if that is what's necessary.
+
+## Miscellaneous
+
+About an hour or 30 minutes before lunch break, I spend some time doing the following.
+
+- Write daily review report (See [[thoughts/my daily review routine|my daily review routine]]).
+- Process yesterday's seeds.
+- Process at least one Talahardin note. 
+- Process at least one previous diary entry.
+- Push changes in my talahardin to Github.
+- Process yesterday’s photos if any.
+- Connect with at least one contact.
 
 ## Lunch Break (12:00–1:30)
 

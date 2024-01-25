@@ -9,13 +9,13 @@ sr-due: 2022-11-24
 sr-interval: 2
 sr-ease: 246
 ---
-- [[life design assessment]]
-- [[thoughts/my workview]]
-- [[thoughts/my lifeview]]
+- [[thoughts/life design assessment|life design assessment]]
+- [[thoughts/my workview|my workview]]
+- [[thoughts/my lifeview|my lifeview]]
 - [[my workview vs my lifeview]]
 
 ***
-## Reframe dysfunctional beliefs
+# Reframe dysfunctional beliefs
 
 Dysfunctional beliefs prevent so many people from designing the life they want.
 
@@ -25,11 +25,11 @@ Examples of dysfunctional beliefs:
 - Your degree determines your career. Reframe: 3/4 of all collefe grads don't end up working in a career related to their majors.
 - True happiness comes from designing a life that works for you. Reframe: True happiness comes from designing a life that works for you.
 ***
-## Encore career
+# Encore career
 
 An “encore” career involves work that combines personal meaning, continued income, and social impact.
 ***
-## Design thinking might be the best approach in living life
+# Design thinking might be the best approach in living life
 
 When emotions are involved, design thinking has proved to be the best problem-solving tool.
 
@@ -47,7 +47,7 @@ It’s never too late to design a life you love.
 To do
 - The best way to write this note is to describe the nature of life first (i.e., no clear goal, cannot be planned)
 ***
-## Designing your life doesn’t involve a clear goal
+# Designing your life doesn’t involve a clear goal
 
 - Connect here why life doesn't always start with a purpose.
 
@@ -59,7 +59,7 @@ Because life doesn't have a clear goal or destination (or at least not at first)
 
 Designers embrace change. They are not attached to a particular outcome, because they are always focused on what will happen next—not what the final result will be.
 ***
-## What a well-designed life looks like
+# What a well-designed life looks like
 
 A well-designed life has a look and feel all of its own—a beautiful aesthetic that speaks to you.
 
@@ -71,7 +71,7 @@ Problem Finding + Problem Solving = Well-Designed Life
 
 A well-designed life is supported by a healthy body, an engaged mind, and often, though not always, some form of spiritual practice.
 ***
-## Start with empathy
+# Start with empathy
 
 Every design started with a problem.
 
@@ -81,7 +81,7 @@ Every design started with a problem.
 - Once you have empathize with yourself, brainstorm to create a prototype that you will use to discover what you don't know yet.
 - We allow what we discover to pivot, i.e. to reframe our original point of view and modify or change our prototype.
 ***
-## One life can have many designs
+# One life can have many designs
 
 There isn’t just one solution to your life. There are many designs for your life, all filled with hope for the kind of creative and unfolding reality that makes life worth living into. Your life is not a thing, it’s an experience; the fun comes from designing and enjoying the experience.
 
@@ -89,7 +89,7 @@ There are many versions of you, and they are all “right.” And life design wi
 
 Try stuff.
 ***
-## What life design is
+# What life design is
 
 Life design is about imagining a life you want, building it, and seeing something that has never existed before emerge.
 
@@ -100,13 +100,13 @@ You have three goals:
 
 A well-designed life is a life that makes sense. It’s a life in which who you are, what you believe, and what you do all line up together. When you have a well-designed life and someone asks you, “How’s it going?,” you have an answer. You can tell that person that your life is going well, and you can tell how and why. A well-designed life is a marvelous portfolio of experiences, of adventures, of failures that taught you important lessons, of hardships that made you stronger and helped you know yourself better, and of achievements and satisfactions. It’s worth emphasizing that failures and hardships are a part of every life, even the well-designed ones.
 ***
-## Build a team that will support you in your life design
+# Build a team that will support you in your life design
 
 Get a design team. Read the book together. Do the exercises together. Collaborate to support one another in designing your lives.
 
 The different backgrounds in your group assures that you generate truly unique solutions.
 ***
-## Have a bias to action
+# Have a bias to action
 
 Before you can do life design, you need to learn to think like a designer.
 
@@ -114,7 +114,7 @@ Designers don’t think their way forward. Designers build their way forward.
 
 you are not just going to be dreaming up a lot of fun fantasies that have no relationship to the real world—or the real you. You are going to build things (we call them prototypes), try stuff, and have a lot of fun in the process.
 ***
-## Build the mindsets of a designer
+# Build the mindsets of a designer
 
 The five mind-sets you are going to learn in order to design your life are curiosity, bias to action, reframing, awareness, and radical collaboration. These are your design tools, and with them you can build anything, including a life you love.
 
@@ -124,7 +124,7 @@ The five mind-sets you are going to learn in order to design your life are curio
 - **Awareness.** Learn to let go of the first idea or of a good but not great solution. Learn to see designs from the mess. Let go of the end goal of life and focus on the process—on what is next.
 - **Radical collaboration.** Many of the best ideas about how to live your life will come from other people. Know how to ask and identify the right questions to ask.
 ***
-## Passion comes after mastery
+# Passion comes after mastery
 
 only one in five young people between twelve and twenty-six have a clear vision of where they want to go, what they want to accomplish in life, and why.
 
@@ -134,7 +134,7 @@ Developing a passion takes time. Passion comes after trying something, realizing
 
 Passion is a result of a good life design, not the cause.
 ***
-## There is no one passion that rules them all
+# There is no one passion that rules them all
 
 Most people do not have that one thing they are passionate about—that singular motivator that drives all of their life decisions and infuses every waking moment with a sense of purpose and meaning.
 
@@ -142,13 +142,13 @@ In truth, most people are passionate about many different things, and the only w
 
 The reframe for the question “What do you want to be when you grow up?” is this: “Who or what do you want to grow into?”
 ***
-## Engaging in life design increases your luck
+# Engaging in life design increases your luck
 
 We can assure you that at times it will take you out of your comfort zone.
 
 What happens when you engage in life design? Actually, something quite extraordinary happens. Things you want start to show up in your life. You start to hear of job openings you were dreaming about. People you were interested in meeting just happen to be in town. What is happening here? For starters, it’s that “getting good at being lucky” thing we mentioned earlier, a result of curiosity and awareness, and a by-product of using the five mind-sets. In addition, the process of discovering who you are and what you want has a rather extraordinary effect on your life. There will be effort and action involved, no doubt, but it will seem, rather surprisingly, as if everyone is conspiring to help you. And, by being aware of the process, you will have a lot of fun along the way.
 ***
-## Start designing your life by taking stock of it
+# Start designing your life by taking stock of it
 
 But before you can figure out which direction to head in, you need to know where you are and what design problems you are trying to solve.
 
@@ -162,11 +162,11 @@ Awareness and curiosity are the design mindsets you need to begin building your 
 
 You can’t know where you are going until you know where you are.
 ***
-## Wicked problems
+# Wicked problems
 
 Problems that are resistant to resolution.
 ***
-## Problem finding is as important as problem solving
+# Problem finding is as important as problem solving
 
 In design thinking, we put as much emphasis on problem finding as we do on problem solving. After all, what’s the point of working on the wrong problem? We emphasize this because it’s actually not always so easy to understand what our problems are.
 
@@ -182,7 +182,7 @@ How often do we fall in love with our first idea and then refuse to let it go? N
 
 Beware of working on a really good problem that’s not actually the right problem, not actually your problem.
 ***
-## How to find problems
+# How to find problems
 
 Often we approach our problems as if they are an addition or subtraction problem. We either want to get something (add) or get rid of something (subtract).
 
@@ -190,7 +190,7 @@ Usually, we define our problem by what’s missing, but not always.
 
 Instead of assuming he knew all the answers before he asked the questions, he would have been curious.
 ***
-## Avoid gravity problems
+# Avoid gravity problems
 
 We also tend to get mired in what we call gravity problems.
 
@@ -218,7 +218,7 @@ The only response to a gravity problem is acceptance. And this is where all good
 
 Gravity problems aren’t actually problems. They’re circumstances that you can do nothing to change. There is no solution to a gravity problem—only acceptance and redirection.
 ***
-## Health
+# Health
 
 And by “healthy” we mean being well in mind, body, and spirit—emotional health, physical health, and mental health. The relative importance of each of these aspects of health is up to you. How you measure your own health in these areas is your call. But once you’ve figured out how you define “health,” you need to pay attention to it.
 
@@ -226,7 +226,7 @@ Again, there is no objective perfect balance of these different areas of health,
 
 How you rate your health will factor significantly into how you assess the quality of your life and what you might want to redesign going forward.
 ***
-## Work
+# Work
 
 you won’t be able to understand how to design your work until you understand how it fits into the rest of your life.
 
@@ -234,7 +234,7 @@ By “work” we mean your participation in the great ongoing human adventure on
 
 Don’t for a minute reduce work only to that which you get paid for. Most people have more than one form of work at a time.
 ***
-## Play
+# Play
 
 Play is all about joy.
 
@@ -242,13 +242,13 @@ Play is any activity that brings you joy when you do it. It can certainly includ
 
 Play is about activity that brings joy just for the pure sake of the doing of it. It can include organized activity or productive endeavors, but only if they are done for fun and not merit. We contend that all lives need some play, and that making sure there is some play in our day is a critical life design step. 
 ***
-## Love
+# Love
 
 Love comes to us in a wide range of types, from affection to community to eroticism, and from a huge array of sources, from parents to friends to colleagues to lovers, but they all share that people thing. That sense of connection. Who are the people in your life, and how is love flowing to and from you and others?
 
 Our primary relationship is where we go first for love, children typically come next, and then it’s a flood of people and pets and community and anything else that is an object of affection. And it is as critical to feel loved by others as it is to love—it has to go both ways.
 ***
-## Use a life dashboard to assess your life before redesigning
+# Use a life dashboard to assess your life before redesigning
 
 Even though perfect balance is not our goal, a look at this diagram can sometimes warn us that something is not right.
 
@@ -270,13 +270,13 @@ Are you happy right now with where your gauges stand in each of these four areas
 
 Ask yourself if your problem is actionable. Also, look for some expression of balance and proportionality in your dashboard—very important for design—without imagining that there is some perfect symmetry or balance between all the areas in your life.
 ***
-## Life design is never done
+# Life design is never done
 
 Since life design is an iterative process of prototypes and experimentation, there are lots of on ramps and off ramps along the way. If you’re beginning to think like a designer, you will recognize that life is never done.
 
 We are only done designing our lives when we die. Until then, we’re involved in a constant iteration of the next big thing: life as we know it.
 ***
-## Life design changes your future
+# Life design changes your future
 
 As you begin to think like a designer, remember one important thing: it’s impossible to predict the future. And the corollary to that thought is: once you design something, it changes the future that is possible.
 
@@ -284,7 +284,7 @@ Designing something changes the future that is possible.
 
 So, although it is not possible to know your future, or figure out a great life design before you begin, at least you have a good idea of your starting point.
 ***
-## Spend more time living not planning life
+# Spend more time living not planning life
 
 It’s not hard to imagine that if we added up all the hours spent trying to figure out life, for some of us they would outweigh the hours spent actually living life. Really. Living. Life.
 
@@ -296,7 +296,7 @@ This is not designing your life.
 
 This is obsessing about your life.
 ***
-## Life design is finding your own answers to perennial questions
+# Life design is finding your own answers to perennial questions
 
 What is the good life? How do you define it? How do you live it?
 
@@ -312,12 +312,12 @@ What’s the point of it all?
 
 Life design is a way for you to figure out your own answers to these perennial questions, and to figure out your own good life.
 ***
-## Steps in designing your life
+# Steps in designing your life
 
 1. Knowing what's on your life design dashboard.
 2. Building your compass.
 ***
-## How to build a compass
+# How to build a compass
 
 You need two things to build your compass—a Workview and a Lifeview. To start out, we need to discover what work means to you. What is work for? Why do you do it? What makes good work good? If you discover and are able to articulate your philosophy of work (what it’s for and why you do it), you will be less likely to let others design your life for you. Developing your own Workview is one component of the compass you are building; a Lifeview is second.
 
@@ -328,12 +328,12 @@ your Workview and Lifeview will change
 you don’t have to have it all figured out for the rest of your life; you just have to create the compass for what life is about for you right now.
 
 ***
-## Why it is important to build your own compass
+# Why it is important to build your own compass
 
 there are lots of powerful voices in the world, and lots of powerful voices in our heads, all telling us what to do or who to be. And because there are many models for how life is supposed to be lived, we all run the risk, like Parker, of accidentally using someone else’s compass and living someone else’s life. The best way to avoid this is to articulate clearly our own Workview and Lifeview, so we can build our own unique compass.
 
 ***
-## Aspire for a life of coherency
+# Aspire for a life of coherency
 
 Our goal for your life is rather simple: coherency.A coherent life is one lived in such a way that you can clearly connect the dots between three things:
 - Who you are
@@ -344,7 +344,7 @@ Most of us have to make some trade-offs and compromises along the way, including
 
 But that will be okay, because it’s a conscious decision, which allows you to stay “on course” and coherent. Living coherently doesn’t mean everything is in perfect order all the time. It simply means you are living in alignment with your values and have not sacrificed your integrity along the way. When you have a good compass guiding you, you have the power to cut these kinds of deals with yourself. If you can see the connections between who you are, what you believe, and what you are doing, you will know when you are on course, when there is tension, when there might need to be some careful compromises, and when you are in need of a major course correction. Our experience with our students has shown that the ability to connect these three dots increases your sense of self, and that helps you create more meaning in your life and have greater satisfaction.
 ***
-## How to write a workview
+# How to write a workview
 
 Write a short reflection about your Workview.
 
@@ -368,15 +368,15 @@ take the time to reflect and articulate what work and vocation mean to you (and 
 
 Workviews can and do range widely in what they address and how they incorporate different issues, such as service to others and the world, money and standard of living, and growth, learning, skills, and talents. All of these can be part of the equation. We want you to address what you think is important.
 ***
-## Work is the largest single component of our life
+# Work is the largest single component of our life
 
 When using the term “work,” we mean the broadest definition—not just what you do to make money or for “a job.” Work is often the largest single component of most people’s waking lives, and over a lifetime it occupies more of our attention and energy than anything else we do.
 ***
-## Work that is socially meaningful brings more satisfaction
+# Work that is socially meaningful brings more satisfaction
 
 You do not have to address the question of service to others or any explicit connection to social issues. However, the positive psychologist Martin Seligman found that the people who can make an explicit connection between their work and something socially meaningful to them are more likely to find satisfaction, and are better able to adapt to the inevitable stresses and compromises that come with working in the world.
 ***
-## How to write a lifeview
+# How to write a lifeview
 
 This should also take no more than thirty minutes and be 250 words or so.
 
@@ -392,7 +392,7 @@ write down whatever critical defining values and perspectives provide the basis 
 
 design is values-neutral, and we don’t take sides.
 ***
-## Integrate your workview and lifeview
+# Integrate your workview and lifeview
 
 Read over your Workview and Lifeview, and write down a few thoughts on the following questions (please try to answer each of the questions):
 - Where do your views on work and life complement one another?
@@ -404,7 +404,7 @@ this reflection will result in some editing of one or both of your views. By ha
 it’s crucial for you to assess how well your work fits your values and priorities—how coherent your work is with who you are and what you believe.
 
 ***
-## How to use workview and lifeview as a compass
+# How to use workview and lifeview as a compass
 
 Ultimately, what these two views do is give you your “True North.” They create your compass. They will help you know if you’re on course or off course. At any moment you can assess where you are in relation to your True North.
 
@@ -414,21 +414,23 @@ Anytime you’re changing your situation, or pursuing a new thing, or wondering 
 
 I won’t always know where I’m going—but I can always know whether I’m going in the right direction.
 ***
-## Use engagement and energy to find your way
+# Use engagement and energy to find your way
 
 Wayfinding is the ancient art of figuring out where you are going when you don’t actually know your destination. For wayfinding, you need a compass and you need a direction. Not a map—a direction.
 
 Since there’s no onedestination in life, you can’t put your goal into your GPS and get the turn-by-turn directions for how to get there. What you can do is pay attention to the clues in front of you, and make your best way forward with the tools you have at hand. We think the first clues are engagement and energy.
 
 We are not suggesting a life singularly focused on engagement and energy level. We are suggesting that focused attention on engagement and energy level can provide very helpful clues to wayfinding your path forward. Life design consists of a whole set of ideas and tools that work together flexibly.
+
+Enjoyment is a guide to finding the right work for you.
 ***
-## Engagement
+# Engagement
 
 When you learn what activities reliably engage you, you’re discovering and articulating something that can be very helpful in your life design work.
 
 Logging when you are and aren’t engaged and energized will help you pay attention to what you’re doing and discover what’s working.
 ***
-## Flow
+# Flow
 
 Flow is engagement on steroids. Flow is that state of being in which time stands still, you’re totally engaged in an activity, and the challenge of that particular activity matches up with your skill—so you’re neither bored because it’s too easy nor anxious because it’s too hard.
 
@@ -446,15 +448,15 @@ Flow is play for grown-ups.
 
 Flow is one key to what we call adult play, and a really rewarding and satisfying career involves a lot of flow states. The essence of play is being fully immersed and joyful in what you’re doing, without being constantly distracted by concerns about the outcomes. When we’re in flow, that’s exactly what’s going on—we are fully present to what we’re doing, so present we don’t even notice time. Seen this way, flow is something we should strive to make a regular part of our work life
 ***
-## Track your flow states
+# Track your flow states
 
 As the ultimate state of personal engagement, flow experiences have a special place in designing your life, so it’s important to get good at capturing them in your Good Time Journal.
 ***
-## Be mindful of where you invest your attention
+# Be mindful of where you invest your attention
 
 the way we invest our attention is critical to whether or not we feel high or low energy.
 ***
-## Track your energy flows
+# Track your energy flows
 
 We engage in physical and mental activities all day long. Some activities sustain our energy and some drain it; we want to track those energy flows as part of our Good Time Journal exercise. Once you have a good handle on where your energy goes every week, you can start redesigning your activities to maximize your vitality.
 
@@ -462,13 +464,13 @@ high levels of engagement often coincide with high levels of energy, but not nec
 
 Energy is also unique in that it can go negative—some activities can actually suck the life right out of us and send us drained into whatever comes next. Boredom is a big energy-suck, but it’s much easier to recover from boredom than from being de-energized, so it’s important to pay specific attention to your energy levels.
 ***
-## Redesign your current life not a new life
+# Redesign your current life not a new life
 
 life design is about getting more out of your current life—and not only about redesigning a whole new life.
 
 most life design work is directed at tuning up and improving the life you’re in, without having to make huge structural changes like changing jobs
 ***
-## Follow the joy to find your direction
+# Follow the joy to find your direction
 
 He just had to find a way to craft his job so that he was doing more of what he loved and less of what he hated.
 
@@ -476,7 +478,7 @@ Here’s another key element when you’re wayfinding in life: follow the joy; f
 
 Work is fun when you are actually leaning into your strengths and are deeply engaged and energized by what you’re doing.
 ***
-## Parts of a good time journal
+# Parts of a good time journal
 
 There are two elements to the Good Time Journal:
 - Activity Log (where I record where I’m engaged and energized)
@@ -486,7 +488,7 @@ The Activity Log simply lists your primary activities and how engaged and energ
 
 The second element of the Good Time Journal is reflection, looking over your Activity Log and noticing trends, insights, surprises—anything that is a clue to what does and doesn’t work for you.
 ***
-## How to accomplish a good time journal
+# How to accomplish a good time journal
 
 All of us are motivated by different kinds of work activities. Your job is to figure out which ones motivate you—with as much specificity as you can. It will take a while to get the hang of this, because, if you’re like most people, you’ve not been paying detailed attention to this sort of thing.
 
@@ -505,11 +507,11 @@ Write your weekly reflections on blank pages in your Good Time Journal.
 5. Zoom in and try to get even more specific about what does or does not engage and energize you.
 6. Use the AEIOU method as needed to help you in your reflections.
 ***
-## How to approach energy-negative tasks
+# How to approach energy-negative tasks
 
 give himself small rewards when he completes “energy-negative” tasks. The best way to deal with these energy-negative activities is to make sure that you are well rested and have the energy reserves needed to “do them right.” Otherwise, you might find yourself doing them again—costing you more energy than they should.
 ***
-## Look closer at your good time journal
+# Look closer at your good time journal
 
 After a week or two, when you’ve got a decent body of entries in your Good Time Journal and you’re starting to notice some interesting things, it’s time to zoom in and take the exercise to the next level. Typically, after you start to get the hang of paying more detailed attention to your days, you notice that some of your log entries could be more specific: you need to zoom in to see more clearly. The idea is to try to become as precise as possible; the clearer you are on what is and isn’t working for you, the better you can set your wayfinding direction.
 
@@ -531,7 +533,7 @@ Using AEIOU can really help you to zoom in effectively and discover specifically
 
 As you work on your reflections in the Good Time Journal, try using this AEIOU method to get more out of your observations. It is important to record whatever comes up and not to judge yourself—there are no right or wrong feelings about your experience. The thing to focus on is that this kind of information is going to be incredibly helpful in designing your life.
 ***
-## Mine your past for good times
+# Mine your past for good times
 
 Your past is waiting to be mined for insights, too—especially your mountaintop moments, or “peak experiences.” Peak experiences in our past—even our long-ago past—can be telling. Take some time to reflect on your memories of past peak work-related experiences and do a Good Time Journal Activity Log and reflection on them to see what you find. Those memories have stuck with you for good reason. You can make a list of those peak experiences, or write them out as a narrative or story.
 
@@ -539,7 +541,7 @@ Having the narrative of your peak experiences written down will make it easier t
 
 Using past experience is particularly useful if you aren’t currently in a situation that lends itself to a successful Good Time Journal exercise, such as if you’re between jobs. It’s also helpful if you’re just getting started on your professional life and don’t yet have much experience. If so, think about activities that you did in other areas of your life (perhaps even decades ago) when you felt that life was working. A historical Good Time Journal on past projects from school, summer programs, volunteer projects—anything that you were seriously engaged by—can be useful. When looking back, do beware of revisionist history—being too kind to the good days or too critical of the bad times. Just try to be honest.
 ***
-## You choose better when you have lots of good choices
+# You choose better when you have lots of good choices
 
 Designers know that when you choose from lots of options you choose better.
 
@@ -563,7 +565,7 @@ When you have lots of ideas, you can build prototypes of your life and test them
 
 The serial team—who started with just one idea—tended to keep refining the same idea over and over, never really innovating. The conclusion is that if your mind starts with multiple ideas in parallel, it is not prematurely committed to one path and stays more open and able to receive and conceive more novel innovations. Designers have known this all along—you don’t want to start with just one idea, or you’re likely to get stuck with it.
 ***
-## Never choose your first solution to any problem
+# Never choose your first solution to any problem
 
 Designers know that you never go with your first idea.
 
@@ -573,23 +575,23 @@ So many people get stuck chasing their first idea, or the perfect idea, or that 
 
 Our minds are generally lazy and like to get rid of problems as quickly as possible, so they surround first ideas with a lot of positive chemicals to make us “fall in love” with them. Do not fall in love with your first idea. This relationship almost never works out. Most often, our first solutions are pretty average and not very creative. Humans have a tendency to suggest the obvious first. Learning to use great ideation tools helps you overcome this bias toward the obvious and helps you regain a sense of creative confidence.
 ***
-## Avoid job listings when looking for a job
+# Avoid job listings when looking for a job
 
 Most people do the same thing Sharon did when they need work: they look at the job listings and look for a job that they think they can get. This is one of the worst ways to get a job, and actually has the lowest success rate.
 
 This way of thinking is not design thinking; it’s just grasping whatever might be in reach, and it’s unlikely to result in long-term satisfaction.
 ***
-## Each of us have more than one life in us
+# Each of us have more than one life in us
 
 There’s always got to be a better idea, a better way—even a best way. That kind of thinking is pretty dangerous to life design. The truth is that all of us have more than one life in us.
 
 And if you accept this idea—that there are multiple great designs for your life, though you’ll still only get to live one—it is rather liberating. There is no one idea for your life. There are many lives you could live happily and productively (no matter how many years old you are), and there are lots of different paths you could take to live each of those productive, amazingly different lives.
 ***
-## Avoid judgment to generate many ideas
+# Avoid judgment to generate many ideas
 
 Designers learn to have lots of wild ideas because they know that the number one enemy of creativity is judgment. Our brains are so tightly wired to be critical, find problems, and leap to judgment that it’s a wonder any ideas ever make it out! We have to defer judgment and silence the inner critic if we want to get all our ideas out.
 ***
-## How to mind map
+# How to mind map
 
 1. Pick a topic.
 2. Make the mind map.
@@ -603,7 +605,7 @@ It’s important to remember when you do this not to censor your words. That’s
 
 Also, you should create your mind map on a big piece of paper. You are looking for lots of ideas—so make your map as graphic and as big as possible.
 ***
-## Anchor problems
+# Anchor problems
 
 There’s a certain class of problems—the ones that just won’t go away—that we call anchor problems. Like a physical anchor, they hold us in one place and prevent motion.
 
@@ -613,13 +615,13 @@ Don’t make a doable problem into an anchor problem by wedding yourself irretri
 
 An anchor problem is a real problem, just a hard one. It’s actionable—but we’ve been stuck on it so long or so often that it seems insurmountable (which is why such a problem has to be reframed, then opened up with new ideas, then knocked down to size by prototyping).
 ***
-## Lessen fear and risk by using prototypes
+# Lessen fear and risk by using prototypes
 
 The way forward is to reduce the risk (and the fear) of failure by designing a series of small prototypes to test the waters. It is okay for prototypes to fail—they are supposed to—but well-designed prototypes teach you something about the future.
 
 Prototypes lower your anxiety, ask interesting questions, and get you data about the potential of the change that you are trying to accomplish. One of the principles of design thinking is that you want to “fail fast and fail forward,” into your next step. When you’re stuck with an anchor problem, try reframing the challenge as an exploration of possibilities (instead of trying to solve your huge problem in one miraculous leap), then decide to try a series of small, safe prototypes of the change you’d like to see happen. It should result in getting unstuck and finding a more creative approach to your problem.
 ***
-## Mind map your good time journal
+# Mind map your good time journal
 
 From your Good Time Journal, pick one of the areas of greatest interest to you, or an activity during which you were really engaged (e.g., balancing the budget or pitching a new idea), and make it the center of your map. Then generate a bunch of connected words and concepts, using the mind-mapping technique.
 
@@ -639,7 +641,7 @@ The whole point was to defer judgment and quiet your internal problem-finding cr
 
 The point of this exercise isn’t to generate a specific result; it’s to get your mind going all over the place and ideating without judgment. By taking the exercise all the way to imagining how to combine elements creatively into surprising roles or jobs, you’ve successfully moved out of problem solving (what do I do next?) into design thinking (what can I imagine?). Now you’re working with a designer’s mind-set, and you’ve got lots of important ideas down on paper in a creative format.
 ***
-## You will live many different lives
+# You will live many different lives
 
 This life you are living is one of many lives you will live.
 
@@ -649,7 +651,7 @@ in reality, life is more of an abstract painting—one that’s open to multiple
 
 There are multiple great lives (and plans) within me, and I get to choose which one to build my way forward to next.
 ***
-## Stop obsessing about your one best life
+# Stop obsessing about your one best life
 
 where people go wrong (regardless of their age, education, or career path) is thinking they just need to come up with a plan for their lives and it will be smooth sailing. If only they make the right choice (the best, true, only choice), they will have a blueprint for who they will be, what they will do, and how they will live.
 
@@ -657,7 +659,7 @@ He thought there was one best way to spend his life, and he had to know what it 
 
 After finally accepting that there were at least three great careers he could live into well, he discovered a fourth. That’s the sort of thing that happens when you stop trying to “get it right” and start designing your way forward.
 ***
-## Create odyssey plans
+# Create odyssey plans
 
 One of the most powerful ways to design your life is to design your lives.
 
@@ -727,11 +729,188 @@ If you really don’t want to or can’t find a group to share with, then video 
 Life design is about generating options, and this exercise of designing multiple lives will guide you in whatever’s next for you.
 
 Every possible version of you holds unknowns and compromises, each with its own identifiable and unintended consequences. You are not so much finding answers in this exercise as learning to embrace and explore the questions, and be curious about the possibilities.
-
 ***
-## Unsorted
+# Use odyssey plans to come up with conversation questions and prototypable experiences.
 
-Enjoyment is a guide to finding the right work for you.
+1. Review your three Odyssey Plans and the questions you wrote down for each.
+2. Make a list of prototype conversations that might help you answer these questions.
+3. Make a list of prototype experiences that might help you answer these questions.
+4. If you are stuck, and if you have gathered a good group, have a brainstorming session to come up with possibilities. (Don’t have a team? Try mind mapping.)
+5. Build your prototypes by actively seeking out Life Design Interviews and experiences.
+***
+# What is prototyping?
+
+Build prototypes to explore questions about my alternatives.
+
+when you are designing your life, you don’t have a lot of data available, especially reliable data about your future. You have to accept that this is the kind of messy problem in which traditional cause-and-effect thinking won’t work. Luckily, designers have come up with a way of sneaking up on the future through prototyping.
+
+Prototyping the life design way is all about asking good questions, outing our hidden biases and assumptions, iterating rapidly, and creating momentum for a path we’d like to try out.
+***
+# Benefits of prototyping
+
+Prototypes help you visualize alternatives in a very experiential way. That allows you to imagine your future as if you are already living it.
+
+Creating new experiences through prototyping will give you an opportunity to understand what a new career path might feel like, even if only for an hour or a day.
+
+prototyping helps you involve others early and helps build a community of folks who are interested in your journey and your life design.
+
+Prototypes are a great way to start a conversation, and, more often than not, one thing typically leads to another.
+
+Prototypes frequently turn into unexpected opportunities—they help serendipity happen.
+
+Finally, prototypes allow you to try and fail rapidly without overinvesting in a path before you have any data.
+***
+# How to design a good life design prototype
+
+Prototypes should be designed to ask a question and get some data about something that you’re interested in.
+
+Good prototypes isolate one aspect of a problem and design an experience that allows you to “try out” some version of a potentially interesting future.
+
+The best way to get started is to keep your first few prototypes very low-resolution and very simple.
+
+You want to isolate one variable and design a prototype to answer that one question.
+
+Use what you have available or can ask for, and be prepared to iterate quickly.
+
+a prototype is not a thought experiment; it must involve a physical experience in the world. The data to make good decisions are found in the real world, and prototyping is the best way to engage that world and get the data you need to move forward.
+
+Prototyping is also about building empathy and understanding. Our prototyping process inevitably requires collaboration, working with others. Everyone is on a journey, and your prototype encounters with others will reveal their life designs and give you ideas for your own life.
+
+we prototype to ask good questions, create experiences, reveal our assumptions, fail fast, fail forward, sneak up on the future, and build empathy for ourselves and others.
+***
+# Use interviews as initial life design prototypes.
+
+The simplest and easiest form of prototyping is a conversation.
+
+A Life Design Interview is incredibly simple. It just means getting someone’s story. Not just anyone and not just any story, of course. You want to talk to someone who is either doing and living what you’re contemplating, or has real experience and expertise in an area about which you have questions.
+
+All you’re doing here is identifying people who are currently doing things that you’re interested in and whose stories you want to get. This is way easier than you think.
+***
+# What to ask about in a life design interview
+
+And the story you’re after is the personal story of:
+- how that person got to be doing that thing he or she does, or got the expertise he has and
+- what it’s really like to do what she does.
+
+You want to hear what the person who does what you might someday want to do loves and hates about his job.
+
+You want to know what her days look like, and then you want to see if you can imagine yourself doing that job—and loving it—for months and years on end.
+
+In addition to asking people about their work and life, you will also be able to find out how they got there—their career path.
+
+Most people fail not for lack of talent but for lack of imagination. You can get a lot of this information by sitting down with someone and getting his or her story.
+***
+# Keep the life design interview about the person and not you.
+
+If you find yourself in the middle of a Life Design Interview and you’re answering questions or talking about yourself rather than getting the story of the person you’re with, stop and flip it around. This is critical. If the person you’re in conversation with misperceives that your meeting is a job interview, then it’s a disaster, and your Life Design Interview has failed or will fail. It’s all about mind-sets.
+
+The mind-set of a job interview is critique and judgment, and that is not the mind-set we’re looking for if we are after an interesting story and a personal connection.
+
+a Life Design Interview isn’t an “interview” at all—it’s really just a conversation. So, when trying to get a meeting with someone, you don’t use the term “interview,” because that person will assume you mean a job interview
+***
+# Prototype experiences.
+
+You want actually to experience what “it” is really like—by watching others do it or, better yet, doing some form of it yourself.
+
+Prototype experiences allow us to learn through a direct encounter with a possible future version of us.
+***
+# Examples of prototype experiences
+
+This experiential version could involve spending a day shadowing a professional you’d like to be (Take a Friend to Work Day), or a one-week unpaid exploratory project that you create, or a three-month internship (obviously, a three-month internship requires more investment and a larger commitment).
+***
+# How to ask your network for observing or shadowing experiences
+
+If you’ve conducted a good number of prototype conversations using Life Design Interviewing, then you will have met people along the way who you may be interested in observing or shadowing. So that variety of prototype should be pretty accessible for you. You just have to ask—and remember, people enjoy being helpful.
+
+Asking to shadow someone at work is a much bigger favor than a thirty-minute cup of coffee, but after a dozen or so prototype conversations, you’ll be ready to make a bigger request. Try it—even if you have to try a few times. You’ll learn a great deal.
+
+Coming up with hands-on prototype experiences, in which you actually get to do stuff and not just hear about stuff or watch stuff, is an even bigger challenge. But it’s well worth the effort to get your hands dirty and really discover how something fits you.
+***
+# What is brainstorming
+
+generating a large quantity of ideas without concern for quality, and deferring judgment so that participants would not censor ideas.
+***
+# Group brainstorming
+
+The most common form is group brainstorming. A group of individuals, typically four to six, get together, select a focal question or problem on which to brainstorm, and then spend a period of twenty minutes to an hour generating as many ideas as possible to solve the problem posed in the focal question. The goal is to come up with ideas that can be prototyped and tried in the real world.
+***
+# Requirements for good brainstormers
+
+Brainstorming requires a group of people who want to be helpful and who have some practice with the technique. It isn’t easy to find good brainstormers, but once you have a good group, you can make a lot of progress generating life design ideas that you want to prototype.
+
+good brainstormers learn to focus on a topic, but they can also let go, be in-the-moment, and improvise, coming up with ideas that are truly original. It takes practice and attention, but once you master life design brainstorming, you’ll never run out of ideas again.
+***
+# How to do life design brainstorming
+
+Take a closer look at whatever version of your Odyssey Plans was coherent, likable, and exciting, and that you’re somewhat confident you could do. What are your questions? What would you like to understand better by prototyping the experience?
+
+This is the challenge we’re going to address by brainstorming some prototypable ideas.
+
+Life design brainstorming has four steps, and a very structured approach to coming up with lots of prototypable ideas. Typically, if you are the facilitator who brings the group together, you might have already framed the brainstorming topic. You want a team of no fewer than three and rarely more than six people who have all volunteered to help.
+
+## 1. Frame a good question.
+
+The facilitator uses the process of coming up with the question as a way to create a focus for the group’s energy. When coming up with the question, the facilitator needs to be aware of some guidelines.
+
+If the question isn’t open-ended, you won’t get very interesting results and not much volume. We tend to start all of our life design brainstorms with the phrase “How many ways can we think of to…” to make sure that we haven’t limited our potential output.
+
+You also want to be careful not to include your solution accidentally in your question.
+
+Also, be careful that you don’t frame a question so broadly that it is meaningless.
+
+Without some constraints, these types of brainstorming sessions tend to generate ideas that are neither prototypable nor satisfying.
+
+Most of the time when people tell us “our brainstorm didn’t work,” we find out that they framed a poor question—either one that already assumed a solution or one that was so vague they couldn’t get any traction for generating ideas.
+
+## 2. Warming Up
+
+A good facilitator takes the lead and makes sure everyone is warmed up and feeling creative. This is essential if the brainstorm is going to be high-energy and generate a lot of ideas.
+
+give everyone in your brainstorming group a can of Play-Doh.
+
+If you just let your brainstormers play with the Play-Doh while they are brainstorming, we guarantee you will get more and better ideas.
+
+## 3. The Brainstorm Itself
+
+The facilitator sets up the room and makes sure there are pens and sticky notes or paper for every participant, and that the space is quiet and comfortable. The facilitator also helps frame the question, manages the warm-up, makes sure everything that is said is recorded, and manages the rules.
+
+We recommend that all participants have their own pens and notepads and write down their ideas. That way, the group isn’t constrained by how fast the facilitator can record ideas, and there is less chance of losing a potentially great idea.
+
+### The Rules of Brainstorming
+
+1. Go for quantity, not quality.
+2. Defer judgment and do not censor ideas.
+3. Build off the ideas of others.
+4. Encourage wild ideas.
+
+The “Go for quantity, not quality” rule helps set a common goal for the group, and it encourages a lot of positive energy. A good brainstorming team is bubbling with ideas, and there is rarely a pause in the output.
+
+We use the “Defer judgment and do not censor ideas” rule to make sure that the brainstorming session is a safe place to have any crazy idea that comes to mind. People fear being judged as silly, and fear shuts down creativity. This rule helps make sure that doesn’t happen.
+
+We “Encourage wild ideas” not because the wild ideas themselves are useful (they are rarely used in the final sort), but because we need to break out of the box of typical thinking. When you go far out of the box and spend some time in Crazy Land, the ideas that follow tend to be more innovative and original. Wild ideas often contain the seeds of the most useful things to prototype.
+
+## 4. Naming and Framing the Outcomes
+
+Ideas should be counted—you want to be able to say, “We had 141 ideas.” Group similar ideas together by subject or category, name those categories, and frame the results with reference to the original focal question. Every unique category is given a descriptive and often funny name that captures the essence of that group of ideas. Then vote. Voting is important, and should be done silently, so that people aren’t influencing one another. We like to use colored dots to cast votes, and we also like to use categories such as:
+- Most exciting
+- The one we wish we could do if money were no object
+- The dark horse—probably won’t work, but if it did…
+- Most likely to lead to a great life
+- If we could ignore the laws of physics…
+
+Once the voting is complete, the selections are discussed, and potentially regrouped and framed again; then decisions are made on what to prototype first.
+
+At the end of our four-step process, the goal is to say something like “We had 141 ideas, we grouped those into six categories, and, based on our focal question, we selected eight killer ideas to prototype; then we prioritized the list, and our first prototype is…” Often it is possible to back off from one of the wild ideas just a little and turn it into a great idea.
+
+A great way to do this would be to combine your Odyssey Plan presentation gathering with a prototype experience brainstorm session. Your collaborators will have a much better time if they are able not only to give you feedback but also to contribute directly to your life design with ideas and actionable prototype possibilities.
+***
+# Benefits of collaborative life design brainstorming
+
+The brainstorm will generate energy and momentum toward your goal of coming up with some prototype experiences to explore. It will also be an exercise you can turn to whenever you need some new ideas, some community support, or just a little more fun in your life with people you trust.
+***
+# Unsorted
+
+
 
 # References
 

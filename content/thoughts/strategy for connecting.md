@@ -8,7 +8,7 @@ sr-due: 2024-01-06
 sr-interval: 2
 sr-ease: 249
 ---
-I reach out to my scenius every day as part of [[thoughts/my daily routine]]. I do this in the afternoon after [[thoughts/my morning writing practice]] in the morning. At the start, I should do audience research according to the advice of [[Dan Blank]]. Once I start being connected with ideal followers in social media, I could start sharing my processes on social media.
+I reach out to my scenius every day as part of [[thoughts/my daily routine]]. I do this in the afternoon after [[thoughts/my morning writing practice]] in the morning. At the start, I should do audience research according to the advice of [[thoughts/dan blank]]. Once I start being connected with ideal followers in social media, I could start sharing my processes on social media.
 
 ---
 

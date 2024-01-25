@@ -8,7 +8,7 @@ sr-due: Invalid date
 sr-interval: NaN
 sr-ease: NaN
 ---
-As a creative, I adhere to the admonition to [[Hone your craft and engage your audience]]. However, as an [[Introvert]], engaging an audience does not come natural to me. Because of this, below are my ideas on how I can approach the task of [[thoughts/connecting]] in a way that feels less frightening. This augments my [[thoughts/strategy for connecting]].
+As a creative, I adhere to the admonition to [[thoughts/hone your craft and engage your audience]]. However, as an [[Introvert]], engaging an audience does not come natural to me. Because of this, below are my ideas on how I can approach the task of [[thoughts/connecting]] in a way that feels less frightening. This augments my [[thoughts/strategy for connecting]].
 
 Steps:
 

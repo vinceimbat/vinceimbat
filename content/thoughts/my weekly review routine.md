@@ -34,8 +34,7 @@ Schedule: Monday, afternoon
 - Review all tasks under Anytime and see any tasks with no priority tag and tag them.
 - Review High priority tasks: Check accomplished tasks, schedule tasks, or convert tasks to Medium priority.
 - Review Medium priority tasks: Check if any can be converted to High priority tasks and schedule them.
-- Look at all High priority tasks and choose Today tasks.
-   - Note: This task is done daily rather than weekly.
+- Create a [[menu]] of actions for the week.
 - Reconcile YNAB couple fund.
 - Reconcile Vince's fund.
 

@@ -1,12 +1,12 @@
 ---
-title: "Life design assessment"
-date: "2022-11-21"
+title: Life design assessment
+date: 2022-11-21
+aliases:
+  - life design assessment
 tags:
-
-- "seedlings"
+  - seedlings
 ---
-
-## 2022-11-18
+# 2022-11-18
 
 Health: 2/4
 Work: 2/4
@@ -34,6 +34,6 @@ Love: 2/4
 1. How can I incorporate play into my work?
 2. How can I incorporate play in my life in general?
 
-Love
+### Love
 
-1. How can I build a community that will suppor my work and values?
+1. How can I build a community that will support my work and values?
