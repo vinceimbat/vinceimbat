@@ -23,35 +23,37 @@ To be free, we need to practice Gianni Vattimo's "weak thought."
 We change a religion and make it freer not through a destructive revolutionary moment (*überwindung*) but through weak, subtle, and creative ways that reinterpret and transform it (*verwindung*).
 - “Nothing in the world is soft and weak as water. But when attacking the hard and strong, nothing can conquer so easily. Weak overcomes strong, soft overcomes hard” (Tao Te Ching, 78)
 
+*Verwindung* involves a slow but conscious reform and reinterpretation of the languages and practices of one's religion to claim one's freedom to change.
+
+Religion has remained strong and potent despite the Enlightenment and globalization. To change direct it toward a liberal and progressive direction, we have to access and understand its strength and potency.
+- ==For me to direct my spirituality toward a new one, I need to understand why it has remained in me despite all those years and challenges. I need to have a continuous access and understanding of this strength and potency it has.
+
+==I think the big question for me while thinking about this is what is it that I am changing, directing. I have left the JWs and don't practice anything they teach. I couldn't change what I don't practice. What is it then that I am changing and directing? The answer that is on top of my mind is that instead of changing and adult spirituality, what I'm actually doing is like trying to figure out how to nurture something that is so personal, which is what has remained after everything was shed.
+- To do: Look for a good metaphor for this.
+- An attempt for a metaphor: I cultivated this tree through the help of my parents. It blossomed. But then it went through a cold winter where it almost died. There are signs that it could still be revived. (?? Doesn't capture it well. Misses something)
+- ==Another alternative answer to this is that by leaving the JWs yet still desiring a religious existence, I am aligning myself to liberal religion which has a rich history of its own, which I can then be acquainted with and join in changing. However, this is project of its own. Before I could get into it, I might perhaps seek reincorporation first with my past religion.
+
+To transform a religion and escape from its damaging components, we have to make the past present by conversing with it through *verwindung*.
+- ==Did I inherit anything from my past religion, perhaps unconsciously, which I could change? I think I may have (as alluded by the panelists in ANWW20).
+- “Overcoming is worthy only when we think about incorporation.” (Heidegger)
+	- ==I think I thought I have overcome it, but not yet. Because I haven't incorporated anything yet. Incorporation is what I have been seeking since that San Pablo walk. This is proven by questions like, "What is it from my past religion that I can incorporate in my new life?"
+	- ==Perhaps this desire for reincorporation is also manifesting as this desire to try to reconnect with others from the past in a way that we can coexist despite our differences.
+
+Religion is "always unfinished and radically open." It can be reinterpreted and even overcome through the gentle process of verwindung and weak thought so that it could give us new value as it continues to retain some of its old.
+
+For religion to continue to provide us value, it is necessary for it to be reinterpreted. We have to guard its present state by helping it transform and evolve so that it can continue to uncover its value from its past.
+- “the meaning of past events lies ultimately in the guardianship of the present” (Terry Eagleton)
+
+To be guardians of a religious tradition, we have to commit ourselves in a patient process involving a community of people who are also committed in a disciplined educational practice.
+
+Resist the idea of building a religion of the future and instead work on what we currently have (a tradition with a rich history) and transform it.
+
+Andrew's prescription is to
+- Aspire to be a "free spirit" (c/o Nietzsche).
+- Aspire to be an "archeologist of morning" (c/o Olson).
+- Aspire to be a man without a position (c/o Wienpahl).
+
 ***
-I
-
-I continue to be an advocate of remaining clear that we are a community that is slowly but consciously emerging from, and seeking to reform and reinterpret the language and practices of the [liberal Christian](https://www.google.com/search?client=safari&rls=en&q=liberal+Christian&ie=UTF-8&oe=UTF-8) and [Radical Enlightenment](https://blogs.princeton.edu/librarian/2014/01/radical-enlightenment-in-brief/) tradition, and to do it in ways which help us continue to claim the freedom to be tomorrow what we are not today.
-
-religion as both debate and way of life has not crumbled in the face of an apparently inexorable rationalist, scientific, modernising Enlightenment and globalisation of the market economy” and, contrary to most liberal expectations, religion has “retain[ed] a potency and strength which remains far in excess of its ability to explain” ([Thompson's introduction to Ernst Bloch’s “Atheism in Christianity”, Verso Press 2009, p. ix](https://www.versobooks.com/books/378-atheism-in-christianity)). Surely, we need to have continued access to — or at least a living understanding of — this potency and strength if we are going to have a genuine chance of helping to direct religion in liberal and progressive directions
-
-if we can find ways to keep the past _present_ and consciously to engage with it in a dialectical conversational way through a process of _“verwindung”_, carried out with the patience of water upon stone then, in time, we stand a real chance of truly escaping many of our old and, to my mind, highly damaging religious thoughts and practices and so able to move into a genuinely new liberal and progressive religious way of being in the world.
-
-_“The philosophers have only described the world in various ways; the moment now has arrived to interpret it”_ ([Gianni Vattimo and Santiago Zabala: in “Hermeneutic Communism — From Heidegger to Marx”, Columbia University Press, New York 2011, p. 5](http://cup.columbia.edu/book/hermeneutic-communism/9780231158039)).
-
-most of us know only too well that our inherited religious traditions and their strong objective structures (such as, for example, the idea of a supernatural, supreme being or the various institutions of an organised, hierarchical church) desperately need to be overcome. Despite this, however, Vattimo is, as am I, in agreement with Heidegger when he said, “Overcoming is worthy only when we think about incorporation” ([Martin Heidegger: “Overcoming Metaphysics” in the “End of Philosophy”, trans J. Stambaugh, Harpur and Row, New York 1973, p. 91](https://www.google.co.uk/books/edition/The_End_of_Philosophy/g6zu4kkQ9kYC?hl=en)).
-
-the religion we have in the here and now on our own bend of the river (whatever and wherever it is) need never be allowed to be taken simply, “as it is” but can always be taken, as [Walter Benjamin (1892-1940)](https://en.wikipedia.org/wiki/Walter_Benjamin) noted, as being “fluid, labile and suspended” (quoted in Terry Eagleton: “Hope without Optimism”, Yale UP, New Haven 2015, p. 32).
-
-we need to begin to see that our inherited religion is something always capable of being radically, yet gently, reinterpreted and surpassed so that it can continue to gift us things intensely valuable and meaningful, things both new and old.
-
-“every scribe who has been trained for the kingdom of heaven is like the head of a household who brings out of their treasury what is new and what is old” (Matthew 13:52).
-
-I want to suggest that, by a process of _verwindung_ and using weak thought, there can always be found in our past traditions still undischarged futures which can be released. This is because our past traditions are not what we usually think they are, i.e completely done and dusted, instead, they’re always unfinished and radically open. This, in turn, means, as Eagleton notes, we need to become aware that “the meaning of past events lies ultimately in the guardianship of the present” (Terry Eagleton: “Hope without Optimism”, Yale UP, New Haven 2015, p. 32).
-
-how we might become ourselves modern equivalents of scribes of the kingdom of heaven? That is to say, people who are truly able to affect the guardianship of the present and, through the use of weak thought and _verwindung,_ are truly able to claim the freedom to be tomorrow what we are not today.
-
-scribes are made not born. They are only slowly formed in community through a long, self-conscious, disciplined educational practice
-
-one of the most pressing things required of contemporary liberal religion in the here and now is not to be seduced into trying to make some putative religion of the future right at this moment of time but of making and shaping contemporary liberal religious subjects who, like Jesus, are highly skilled at being able to bring out of their treasury what is new and what is old. They will be the ones who are then able to build a liberal religion genuinely suitable for the future.
-
-I have consistently tried to encourage people to become the kind of “Free Spirits” promoted by [Friedrich Nietzsche (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) and to combine this with becoming what the twentieth-century poet [Charles Olson (1910-1970)](https://en.wikipedia.org/wiki/Charles_Olson) called “Archeologists of Morning.” Additionally, I have long believed, that this can help people become what the philosopher [Paul Wienpahl (1916-1980)](http://texts.cdlib.org/view?docId=hb1j49n6pv&doc.view=frames&chunk.id=div00110&toc.depth=1&toc.id=) called men and women without a position, i.e. people truly free to live creatively and compassionately in the ever-moving, [intra-active](https://www.youtube.com/watch?v=v0SnstJoEec) world in which all of us live, move, and have our being.
-
 II
 
 "Free Spirit"

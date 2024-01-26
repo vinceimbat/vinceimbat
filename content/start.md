@@ -4,16 +4,11 @@ date: "2021-02-11"
 tags:
 - "evergreens"
 ---
-
-# Hi, my name is Vince.
-
-I'm an essayist, poet, and photographer.
-
-Welcome to my little home in the web. This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints—both in the [[thoughts/mental wilderness]] and the [[thoughts/geographical wilderness]]. I use the word "footprints" here as inspired by a quote from [[Herbert Fingarette]]:
+This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[Herbert Fingarette]]:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 
-While I recognize my tendency to be allured to blueprints I do my best to resist them and maintain an openness to knowledge and the larger world where knowledge arise. This commitment necessitates that I give myself the permission to change my beliefs as [[thoughts/the long walk]] unravels.
+While I recognize my tendency to be allured to blueprints I do my best to resist them and maintain an openness to knowledge and the larger world where knowledge arise. This commitment necessitates that I give myself the permission to change my beliefs as [[thoughts/the long walk|the long walk]] unravels.
 
 As common among digital gardeners, I use botanical language in organizing my work. [[thoughts/my forest garden of the mind|My forest garden of the mind]] is what I refer to the this collection of writings. This is what I walk and tend to every day.
 
@@ -27,7 +22,7 @@ The forest garden is made up of different "species" of thought:
 
 These species will grow in number as I see fit.
 
-Species are further classified depending on level of development: [[thoughts/seeds]], [[thoughts/seedlings]], and [[thoughts/evergreens]].
+Species are further classified depending on level of development: [[thoughts/seeds|seeds]], [[thoughts/seedlings|seedlings]], and [[thoughts/evergreens|evergreens]].
 
 [Seeds](tags/seeds) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[thoughts/henry david thoreau|Henry David Thoreau]] and [[thoughts/henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
 
@@ -52,10 +47,8 @@ You can start exploring the digital garden by clicking on the following points o
 - [[thoughts/walking|Walking]]
 - [[newsletter|Newsletters]]
 - [[thoughts/poetry|Poetry]]
-- [[thoughts/photography]]
+- [[thoughts/photography|Photography]]
 
-I also send a weekly newsletter called **ᜇ The Long Walk**. It is a newsletter about philosophical and contemplative living through walking and writing. Every Sunday, I ask myself whether there is something worth sharing in the forest garden. Whether it is a poem, vignette, insight, or essay, I send one. If there isn't anything worth sharing, I don't force it.
-
-It's free and you can unsubscribe any time. Join by leaving your email below.
+I also send a weekly newsletter called [**The Long Walk**](https://vinceimbat.substack.com/). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
 
 <iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

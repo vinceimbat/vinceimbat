@@ -47,7 +47,7 @@ My life management system is built on careful thinking based on reality.
 
 I am effectively and efficiently collecting intermediate packets (IPs) in a multi-device note-taking app using a system that allows for easy capture and retrieval. I maintain a daily note-writing practice to cultivate this system of interconnected notes of different varieties.
 
-# Understanding - Worldview
+# Understanding - Religion
 
 I have articulated a life philosophy that explains how I see the world ([[thoughts/epistemology|epistemology]], [[thoughts/metaphysics|metaphysics]]), how I act ([[thoughts/ethics|ethics]]), and how I create ([[thoughts/poetics|poetics]]).
 

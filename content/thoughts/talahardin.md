@@ -8,64 +8,23 @@ sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 255
 ---
-NEW OUTLINE
+![Banner](files/banner.jpg)
+<h2>I was thrown here—alone and oblivious. The landscape is gray, cold, and frightening. I stared at the horizon and immediately understood—I knew nothing of this terrain.</h2>
 
-OLD OUTLINE
+I wanted to leave, but instead, I did what I knew I had to do. I set forth for [[thoughts/the long walk|a long walk]] into [[thoughts/wilderness|the Wilderness]].
 
-# Principles
+As I walk, I cover two planes simultaneously—a finite [[thoughts/geographical wilderness]] and a vast and never-ending [[thoughts/mental wilderness]]. [[thoughts/walking|Walking]] in geographic space expands the mind. Walking the mind deepens the meaning of geographic space.
 
-- Externalize your thinking.
-   - [[Writing is the best facilitator for thinking]]
-- Make your workflow motivating and sustainable.
-   - [[Establish a workflow that is motivating]]
-   - [[Combine curiosity with a note-writing system and practice]]
-   - [[A flexible working scheme prevents losing interest]]
-- Take notes about what you read.
-   - [[Write permanent notes about what you read to test understanding]]
-- Remember note taxonomy.
-   - [[Confusion over types of notes result to less productivity]]
-- Aspire for quality over quantity.
-   - [[Notes should not be added indiscriminately to the Talakahon]]
-   - [[Avoid collecting information]]
-- [[Work on multiple projects at the same time]]
-- Use a standardized workflow.
-   - [[A standardized workflow facilitates ease]]
+In this excursion, which ends only in death, I gather [seeds](tags/seeds) of thoughts, verses, images, and experiences. I pocket these seeds until I find the right soil to plant them, here in a third space—cyberspace.
 
-# Benefits of Zettelkasten
+I revisit what were planted rhythmically to tend to them, re-walking once verdant valleys and creating trails through my footsteps—trails that connect what later become [seedlings](tags/seedlings). I am bound to re-walk these trails and re-walk them again, until what were planted have grown into [evergreens](tags/evergreens).
 
-- [[Talahardin improves your thinking and vice versa]]
-- [[Working on smaller tasks develops intuition]]
-- [[Working on smaller tasks creates a sense of control]]
-- [[Numerous feedback loops produce expertise and intuition]]
+One day, I will be surrounded by [[thoughts/my forest garden of the mind|a forest garden of the mind]], and everything will finally make sense.
 
-# Guides
+I walk only to find answers to one question: [[thoughts/how to live|how to live?]]
 
-Collecting [[Fleeting notes]] and writing [[literature notes]]
+I write these words and share them here if only I can make this thrown existence more meaningful.
 
-- [[Only consume information that is relevant to your purpose]]
-- [[how to write literature notes]]
+Would you like to walk with me?
 
-Writing [[thoughts/evergreens]]
-
-- [[how to convert literature notes to permanent notes]]
-
-Retrieving notes
-
-- [[How to use an index effectively in Talahardin]]
-
-Writing using permanent notes
-
-- [[A writing practice and a note-writing system makes publishing easier]]
-- [[Write using permanent notes]]
-
-# Tools
-
-- [[Four minimum tools for a note-writing system]]
-- [[Tools should be embedded in a system to be effective]]
-- [[Use a reading inbox to capture useful reading materials]]
-   - [[My reading inbox]]
-
-# Workflows
-
-- [[thoughts/my morning writing practice]]
-
+[[start|Let's begin here]].
