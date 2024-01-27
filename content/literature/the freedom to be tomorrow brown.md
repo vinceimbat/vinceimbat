@@ -53,39 +53,35 @@ Andrew's prescription is to
 - Aspire to be an "archeologist of morning" (c/o Olson).
 - Aspire to be a man without a position (c/o Wienpahl).
 
+Nietzsche's four-phased therapeutic journey to become a free spirit
+- Phase 1 "Hearth Health"
+	- Our old inherited supernatural religious and metaphysical traditions could ground and secure us but eventually we outgrow them and start to feel restrained by them especially if they aren't changing with us.
+- Phase 2 "Sickness of Nihilism"
+	- What leads us here is recognizing the loss of our "hearth health."
+	- When here we experience "the hateful assault on everything that had seemed so comforting."
+	- We experience profound meaninglessness.
+	- We shouldn't fear it, though, because it loosens the chain of the hearth health and leads us to the next phase.
+- Phase 3 "Transformative Convalescence"
+	- This phase has two phases: cool and warm.
+	- Cool: Characterized by detachment, seeing the world in a scholarly fashion from above.
+	- Warm: This phase begins when we recognize we need to go down and return to "where the sun warms."
+		- Returning to where the sun warms is not a return to the hearth health. You can't forget your experience of nihilism and the cool phase of convalescence. You have changed and are still changing.
+		- Moments of return are first short-lived. The coolness and the sickness of nihilism will return from time to time.
+		- Then moments of warmth begin to get longer.
+		- What does a good day in warmth convalescence look like? You see and give meaning to the natural world as it is.
+			- are able to live "as neighbour to precisely the things that the metaphysical tradition only found valuable as indicators of another metaphysical world" (Gordon Bearn: "Waking to Wonder", SUNY Press, New York 1997, p. 32)
+			- see everything in the world as loaded with meaning
+				- "there is nowhere else for a human being to live except in meaning" (Thomas Sheehan)
+			- you realize you don't need a supernatural world to give meaning to your life; all you need is to see this world in a different way (i.e., to be close to them)
+- Phase 4 "Great Health"
+	- A person could now live in completely and fully in these moments for life.
+	- "This spirit freed from the tradition that seeks metaphysical comforts is surprised by a new happiness and a new love for all that is delicate. The great health is a life attuned to what is near."
+	- "To the poet, to the philosopher, to the saint, all things are friendly and sacred, all events profitable, all days holy, all men [sic] divine" (Emerson)
+- Source: Chapter 1 of "Waking to Wonder" by Gordon Bearn
+
+The more we see ourselves as free spirits the more we can become archaeologists of morning.
+
 ***
-II
-
-"Free Spirit"
-
-a therapeutic journey that unfolded in four phases.
-
-"Waking to Wonder" by Gordon Bearn
-
-the therapeutic journey started with "the [hearth](https://en.wikipedia.org/wiki/Hearth) health" of our old inherited, supernatural religious and metaphysical traditions
-
-These inherited traditions, even though they once grounded and secured for us the things we thought were of the highest value, today often "fetter us the fastest", keeping us bound to old ways and beliefs which are simply no longer working for us
-
-it is the recognition of the loss of our "hearth health" -- whenever and however it comes -- that brings on the second phase of the therapeutic journey, one in which we enter a time of profound sickness, the dreadful sickness of nihilism in which there is "the hateful assault on everything that had seemed so comforting." It's a time when nothing counts any longer, when everything seems utterly meaningless and there is left only anomie and emptiness.
-
-because going through this sickness helps begin to loosen the fetters that once bound us, it is not a sickness to be feared because it plays an important role in helping us enter into the third phase of the therapeutic journey, namely, a period of freeing and transformative convalescence which itself has two phases--one cool, one warm.
-
-The cool phase of convalescence is one of detachment in which we find we are once again able to look upon the world and all the things it contains, no longer nihilistically, but in a detached, scholarly fashion
-
-The warm phase of convalescence is begun when we recognise that if our convalescence is truly to continue then we must find ways to return from the chilly heights and somehow come back to earth "where the sun warms."
-
-But, you might object, is not this warmth, this bloom and magic of things close and closest to us, merely an indication of a return by another route to the old hearth heath? Not at all, because you cannot ever fully forget the experience of the transformative sickness of nihilism; neither can you fully forget the chilly, detached perspective of the world seen during the first period of your convalescence. You are by now a significantly changed and still changing creature.
-
-Naturally, these moments of warmth are, at first, short-lived and your mood of chilly but tender contempt will, from time to time, most assuredly return. It is also the case that, like malaria or lyme disease, the hateful sickness of nihilism may also return now and then, perhaps laying you low for weeks, if not for months, on end. Yet, for all that, you begin to notice that the occasional moments of warm sunlight come and stay more frequently than they used to.
-
-On your best days, as Bearn observes, you are now able to live "as neighbour to precisely the things that the metaphysical tradition only found valuable as indicators of another metaphysical world" (Gordon Bearn: "Waking to Wonder", SUNY Press, New York 1997, p. 32) and you begin to see, as Heidegger saw, that "When we live in the firsthand world around us, everything comes at us loaded with meaning, all over the place and all the time. Everything is within the world [of meaningfulness]: the world holds forth" ([cited in "What, after all, was Heidegger about?", Thomas Sheehan, 2014 p. 8](https://blogs.helsinki.fi/nosp-2014/files/2014/04/2014-WHAT-AFTER-ALL-WAS-HEIDEGGER-ABOUT-HELSINKI.pdf)). This, in turn, reveals to us a startling and hopeful truth beautifully summed up by Thomas Sheehan, that "there is nowhere else for a human being to live except in meaning" (ibid. p. 8).
-
-In this warm convalescent phase, a person begins ever more fully to understand that we don't need another supernatural, metaphysical world to underwrite and give meaning to our life in this world; all that is required is that we see **_this_** world differently and have the courage to remain with the close and closest things, things that, astonishingly, are now acquiring for us such bloom and magic.
-
-For Nietzsche, all this gives us the hope of eventually entering into the "great health" which is the fourth and final phase of the therapeutic journey, one in which a person is able, at least ideally, to live completely and fully in these moments of natural warmth throughout the remainder of their life. As Bearn says, "This spirit freed from the tradition that seeks metaphysical comforts is surprised by a new happiness and a new love for all that is delicate. The great health is a life attuned to what is near." And, as Ralph Waldo Emerson put it, and which Nietzsche quoted on the title page of the first edition of ["The Gay Science"](https://en.wikipedia.org/wiki/The_Gay_Science): "To the poet, to the philosopher, to the saint, all things are friendly and sacred, all events profitable, all days holy, all men [sic] divine" ([Emerson: "History"](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/history.html)).
-
-My own hope has long been that the more and more we come to understand ourselves as pilgrim, convalescent Free Spirits, the better able we are to become what the twentieth-century poet [Charles Olson (1910-1970)](https://en.wikipedia.org/wiki/Charles_Olson) called "Archaeologists of Morning"
-
 III
 
 1952 called "Present is Prologue" ([in "Collected Prose" eds. Donald Allen and Benjamin Friedlander, University of California Press, Berkley 1997, p. 205-207](https://www.ucpress.edu/book/9780520208735/collected-prose)) the poet [Charles Olson (1910-1970)](https://en.wikipedia.org/wiki/Charles_Olson)

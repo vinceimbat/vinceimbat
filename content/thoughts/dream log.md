@@ -66,3 +66,5 @@ We went inside the bedroom under the mosquito net. Saw her lie down like Kako.
 [[2023-11-11]]: Claire exhumes Rem. But Rem has bones left. Not dust.
 
 [[2023-11-16]]: Days of storm. Then some signs of fair weather. But then out of nowhere, tornadoes: three of them. I saw from a window. I heard someone shout, "Aman Jehovah!"
+
+[[2024-01-27]]: I was given a role to fix the menu for a wedding of a JW friend as well as perhaps host the wedding.

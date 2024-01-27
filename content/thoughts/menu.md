@@ -17,10 +17,12 @@ Reading
 Talahardin
 - Return to [[literature/the freedom to be tomorrow brown|The freedom to be tomorrow]] highlights and process them.
 	- ~~Process Part I highlights.
-	- Process Part II highlights.
+	- ~~Process Part II highlights.
+	- Process Part III highlights.
 	- Process Part IV highlights.
 	- Think how to apply the framework in Part II in your conversion history.
 	- Think about how to adopt Part III and IV into the spirituality you are nurturing.
+- Review how to process reading highlights
 
 Writing
 - Personal conversion history using the Nietzsche framework.
