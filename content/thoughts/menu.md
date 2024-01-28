@@ -11,10 +11,10 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 
 # 2024-01-22 to 28
 
-Reading
-- Waking to Wonder - Bearn (Chapter 1)
+## Reading
+- ~~Waking to Wonder - Bearn (Chapter 1)
 
-Talahardin
+## Talahardin
 - Return to [[literature/the freedom to be tomorrow brown|The freedom to be tomorrow]] highlights and process them.
 	- ~~Process Part I highlights.
 	- ~~Process Part II highlights.
@@ -24,10 +24,14 @@ Talahardin
 	- Think about how to adopt Part III and IV into the spirituality you are nurturing.
 - Review how to process reading highlights
 
-Writing
+## Writing
 - Personal conversion history using the Nietzsche framework.
+- Write about reincorporating prayer.
 
-Soup du jour
+## Free Religion
+- Explore how to reincorporate prayer.
+
+## Soup du jour
 - Gianni Vattimo's "weak thought"
 - Reconciling rationalism with postmodernism
 - Hermeneutic Communism (Vattimo and Zabala) - Marxist thought is useful when thinking about overcoming something that is big.
