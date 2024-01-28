@@ -3,6 +3,7 @@ title: Tall Tales Day 03 — What I've Learned From These Walks So Far
 date: 2024-01-17
 tags:
   - evergreens
+  - tall-tales-1
 draft: false
 ---
 Walking on the inclining driveway, I saw that the cafe's windows above the parking lot were open. There seemed to be no customers, and I even thought they were close had I not heard an almost silent jazz tune playing on a small speaker as I climbed the stairs that led me to the door.

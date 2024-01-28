@@ -1,12 +1,10 @@
 ---
-title: "Friedrich Nietzsche"
-date: "2021-12-15"
+title: Friedrich Nietzsche
+date: 2021-12-15
 aliases:
-- "Friedrich-Nietzsche"
-- "thoughts/friedrich-nietzsche"
+  - Friedrich Nietzsche
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2024-07-23
 sr-interval: 362
 sr-ease: 250

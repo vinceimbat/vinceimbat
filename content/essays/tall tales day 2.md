@@ -3,6 +3,7 @@ title: Tall Tales Day 02 — Families
 date: 2024-01-16
 tags:
   - evergreens
+  - tall-tales-1
 draft: false
 ---
 ![Houses over a hill](essays/images/20240116-074048-tall-tales-aurora-hill-houses.jpg)

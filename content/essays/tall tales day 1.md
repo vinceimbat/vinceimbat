@@ -3,11 +3,10 @@ title: Tall Tales Day 01 — First Walk
 date: 2024-01-15
 tags:
   - evergreens
-draft: true
+  - tall-tales-1
+draft: false
 ---
 ![Mountain with buildings in the foreground](essays/images/20240115-073744-tall-tales-mt.-data.jpg)
-# Military Cut-off boarding house
-
 I begin here where it all started: a boarding house downstairs from an elevated road. When I walked down this road in the past, coming home from school, I used to see the roof of the house below me, red as it still is today.
 
 Aside from this red roof and the stairs, I have very little memory of what the house looked like from the outside. All I know is that it is no longer as I remember it. The walls of this new house are painted orange and white. It is now tightly fenced (with chicken wires above the fence). And a guard house was built beside what was once just a humble gate.
@@ -44,8 +43,6 @@ Today, I don't know if a paradise earth is ever possible. I do know that I still
 
 ![A sunlit house with mountains in the background](essays/images/20240115-073222-tall-tales-good-morning.jpg)
 ***
-# Baguio Convention Center
-
 I walked outside the Baguio Convention Center, a place that meant very little to me the first time I passed it during my first year in Baguio. Later, it became an essential place of gravity in my growth as a JW.
 
 In recent years, the Convention Center has gone through several transformations. For a while, it became an alternative bus terminal. During the COVID-19 pandemic, it was used as a triage center for everyone entering the city.
@@ -68,23 +65,17 @@ After I left the Baguio congregation in 2011 to recover from my depression, I tr
 
 ![The BCC roof](essays/images/20240115-071621-tall-tales-BCC-roof.jpg)
 ***
-# Pine trees
-
 My first boarding house at Military Cut-off has changed. The road that leads to it has changed. The Baguio Convention Center has changed. What has endured is this nearby piece of land filled with century-old pine trees. Guarded by heavy iron fences, I remember them looking like this fifteen years ago when I arrived in my first year in college. But I've noticed them before when I accompanied my father once when he renewed his license at the licensure office just across this park.
 
 Now, I stand behind the fence admiring these unmoved timbers, hoping to borrow some of their enduring fortitude for the walk ahead.
 ![Slanting pine tree in the middle of others](essays/images/20240115-081429-tall-tales-fallen-tree.jpg)
 ***
-# Igorot stairs
-
 Leaving Military Cut-off, the Baguio Convention Center, and the pine trees, I followed my feet toward the rest of TM Kalaw Street, leading to Upper Session Road, trying my best to remember the exact route I would've used in the past to get to the nearest Kingdom Hall.
 
 Although unsure of the exact route, I'm sure I used to go down the Igorot Stairs near the once-abandoned Casa Vallejo. This route is not the easiest. However, I was afraid of getting lost in wide Baguio, so I stuck with it during those first few weeks (or months?). I walked down these stairs and up after the meetings, making me completely exhausted when I got home.
 
 I would later learn of two more accessible routes: the first using Leonard Wood Road and North Drive and the second using Leonard Wood Road and Upper Session Road. Both are longer routes but avoid the stairs.
 ***
-# Kingdhom hall at Valenzuala Street
-
 The kingdom hall was closed. Not closed as in it would open tomorrow but closed as in for good. The doors of its gate were padlocked and tied together by a rusty chain. A phallus graffiti adorns the left door, suggesting it has been closed for a while.
 
 Before I left in 2012, this Kingdom Hall was home to four congregations: an Ilocano, a Tagalog, an English, and a Korean congregation (Baguio was that ripe in JW ministry). I no longer know the story behind this closure, but all of those congregations could only be accommodated by the new, bigger Kingdom Hall at Rimando Road, which I'll see later in this walk.
@@ -101,8 +92,6 @@ I, too, have things in need of hauling. But today, I am my own garbage man.
 
 ![Locked gate of a kingdom hall](essays/images/20240115-084123-tall-tales-valenzuela-street-kh.jpg)
 ***
-# Mabini Elementary School
-
 My niece and nephew go to this elementary school. This morning, before the walk, I escorted my nephew to his first class here. I returned after visiting the old kingdom hall, sitting on the renovated waiting shed and looking down. Below, I see two vehicles parked on the side of the road.
 ***
 I used to know a little boy and his sister who also attended this school. In 2011, when I left Baguio, the sister had graduated elementary school and, therefore, moved to the public high school. But since her brother still went to this school, she went here after her classes to join her parents, who parked their fx at either of the spots where these vehicles are now parked.
@@ -119,8 +108,6 @@ Today, as I seat here, I wonder how the boy and the girl took it when I left the
 
 ![Two vehicles parked](essays/images/20240115-085340-tall-tales-the-parking-space.jpg)
 ***
-# Bonifacio Street
-
 It is a lot easier to walk this street now.
 
 I remember walking this long street one evening after class to attend the midweek meeting at the kingdom hall at Rimando Road. The traffic wasn't moving so I got off the jeep and began walking. I arrived 15 minutes before the end the meeting.
@@ -135,8 +122,6 @@ I was attracted to perspectives that aren't black and white. Nuanced. Didn't dem
 
 I think I have earned the right to enjoy epistemological freedom a bit longer after I've offered a quarter of my life to a belief system that honored no such thing.
 ***
-# Rimando Road
-
 I've walked Rimando Road several times as a JW, but I was too consumed by religious thoughts. I've never stopped to even notice how clear a view it offers of Aurora Hill.
 
 I go down the stairs from Bonifacio Street and almost immediately see Aurora Hill. I stopped to stare at it for a while, looking for familiar places. I'm looking for Bayan Park, but perhaps it is hidden behind all those houses. What is visible are the still unoccupied areas of the hill that leads to Ambiong, the barangay of Baguio that connects with the caldera municipality of La Trinidad, Benguet.
@@ -145,8 +130,6 @@ The sight of Ambiong calms me down as I walk slowly down Rimando Road. I'm about
 
 ![A road with vehicles and a mountain background](essays/images/20240115-094237-tall-tales-rimando-road.jpg)
 ***
-# Kingdom hall at Rimando Road
-
 Crossing the bridge over the Balili River, I begin to see the intersection of Rimando Road and Manuel Roxas Street, an intersection where the most defining events of my 16th, 17th, and 18th year occurred.
 
 At this intersection, I met people who treated me like their own brother and son, people I thought I would grow old and die with. At this intersection, I first learned sign language—interpreted for people who were deaf and hard of hearing then later delivered full talks purely in sign language. At this intersection, I met a woman I would love even for just a very short time. Here, I learned faith, community, responsibility—things I didn't learn enough back at home.

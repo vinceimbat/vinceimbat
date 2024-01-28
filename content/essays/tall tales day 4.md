@@ -3,6 +3,7 @@ title: Tall Tales Day 4 — Nights
 date: 2024-01-18
 tags:
   - evergreens
+  - tall-tales-1
 draft: false
 ---
 ![Purple flowers](essays/images/20240118-074614-tall-tales-purple-flowers.jpg)

@@ -3,6 +3,7 @@ title: Tall Tales — The End (For Now)
 date: 2024-01-19
 tags:
   - evergreens
+  - tall-tales-1
 draft: false
 ---
 ![The cordillera mountain range](essays/images/20240115-071937-tall-tales-cordillera_IG.jpg)
