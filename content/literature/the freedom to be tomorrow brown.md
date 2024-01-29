@@ -84,21 +84,13 @@ The more we see ourselves as free spirits the more we can become archaeologists 
 ***
 III
 
-1952 called "Present is Prologue" ([in "Collected Prose" eds. Donald Allen and Benjamin Friedlander, University of California Press, Berkley 1997, p. 205-207](https://www.ucpress.edu/book/9780520208735/collected-prose)) the poet [Charles Olson (1910-1970)](https://en.wikipedia.org/wiki/Charles_Olson)
+Accessing the past in the present or past-as-present (the perpetual morning) is the fuel for a creative life.
 
-suggested that we need to come to see that the past is for us not quite what we usually think it is. To the extent that we have access to the past, the past is, in fact, something present to us and it is this "past-as-present" that is the prologue of our unfolding, creative life.
+Dig in the past-as-present
 
-a kind of "perpetual morning".
-
-For Olson, the past is available to us in only two living ways and it's important to realise that both ways are available to us **_only in the present_**, in this perpetual morning. Keeping in mind Olson's image of the archaeologist, on this perpetual morning, it is into the soil of the "past-as-present" that he is encouraging us to do our digging.
-
-everything we call, identify and have available to us as "the past", as "history", is something which we are always-already carrying with us right now, in the present on this perpetual morning.
-
-Olson suggests that the past is available to us in two living ways.
-
-He calls the first available past "our own" history and he notes that "the work of each of us is to find out the true lineament of ourselves by facing up to the primal features of these founders who lie buried in us". The point he is making here is that his dead parents and, by extension, all the past people, things ideas and events that are our founders--those things which have made us who were are--all these are only available to us in the perpetual morning of the here and now, buried in the soil of our own present personal and cultural memories. It is into this present ground, earth or perpetual morning into which we, as archaeologists of morning, are to dig.
-
-The second available past is, according to Olson, not "our own". It is a somewhat allusive "past"
+Past-as-present is available to us in two ways
+1. "Our own" history - history of all the past people, who make up our identity.
+2. Not "our own" history - 
 
 I take Olson here to be gesturing towards the powerful natural, animating and "raging" fluxes and flows of matter/energy in constant motion that are buried within, and simultaneously revealed, in every aspect of our being. Like a [foundling child](https://dictionary.cambridge.org/dictionary/english/foundling), we have been gifted these fluxes and flows from who knows what parent and by and through them every living and non-living thing is constantly being made and unmade in the perpetual morning of the present.
 
@@ -159,6 +151,7 @@ Resources to check
 - The Principle of Hope by Ernst Bloch
 - Hope Without Optimism by Terry Eagleton
 - Atheism in Christianity by Ernst Bloch
+- "Present is Prologue" (1952) by Charles Olson ([in "Collected Prose" eds. Donald Allen and Benjamin Friedlander, University of California Press, Berkley 1997, p. 205-207](https://www.ucpress.edu/book/9780520208735/collected-prose))
 
 ***
 # Thoughts
