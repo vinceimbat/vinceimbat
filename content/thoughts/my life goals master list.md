@@ -23,9 +23,9 @@ kanban-plugin: basic
 - [ ] [CO] I have established a habit of regularly searching for and reaching out to peers who do the work that I want to do in the space that I want to contribute to.
 - [ ] SUSTAINING
 - [ ] [S] I have legalized my freelance business.
-- [ ] [S] I have added SSS into my retirement savings portfolio.
 - [ ] [S] I have purchased a better HMO card for Lea and I.
 - [ ] [S] I have renewed my PWD card.
+- [ ] [S] I have added SSS into my retirement savings portfolio.
 - [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
 - [ ] [S] I have curated a minimalist wardrobe.
 - [ ] [S] I have delivered a beautiful and functioning website for Ili Likhaan Ceramics.

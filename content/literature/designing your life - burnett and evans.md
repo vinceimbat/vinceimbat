@@ -744,7 +744,7 @@ Build prototypes to explore questions about my alternatives.
 
 when you are designing your life, you don’t have a lot of data available, especially reliable data about your future. You have to accept that this is the kind of messy problem in which traditional cause-and-effect thinking won’t work. Luckily, designers have come up with a way of sneaking up on the future through prototyping.
 
-Prototyping the life design way is all about asking good questions, outing our hidden biases and assumptions, iterating rapidly, and creating momentum for a path we’d like to try out.
+==Prototyping the life design way is all about asking good questions, outing our hidden biases and assumptions, iterating rapidly, and creating momentum for a path we’d like to try out.==
 ***
 # Benefits of prototyping
 
@@ -764,11 +764,11 @@ Finally, prototypes allow you to try and fail rapidly without overinvesting in a
 
 Prototypes should be designed to ask a question and get some data about something that you’re interested in.
 
-Good prototypes isolate one aspect of a problem and design an experience that allows you to “try out” some version of a potentially interesting future.
+==Good prototypes isolate one aspect of a problem and design an experience that allows you to “try out” some version of a potentially interesting future.
 
-The best way to get started is to keep your first few prototypes very low-resolution and very simple.
+==The best way to get started is to keep your first few prototypes very low-resolution and very simple.
 
-You want to isolate one variable and design a prototype to answer that one question.
+==You want to isolate one variable and design a prototype to answer that one question.
 
 Use what you have available or can ask for, and be prepared to iterate quickly.
 

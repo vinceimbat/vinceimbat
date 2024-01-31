@@ -40,3 +40,4 @@ sr-ease: 290
 30. [[Walking is a privilege]]
 31. [[Walking is a kaleidescope]]
 32. [[Walking experiments]]
+33. [[walking as writing methodology]]
