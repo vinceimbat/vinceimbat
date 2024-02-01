@@ -28,8 +28,9 @@ sr-ease: 250
 11. Budget CF.
 12. Ensure that the total amount in Uno matches total amount of CF EF.
 
-Lea's subsidy: Php 10,000
+Lea's subsidy: Php 5,000
 
+***
 # Old Process
 
 Below is an old process. I'm keeping it in case I return to it.

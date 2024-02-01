@@ -429,6 +429,7 @@ I will not need to ask whether the form should be story or poem or novel or play
 # Exercises
 
 - [[vignettes/kisses|kisses]]
+- [[private/nspc]]
 
 # Topics to check
 
