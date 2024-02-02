@@ -39,21 +39,21 @@ Tools require time and effort to learn. The same can be said with getting used t
 
 ## Ground level: Capture and organize actionable and non-actionable information
 
-The [[ground level]] captures and organizes [[Loose ends]]. Per [[thoughts/getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
+The [[thoughts/ground level]] captures and organizes [[Loose ends]]. Per [[thoughts/getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
 
-Here is [[My LMS ground level setup]].
+Here is [[thoughts/my lms ground level setup]].
 
 ## Sky level: Get clear about what you want
 
 Once I had my ground level in place and have acquainted myself to it, I was able to free myself with enough mental space and energy to think about what I really want. This is the best time to think about my motivations and intentions.
 
-1. Write a [[Purpose statement]].
+1. Write a [[thoughts/purpose statement]].
    - Ideally, this is the first step. However, I found articulating my [[thoughts/purpose]] very tricky and difficult at first as I wasn’t clear about the point and meaning of life. Even if I had enough self-knowledge, answering the question “Why do you live?” was still difficult. I decided to use a temporary purpose and skipped thinking about it altogether and focused on working with my life areas first.
    - Purpose statement: [[thoughts/my purpose is to live deliberately]].
 1. Do the best future self exercise to create a vision.
    - [[thoughts/my best future self exercise]]
 1. Write a [[thoughts/mission statement]].
-   - [[My mission statement]]
+   - [[thoughts/my mission statement]]
 1. Divide life into life areas.
    - Life areas are important to make sense of divergent projects ([[Areas are mini life purposes]]).
    - [[Maslow’s hierarchy of needs can be used as life areas]].

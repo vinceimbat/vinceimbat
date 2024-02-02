@@ -15,9 +15,9 @@ I wanted to leave, but instead, I did what I knew I had to do. I set forth for [
 
 As I walk, I cover two planes simultaneously—a finite [[thoughts/geographical wilderness]] and a vast and never-ending [[thoughts/mental wilderness]]. [[thoughts/walking|Walking]] in geographic space expands the mind. Walking the mind deepens the meaning of geographic space.
 
-In this excursion, which ends only in death, I gather [seeds](tags/seeds) of thoughts, verses, images, and experiences. I pocket these seeds until I find the right soil to plant them, here in a third space—cyberspace.
+In this excursion, which ends only in death, I gather [seeds](tags/seeds.md) of thoughts, verses, images, and experiences. I pocket these seeds until I find the right soil to plant them, here in a third space—cyberspace.
 
-I revisit what were planted rhythmically to tend to them, re-walking once verdant valleys and creating trails through my footsteps—trails that connect what later become [seedlings](tags/seedlings). I am bound to re-walk these trails and re-walk them again, until what were planted have grown into [evergreens](tags/evergreens).
+I revisit what were planted rhythmically to tend to them, re-walking once verdant valleys and creating trails through my footsteps—trails that connect what later become [seedlings](tags/seedlings.md). I am bound to re-walk these trails and re-walk them again, until what were planted have grown into [evergreens](tags/evergreens.md).
 
 One day, I will be surrounded by [[thoughts/my forest garden of the mind|a forest garden of the mind]], and everything will finally make sense.
 

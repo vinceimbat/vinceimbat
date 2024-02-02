@@ -23,3 +23,4 @@ Here are all the monthly reports I currently have:
 - [[2021 Monthly reports]]
 - [[2022 Monthly reports]]
 - [[thoughts/2023 monthly reports|2023 monthly reports]]
+- [[private/2024 monthly reports|2024 monthly reports]]

@@ -41,6 +41,7 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 # 2024-01-29 to 2024-02-04
 
 ## Reading
+- Read seiza resources.
 
 ## Talahardin
 - Review how to process reading highlights
@@ -48,6 +49,7 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 	- Process Part III highlights.
 	- Process Part IV highlights.
 	- Think about how to adopt Part III and IV into the spirituality you are nurturing.
+- Review notes from first Andrew call.
 
 ## Writing
 - Write about reincorporating prayer.

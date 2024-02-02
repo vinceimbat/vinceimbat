@@ -10,7 +10,7 @@ tags:
 There are four parts to my [[thoughts/monthly review|monthly review]]:
 
 1. Write the [[thoughts/monthly reports|Monthly report]].
-2. Review my [[Sky level]].
+2. Review my [[thoughts/sky level|sky level]].
 3. Do some housekeeping.
 
 # Part I: Write the monthly report.
@@ -37,7 +37,7 @@ There are four parts to my [[thoughts/monthly review|monthly review]]:
    - Transfer completed goals to Done.
    - If there are incomplete goals, carry them over to the current month or return them to Someday/Maybe.
    - If there are no incomplete goals, check for any remaining goals under the primary focus and choose there.
-   - If the Primary Focus list is empty or lacking at least one of five goals, review the Next list and promote goals to Primary Focus.
+   - If the Primary Focus list is empty or lacking at least one of five goals, review the Avoid at All Cost list and promote goals to Primary Focus.
    - Update timelines for chosen goals for the month.
    - Update wording/definition of goals.
    - Add new goals.

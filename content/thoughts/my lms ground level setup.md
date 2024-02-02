@@ -1,15 +1,15 @@
 ---
-title: "My LMS ground level setup"
-date: "2021-07-17"
+title: My LMS ground level setup
+date: 2021-07-17
+aliases:
+  - My LMS ground level setup
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2024-05-01
 sr-interval: 291
 sr-ease: 270
 ---
-
-This is my current [[thoughts/life management system]] [[ground level]] setup.
+This is my current [[thoughts/life management system]] [[thoughts/ground level]] setup.
 
 I am currently using the following inboxes to capture my loose ends:
 

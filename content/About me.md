@@ -16,8 +16,8 @@ Hi. My name is Vince Imbat. I'm a writer, poet, and photographer who walks in La
 
 I regularly send two newsletters:
 
-- _[Lilim](/tags/lilim)_: a bi-weekly newsletter about walking in Laguna and elsewhere in the Philippines.
-- _[Uman](/tags/uman)_: a monthly newsletter documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
+- _[Lilim](tags/lilim.md)_: a bi-weekly newsletter about walking in Laguna and elsewhere in the Philippines.
+- _[Uman](tags/uman.md)_: a monthly newsletter documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
 ## What I Do
 
@@ -25,7 +25,7 @@ In my pursuit for answers, I study a wide variety of resources from different di
 
 Taken together, all of these create a holistic "practice of the mind," which I hope would help me better understand the world. Occasionally, when I have made enough progress on a certain subject, I write an essay about it. These essays are usually [personal](/categories/personal-essays) in nature, a narrative of how I have understood and embodied the things I have learned through contemplation and application. Some of them are more [theoretical](/categories/essays) as I attempt to understand things in a more objective and general lens.
 
-My goal for studying and writing is always to develop deep understanding first, so that I could respond to life appropriately. My studies are designed to help me act with purpose, integrity, and compassion. I experiment with different methods on how to achieve this and report my progress in my monthly newsletter, _[Uman](/tags/uman)_. I also write a bi-weekly newsletter on walking called _[Lilim](/tags/lilim)_.
+My goal for studying and writing is always to develop deep understanding first, so that I could respond to life appropriately. My studies are designed to help me act with purpose, integrity, and compassion. I experiment with different methods on how to achieve this and report my progress in my monthly newsletter, _[Uman](tags/uman.md)_. I also write a bi-weekly newsletter on walking called _[Lilim](tags/lilim.md)_.
 
 ## What Led Us Here
 

@@ -23,7 +23,7 @@ I finished the book May Nagsabi Sa Akin by Rofel Brion and The Deleted World by 
 
 - I sharpened my understanding of my Sky Level by watching this video: https://www.youtube.com/watch?v=55Q5B8do06c
 - I reviewed my purpose and revised it: [[thoughts/my purpose is to live deliberately]].
-- I worked on improving my [[Sky level]], specifically my [[thoughts/my lms sky level setup]].
+- I worked on improving my [[thoughts/sky level]], specifically my [[thoughts/my lms sky level setup]].
 - I modified [[thoughts/my life goals master list]] to reflect changes in my priorities and my desire to return to working on my writing projects alongside trying to find a source of income and other projects.
 - I summarized my highlights for some chapters of [[thoughts/diy mfa by pereira]].
 

@@ -24,11 +24,11 @@ These species will grow in number as I see fit.
 
 Species are further classified depending on level of development: [[thoughts/seeds|seeds]], [[thoughts/seedlings|seedlings]], and [[thoughts/evergreens|evergreens]].
 
-[Seeds](tags/seeds) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[thoughts/henry david thoreau|Henry David Thoreau]] and [[thoughts/henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
+[Seeds](tags/seeds.md) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[thoughts/henry david thoreau|Henry David Thoreau]] and [[thoughts/henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
 
-[Seedlings](tags/seedlings) are planted seeds that will be revisited and changed in a constant basis and edited intermittently until they reach a more permanent form: evergreens.
+[Seedlings](tags/seedlings.md) are planted seeds that will be revisited and changed in a constant basis and edited intermittently until they reach a more permanent form: evergreens.
 
-[Evergreens](tags/evergreens) are works that don't change that much. They are finished products, shareable and, in case of thought notes, useful as building blocks for essays and bigger projects.
+[Evergreens](tags/evergreens.md) are works that don't change that much. They are finished products, shareable and, in case of thought notes, useful as building blocks for essays and bigger projects.
 
 A walk in the forest garden of the mind refers to my daily visits to this collection. My walks involve planting, replanting, pruning, or nurturing of existing species in the garden. Therefore, different species form interconnections that you could access through the mind trails and the topography of thoughts present under each note.
 

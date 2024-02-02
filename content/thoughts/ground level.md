@@ -1,14 +1,14 @@
 ---
-title: "Ground level"
-date: "2022-12-22"
+title: Ground level
+date: 2022-12-22
+aliases:
+  - ground level
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-12-25
 sr-interval: 3
 sr-ease: 250
 ---
-
 The ground level of the life management system accomplishes two things:
 
 1. It **captures** loose ends (notes, tasks, events, reading materials, and other inputs).

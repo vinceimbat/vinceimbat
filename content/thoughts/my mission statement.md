@@ -1,14 +1,14 @@
 ---
-title: "My mission statement"
-date: "2021-08-02"
+title: My mission statement
+date: 2021-08-02
+aliases:
+  - My mission statement
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-11-10
 sr-interval: 68
 sr-ease: 251
 ---
-
 Integrate here:
 - [[thoughts/my daily routine]]
 - [[thoughts/my daily walking routine]]

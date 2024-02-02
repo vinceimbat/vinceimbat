@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] OVERSEEING
 - [ ] UNDERSTANDING
 - [ ] RESTORING
+- [ ] [R]I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
 - [ ] [R] I have established a healthy, sustainable, time-efficient, and cost-effective nutrition system that has worked wonders to my overall well-being.
 - [ ] CONNECTING
 - [ ] [CO] I have designed and set up a customized minimum viable life management system for Lea. I have assisted her in implementing it, gathered feedback from her use of it, and redesigned it based on these feedback.<br><br>[[Lea's MVLMS]]
@@ -49,11 +50,12 @@ kanban-plugin: basic
 
 ## Primary focus
 
-- [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
-- [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
-- [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
+- [ ] [S] I have researched and made necessary changes for our couple financial system.
 - [ ] [R] I have introduced a daily exercise habit that isn't walking.
-- [ ] [R]I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
+- [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
+- [ ] [O] I have started prototyping conversations and experiences to help me clarify my direction in life.
+- [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
+- [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
 
 
 ## 2024 Done

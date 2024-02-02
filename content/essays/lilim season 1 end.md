@@ -13,7 +13,7 @@ tags:
 
 Hello, my friend,
 
-I want to use this issue to give an update about this [newsletter](/tags/lilim) and my future plans for it. But before that, I want to, first, express once more my sincere gratitude to you for taking the time to read this weekly missive. I know that in this day of information overload, spending five minutes or more reading an email from some random unknown guy on the Internet could be a big sacrifice. I am aware of this and I appreciate the attention you are giving my work so much.
+I want to use this issue to give an update about this [newsletter](tags/lilim.md) and my future plans for it. But before that, I want to, first, express once more my sincere gratitude to you for taking the time to read this weekly missive. I know that in this day of information overload, spending five minutes or more reading an email from some random unknown guy on the Internet could be a big sacrifice. I am aware of this and I appreciate the attention you are giving my work so much.
 
 This is the 12th issue of Lilim—my last attempt to write a regular newsletter. Three months ago, before we started on this journey together, I expressed my hesitation to start it because of my past failed attempts to maintain a regular publishing schedule. I declared to the world (um, actually just a handful of you who are reading this) that if I fail to keep writing this newsletter every week, I will never start one again. Now, because of calendar reminders (thanks Google Calendar!) and repeating task reminders (thanks [Things 3](https://culturedcode.com/things)!), I am kept accountable to show up every week and write something for you.
 

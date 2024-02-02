@@ -14,8 +14,8 @@ To write a new personal narrative vision, follow these steps:
 
 Here is the list of all your personal narrative visions so far:
 
-- [[thoughts/2020 mid-year personal narrative vision|2020 mid-year personal narrative vision]]
-- [[thoughts/2021 personal narrative vision|2021 personal narrative vision]]
-- [[thoughts/2022 personal narrative vision|2022 personal narrative vision]]
-- [[thoughts/2023 personal narrative vision|2023 personal narrative vision]]
-- [[thoughts/2024 personal narrative vision|2024 personal narrative vision]]
+- [[private/2020 mid-year personal narrative vision|2020 mid-year personal narrative vision]]
+- [[private/2021 personal narrative vision|2021 personal narrative vision]]
+- [[private/2022 personal narrative vision|2022 personal narrative vision]]
+- [[private/2023 personal narrative vision|2023 personal narrative vision]]
+- [[private/2024 personal narrative vision|2024 personal narrative vision]]
