@@ -5,6 +5,10 @@ tags:
   - seedlings
 draft: true
 ---
+[[private/my insurance plan]]
+
+
+***
 # Emergency Fund
 
 Total: Php 324,000 (P27,000/month good for 1 year)

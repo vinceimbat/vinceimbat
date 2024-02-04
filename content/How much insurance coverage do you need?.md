@@ -8,7 +8,6 @@ sr-due: 2022-09-05
 sr-interval: 3
 sr-ease: 250
 ---
-
 Jacob Lund Fisker only paid $91/month (P4,368).
 
 Ready2Adult pays P2,683.5/month for an FWD insurance
@@ -22,5 +21,3 @@ Your annual premium shouldn't be more than 10% of your annual income: P60,000 or
 Assess your medical history
 Assess your lifestyle
 Know your goals
-
-# References

@@ -8,7 +8,7 @@ sr-due: 2022-05-12
 sr-interval: 4
 sr-ease: 270
 ---
-
+- [[private/my insurance plan|my insurance plan]]
 - [[Insurance help us cope with SAD events]]
 - [[Insurance terminologies]]
 - [[Life insurance]]
