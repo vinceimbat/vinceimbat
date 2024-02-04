@@ -2,6 +2,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
+import { i18n } from "../i18n/i18next"
 import { classNames } from "../util/lang"
 
 export interface D3Config {
@@ -53,7 +54,7 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: GraphOptions) => {
-  function Graph({ displayClass }: QuartzComponentProps) {
+  function Graph({ displayClass, cfg }: QuartzComponentProps) {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
