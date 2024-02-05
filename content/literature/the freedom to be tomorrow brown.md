@@ -90,27 +90,23 @@ Dig in the past-as-present
 
 Past-as-present is available to us in two ways
 1. "Our own" history - history of all the past people, who make up our identity.
-2. Not "our own" history - 
+2. Not "our own" history - history of the fluxes of nature (matter and energy), changes in it which are also inside and revealed through us. Through these changes, living and non-living things are constantly remade in the present moment.
 
-I take Olson here to be gesturing towards the powerful natural, animating and "raging" fluxes and flows of matter/energy in constant motion that are buried within, and simultaneously revealed, in every aspect of our being. Like a [foundling child](https://dictionary.cambridge.org/dictionary/english/foundling), we have been gifted these fluxes and flows from who knows what parent and by and through them every living and non-living thing is constantly being made and unmade in the perpetual morning of the present.
+Matter and energy are always affective so they do not require an unmoved mover.
 
-Olson's "raging apart" is a natural phenomenon that is manifest in, for example, the seed becoming a flower or a tree, in the caterpillar becoming a butterfly or, like Olsen, in the poet's desire to make a poem, [_poeisis](https://en.wikipedia.org/wiki/Poiesis)_. It is a reminder that matter/energy is always affective in and of itself and so never requires an external prime, unmoved mover, such as the god of theism, to get things going
+The question we have to ask ourselves is: how to use oneself and on what?
 
-the work of the morning "is methodology: how to use oneself, and on what"
+To become our fullest being and understand what this means, we need to dig in the past as present as "an archaeologist of morning."
 
-it is only by digging in the soil that is this perpetual morning that we can genuinely come, not only to be the kinds of beings we might most fully be, but also to understand what it means to be that kind of being. This, Olson the poet tells us, is his "profession" and it is why he proclaims himself "an archaeologist of morning."
+Dig on this present soil, now, in this instant. You are the only reader and mover. Be free from all restrictive theories and creeds.
 
-Olson thought archaeologists of morning were the type of people always getting on with it, digging deep into the present soil of ourselves and the world, now, in this instant, with no drag and ourselves as the only reader and mover of the instant, freed from all restrictive theories and creeds.
+Work 1: Create things and acts where the form immediately expresses our authentic selves fully and not just an aesthetic clothing.
 
-the "work and dogmas" of such a free, morning way of being-in-the-world were three-fold.
+Work 2: Augmenting the given. Improving ourselves.
 
-**The first work and dogma (necessary know-how) is "How by form, to get the content instant". By this Olson means he wants us to create things where the form they take perfectly, and immediately, expresses the content; where our poetry, music, acts of social justice and worship, are the fullest possible expressions of ourselves and not merely inauthentic, arty or moralistic clothing.**
+Work 3: Perceiving our interconnection with others and our lack of control on life and the world.
 
-The second work and dogma (necessary know-how) is "what any of us are by the work on ourself, how to make ourselves fit instruments for use (how we augment the given--what used to be called our fate)". Here, I take it that Olson is tapping into a sacred energy that helps us not to succumb to despair and inaction in the face of deeply challenging, contingent events. Olson sees clearly that we can always augment that which we are given.
-
-The third work and dogma (necessary know-how) is to assert that "there is no such thing as duality either of the body and the soul or of the world and I, that the fact in the human universe is the discharge of the many (the multiple) by the one (yrself [sic] done right, whatever you are, in whatever job)." Olson goes on to say that this helps us see that "all hierarchies, like dualities, are dead ducks." Here, I take it that he is tapping into a second sacred energy that is able to challenge our dangerous tendency to hubris which always threatens to make us believe we are individual, independent creatures wholly in control of our existence and unfolding life.
-
-But let us be clear, like all free-spirited archaeologists of morning (or, indeed, archaeologists of any kind), we can never be absolutely sure beforehand precisely what, if anything, we are going to bring to light that is both old and new from the soil into which we must dig. All we can, and need be assured of is that, to paraphrase a well-known hymn, in the perpetual morning there is always-already more light and truth that can break forth from the past, light and truth that is both old and new.
+We can't predict what comes out of the perpetual morning. What we can trust is that there will be light and truth here both old and new.
 
 IV
 
