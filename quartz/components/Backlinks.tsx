@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/backlinks.scss"
 import { resolveRelative, simplifySlug } from "../util/path"
-import { i18n } from "../i18n/i18next"
+import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
 function Backlinks({ fileData, allFiles, displayClass, cfg }: QuartzComponentProps) {
@@ -20,7 +20,7 @@ function Backlinks({ fileData, allFiles, displayClass, cfg }: QuartzComponentPro
             </li>
           ))
         ) : (
-          <li>{i18n(cfg.locale, "backlinks.noBlacklinksFound")}</li>
+          <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
         )}
       </ul>
     </div>
