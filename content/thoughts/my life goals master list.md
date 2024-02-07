@@ -46,6 +46,7 @@ kanban-plugin: basic
 - [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (around May 2024).
 - [ ] [CR] I have performed a walk project with Uwa.
 - [ ] [CR] I have organized a group photo walk in Los Baños.
+- [ ] [CR] I have attended the AWA leadership training in November 2024.
 
 
 ## Primary focus
