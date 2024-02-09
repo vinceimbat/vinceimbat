@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "project archives", "projects", "projects someday", "templates"],
     defaultDateType: "created",
     theme: {
+      cdnCaching: true,
       typography: {
         header: "Newsreader",
         body: "Spectral",
