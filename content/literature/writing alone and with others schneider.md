@@ -428,8 +428,10 @@ I will not need to ask whether the form should be story or poem or novel or play
 
 # Exercises
 
-- [[vignettes/kisses|kisses]]
-- [[private/nspc|nspc]]
+- Beginning at Your Own Beginning: [[vignettes/kisses|Kisses]]
+- Healing the Wounds of Bad Experiences: [[private/nspc|NSPC]]
+- Getting Rid of Internal Critics: [[private/the bus|The Bus]]
+- Beginning (Again): [[vignettes/palaui|Palaui]]
 - [[poems/well|well]]
 
 # Topics to check
