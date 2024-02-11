@@ -11,6 +11,12 @@ sr-ease: 232
 ---
 Brown has sympathies with the [[thoughts/free religion|Free Religion]] (自由宗教 — _jiju shukyo_) advocated by [[thoughts/shinichiro imaoka|Shin'ichirō Imaoka]].
 
+# Conversations
+
+- [[private/andrew brown call 1|andrew brown call 1]]
+- [[private/kiitsu kyokai 1|kiitsu kyokai 1]]
+- [[private/andrew brown call 2|andrew brown call 2]]
+
 # Related
 
 - [[thoughts/unitarianism|unitarianism]]

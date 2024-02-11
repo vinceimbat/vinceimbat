@@ -5,6 +5,13 @@ draft: false
 tags:
   - seedlings
 ---
+- [[kiitsu kyokai continues unitarian universalism]]
+- [[kiitsu kyokai transforms unitarianism]]
+- [[free religion is faithful to genuine personal needs]]
+- [[plurality is critical to the success of a kiitsu kyokai]]
+- [[kiitsu kyokai is democratic]]
+- [[kiitsu kyokai nurtures a free religion that inspires compassion]]
+
 # Notes
 
 The first meeting of the post-war kiitsu kyokai (second version) was held on October 23, 1948. However, it didn't officially form until about two years after.
