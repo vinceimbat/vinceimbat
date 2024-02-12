@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] [R]I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
 - [ ] [R] I have established a healthy, sustainable, time-efficient, and cost-effective nutrition system that has worked wonders to my overall well-being.
 - [ ] CONNECTING
+- [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
 - [ ] [CO] I have designed and set up a customized minimum viable life management system for Lea. I have assisted her in implementing it, gathered feedback from her use of it, and redesigned it based on these feedback.<br><br>[[Lea's MVLMS]]
 - [ ] [CO] I have hosted my friends in my house, prepared food, and played games.
 - [ ] [CO] I have learned how to set and communicate my boundaries.
@@ -37,26 +38,24 @@ kanban-plugin: basic
 - [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
 - [ ] [CR] I have climbed Mt. Makiling
 - [ ] [CR] I have started a walking in Pangasinan project.
+- [ ] [CR] I have conducted a photo-only walk around Los Baños.
+- [ ] [CR] I have led a walk and talk event.
+- [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (around May 2024).
+- [ ] [CR] I have performed a walk project with Uwa.
 - [ ] [CR] I have started compiling resources for a history of walking in the Philippines.
+- [ ] [CR] I have organized a group photo walk in Los Baños.
+- [ ] [CR] I have attended the AWA leadership training in November 2024.
 - [ ] [CR] I have learned how to take binaural videos effectively. I have learned how to edit them. I have compiled them in my YouTube.
 - [ ] [CR] I have completed The Complete 2023 Web Development Bootcamp.
 - [ ] [CR] I have translated all my favorite Thoreau entries from English to Filipino.
-- [ ] [CR] I have led a walk and talk event.
-- [ ] [CR] I have conducted a photo-only walk around Los Baños.
-- [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (around May 2024).
-- [ ] [CR] I have performed a walk project with Uwa.
-- [ ] [CR] I have organized a group photo walk in Los Baños.
-- [ ] [CR] I have attended the AWA leadership training in November 2024.
 
 
 ## Primary focus
 
 - [ ] [S] I have researched and made necessary changes for our couple financial system.
 - [ ] [R] I have introduced a daily exercise habit that isn't walking.
-- [ ] [S] I have updated four OVIC overviews assigned to me and sent them.
 - [ ] [O] I have started prototyping conversations and experiences to help me clarify my direction in life.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
-- [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
 
 
 ## 2024 Done
@@ -67,6 +66,8 @@ kanban-plugin: basic
 - [x] [O] I have performed all tasks under my annual review routine. @[[2024-01-07]]
 - [x] [CR] I have performed a week-long re-walk of some routes I walked in Baguio City as a JW minister. @[[2024-01-20]]
 - [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-01-23]]
+- [x] FEBRUARY 2024
+- [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-02-07]]
 
 
 ## 2023 Done

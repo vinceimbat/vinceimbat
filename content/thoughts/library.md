@@ -15,6 +15,10 @@ Numbers in parentheses represent the month I finished reading the book.
 
 I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/reading/), which I learned through [Austin Kleon](https://austinkleon.com/tag/my-reading-year/) ([who also keeps his own list](https://austinkleon.com/tag/my-reading-year/)).
 
+# 2024
+
+- [[2024-02-12]]: [[literature/a gathering of larks carroll|A Gathering of Larks by  Abigail Carroll]]
+
 # 2023
 
 - [[2023-12-25]]: [[literature/things become other things mod|Things Become Other Things by Craig Mod]] ★★
