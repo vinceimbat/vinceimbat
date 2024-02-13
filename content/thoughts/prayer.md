@@ -11,7 +11,7 @@ But I am also interested in exploring forms of prayer that is more aligned to th
 
 # Prayer un-addressed to anyone
 
-From Michael McGhee in [[thoughts/spirituality for the godless mcghee|Spirituality for the Godless]]:
+From Michael McGhee in [[literature/spirituality for the godless mcghee|Spirituality for the Godless]]:
 >What is crucial, and it is relatively neglected by accounts of secular humanism, is this kind of meditative ‘prayer’ (which is not addressed to anyone) and its analogues.
 
 # Prayer as listening

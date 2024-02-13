@@ -10,8 +10,8 @@ This is a weekly menu of activities preplanned during [[thoughts/my weekly revie
 I will still keep track of my projects and their todos in Things, though. So, for now, this menu would be mostly for reading, writing, talahardin, etc.
 ***
 # Reading
-- Read seiza resources.
 - Read what Spirituality for the Godless says about humanism.
+- Read seiza resources.
 
 # Talahardin
 - Review how to process reading highlights.
@@ -27,7 +27,7 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 
 # Free Religion
 - ~~Explore how to reincorporate prayer.
-- Prepare for Kiitsu Kyokai 2.
+- Prepare for next Kiitsu Kyokai.e for Kiitsu Kyokai 2.
 
 # Soup du jour
 - Gianni Vattimo's "weak thought"

@@ -50,12 +50,20 @@ kanban-plugin: basic
 - [ ] [CR] I have translated all my favorite Thoreau entries from English to Filipino.
 
 
+## Next
+
+- [ ] FEBRUARY 2024
+- [ ] [CO] I have assisted Lea in identifying the best day job for her.
+
+
 ## Primary focus
 
-- [ ] [S] I have researched and made necessary changes for our couple financial system.
+- [ ] FEBRUARY 2024
 - [ ] [R] I have introduced a daily exercise habit that isn't walking.
 - [ ] [O] I have started prototyping conversations and experiences to help me clarify my direction in life.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
+- [ ] [CO] I have celebrated my birthday well.
+- [ ] [R] I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
 
 
 ## 2024 Done
@@ -68,6 +76,7 @@ kanban-plugin: basic
 - [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-01-23]]
 - [x] FEBRUARY 2024
 - [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-02-07]]
+- [x] [S] I have researched and made necessary changes for our couple financial system. @[[2024-02-12]]
 
 
 ## 2023 Done

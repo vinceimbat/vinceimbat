@@ -23,6 +23,21 @@ I will combine my emergency fund (Php 192,000) with your emergency fund (Php 31,
 Implications
 - Since we currently have almost half of our EF goal, you (L) can relax in saving for an EF, which means you can consider giving money to your family (even if small) right now.
 
+Updated: 2024-02-12
+
+Vince's monthly: 28,668.57 (29,000) x 6 = 174,000
+- This is unsubsidized number.
+
+Lea's monthly: 41,773.91 (42,000 - 15,000 = 27,000) x 6 = 162,000
+- If Lea would lost her source of income, she can't give money to parents or me. So less 15,000
+
+Total: 336,000
+
+Current EF: 248,908.28
+Remaining: 87,091.72
+
+With a 10,000/month rate, we'll achieve our goal in 9 months.
+
 **2. Shared Investment Funds**
 
 I currently have the following investments:
