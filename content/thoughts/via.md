@@ -1,14 +1,14 @@
 ---
-title: "Values, Interests, and Abilities (VIA)"
-date: "2020-09-13"
+title: Values, Interests, and Abilities (VIA)
+date: 2020-09-13
+aliases:
+  - Values, Interests, and Abilities (VIA)
 tags:
-
-- "seedlings"
-sr-due: 2022-08-26
-sr-interval: 3
-sr-ease: 250
+  - seedlings
+sr-due: 2029-04-28
+sr-interval: 1899
+sr-ease: 270
 ---
-
 This exercise was from [[literature/belong agrawal]]
 
 ## Values
@@ -136,5 +136,3 @@ Others
 
 - Organizing information and knowledge
 - 
-
-# References

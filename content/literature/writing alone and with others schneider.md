@@ -433,6 +433,7 @@ I will not need to ask whether the form should be story or poem or novel or play
 - Getting Rid of Internal Critics: [[private/the bus|The Bus]]
 - Beginning (Again): [[vignettes/palaui|Palaui]]
 - [[poems/well|well]]
+- Clustering and Mapping: see Diary dated [[2024-02-04]]
 
 # Topics to check
 

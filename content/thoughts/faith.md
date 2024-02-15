@@ -5,9 +5,9 @@ aliases:
   - Faith
 tags:
   - seedlings
-sr-due: 2023-12-24
-sr-interval: 50
-sr-ease: 230
+sr-due: 2024-03-17
+sr-interval: 32
+sr-ease: 210
 ---
 A life can be lived in a spectrum. At both ends are the following:
 - A life in pursuit of peak moments (fishes)
@@ -24,6 +24,14 @@ This is the middle path that leads to contentment. This is why contentment is al
 The real job here is keeping that faith and nurturing it, practicing it, actively pursuing meaning and the search for affirmations for this faith.
 
 Faith as used by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[thoughts/free religion|free religion]] refers to openness to one's mind, heart, and neighbor.
+
+# From Andrew J. Brown
+
+Faith simply means "stepping forward." It doesn't mean "believe."
+shinjin: true entrusting
+
+Check John Schellenberg
+- Prairie Schooners: only way to find out if it's true is to try
 
 # References
 

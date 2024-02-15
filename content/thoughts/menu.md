@@ -12,6 +12,7 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 # Reading
 - Read what Spirituality for the Godless says about humanism.
 - Read seiza resources.
+- Corsons Inlet by A. R. Ammons: https://www.poetryfoundation.org/poems/43073/corsons-inlet
 
 # Talahardin
 - Review how to process reading highlights.
@@ -25,9 +26,10 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 # Writing
 - Write about reincorporating prayer.
 
-# Free Religion
+# Research
 - ~~Explore how to reincorporate prayer.
-- Prepare for next Kiitsu Kyokai.e for Kiitsu Kyokai 2.
+- Prepare for Kiitsu Kyokai 2.
+- Research for historical and sociological seeds for free religion in the Philippines.
 
 # Soup du jour
 - Gianni Vattimo's "weak thought"
