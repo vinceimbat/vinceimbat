@@ -34,8 +34,9 @@ kanban-plugin: basic
 - [ ] [S] I have reviewed my recent work with Candent and Ili and have set up systems, prices, and offers based on these.
 - [ ] [S] I have fixed the Asus laptop and sold it.
 - [ ] CREATING
-- [ ] [CR] I have started a book project about walking in Los Baños. An intimate contemplative walking guide for Los Baños.
 - [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
+- [ ] [CR] I have published a zine about walking Los Baños.
+- [ ] [CR] I have started a book project about walking in Los Baños. An intimate contemplative walking guide for Los Baños.
 - [ ] [CR] I have climbed Mt. Makiling
 - [ ] [CR] I have started a walking in Pangasinan project.
 - [ ] [CR] I have conducted a photo-only walk around Los Baños.

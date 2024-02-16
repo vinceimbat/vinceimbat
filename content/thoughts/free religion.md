@@ -33,3 +33,7 @@ I'm playing around possible translation of the word into Filipino. Here are some
 - Malayang paggalang
 - Malayang pagsamba
 - **Malayang pamimintuho**
+
+# Questions to explore here
+
+- Does the Philippines need jiyu shukyo?
