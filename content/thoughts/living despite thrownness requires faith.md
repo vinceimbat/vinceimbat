@@ -6,7 +6,7 @@ tags:
 sr-due: 2022-12-09
 sr-interval: 82
 sr-ease: 252
-aliases:
+alias:
   - Deciding to live despite throwness requires faith
 ---
 [[thoughts/walking|Walking]] in a frightening world is friendship, not only to wisdom but also to where it comes from: the world, both in the mind and the physical world one acts in. Every day I go back to my journal, every afternoon I walk on the trails, I am befriending the world.

@@ -1,7 +1,7 @@
 ---
 title: "I want my audience to feel existential"
 date: "2023-07-18"
-aliases: "thoughts/i-want-my-audience-to-feel-existential"
+alias: "thoughts/i-want-my-audience-to-feel-existential"
 tags:
 
 - "seedlings"

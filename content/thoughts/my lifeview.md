@@ -1,7 +1,7 @@
 ---
 title: My lifeview
 date: 2022-11-22
-aliases:
+alias:
   - My lifeview
 tags:
   - seedlings

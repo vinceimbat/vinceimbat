@@ -1,7 +1,7 @@
 ---
 title: "Ann Lauterbach"
 date: "2023-07-16"
-aliases: ""
+alias: ""
 tags:
 - "seedlings"
 sr-due: 2023-07-19

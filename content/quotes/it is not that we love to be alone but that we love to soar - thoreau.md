@@ -1,7 +1,7 @@
 ---
 title: "It is not that we love to be alone but that we love to soar - Thoreau"
 date: "2020-10-28"
-aliases: ""
+alias: ""
 tags:
 - "quotes"
 - "evergreens"

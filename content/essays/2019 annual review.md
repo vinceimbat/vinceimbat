@@ -1,7 +1,7 @@
 ---
 title: My 2019 Annual Review
 date: 2020-01-21
-aliases: 2019-annual-review
+alias: 2019-annual-review
 tags:
   - annual-reviews
   - evergreens

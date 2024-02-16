@@ -2,7 +2,7 @@
 title: "Why I walk"
 date: "2022-06-16"
 slug: "why-i-walk"
-aliases: "Why-do-I-walk"
+alias: "Why-do-I-walk"
 tags:
 
 - "seedlings"

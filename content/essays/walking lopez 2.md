@@ -1,7 +1,7 @@
 ---
 title: "Walking Lopez, Quezon Part II: A Fishpond at San Jose"
 date: "2022-08-01"
-aliases:
+alias:
 - "walking-lopez-part-two"
 - "lilim/032"
 tags:

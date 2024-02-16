@@ -1,7 +1,7 @@
 ---
 title: anarchism
 date: 2023-01-13
-aliases:
+alias:
   - anarchism
 tags:
   - seedlings

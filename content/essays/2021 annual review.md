@@ -1,7 +1,7 @@
 ---
 title: My 2021 Annual Review
 date: 2022-01-20
-aliases:
+alias:
   - 2021-annual-review
 tags:
   - annual-reviews

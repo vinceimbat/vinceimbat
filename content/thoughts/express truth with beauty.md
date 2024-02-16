@@ -1,7 +1,7 @@
 ---
 title: How can I combine truth and beauty in one philosophical practice?
 date: 2022-07-22
-aliases:
+alias:
   - How can I combine truth and beauty in one philosophical practice?
 tags:
   - seedlings

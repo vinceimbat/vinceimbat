@@ -1,7 +1,7 @@
 ---
 title: "My worldview"
 date: "2021-04-27"
-aliases: "My-worldview"
+alias: "My-worldview"
 tags:
 - "seedlings"
 sr-due: 2025-03-14

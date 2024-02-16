@@ -1,7 +1,7 @@
 ---
 title: "Action"
 date: "2022-04-30"
-aliases: "Action"
+alias: "Action"
 tags:
 - "seedlings"
 sr-due: 2055-10-21

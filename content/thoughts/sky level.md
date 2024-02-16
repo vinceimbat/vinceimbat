@@ -1,7 +1,7 @@
 ---
 title: Sky level
 date: 2021-01-06
-aliases:
+alias:
   - Sky level
 tags:
   - seedlings

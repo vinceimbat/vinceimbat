@@ -1,7 +1,7 @@
 ---
 title: Lyric philosophy
 date: 2022-10-06
-aliases:
+alias:
   - Lyric philosophy
 tags:
   - seedlings

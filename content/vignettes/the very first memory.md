@@ -1,7 +1,7 @@
 ---
 title: "The Very First Memory"
 date: "2023-05-21"
-aliases:
+alias:
 - "tlw/013"
 tags:
 - "tlw"

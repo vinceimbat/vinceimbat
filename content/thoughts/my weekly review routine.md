@@ -1,7 +1,7 @@
 ---
 title: My weekly review routine
 date: 2022-05-09
-aliases:
+alias:
   - My-weekly-review-routine
   - my weekly review routine
 tags:

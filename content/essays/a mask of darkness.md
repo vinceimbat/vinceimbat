@@ -1,7 +1,7 @@
 ---
 title: "A Mask of Darkness with No Eyes"
 date: "2022-05-19"
-aliases:
+alias:
 - "a-mask-of-darkness-with-no-eyes"
 - "lilim/025"
 tags:

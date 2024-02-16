@@ -1,7 +1,7 @@
 ---
 title: "Walking in Cablong"
 date: "2023-07-02"
-aliases: "walking-in-cablong"
+alias: "walking-in-cablong"
 tags:
 
 - "seedlings"

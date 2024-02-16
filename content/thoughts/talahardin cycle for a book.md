@@ -1,7 +1,7 @@
 ---
 title: Talahardin cycle when reading one book
 date: 2021-12-10
-aliases:
+alias:
   - Talahardin cycle when reading one book
 tags:
   - seedlings

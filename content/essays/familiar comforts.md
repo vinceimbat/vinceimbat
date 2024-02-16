@@ -1,7 +1,7 @@
 ---
 title: "Familiar Comforts"
 date: "2021-08-29"
-aliases:
+alias:
 - "familiar-comforts"
 - "lilim/018"
 tags:

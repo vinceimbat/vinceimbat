@@ -1,7 +1,7 @@
 ---
 title: "Pagbubunyi — Dickinson"
 date: "2022-11-01"
-aliases:
+alias:
 - "Pagbubunyi — Dickinson"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Ocean Vuong"
 date: "2023-05-11"
-aliases:
+alias:
 - "Ocean Vuong"
 tags:
 - "seedlings"

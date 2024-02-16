@@ -1,7 +1,7 @@
 ---
 title: Ralph Waldo Emerson
 date: 2021-09-18
-aliases:
+alias:
   - Ralph Waldo Emerson
 tags:
   - seedlings

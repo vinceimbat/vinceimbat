@@ -1,7 +1,7 @@
 ---
 title: Live as if you are walking
 date: 2022-11-13
-aliases:
+alias:
   - Live your life as if it was a walk
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Capitalism
 date: 2022-10-01
-aliases:
+alias:
   - Capitalism
 tags:
   - seedlings

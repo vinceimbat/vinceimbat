@@ -1,7 +1,7 @@
 ---
 title: "Then It Was Gone"
 date: "2021-10-17"
-aliases:
+alias:
 - "next-in-your-life"
 - "lilim/024"
 tags:

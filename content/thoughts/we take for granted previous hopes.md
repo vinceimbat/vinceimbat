@@ -1,7 +1,7 @@
 ---
 title: "We take for granted what were once only hopes"
 date: "2023-07-02"
-aliases: "We-take-for-granted-what-were-once-only-hopes"
+alias: "We-take-for-granted-what-were-once-only-hopes"
 tags:
 - "seedlings"
 sr-due: 2023-09-09

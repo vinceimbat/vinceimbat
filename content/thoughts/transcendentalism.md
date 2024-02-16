@@ -1,7 +1,7 @@
 ---
 title: Transcendentalism
 date: 2022-08-16
-aliases:
+alias:
   - Transcendentalism
 tags:
   - seedlings

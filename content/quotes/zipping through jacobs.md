@@ -1,7 +1,7 @@
 ---
 title: Zipping through – Jacobs
 date: 2023-01-10
-aliases:
+alias:
   - And then - Jacobs
 tags:
   - evergreens

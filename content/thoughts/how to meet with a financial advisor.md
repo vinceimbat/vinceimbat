@@ -1,7 +1,7 @@
 ---
 title: "How to meet with a financial advisor"
 date: "2022-09-02"
-aliases:
+alias:
 - "How-to-meet-with-a-financial-advisor"
 tags:
 - "seedlings"

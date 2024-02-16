@@ -1,7 +1,7 @@
 ---
 title: "Games"
 date: "2018-08-04"
-aliases: "thoughts/games"
+alias: "thoughts/games"
 tags:
 
 - "seedlings"

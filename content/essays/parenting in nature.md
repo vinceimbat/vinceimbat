@@ -1,7 +1,7 @@
 ---
 title: "Parenting in Nature is Our Only Chance"
 date: "2021-05-27"
-aliases:
+alias:
 - "parenting-in-nature-is-our-only-chance"
 - "lilim/003"
 tags:

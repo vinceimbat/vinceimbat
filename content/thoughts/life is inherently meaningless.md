@@ -1,7 +1,7 @@
 ---
 title: "Life is inherently meaningless"
 date: "2022-04-28"
-aliases: "Life-is-inherently-meaningless"
+alias: "Life-is-inherently-meaningless"
 tags:
 - "seedlings"
 sr-due: 2025-04-14

@@ -1,7 +1,7 @@
 ---
 title: "The Better Boundaries Workbook"
 date: "2023-08-07"
-aliases:
+alias:
 - "The Better Boundaries Workbook"
 tags:
 - "seedlings"

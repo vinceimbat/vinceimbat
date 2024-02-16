@@ -1,7 +1,7 @@
 ---
 title: "Lilim: A Weekly Newsletter on Philosophy, Art, and the Outdoors"
 date: "2021-05-04"
-aliases:
+alias:
 - "/lilim-subscribe"
 - "lilim/001"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Process not product should determine success
 date: 2019-12-24
-aliases:
+alias:
   - Process not product should determine success
 tags:
   - seedlings

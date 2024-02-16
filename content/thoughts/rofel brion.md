@@ -1,7 +1,7 @@
 ---
 title: Rofel Brion
 date: 2022-10-15
-aliases:
+alias:
   - contacts/rofel brion
 tags:
   - seedlings

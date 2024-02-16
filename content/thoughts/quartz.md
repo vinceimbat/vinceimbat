@@ -1,7 +1,7 @@
 ---
 title: "Quartz"
 date: "2023-07-20"
-aliases: "thoughts/quartz"
+alias: "thoughts/quartz"
 tags:
 
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Søren Kierkegaard"
 date: "2022-10-07"
-aliases:
+alias:
 - "Søren-Kierkegaard"
 - "thoughts/søren-kierkegaard"
 tags:

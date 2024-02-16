@@ -1,7 +1,7 @@
 ---
 title: We agree about what we want and disagree about metaphysics and epistemology
 date: 2021-01-05
-aliases:
+alias:
   - We agree about what we want and disagree about metaphysics and epistemology
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "Life is befriended through living"
 date: "2023-07-02"
-aliases: "Life-is-befriended-through-living"
+alias: "Life-is-befriended-through-living"
 tags:
 - "seedlings"
 sr-due: 2023-09-08

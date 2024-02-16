@@ -1,7 +1,7 @@
 ---
 title: Frequency of reviews simplifies complexity
 date: 2021-07-15
-aliases:
+alias:
   - The frequency of reviews simplifies life’s complexity
 tags:
   - seedlings

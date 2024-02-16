@@ -1,7 +1,7 @@
 ---
 title: "Life management system"
 date: "2021-01-08"
-aliases: "Life-management-system"
+alias: "Life-management-system"
 tags:
 - "seedlings"
 sr-due: 2026-12-08

@@ -1,7 +1,7 @@
 ---
 title: "Be a Sage and a Child"
 date: "2021-08-01"
-aliases:
+alias:
 - "sage-and-child"
 - "lilim/014"
 tags:

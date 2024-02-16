@@ -1,7 +1,7 @@
 ---
 title: "My ideal mentors and peers"
 date: "2021-02-17"
-aliases:
+alias:
 - "My-criteria-for-choosing-mentors-and-peers"
 - "thoughts/my-ideal-mentors-and-peers"
 tags:

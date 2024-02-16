@@ -1,7 +1,7 @@
 ---
 title: Forest app trees
 date: 2023-03-29
-aliases:
+alias:
   - Forest app trees
 tags:
   - evergreens

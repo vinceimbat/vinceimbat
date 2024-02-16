@@ -1,7 +1,7 @@
 ---
 title: Past and Coming Year Questions
 date: 2021-09-18
-aliases:
+alias:
   - past and coming year questions
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Zettelkasten
 date: 2021-02-05
-aliases:
+alias:
   - Zettelkasten
 tags:
   - seedlings

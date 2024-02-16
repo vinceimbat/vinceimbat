@@ -1,7 +1,7 @@
 ---
 title: "Autonomy Makes a Long Life"
 date: "2021-05-30"
-aliases:
+alias:
 - "autonomy-makes-a-long-life"
 - "lilim/005"
 tags:

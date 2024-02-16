@@ -1,7 +1,7 @@
 ---
 title: Emotions
 date: 2022-07-24
-aliases:
+alias:
   - Emotions
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Walking is a metaphor for living
 date: 2021-12-10
-aliases:
+alias:
   - Walking is a perfect metaphor for living
 tags:
   - seedlings

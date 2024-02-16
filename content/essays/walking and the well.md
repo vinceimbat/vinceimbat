@@ -1,7 +1,7 @@
 ---
 title: "Walking and the Well"
 date: "2022-11-14"
-aliases:
+alias:
 - "/the-long-walk-5"
 - "tlw/005"
 tags:

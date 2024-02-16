@@ -1,7 +1,7 @@
 ---
 title: "And I Shall Hear Their Hearts Beating: A Walk at Bagong Silang"
 date: 2023-12-16
-aliases:
+alias:
   - mount makiling trail
 tags:
   - evergreens

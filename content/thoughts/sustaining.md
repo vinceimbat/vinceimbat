@@ -1,7 +1,7 @@
 ---
 title: Sustaining
 date: 2022-11-13
-aliases:
+alias:
   - Sustaining
 tags:
   - seedlings

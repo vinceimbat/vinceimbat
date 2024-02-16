@@ -3,7 +3,7 @@ title: The Energy Axis
 date: 2020-09-13
 tags:
   - seedlings
-aliases:
+alias:
   - The Energy Axis
 sr-due: 2023-12-26
 sr-interval: 3

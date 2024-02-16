@@ -1,7 +1,7 @@
 ---
 title: "Nasa Labas ang Ili"
 date: "2023-04-21"
-aliases:
+alias:
 - "Nasa-Labas-ang-Ili"
 - "thoughts/nlai-outline"
 tags:

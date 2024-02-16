@@ -1,7 +1,7 @@
 ---
 title: "My work is to celebrate life"
 date: "2021-11-03"
-aliases: "thoughts/my-work-is-to-celebrate-life"
+alias: "thoughts/my-work-is-to-celebrate-life"
 tags:
 
 - "seedlings"

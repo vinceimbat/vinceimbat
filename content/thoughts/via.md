@@ -1,7 +1,7 @@
 ---
 title: Values, Interests, and Abilities (VIA)
 date: 2020-09-13
-aliases:
+alias:
   - Values, Interests, and Abilities (VIA)
 tags:
   - seedlings

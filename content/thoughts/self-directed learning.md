@@ -1,7 +1,7 @@
 ---
 title: Self-directed learning
 date: 2021-02-11
-aliases:
+alias:
   - Self-directed learning
 tags:
   - seedlings

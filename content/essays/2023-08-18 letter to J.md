@@ -2,7 +2,7 @@
 title: 2023-08-18 letter to J
 date: 2023-10-20
 draft: false
-aliases:
+alias:
   - 2023-08-18 letter to J
 tags:
   - seedlings

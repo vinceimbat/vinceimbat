@@ -1,7 +1,7 @@
 ---
 title: Ang Unang Liwayway
 date: 2023-02-11
-aliases:
+alias:
   - ang unang liwayway
 tags:
   - seedlings

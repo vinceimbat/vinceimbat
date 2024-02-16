@@ -1,7 +1,7 @@
 ---
 title: How to approach life with humor
 date: 2022-04-27
-aliases:
+alias:
   - How to approach life with humor
 tags:
   - seedlings

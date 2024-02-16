@@ -1,7 +1,7 @@
 ---
 title: Faith
 date: 2022-10-10
-aliases:
+alias:
   - Faith
 tags:
   - seedlings

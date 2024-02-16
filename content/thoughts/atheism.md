@@ -1,7 +1,7 @@
 ---
 title: Atheism
 date: 2022-03-09
-aliases:
+alias:
   - Atheism
 tags:
   - seedlings

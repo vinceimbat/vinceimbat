@@ -1,7 +1,7 @@
 ---
 title: Sabel
 date: 2022-09-01
-aliases:
+alias:
   - Meeting Tita Sabel for the first time again
   - tita sabel
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Laundry"
 date: "2022-12-04"
-aliases:
+alias:
 - "/the-long-walk-8"
 - "tlw/008"
 tags:

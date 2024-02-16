@@ -1,7 +1,7 @@
 ---
 title: Louise Far
 date: 2023-06-14
-aliases:
+alias:
   - Louise Far
 tags:
   - seedlings

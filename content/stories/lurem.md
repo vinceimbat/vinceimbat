@@ -1,7 +1,7 @@
 ---
 title: "Lurem"
 date: "2020-12-02"
-aliases: "lurem"
+alias: "lurem"
 tags:
   - evergreens
 ---

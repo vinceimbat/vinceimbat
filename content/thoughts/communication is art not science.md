@@ -1,7 +1,7 @@
 ---
 title: "Precise communication of subjective experience is art not science"
 date: "2021-02-01"
-aliases: "thoughts/communication-is-art"
+alias: "thoughts/communication-is-art"
 tags:
 
 - "seedlings"

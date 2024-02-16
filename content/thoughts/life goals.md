@@ -1,7 +1,7 @@
 ---
 title: Life goals
 date: 2022-08-18
-aliases:
+alias:
   - Life goals
 tags:
   - evergreens

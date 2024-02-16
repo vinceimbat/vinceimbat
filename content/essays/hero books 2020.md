@@ -5,7 +5,7 @@ slug: my-hero-books-of-2020
 tags:
   - hero-books
   - evergreens
-aliases:
+alias:
   - My Hero Books of 2020
 ---
 ![My hero books of 2020](my-hero-books-of-2020.jpg)

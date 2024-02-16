@@ -1,7 +1,7 @@
 ---
 title: "Lyrical philosophy"
 date: "2022-07-24"
-aliases:
+alias:
 - "Lyrical-philosophy"
 tags:
 - "seedlings"

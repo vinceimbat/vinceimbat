@@ -1,7 +1,7 @@
 ---
 title: Jhoanna Lynn Cruz
 date: 2023-07-02
-aliases:
+alias:
   - Jhoanna-Lynn-Cruz
   - contacts/jhoanna lynn cruz
 tags:

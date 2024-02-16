@@ -1,7 +1,7 @@
 ---
 title: "Those Stairs at Bakakeng"
 date: "2023-07-30"
-aliases:
+alias:
 - "tlw/012"
 tags:
 - "tlw"

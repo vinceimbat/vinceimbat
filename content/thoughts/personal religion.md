@@ -1,7 +1,7 @@
 ---
 title: Personal religion
 date: 2022-09-06
-aliases:
+alias:
   - Personal religion
 tags:
   - seedlings

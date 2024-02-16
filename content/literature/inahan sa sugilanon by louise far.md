@@ -1,7 +1,7 @@
 ---
 title: Inahan sa Sugilanon by Louise Far
 date: 2023-07-02
-aliases:
+alias:
   - Inahan-sa-Sugilanon-by-Louise-Far
   - thoughts/inahan sa sugilanon by louise far
 tags:

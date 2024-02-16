@@ -1,7 +1,7 @@
 ---
 title: Avoid-at-all cost life goals
 date: 2022-07-04
-aliases:
+alias:
   - Avoid-at-all cost life goals
 tags:
   - seedlings

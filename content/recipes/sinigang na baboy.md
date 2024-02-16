@@ -1,7 +1,7 @@
 ---
 title: "Sinigang na Baboy"
 date: "2022-06-03"
-aliases:
+alias:
 - "Sinigang na Baboy"
 tags:
 - "evergreens"

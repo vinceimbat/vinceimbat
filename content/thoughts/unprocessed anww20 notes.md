@@ -3,7 +3,7 @@ title: Unprocessed notes for ANWW20
 date: 2023-03-27
 tags:
   - seedlings
-aliases:
+alias:
   - Unprocessed notes for ANWW20
 sr-due: 2024-09-05
 sr-interval: 283

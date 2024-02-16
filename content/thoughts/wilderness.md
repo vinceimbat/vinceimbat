@@ -1,7 +1,7 @@
 ---
 title: Wilderness
 date: 2022-08-15
-aliases:
+alias:
   - The Wilderness
 tags:
   - seedlings

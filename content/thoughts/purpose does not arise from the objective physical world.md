@@ -1,7 +1,7 @@
 ---
 title: Purpose does not arise from the objective physical world
 date: 2022-04-27
-aliases:
+alias:
   - Purpose does not arise from the objective physical world
 tags:
   - seedlings

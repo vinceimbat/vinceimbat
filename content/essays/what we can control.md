@@ -1,7 +1,7 @@
 ---
 title: "The Only Thing We Can Truly Control"
 date: "2021-06-20"
-aliases:
+alias:
 - "the-only-thing-we-can-truly-control"
 - "lilim/008"
 tags:

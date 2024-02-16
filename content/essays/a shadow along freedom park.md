@@ -1,7 +1,7 @@
 ---
 title: "A Shadow Along Freedom Park"
 date: "2021-09-19"
-aliases:
+alias:
 - "a-shadow-along-freedom-park"
 - "lilim/021"
 tags:

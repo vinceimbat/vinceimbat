@@ -1,7 +1,7 @@
 ---
 title: Beneath and beyond us - Seamus Heaney
 date: 2023-01-02
-aliases:
+alias:
   - beneath and beyond us - heaney
 tags:
   - evergreens

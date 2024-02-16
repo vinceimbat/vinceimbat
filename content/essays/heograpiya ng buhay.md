@@ -1,7 +1,7 @@
 ---
 title: "Ang Heograpiya ng Buhay"
 date: "2022-06-05"
-aliases:
+alias:
 - "ang-heograpiya-ng-buhay"
 - "lilim/028"
 tags:

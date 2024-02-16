@@ -1,7 +1,7 @@
 ---
 title: "What title will I use?"
 date: "2023-07-18"
-aliases: "thoughts/what-title-will-i-use"
+alias: "thoughts/what-title-will-i-use"
 tags:
 
 - "seedlings"

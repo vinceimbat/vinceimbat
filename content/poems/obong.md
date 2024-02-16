@@ -1,7 +1,7 @@
 ---
 title: Obong
 date: 2023-05-13
-aliases:
+alias:
   - poems/mais
 tags:
   - pangasinan

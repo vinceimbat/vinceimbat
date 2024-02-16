@@ -1,7 +1,7 @@
 ---
 title: Our thrownness is a gift
 date: 2022-09-18
-aliases:
+alias:
   - Reinterpret our throwness as a gift
 tags:
   - seedlings

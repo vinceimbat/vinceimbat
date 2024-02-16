@@ -1,7 +1,7 @@
 ---
 title: "Concepts, Facts, and Procedures in Editing and Proofreading"
 date: "2023-03-13"
-aliases:
+alias:
 - "Concepts, Facts, and Procedures in Editing and Proofreading"
 tags:
 - "seedlings"

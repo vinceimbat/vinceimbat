@@ -1,7 +1,7 @@
 ---
 title: Personal Narrative Vision
 date: 2022-08-11
-aliases:
+alias:
   - Personal-Narrative-Vision
   - thoughts/personal narrative vision
 tags:

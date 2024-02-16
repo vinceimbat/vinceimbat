@@ -1,7 +1,7 @@
 ---
 title: My purpose is to live deliberately
 date: 2022-07-14
-aliases:
+alias:
   - My-purpose-is-to-live-deliberately
   - my-purpose
 tags:

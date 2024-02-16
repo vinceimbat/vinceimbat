@@ -1,7 +1,7 @@
 ---
 title: "Nasa Labas ang Ili"
 date: "2023-07-19"
-aliases: "thoughts/nlai"
+alias: "thoughts/nlai"
 tags:
 
 - "seedlings"

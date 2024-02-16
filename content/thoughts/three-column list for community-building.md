@@ -1,7 +1,7 @@
 ---
 title: Three-column list for community-building
 date: 2022-08-25
-aliases:
+alias:
   - three-column list for community-building
 tags:
   - seedlings

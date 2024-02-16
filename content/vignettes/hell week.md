@@ -1,7 +1,7 @@
 ---
 title: "Hell Week"
 date: "2021-03-08"
-aliases:
+alias:
 - "Hell Week"
 tags:
 - "seedlings"

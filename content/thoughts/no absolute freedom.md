@@ -1,7 +1,7 @@
 ---
 title: No absolute freedom
 date: 2022-05-19
-aliases:
+alias:
   - Freedom will never be fully optimmized
 tags:
   - seedlings

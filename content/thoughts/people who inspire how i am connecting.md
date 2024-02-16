@@ -1,7 +1,7 @@
 ---
 title: "People who inspire how I am connecting"
 date: "2021-03-28"
-aliases: "thoughts/people-connecting"
+alias: "thoughts/people-connecting"
 tags:
 
 - "seedlings"

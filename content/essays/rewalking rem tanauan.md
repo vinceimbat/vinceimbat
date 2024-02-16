@@ -1,7 +1,7 @@
 ---
 title: "Re-walking Rem Tanauan"
 date: "2022-11-11"
-aliases:
+alias:
 - "/the-long-walk-4"
 - "tlw/004"
 tags:

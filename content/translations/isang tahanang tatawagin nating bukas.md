@@ -1,7 +1,7 @@
 ---
 title: "Isang Tahanang Tatawagin Nating “Bukas”"
 date: "2023-03-28"
-aliases:
+alias:
 - "Isang Tahanang Tatawagin Nating “Bukas”"
 tags:
 - "seedlings"

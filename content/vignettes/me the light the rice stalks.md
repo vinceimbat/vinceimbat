@@ -1,7 +1,7 @@
 ---
 title: "Me. The light. The rice stalks."
 date: "2020-03-03"
-aliases:
+alias:
 - "me-the-light-the-rice-stalks"
 tags:
   - "evergreens"

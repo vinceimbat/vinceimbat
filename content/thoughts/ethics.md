@@ -1,7 +1,7 @@
 ---
 title: "Ethics"
 date: "2021-04-15"
-aliases:
+alias:
 - "Ethics"
 tags:
 - "seedlings"

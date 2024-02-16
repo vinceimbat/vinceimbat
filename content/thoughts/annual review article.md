@@ -1,7 +1,7 @@
 ---
 title: Annual review article
 date: 2023-01-06
-aliases:
+alias:
   - annual review article
 tags:
   - seedlings

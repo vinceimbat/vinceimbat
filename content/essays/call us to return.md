@@ -1,7 +1,7 @@
 ---
 title: "The Things That Call Us to Return"
 date: "2021-09-05"
-aliases:
+alias:
 - "call-us-to-return"
 - "lilim/019"
 tags:

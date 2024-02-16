@@ -1,7 +1,7 @@
 ---
 title: "My thinking while walking strategy"
 date: "2021-12-14"
-aliases:
+alias:
 - "My-thinking-while-walking-strategy"
 - "thoughts/my-thinking-while-walking-strategy"
 tags:

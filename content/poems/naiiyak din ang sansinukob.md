@@ -4,7 +4,7 @@ date: 2022-11-14
 location:
   - 14.161453
   - 121.246808
-aliases:
+alias:
   - poems/naiiyak rin ang sansinukob
 tags:
   - filipino

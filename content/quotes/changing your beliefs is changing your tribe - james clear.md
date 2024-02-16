@@ -1,7 +1,7 @@
 ---
 title: "Changing your beliefs is changing your tribe - James Clear"
 date: "2023-07-18"
-aliases: ""
+alias: ""
 tags:
 - "evergreens"
 ---

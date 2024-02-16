@@ -1,7 +1,7 @@
 ---
 title: "Intentional living"
 date: "2022-04-28"
-aliases:
+alias:
 - "Intentional-living"
 - "thoughts/intentional-living"
 tags:

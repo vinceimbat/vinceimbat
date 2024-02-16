@@ -1,7 +1,7 @@
 ---
 title: "The Ube Halaya Stores at San Pablo"
 date: "2022-08-21"
-aliases:
+alias:
 - "The ube halaya stores at San Pablo"
 tags:
 - "seedlings"

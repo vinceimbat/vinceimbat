@@ -1,7 +1,7 @@
 ---
 title: "My work is religious in nature"
 date: "2022-09-23"
-aliases:
+alias:
 - "My-life-work-is-religious-in-nature"
 tags:
 - "seedlings"

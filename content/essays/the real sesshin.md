@@ -1,7 +1,7 @@
 ---
 title: "The Real Sesshin"
 date: "2022-11-28"
-aliases:
+alias:
 - "/the-long-walk-7"
 - "tlw/007"
 tags:

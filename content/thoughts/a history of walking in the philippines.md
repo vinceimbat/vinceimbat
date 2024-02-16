@@ -1,7 +1,7 @@
 ---
 title: "A History of Walking in the Philippines"
 date: "2023-07-30"
-aliases: "thoughts/history-of-walking-philippines"
+alias: "thoughts/history-of-walking-philippines"
 tags:
 
 - "seedlings"

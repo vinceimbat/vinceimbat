@@ -1,7 +1,7 @@
 ---
 title: My 2015 Annual Review
 date: 2016-01-07
-aliases:
+alias:
   - 2015-annual-review
 tags:
   - annual-reviews

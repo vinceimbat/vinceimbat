@@ -1,7 +1,7 @@
 ---
 title: Find your purpose through divergence–convergence
 date: 2022-04-27
-aliases:
+alias:
   - find your purpose through divergence–convergence
 tags:
   - seedlings

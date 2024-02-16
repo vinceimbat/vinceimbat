@@ -1,7 +1,7 @@
 ---
 title: Connecting
 date: 2021-02-11
-aliases:
+alias:
   - Connecting
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "Process over product"
 date: "2023-07-18"
-aliases: "thoughts/process-over-product"
+alias: "thoughts/process-over-product"
 tags:
 
 - "seedlings"

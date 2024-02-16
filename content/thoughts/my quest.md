@@ -1,7 +1,7 @@
 ---
 title: "My quest"
 date: "2022-07-13"
-aliases: "My-quest"
+alias: "My-quest"
 tags:
 - "seedlings"
 sr-due: 2023-08-26

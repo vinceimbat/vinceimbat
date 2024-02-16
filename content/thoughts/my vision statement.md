@@ -1,7 +1,7 @@
 ---
 title: "My vision statement"
 date: "2022-02-07"
-aliases: "My-vision-statement"
+alias: "My-vision-statement"
 tags:
 - "seedlings"
 sr-due: 2023-05-09

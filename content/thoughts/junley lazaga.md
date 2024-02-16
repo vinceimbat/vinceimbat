@@ -1,7 +1,7 @@
 ---
 title: Junley Lazaga
 date: 2023-08-01
-aliases:
+alias:
   - contacts/junley lazaga
 tags:
   - seedlings

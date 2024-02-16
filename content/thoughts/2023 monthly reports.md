@@ -1,7 +1,7 @@
 ---
 title: 2023 Monthly reports
 date: 2023-02-02
-aliases:
+alias:
   - 2023 Monthly reports
 tags:
   - evergreens

@@ -3,7 +3,7 @@ title: Pivot by Jenny Blake
 date: 2017-01-09
 tags:
   - seedlings
-aliases:
+alias:
   - Pivot by Jenny Blake
 sr-due: 2024-06-17
 sr-interval: 287

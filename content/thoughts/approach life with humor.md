@@ -1,7 +1,7 @@
 ---
 title: Approach life with humor
 date: 2022-04-27
-aliases:
+alias:
   - Approach life with humor
 tags:
   - evergreens

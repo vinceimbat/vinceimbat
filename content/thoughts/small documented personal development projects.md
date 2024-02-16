@@ -1,7 +1,7 @@
 ---
 title: "Small documented personal development projects"
 date: "2022-03-17"
-aliases:
+alias:
 - "Small-documented-personal-development-projects"
 - "thoughts/small-documented-personal-development-projects"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "A Goodness Lurking: The Quest for a Free, Subsistent Spirituality"
 date: 2023-11-25
-aliases:
+alias:
   - essays/toward a free subsistent spirituality
   - essays/a free subsistent spirituality
 tags:

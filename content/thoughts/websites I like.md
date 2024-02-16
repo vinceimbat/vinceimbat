@@ -1,7 +1,7 @@
 ---
 title: "Websites I like"
 date: "2023-07-26"
-aliases:
+alias:
 - "Websites-I-resonate-with"
 - "thoughts/websites-i-like"
 tags:

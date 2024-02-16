@@ -1,7 +1,7 @@
 ---
 title: "Creative Freedom Is All That Matters"
 date: "2020-03-11"
-aliases:
+alias:
 - "creative-freedom-is-all-that-matters"
 tags:
   - "seedlings"

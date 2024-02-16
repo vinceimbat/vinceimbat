@@ -1,7 +1,7 @@
 ---
 title: Writing prose as a poet
 date: 2023-05-21
-aliases:
+alias:
   - Writing prose as a poet
 tags:
   - seedlings

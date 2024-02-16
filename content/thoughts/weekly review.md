@@ -1,7 +1,7 @@
 ---
 title: Weekly review
 date: 2022-05-09
-aliases:
+alias:
   - Weekly review
 tags:
   - seedlings

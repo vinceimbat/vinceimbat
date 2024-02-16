@@ -1,7 +1,7 @@
 ---
 title: A complex system that works – Gall
 date: 2022-08-11
-aliases:
+alias:
   - A complex system that evolved from a simple system that works
 tags:
   - evergreens

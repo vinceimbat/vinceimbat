@@ -1,7 +1,7 @@
 ---
 title: Building a body or building a bridge - Clear
 date: 2023-04-03
-aliases:
+alias:
   - Building a body or building a bridge - Clear
 tags:
   - evergreens

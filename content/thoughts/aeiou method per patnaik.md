@@ -1,7 +1,7 @@
 ---
 title: AEIOU method per Patnaik
 date: 2022-11-24
-aliases:
+alias:
   - aeiou method per patnaik
 tags:
   - seedlings

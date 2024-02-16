@@ -1,7 +1,7 @@
 ---
 title: Amoralism
 date: 2021-01-05
-aliases:
+alias:
   - Amoralism
 tags:
   - seedlings

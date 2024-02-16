@@ -1,7 +1,7 @@
 ---
 title: Goal-setting
 date: 2021-01-26
-aliases:
+alias:
   - goal-setting
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "A Walk Around HEAL"
 date: "2021-06-07"
-aliases:
+alias:
 - "a-walk-around-heal"
 - "lilim/006"
 tags:

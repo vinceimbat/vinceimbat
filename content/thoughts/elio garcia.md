@@ -1,7 +1,7 @@
 ---
 title: Elio Garcia
 date: 2023-07-02
-aliases:
+alias:
   - Elio Garcia
 tags:
   - seedlings

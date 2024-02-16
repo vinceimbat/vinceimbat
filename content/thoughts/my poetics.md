@@ -1,7 +1,7 @@
 ---
 title: "My poetics"
 date: "2023-07-15"
-aliases:
+alias:
 - "My-poetics"
 tags:
 - "seedlings"

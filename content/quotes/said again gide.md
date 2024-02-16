@@ -1,7 +1,7 @@
 ---
 title: Everything must be said again — Gide
 date: 2022-10-05
-aliases:
+alias:
   - Everything must be said again — Gide
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: Etymology of the word religion
 date: 2022-08-29
-aliases:
+alias:
   - Etymology of the word religion
 tags:
   - seedlings

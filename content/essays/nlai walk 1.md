@@ -1,7 +1,7 @@
 ---
 title: "NLAI Walk 1"
 date: "2023-07-19"
-aliases: "/thoughts/nlai-walk-1"
+alias: "/thoughts/nlai-walk-1"
 tags:
 - "seedlings"
 sr-due: 2023-07-20

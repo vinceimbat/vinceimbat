@@ -1,7 +1,7 @@
 ---
 title: "Beauty Is Always Around You"
 date: "2021-05-14"
-aliases:
+alias:
 - "lilim/002"
 tags:
   - "lilim"

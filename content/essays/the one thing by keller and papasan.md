@@ -1,7 +1,7 @@
 ---
 title: "The One Thing by Keller and Papasan (Book Summary)"
 date: "2019-08-30"
-aliases:
+alias:
 - "the-one-thing"
 tags:
   - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: Praxeology is about choosing means
 date: 2019-07-31
-aliases:
+alias:
   - praxeology is about choosing means
 tags:
   - seedlings

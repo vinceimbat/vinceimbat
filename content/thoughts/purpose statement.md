@@ -1,7 +1,7 @@
 ---
 title: Purpose statement
 date: 2022-02-07
-aliases:
+alias:
   - Purpose statement
 tags:
   - seedlings

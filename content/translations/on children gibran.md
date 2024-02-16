@@ -1,7 +1,7 @@
 ---
 title: "On Children - Gibran"
 date: "2023-01-02"
-aliases:
+alias:
 - "On Children - Gibran"
 tags:
 - "seedlings"

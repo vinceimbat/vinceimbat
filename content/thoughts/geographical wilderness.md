@@ -1,7 +1,7 @@
 ---
 title: Geographical wilderness
 date: 2022-08-15
-aliases:
+alias:
   - Wilderness of geographic space
 tags:
   - seedlings

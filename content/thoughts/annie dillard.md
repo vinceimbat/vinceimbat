@@ -1,7 +1,7 @@
 ---
 title: "Annie Dillard"
 date: "2022-05-12"
-aliases:
+alias:
 - "Annie-Dillard"
 - "annie-dillard"
 tags:

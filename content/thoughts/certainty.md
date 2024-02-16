@@ -1,7 +1,7 @@
 ---
 title: Certainty
 date: 2022-08-24
-aliases:
+alias:
   - Certainty
 tags:
   - seedlings

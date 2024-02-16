@@ -1,7 +1,7 @@
 ---
 title: 2022 Annual Review
 date: 2023-01-12
-aliases:
+alias:
   - 2022-annual-review
 tags:
   - annual-reviews

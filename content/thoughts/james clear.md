@@ -1,7 +1,7 @@
 ---
 title: James Clear
 date: 2016-06-06
-aliases:
+alias:
   - James Clear
 tags:
   - seedlings

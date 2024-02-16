@@ -2,7 +2,7 @@
 title: 2022-01 Monthly report
 date: 2023-01-01
 draft: true
-aliases:
+alias:
   - 2022-01 Monthly report
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: Kabuwasa'd Cablong
 date: 2022-12-05
-aliases:
+alias:
   - poems/Kabuwasan ed Cablong
 tags:
   - pangasinan

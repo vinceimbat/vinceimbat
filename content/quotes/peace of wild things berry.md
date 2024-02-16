@@ -1,7 +1,7 @@
 ---
 title: Peace of wild things – Wendell Berry
 date: 2023-11-27
-aliases: 
+alias: 
 tags:
   - evergreens
 ---

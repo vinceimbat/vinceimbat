@@ -1,7 +1,7 @@
 ---
 title: Kissa by Kissa — Mod
 date: 2022-06-21
-aliases:
+alias:
   - Kissa by Kissa — Mod
 tags:
   - seedlings

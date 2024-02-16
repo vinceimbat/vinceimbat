@@ -1,7 +1,7 @@
 ---
 title: My daily routine
 date: 2021-01-06
-aliases:
+alias:
   - My-daily-routine
   - my daily routine
 tags:

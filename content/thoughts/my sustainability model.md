@@ -1,7 +1,7 @@
 ---
 title: "My sustainability model"
 date: "2021-02-12"
-aliases:
+alias:
 - "My-sustainability-model"
 - "thoughts/my-sustainability-model"
 tags:

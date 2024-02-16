@@ -1,7 +1,7 @@
 ---
 title: Introduction to Walden – Merwin
 date: 2023-05-23
-aliases:
+alias:
   - Notes from introduction to Walden
 tags:
   - seedlings

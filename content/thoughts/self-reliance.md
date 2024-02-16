@@ -1,7 +1,7 @@
 ---
 title: "Self-reliance"
 date: "2021-04-17"
-aliases: "Self-reliance"
+alias: "Self-reliance"
 tags:
 - "seedlings"
 sr-due: 2024-10-22

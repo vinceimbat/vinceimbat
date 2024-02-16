@@ -1,7 +1,7 @@
 ---
 title: Religion
 date: 2022-08-29
-aliases:
+alias:
   - Religion
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Praxeology
 date: 2021-04-15
-aliases:
+alias:
   - praxeology
 tags:
   - seedlings

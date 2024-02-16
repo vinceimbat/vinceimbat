@@ -3,7 +3,7 @@ title: English vocabulary words
 date: 2022-12-07
 tags:
   - evergreens
-aliases:
+alias:
   - English vocabulary words
 ---
 # A

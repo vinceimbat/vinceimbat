@@ -1,7 +1,7 @@
 ---
 title: We create our individual purpose
 date: 2022-04-25
-aliases:
+alias:
   - We create our individual purpose
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: Enlarge the box — Zander and Zander
 date: 2022-05-07
-aliases:
+alias:
   - Every problem, every dilemma. — Zander and Zander
 tags:
   - evergreens

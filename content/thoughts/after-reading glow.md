@@ -1,7 +1,7 @@
 ---
 title: After-reading glow
 date: 2021-11-05
-aliases:
+alias:
   - After-reading glow
 tags:
   - seedlings

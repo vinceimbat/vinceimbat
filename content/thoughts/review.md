@@ -1,7 +1,7 @@
 ---
 title: Review
 date: 2021-12-14
-aliases:
+alias:
   - Review
 tags:
   - seedlings

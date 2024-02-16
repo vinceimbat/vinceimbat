@@ -1,7 +1,7 @@
 ---
 title: Work with the garage door up
 date: 2021-02-05
-aliases:
+alias:
   - Work-with-the-garage-door-up
   - thoughts/garage-door-up
 tags:

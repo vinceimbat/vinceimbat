@@ -1,7 +1,7 @@
 ---
 title: "Henry David Thoreau: A Life by Walls"
 date: 2023-01-16
-aliases:
+alias:
   - Henry David Thoreau by Walls
 tags:
   - seedlings

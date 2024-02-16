@@ -1,7 +1,7 @@
 ---
 title: Philosophy enriches stories
 date: 2022-05-20
-aliases:
+alias:
   - Philosophy enriches the meaning of stories
 tags:
   - seedlings

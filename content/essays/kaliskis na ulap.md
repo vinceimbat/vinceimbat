@@ -1,7 +1,7 @@
 ---
 title: "\"Kaliskis na Ulap\""
 date: "2021-10-03"
-aliases:
+alias:
 - "call-us-to-return"
 - "lilim/022"
 tags:

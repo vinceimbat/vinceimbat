@@ -1,7 +1,7 @@
 ---
 title: "A Metaphysical Walk Along the Mountains of Rizal"
 date: "2022-11-22"
-aliases:
+alias:
 - "/the-long-walk-6"
 - "tlw/006"
 tags:

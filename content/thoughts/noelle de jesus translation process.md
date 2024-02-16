@@ -1,7 +1,7 @@
 ---
 title: "Literal translation process of Noelle de Jesus"
 date: "2022-10-22"
-aliases:
+alias:
 - "Literal translation process of Noelle de Jesus"
 tags:
 - "seedlings"

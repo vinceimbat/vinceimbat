@@ -1,7 +1,7 @@
 ---
 title: Early Retirement Extreme
 date: 2021-06-16
-aliases:
+alias:
   - early retirement extreme
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "The Inward Morning"
 date: "2022-10-16"
-aliases:
+alias:
 - "/the-long-walk-2"
 - "tlw/002"
 tags:

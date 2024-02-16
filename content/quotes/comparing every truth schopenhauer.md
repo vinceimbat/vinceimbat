@@ -1,7 +1,7 @@
 ---
 title: Comparing every truth Schopenhauer
 date: 2023-10-23
-aliases: 
+alias: 
 tags:
   - evergreens
 ---

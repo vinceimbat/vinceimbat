@@ -1,7 +1,7 @@
 ---
 title: "Lolo Aldo"
 date: "2022-06-08"
-aliases:
+alias:
 - "A visit to Lolo Aldo"
 - "tlw/014"
 tags:

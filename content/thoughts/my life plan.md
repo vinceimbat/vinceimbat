@@ -1,7 +1,7 @@
 ---
 title: My life plan
 date: 2021-01-30
-aliases:
+alias:
   - My life plan
 tags:
   - seedlings

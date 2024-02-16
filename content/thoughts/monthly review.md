@@ -1,7 +1,7 @@
 ---
 title: Monthly review
 date: 2022-05-03
-aliases:
+alias:
   - Monthly review
 tags:
   - evergreens

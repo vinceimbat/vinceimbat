@@ -1,7 +1,7 @@
 ---
 title: Wilderness of the mind
 date: 2022-08-15
-aliases:
+alias:
   - Wilderness of the mind
 tags:
   - seedlings

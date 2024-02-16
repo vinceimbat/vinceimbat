@@ -1,7 +1,7 @@
 ---
 title: "Listen"
 date: "2023-08-01"
-aliases: ""
+alias: ""
 tags:
 - "seedlings"
 sr-due: 2023-08-04

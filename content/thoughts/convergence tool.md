@@ -1,7 +1,7 @@
 ---
 title: Convergence tool
 date: 2022-03-17
-aliases:
+alias:
   - convergence tool
 tags:
   - seedlings

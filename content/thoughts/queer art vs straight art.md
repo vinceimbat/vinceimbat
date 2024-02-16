@@ -1,7 +1,7 @@
 ---
 title: "Queer art vs Straight art"
 date: "2023-07-02"
-aliases: "Queer-art-vs-Straight-art"
+alias: "Queer-art-vs-Straight-art"
 tags:
 - "seedlings"
 sr-due: 2023-09-11

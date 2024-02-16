@@ -1,7 +1,7 @@
 ---
 title: "Square One by Steve Patterson (Book Summary)"
 date: "2018-01-16"
-aliases:
+alias:
 - "square-one"
 tags:
   - "seedlings"

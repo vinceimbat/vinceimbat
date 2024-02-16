@@ -1,7 +1,7 @@
 ---
 title: "Creating a new world vs making the most of what we have"
 date: "2023-07-03"
-aliases: "Creating-a-new-world-vs-making-th-most-of-what-we-have"
+alias: "Creating-a-new-world-vs-making-th-most-of-what-we-have"
 tags:
 - "seedlings"
 sr-due: 2023-07-06

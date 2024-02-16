@@ -1,7 +1,7 @@
 ---
 title: "Transcendence"
 date: "2021-07-17"
-aliases: "Transcendence"
+alias: "Transcendence"
 tags:
 - "seedlings"
 sr-due: 2024-10-03

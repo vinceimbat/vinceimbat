@@ -1,7 +1,7 @@
 ---
 title: "Tiago Forte"
 date: "2021-01-26"
-aliases: "thoughts/tiago-forte"
+alias: "thoughts/tiago-forte"
 tags:
 
 - "seedlings"

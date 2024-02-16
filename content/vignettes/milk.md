@@ -1,7 +1,7 @@
 ---
 title: "Milk"
 date: "2021-02-21"
-aliases:
+alias:
 - "Milk"
 tags:
 - "seedlings"

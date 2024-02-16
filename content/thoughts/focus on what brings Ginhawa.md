@@ -1,7 +1,7 @@
 ---
 title: "Focus on what brings Ginhawa"
 date: "2021-03-20"
-aliases:
+alias:
 - "Focus-on-what-brings-me-Ginhawa-in-life-and-work"
 - "thoughts/focus-on-what-brings-ginhawa"
 tags:

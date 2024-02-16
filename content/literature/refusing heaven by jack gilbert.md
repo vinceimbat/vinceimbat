@@ -1,7 +1,7 @@
 ---
 title: Refusing Heaven by Jack Gilbert
 date: 2023-07-31
-aliases:
+alias:
   - thoughts/refusing heaven by jack gilbert
 tags:
   - seedlings

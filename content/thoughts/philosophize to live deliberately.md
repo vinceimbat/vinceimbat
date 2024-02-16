@@ -1,7 +1,7 @@
 ---
 title: Philosophize to live deliberately
 date: 2021-09-01
-aliases:
+alias:
   - The-primary-purpose-of-philosophizing-is-to-live-a-good-life
   - thoughts/philosophize-to-live-deliberately
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Molawin biopark"
 date: "2023-07-03"
-aliases: "Molawin-biopark"
+alias: "Molawin-biopark"
 tags:
 - "seedlings"
 sr-due: 2023-09-07

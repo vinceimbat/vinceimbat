@@ -1,7 +1,7 @@
 ---
 title: Seedlings
 date: 2022-08-20
-aliases:
+alias:
   - Seedlings
 tags:
   - seedlings

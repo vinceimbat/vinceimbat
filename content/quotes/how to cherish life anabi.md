@@ -1,7 +1,7 @@
 ---
 title: How to cherish life - Andrew Anabi
 date: 2023-09-22
-aliases: 
+alias: 
 tags:
   - evergreens
 ---

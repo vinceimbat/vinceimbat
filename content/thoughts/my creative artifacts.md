@@ -1,7 +1,7 @@
 ---
 title: "My creative artifacts"
 date: "2022-04-30"
-aliases:
+alias:
 - "What-creative-artifacts-do-I-want-to-create"
 - "thoughts/my-creative-artifacts"
 tags:

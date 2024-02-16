@@ -1,7 +1,7 @@
 ---
 title: Evergreens
 date: 2022-12-28
-aliases:
+alias:
   - Evergreens
 tags:
   - seedlings

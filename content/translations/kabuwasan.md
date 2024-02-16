@@ -1,7 +1,7 @@
 ---
 title: "Kabuwasan"
 date: "2022-10-18"
-aliases:
+alias:
 - "Kabuwasan"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: Mission statement
 date: 2021-04-19
-aliases:
+alias:
   - Mission statement
 tags:
   - evergreens

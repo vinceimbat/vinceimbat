@@ -1,7 +1,7 @@
 ---
 title: "Wonder"
 date: "2022-08-25"
-aliases: "Wonder"
+alias: "Wonder"
 tags:
 - "seedlings"
 sr-due: 2024-10-04

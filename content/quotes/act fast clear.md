@@ -1,7 +1,7 @@
 ---
 title: Act fast on things that compound - Clear
 date: 2023-03-04
-aliases:
+alias:
   - Act fast on things that compound - Clear
 tags:
   - evergreens

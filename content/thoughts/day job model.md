@@ -1,7 +1,7 @@
 ---
 title: "Day Job model"
 date: "2021-02-06"
-aliases: "thoughts/day-job-model"
+alias: "thoughts/day-job-model"
 tags:
 
 - "seedlings"

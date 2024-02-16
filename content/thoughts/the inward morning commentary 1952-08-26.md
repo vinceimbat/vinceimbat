@@ -1,7 +1,7 @@
 ---
 title: The Inward Morning Commentary 1952-08-26
 date: 2022-08-25
-aliases:
+alias:
   - The Inward Morning Commentary 1952-08-26
 tags:
   - seedlings

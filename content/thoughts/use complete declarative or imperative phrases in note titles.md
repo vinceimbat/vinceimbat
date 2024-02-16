@@ -1,7 +1,7 @@
 ---
 title: "Use complete declarative or imperative phrases in note titles"
 date: "2022-06-17"
-aliases:
+alias:
 - "Use complete declarative or imperative phrases in note titles"
 tags:
 - "seedlings"

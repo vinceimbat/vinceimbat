@@ -1,7 +1,7 @@
 ---
 title: My LMS ground level setup
 date: 2021-07-17
-aliases:
+alias:
   - My LMS ground level setup
 tags:
   - seedlings

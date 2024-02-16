@@ -1,7 +1,7 @@
 ---
 title: Library
 date: 2019-08-28
-aliases:
+alias:
   - reading-list
   - library
 tags:

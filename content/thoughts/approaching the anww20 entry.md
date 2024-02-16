@@ -1,7 +1,7 @@
 ---
 title: Ideas on how to approach the ANWW20 entry
 date: 2023-03-24
-aliases:
+alias:
   - Ideas on how to approach the ANWW20 entry
 tags:
   - seedlings

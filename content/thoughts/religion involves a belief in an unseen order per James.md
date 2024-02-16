@@ -1,7 +1,7 @@
 ---
 title: Religion involves a belief in an unseen order per James
 date: 2022-08-29
-aliases:
+alias:
   - Religion involves a belief in an unseen order per James
 tags:
   - seedlings

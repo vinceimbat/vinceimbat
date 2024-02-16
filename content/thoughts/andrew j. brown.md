@@ -1,7 +1,7 @@
 ---
 title: Andrew J. Brown
 date: 2022-08-29
-aliases:
+alias:
   - andrew j. brown
 tags:
   - seedlings

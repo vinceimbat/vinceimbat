@@ -1,7 +1,7 @@
 ---
 title: 2023-08-22 letter to J
 date: 2023-10-20
-aliases:
+alias:
   - 2023-08-22 letter to J
 tags:
   - seedlings

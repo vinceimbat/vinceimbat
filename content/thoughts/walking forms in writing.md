@@ -1,7 +1,7 @@
 ---
 title: "Walking forms in writing"
 date: "2023-07-02"
-aliases: "Walking-forms-in-writing"
+alias: "Walking-forms-in-writing"
 tags:
 - "seedlings"
 sr-due: 2023-09-10

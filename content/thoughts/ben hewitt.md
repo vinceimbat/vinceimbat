@@ -1,7 +1,7 @@
 ---
 title: "Ben Hewitt"
 date: "2021-02-17"
-aliases:
+alias:
 - "ben-hewitt"
 - "Ben-Hewitt"
 tags:

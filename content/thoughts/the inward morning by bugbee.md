@@ -1,7 +1,7 @@
 ---
 title: The Inward Morning by Henry Bugbee
 date: 2022-07-26
-aliases:
+alias:
   - The-Inward-Morning-Bugbee
 tags:
   - seedlings

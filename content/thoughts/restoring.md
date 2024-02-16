@@ -1,7 +1,7 @@
 ---
 title: Restoring
 date: 2022-11-13
-aliases:
+alias:
   - Restoring
 draft: false
 tags:

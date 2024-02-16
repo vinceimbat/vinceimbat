@@ -1,7 +1,7 @@
 ---
 title: Williams Carlos Williams
 date: 2022-08-23
-aliases:
+alias:
   - Williams Carlos Williams
 tags:
   - seedlings

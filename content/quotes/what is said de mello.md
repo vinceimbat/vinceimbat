@@ -1,7 +1,7 @@
 ---
 title: Examine what is said not the one who says it — de Mello
 date: 2022-09-07
-aliases:
+alias:
   - Examine what is said not the one who says it — de Mello
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: Metalearning
 date: 2021-03-29
-aliases:
+alias:
   - Metalearning
 tags:
   - evergreens

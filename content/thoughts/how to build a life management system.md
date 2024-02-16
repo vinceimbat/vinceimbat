@@ -1,7 +1,7 @@
 ---
 title: How to build a life management system
 date: 2022-03-16
-aliases:
+alias:
   - How to build a life management system
 tags:
   - seedlings

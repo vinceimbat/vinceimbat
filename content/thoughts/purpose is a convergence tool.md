@@ -1,7 +1,7 @@
 ---
 title: Purpose is a convergence tool
 date: 2022-08-18
-aliases:
+alias:
   - Purpose is a convergence tool
 tags:
   - evergreens

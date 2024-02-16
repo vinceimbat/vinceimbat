@@ -1,7 +1,7 @@
 ---
 title: How to make editing enjoyable
 date: 2022-12-08
-aliases: 
+alias: 
 tags:
   - seedlings
 sr-due: 2027-05-18

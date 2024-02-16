@@ -1,7 +1,7 @@
 ---
 title: a series of wonderfully insoluble problems - bobin
 date: 2023-01-06
-aliases:
+alias:
   - a series of wonderfully insoluble problems - bobin
 tags:
   - evergreens

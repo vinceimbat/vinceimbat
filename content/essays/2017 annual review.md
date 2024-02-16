@@ -1,7 +1,7 @@
 ---
 title: My 2017 Annual Review
 date: 2018-01-04
-aliases:
+alias:
   - 2017-annual-review
 tags:
   - annual-reviews

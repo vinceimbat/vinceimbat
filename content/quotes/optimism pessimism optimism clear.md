@@ -1,7 +1,7 @@
 ---
 title: Optimism, pessimism, then optimism – James Clear
 date: 2023-12-11
-aliases: 
+alias: 
 tags:
   - evergreens
 ---

@@ -1,7 +1,7 @@
 ---
 title: Postmodernism
 date: 2022-08-24
-aliases:
+alias:
   - Postmodernism
 tags:
   - seedlings

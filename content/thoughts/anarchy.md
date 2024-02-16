@@ -1,7 +1,7 @@
 ---
 title: Anarchy
 date: 2021-02-13
-aliases:
+alias:
   - Anarchy
 tags:
   - seedlings

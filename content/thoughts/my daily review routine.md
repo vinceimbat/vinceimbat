@@ -1,7 +1,7 @@
 ---
 title: My daily review routine
 date: 2021-12-10
-aliases:
+alias:
   - My daily review routine
 tags:
   - seedlings

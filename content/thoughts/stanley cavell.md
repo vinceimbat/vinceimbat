@@ -1,7 +1,7 @@
 ---
 title: "Stanley Cavell"
 date: "2022-10-13"
-aliases:
+alias:
 - "Stanley-Cavell"
 - "thoughts/stanley-cavell"
 tags:

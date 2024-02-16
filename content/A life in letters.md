@@ -2,7 +2,7 @@
 title: "A life in letters"
 date: "2023-05-11"
 slug: "a-life-in-letters"
-aliases: "A-life-in-letters"
+alias: "A-life-in-letters"
 tags:
 
 - "seedlings"

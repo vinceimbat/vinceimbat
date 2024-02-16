@@ -1,7 +1,7 @@
 ---
 title: "Living"
 date: "2021-02-11"
-aliases: "Living"
+alias: "Living"
 tags:
 - "seedlings"
 sr-due: 2032-12-20

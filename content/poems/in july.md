@@ -1,7 +1,7 @@
 ---
 title: "In July"
 date: "2023-08-10"
-aliases:
+alias:
 - "tlw/015"
 tags:
 - "tlw"

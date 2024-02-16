@@ -1,7 +1,7 @@
 ---
 title: Ang Mosque sa Bulusan Street
 date: 2022-08-30
-aliases:
+alias:
   - Ang mosque sa Bulusan Street
   - vignettes/Ang mosque sa bulusan street
 tags:

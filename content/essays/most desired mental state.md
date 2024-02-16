@@ -1,7 +1,7 @@
 ---
 title: "Your Most Desired Mental State"
 date: "2021-07-25"
-aliases:
+alias:
 - "most-desired-mental-state"
 - "lilim/013"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Ang putong ng buhay ay ang hindi pag-alis sa kinaroroonan"
 date: "2022-08-18"
-aliases:
+alias:
 - "Ang putong ng buhay ay ang hindi pag-alis sa kinaroroonan"
 tags:
 - "seedlings"

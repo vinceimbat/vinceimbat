@@ -1,7 +1,7 @@
 ---
 title: Laurie Santos
 date: 2023-08-21
-aliases:
+alias:
   - Laurie Santos
 tags:
   - seedlings

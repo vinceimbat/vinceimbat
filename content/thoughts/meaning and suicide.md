@@ -1,7 +1,7 @@
 ---
 title: "Meaning and Suicide"
 date: "2018-08-31"
-aliases: "Meaning-and-suicide"
+alias: "Meaning-and-suicide"
 tags:
 - "seedlings"
 sr-due: 2027-07-19
