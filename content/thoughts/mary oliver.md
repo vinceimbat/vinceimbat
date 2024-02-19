@@ -1,7 +1,7 @@
 ---
 title: Mary Oliver
 date: 2019-08-18
-alias:
+aliases:
   - Mary Oliver
 tags:
   - seedlings

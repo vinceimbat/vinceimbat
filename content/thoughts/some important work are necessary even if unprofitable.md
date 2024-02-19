@@ -1,7 +1,7 @@
 ---
 title: Some important work are necessary even if unprofitable
 date: 2022-09-16
-alias:
+aliases:
   - Some important work have to be done even if they are not profitable
 tags:
   - seedlings

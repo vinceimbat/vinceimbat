@@ -1,7 +1,7 @@
 ---
 title: "Self-actualization"
 date: "2022-04-30"
-alias: "Self-actualization"
+aliases: "Self-actualization"
 tags:
 - "seedlings"
 sr-due: 2025-02-27

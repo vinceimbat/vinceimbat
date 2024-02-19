@@ -1,7 +1,7 @@
 ---
 title: "When I Look Up at the Night Sky"
 date: "2022-12-11"
-alias:
+aliases:
 - "/the-long-walk-9"
 - "tlw/009"
 tags:

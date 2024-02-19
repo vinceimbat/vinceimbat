@@ -1,7 +1,7 @@
 ---
 title: "Henry David Thoreau"
 date: "2022-05-08"
-alias: "thoughts/henry-david-thoreau"
+aliases: "thoughts/henry-david-thoreau"
 tags:
 
 - "seedlings"

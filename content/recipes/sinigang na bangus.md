@@ -1,7 +1,7 @@
 ---
 title: "Sinigang na Bangus"
 date: "2022-05-13"
-alias:
+aliases:
 - "Sinigang na Bangus"
 tags:
 - "evergreens"

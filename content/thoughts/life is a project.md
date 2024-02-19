@@ -1,7 +1,7 @@
 ---
 title: "Life is a project"
 date: "2020-04-21"
-alias:
+aliases:
 - "Life is a project"
 tags:
 - "seedlings"

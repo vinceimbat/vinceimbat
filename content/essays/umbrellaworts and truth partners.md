@@ -1,7 +1,7 @@
 ---
 title: "Umbrellaworts and Truth Partners"
 date: "2021-05-27"
-alias:
+aliases:
 - "umbrellaworts-and-truth-partners"
 - "lilim/004"
 tags:

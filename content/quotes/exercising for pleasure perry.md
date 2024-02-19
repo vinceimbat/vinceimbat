@@ -1,7 +1,7 @@
 ---
 title: Exercising for pleasure - Perry
 date: 2023-01-30
-alias:
+aliases:
   - Exercising for pleasure - Perry
 tags:
   - evergreens

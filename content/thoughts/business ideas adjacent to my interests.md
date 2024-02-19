@@ -1,7 +1,7 @@
 ---
 title: "Business ideas adjacent to my interests"
 date: "2022-09-13"
-alias:
+aliases:
 - "Business-ideas-adjacent-to-my-interests"
 - "thoughts/business-ideas"
 tags:

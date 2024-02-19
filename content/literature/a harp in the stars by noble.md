@@ -1,7 +1,7 @@
 ---
 title: "A Harp in the Stars by Noble"
 date: "2023-08-20"
-alias:
+aliases:
 - "a harp in the stars by noble"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: Cairns to Mark the Journey
 date: 2020-10-16
-alias:
+aliases:
   - cairns-to-mark-the-journey
   - Cairns to Mark the Journey
 tags:

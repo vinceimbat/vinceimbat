@@ -1,7 +1,7 @@
 ---
 title: Photography
 date: 2021-08-04
-alias:
+aliases:
   - Photography
 tags:
   - seedlings

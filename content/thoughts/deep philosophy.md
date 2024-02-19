@@ -1,7 +1,7 @@
 ---
 title: Deep philosophy
 date: 2022-02-22
-alias:
+aliases:
   - Deep philosophy
 tags:
   - seedlings

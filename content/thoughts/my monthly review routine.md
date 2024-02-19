@@ -1,7 +1,7 @@
 ---
 title: My monthly review routine
 date: 2021-07-22
-alias:
+aliases:
   - My-monthly-review-routine
   - my monthly review routine
 tags:

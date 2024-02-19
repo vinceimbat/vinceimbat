@@ -1,7 +1,7 @@
 ---
 title: Autoethnography - An Overview by Ellis et al.
 date: 2023-03-18
-alias:
+aliases:
   - Autoethnography - An Overview by Ellis et al.
 tags:
   - seedlings

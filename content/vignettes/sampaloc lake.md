@@ -1,7 +1,7 @@
 ---
 title: "Sa Harap ng Lawa ng Sampaloc"
 date: "2022-08-20"
-alias:
+aliases:
 - "Sa harap ng lawa ng Sampaloc"
 tags:
 - "seedlings"

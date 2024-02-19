@@ -1,7 +1,7 @@
 ---
 title: "My morning writing practice"
 date: "2021-01-05"
-alias:
+aliases:
 - "My-daily-note-writing-practice"
 - "my-morning-writing-practice"
 tags:

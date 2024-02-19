@@ -1,7 +1,7 @@
 ---
 title: "Walden sa Filipino"
 date: "2022-07-15"
-alias:
+aliases:
 - "Walden sa Filipino"
 tags:
 - "seedlings"

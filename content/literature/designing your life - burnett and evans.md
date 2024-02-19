@@ -1,7 +1,7 @@
 ---
 title: Designing Your Life - Burnett and Evans
 date: 2022-11-18
-alias:
+aliases:
   - designing your life - burnett and evans
 tags:
   - seedlings

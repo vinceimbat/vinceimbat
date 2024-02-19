@@ -1,7 +1,7 @@
 ---
 title: "A Better Definition of Financial Freedom"
 date: "2020-03-17"
-alias:
+aliases:
 - "a-better-definition-of-financial-freedom"
 - "financial-freedom"
 tags:

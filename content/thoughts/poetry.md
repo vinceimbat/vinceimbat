@@ -1,7 +1,7 @@
 ---
 title: "Poetry"
 date: "2021-04-15"
-alias: "Poetry"
+aliases: "Poetry"
 tags:
 - "seedlings"
 sr-due: 2025-02-04

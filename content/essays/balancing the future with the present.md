@@ -1,7 +1,7 @@
 ---
 title: Balancing the Future with the Present
 date: 2020-12-14
-alias:
+aliases:
   - balancing-the-future-with-the-present
   - Balancing the Future with the Present
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Michel de Montaigne"
 date: "2021-10-21"
-alias:
+aliases:
 - "Michel-de-Montaigne"
 - "thoughts/michel-de-montaigne"
 tags:

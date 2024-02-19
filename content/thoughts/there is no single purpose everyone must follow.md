@@ -1,7 +1,7 @@
 ---
 title: There is no single purpose everyone must follow
 date: 2021-09-02
-alias:
+aliases:
   - There is no single purpose everyone must follow
 tags:
   - seedlings

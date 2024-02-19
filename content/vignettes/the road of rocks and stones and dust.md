@@ -1,7 +1,7 @@
 ---
 title: "The Road of Rocks and Stones and Dust"
 date: "2020-03-30"
-alias:
+aliases:
 - "the-road-of-rocks-and-stones-and-dust"
 tags:
   - "evergreens"

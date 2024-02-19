@@ -1,7 +1,7 @@
 ---
 title: Spaced repetition writing system
 date: 2022-08-18
-alias:
+aliases:
   - Spaced repetition writing system
 tags:
   - seedlings

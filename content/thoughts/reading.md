@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 date: "2022-06-15"
-alias:
+aliases:
 - Reading
 tags:
 - "seedlings"

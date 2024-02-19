@@ -1,7 +1,7 @@
 ---
 title: Annual review
 date: 2021-01-06
-alias:
+aliases:
   - Annual review
 tags:
   - seedlings

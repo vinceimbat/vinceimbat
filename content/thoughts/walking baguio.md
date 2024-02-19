@@ -2,7 +2,7 @@
 title: Walking Baguio
 date: 2024-01-26
 draft: false
-alias:
+aliases:
   - Walking Baguio
 tags:
   - seedlings

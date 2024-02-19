@@ -1,7 +1,7 @@
 ---
 title: "Our Invisible Walden"
 date: "2022-10-23"
-alias:
+aliases:
 - "the-long-walk-3"
 - "tlw/003"
 tags:

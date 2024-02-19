@@ -1,7 +1,7 @@
 ---
 title: Value
 date: 2023-01-04
-alias:
+aliases:
   - Value
 tags:
   - seedlings

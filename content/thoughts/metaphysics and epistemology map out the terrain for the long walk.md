@@ -1,7 +1,7 @@
 ---
 title: Metaphysics and epistemology map out the terrain for the long walk
 date: 2022-11-14
-alias:
+aliases:
   - metaphysics and epistemology map out the terrain for the long walk
 tags:
   - seedlings

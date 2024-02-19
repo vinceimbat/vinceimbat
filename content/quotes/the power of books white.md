@@ -1,7 +1,7 @@
 ---
 title: The power of books — E. B. White
 date: 2023-09-11
-alias: []
+aliases: []
 tags:
   - evergreens
 ---

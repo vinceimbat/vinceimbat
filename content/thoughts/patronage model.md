@@ -1,7 +1,7 @@
 ---
 title: Patronage model
 date: 2021-02-05
-alias:
+aliases:
   - Patronage model
 tags:
   - seedlings

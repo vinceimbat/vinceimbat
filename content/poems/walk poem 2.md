@@ -1,7 +1,7 @@
 ---
 title: "Walk Poem 2"
 date: "2023-08-01"
-alias: ""
+aliases: ""
 tags:
 - "seedlings"
 sr-due: 2023-08-04

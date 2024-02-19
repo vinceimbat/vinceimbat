@@ -1,7 +1,7 @@
 ---
 title: "Life is a reality to be experienced - Kierkegaard"
 date: "2023-08-28"
-alias: ""
+aliases: ""
 tags:
 - "evergreens"
 ---

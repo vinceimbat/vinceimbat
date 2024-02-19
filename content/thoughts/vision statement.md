@@ -1,7 +1,7 @@
 ---
 title: Vision statement
 date: 2022-02-07
-alias:
+aliases:
   - Vision statement
 tags:
   - seedlings

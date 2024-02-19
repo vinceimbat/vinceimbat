@@ -1,7 +1,7 @@
 ---
 title: Develop authenticity by managing attention
 date: 2022-05-12
-alias:
+aliases:
   - Develop authenticity by managing attention
 tags:
   - seedlings

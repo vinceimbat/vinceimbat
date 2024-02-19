@@ -1,7 +1,7 @@
 ---
 title: My daily walking routine
 date: 2022-07-24
-alias:
+aliases:
   - My daily walking routine
 tags:
   - seedlings

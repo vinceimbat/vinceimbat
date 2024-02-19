@@ -1,7 +1,7 @@
 ---
 title: "Meditations by Marcus Aurelius (Book Summary)"
 date: "2020-05-01"
-alias:
+aliases:
 - "meditations-by-marcus-aurelius"
 tags:
   - "seedlings"

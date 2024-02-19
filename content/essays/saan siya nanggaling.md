@@ -1,7 +1,7 @@
 ---
 title: "Saan Siya Nanggaling? Saan Siya Patungo?"
 date: "2021-06-13"
-alias:
+aliases:
 - "saan-siya-nanggaling-saan-siya-patungo"
 - "lilim/007"
 tags:

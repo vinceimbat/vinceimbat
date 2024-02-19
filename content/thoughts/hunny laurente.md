@@ -1,7 +1,7 @@
 ---
 title: "Hunny Laurente"
 date: "2023-07-30"
-alias: "thoughts/hunny-laurente"
+aliases: "thoughts/hunny-laurente"
 tags:
 
 - "seedlings"

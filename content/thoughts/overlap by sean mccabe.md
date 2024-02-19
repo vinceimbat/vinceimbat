@@ -1,7 +1,7 @@
 ---
 title: "Overlap by Sean McCabe"
 date: "2019-10-17"
-alias: "Overlap-by-Sean-McCabe"
+aliases: "Overlap-by-Sean-McCabe"
 tags:
 - "seedlings"
 sr-due: 2023-08-31

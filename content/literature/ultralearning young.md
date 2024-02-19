@@ -1,7 +1,7 @@
 ---
 title: Ultralearning by Scott Young
 date: 2022-06-17
-alias:
+aliases:
   - Ultralearning — Young
 tags:
   - seedlings

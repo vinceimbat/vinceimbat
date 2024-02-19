@@ -1,7 +1,7 @@
 ---
 title: "Wisdom"
 date: "2022-07-02"
-alias: "Wisdom"
+aliases: "Wisdom"
 tags:
 - "seedlings"
 sr-due: 2023-12-06

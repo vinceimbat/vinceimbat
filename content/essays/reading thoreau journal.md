@@ -1,7 +1,7 @@
 ---
 title: What I Learned From A Year of Reading Thoreau's Journal
 date: 2020-12-12
-alias:
+aliases:
   - what-i-learned-from-a-year-of-reading-thoreaus-journal
 tags:
   - seedlings

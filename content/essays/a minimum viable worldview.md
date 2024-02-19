@@ -1,7 +1,7 @@
 ---
 title: A minimum viable worldview
 date: 2018-01-20
-alias:
+aliases:
   - minimum-viable-worldview
 tags:
   - seedlings

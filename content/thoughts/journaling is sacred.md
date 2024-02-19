@@ -1,7 +1,7 @@
 ---
 title: Journaling is sacred
 date: 2023-06-01
-alias:
+aliases:
   - Journaling-is-sacred
 tags:
   - seedlings

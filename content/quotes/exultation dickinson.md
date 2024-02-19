@@ -1,7 +1,7 @@
 ---
 title: Exultation — Dickinson
 date: 2022-10-13
-alias:
+aliases:
   - Exultation — Dickinson
 tags:
   - evergreens

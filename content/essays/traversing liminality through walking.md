@@ -1,7 +1,7 @@
 ---
 title: "Traversing Liminality Through Walking: An Autoethnography"
 date: "2023-07-15"
-alias: ""
+aliases: ""
 tags:
 - "evergreens"
 ---

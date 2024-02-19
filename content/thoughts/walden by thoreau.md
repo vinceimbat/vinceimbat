@@ -1,7 +1,7 @@
 ---
 title: "Walden by Thoreau"
 date: "2022-04-30"
-alias: "Walden-Thoreau"
+aliases: "Walden-Thoreau"
 tags:
 - "seedlings"
 sr-due: 2025-02-26

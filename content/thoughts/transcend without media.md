@@ -1,7 +1,7 @@
 ---
 title: Transcendence without media
 date: " 2022-04-21"
-alias:
+aliases:
   - Transcendence merely through senses (without consuming media)
 tags:
   - seedlings

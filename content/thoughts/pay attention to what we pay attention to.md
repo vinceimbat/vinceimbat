@@ -1,7 +1,7 @@
 ---
 title: Pay attention to what we pay attention to
 date: 2021-12-30
-alias:
+aliases:
   - Pay attention to what we pay attention to
 tags:
   - seedlings

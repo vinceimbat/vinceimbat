@@ -1,7 +1,7 @@
 ---
 title: My commentaries on The Inward Morning by Henry Bugbee
 date: 2022-08-22
-alias:
+aliases:
   - my commentaries on the inward morning by bugbee
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: "Kapag lumalabas ako — Thoreau"
 date: "2022-07-11"
-alias:
+aliases:
 - "Kapag lumalabas ako — Thoreau"
 tags:
 - "evergreens"

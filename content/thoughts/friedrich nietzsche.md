@@ -1,7 +1,7 @@
 ---
 title: Friedrich Nietzsche
 date: 2021-12-15
-alias:
+aliases:
   - Friedrich Nietzsche
 tags:
   - seedlings

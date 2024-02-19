@@ -1,7 +1,7 @@
 ---
 title: A Midsummer Rain in LB
 date: 2023-05-17
-alias:
+aliases:
   - A-Midsummer-Rain-in-LB
 tags:
   - evergreens

@@ -1,7 +1,7 @@
 ---
 title: Index of my diaries
 date: 2022-08-11
-alias:
+aliases:
   - thoughts/index of my diaries
 tags:
   - evergreens

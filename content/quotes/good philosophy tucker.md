@@ -1,7 +1,7 @@
 ---
 title: What good philosophy - Sean Tucker
 date: 2022-06-14
-alias:
+aliases:
   - What good philosophy - Sean Tucker
 tags:
   - evergreens

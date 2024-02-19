@@ -1,7 +1,7 @@
 ---
 title: Vincenz Serrano
 date: 2023-07-02
-alias:
+aliases:
   - Vincenz-Serrano
   - contacts/vincenz serrano
 tags:

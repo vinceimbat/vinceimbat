@@ -1,7 +1,7 @@
 ---
 title: "A walk to Maahas Road"
 date: "2023-04-10"
-alias:
+aliases:
 - "A-walk-to-Maahas-Road"
 - "/thoughts/a-walk-to-maahas-road"
 tags:

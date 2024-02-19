@@ -1,7 +1,7 @@
 ---
 title: "Adobong labong"
 date: "2022-05-07"
-alias:
+aliases:
 - "Adobong labong"
 tags:
 - "evergreens"

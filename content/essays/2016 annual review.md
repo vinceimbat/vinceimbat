@@ -1,7 +1,7 @@
 ---
 title: My 2016 Annual Review
 date: 2017-01-07
-alias:
+aliases:
   - 2016-annual-review
 slug: 2016-annual-review
 tags:

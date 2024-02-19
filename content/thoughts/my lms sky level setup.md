@@ -1,7 +1,7 @@
 ---
 title: My LMS sky level setup
 date: 2021-07-17
-alias:
+aliases:
   - My LMS sky level setup
 tags:
   - seedlings

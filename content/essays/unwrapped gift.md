@@ -1,7 +1,7 @@
 ---
 title: "An Unwrapped Gift From the Universe"
 date: "2022-05-31"
-alias:
+aliases:
 - "an-unwrapped-gift-from-the-universe"
 - "lilim/027"
 tags:

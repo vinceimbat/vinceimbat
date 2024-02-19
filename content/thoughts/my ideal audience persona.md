@@ -2,7 +2,7 @@
 title: My ideal persona
 date: 2023-02-18
 slug: my-ideal-audience-persona
-alias:
+aliases:
   - My-ideal-persona
   - my-ideal-persona
   - My ideal audience persona

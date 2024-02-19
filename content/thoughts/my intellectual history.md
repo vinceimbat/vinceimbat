@@ -1,7 +1,7 @@
 ---
 title: My intellectual history
 date: 2021-04-18
-alias:
+aliases:
   - My intellectual autobiography
 tags:
   - seedlings

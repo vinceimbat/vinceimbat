@@ -1,7 +1,7 @@
 ---
 title: Freedom
 date: 2022-12-29
-alias:
+aliases:
   - Freedom
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Anecdotes of caring in Los Baños
 date: 2023-01-20
-alias:
+aliases:
   - Anecdotes of caring in Los Baños
 tags:
   - seedlings

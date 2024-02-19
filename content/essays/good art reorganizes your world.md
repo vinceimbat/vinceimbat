@@ -1,7 +1,7 @@
 ---
 title: "Good Art Reorganizes Your World"
 date: "2021-07-05"
-alias:
+aliases:
 - "good-art-reorganizes"
 - "lilim/010"
 tags:

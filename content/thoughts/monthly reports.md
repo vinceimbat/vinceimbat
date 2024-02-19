@@ -1,7 +1,7 @@
 ---
 title: Monthly reports
 date: 2022-05-03
-alias:
+aliases:
   - Monthly reports
 tags:
   - evergreens

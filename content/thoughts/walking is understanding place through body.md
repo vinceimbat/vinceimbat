@@ -1,7 +1,7 @@
 ---
 title: "Walking is understanding place through body"
 date: "2023-07-02"
-alias: "Walking-is-understanding-place-through-body"
+aliases: "Walking-is-understanding-place-through-body"
 tags:
 - "seedlings"
 sr-due: 2023-09-13

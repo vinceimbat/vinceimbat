@@ -1,7 +1,7 @@
 ---
 title: Gifts I can impart
 date: 2022-09-25
-alias:
+aliases:
   - Gifts I can impart
 tags:
   - seedlings

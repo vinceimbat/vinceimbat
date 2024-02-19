@@ -1,7 +1,7 @@
 ---
 title: "You Want to Be Heard"
 date: "2021-06-28"
-alias:
+aliases:
 - "you-want-to-be-heard"
 - "lilim/009"
 tags:

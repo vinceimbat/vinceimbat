@@ -1,7 +1,7 @@
 ---
 title: Life design assessment
 date: 2022-11-21
-alias:
+aliases:
   - life design assessment
 tags:
   - seedlings

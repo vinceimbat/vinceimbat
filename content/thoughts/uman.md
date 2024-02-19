@@ -1,7 +1,7 @@
 ---
 title: 𝌡 Uman
 date: 2022-05-07
-alias:
+aliases:
   - Uman
 tags:
   - evergreens

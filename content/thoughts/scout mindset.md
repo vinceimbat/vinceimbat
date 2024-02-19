@@ -1,7 +1,7 @@
 ---
 title: "Scout mindset"
 date: "2022-02-07"
-alias:
+aliases:
 - "Scout mindset"
 tags:
 - "seedlings"

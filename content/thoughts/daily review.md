@@ -1,7 +1,7 @@
 ---
 title: Daily review
 date: 2021-12-22
-alias:
+aliases:
   - Daily review
 tags:
   - evergreens

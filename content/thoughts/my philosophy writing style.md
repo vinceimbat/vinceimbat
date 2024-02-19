@@ -1,7 +1,7 @@
 ---
 title: "My philosophy writing style"
 date: "2019-11-23"
-alias:
+aliases:
 - "My-philosophy-writing-style"
 - "thoughts/my-philosophy-writing-style"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Facilitating
 date: 2021-02-11
-alias:
+aliases:
   - Facilitating
 tags:
   - seedlings

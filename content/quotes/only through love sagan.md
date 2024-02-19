@@ -1,7 +1,7 @@
 ---
 title: Bearable only through love — Sagan
 date: 2022-12-12
-alias:
+aliases:
   - Bearable only through love — Sagan
 tags:
   - evergreens

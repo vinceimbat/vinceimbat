@@ -8,7 +8,7 @@ tags:
 sr-due: 2022-08-20
 sr-interval: 3
 sr-ease: 250
-alias:
+aliases:
   - kasapatan-pagpapaubaya-kapayapaan
   - Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan
 ---

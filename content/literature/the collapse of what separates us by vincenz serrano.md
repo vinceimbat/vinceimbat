@@ -1,7 +1,7 @@
 ---
 title: The Collapse of What Separates Us by Vincenz Serrano
 date: 2023-07-01
-alias:
+aliases:
   - The-Collapse-of-What-Separates-Us-by-Vincenz-Serrano
   - thoughts/the collapse of what separates us by vincenz serrano
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Creating"
 date: "2022-11-13"
-alias: "Creating"
+aliases: "Creating"
 tags:
 - "evergreens"
 ---

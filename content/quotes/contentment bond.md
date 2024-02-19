@@ -1,7 +1,7 @@
 ---
 title: Contentment is easier to attain than happiness - Bond
 date: 2022-11-22
-alias:
+aliases:
   - Contentment is easier to attain than happiness - Bond
 tags:
   - evergreens

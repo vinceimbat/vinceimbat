@@ -1,7 +1,7 @@
 ---
 title: Writing
 date: 2018-11-20
-alias:
+aliases:
   - Writing
 tags:
   - seedlings

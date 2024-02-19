@@ -1,7 +1,7 @@
 ---
 title: "Should I engage a local or international audience?"
 date: "2021-02-13"
-alias: "thoughts/local-or-international-audience"
+aliases: "thoughts/local-or-international-audience"
 tags:
 
 - "seedlings"

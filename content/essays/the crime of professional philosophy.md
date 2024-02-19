@@ -1,7 +1,7 @@
 ---
 title: The Crime of 'Professional Philosophy'
 date: 2020-04-10
-alias:
+aliases:
   - The Crime of 'Professional Philosophy'
   - the-crime-of-professional-philosophy
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Singa karuman labat"
 date: "2022-12-28"
-alias:
+aliases:
 - "singa karuman labat"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Have You Listened to Yourself Lately?"
 date: "2019-05-05"
-alias:
+aliases:
 - "have-you-listened-to-yourself-lately"
 tags:
 - "seedlings"

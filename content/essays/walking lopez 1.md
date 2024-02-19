@@ -1,7 +1,7 @@
 ---
 title: "Walking Lopez, Quezon Part I: The Rules of Trolleys"
 date: "2022-07-18"
-alias:
+aliases:
 - "walking-lopez-part-one"
 - "lilim/031"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Billy Collins Teaches Reading and Writing Poetry
 date: 2023-01-14
-alias:
+aliases:
   - thoughts/billy collins masterclass
 tags:
   - seedlings

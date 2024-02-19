@@ -1,7 +1,7 @@
 ---
 title: Scott Barry Kaufman
 date: 2022-03-16
-alias:
+aliases:
   - Scott Barry Kaufman
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "My forest garden of the mind"
 date: "2022-08-15"
-alias: "thoughts/my-forest-garden-of-the-mind"
+aliases: "thoughts/my-forest-garden-of-the-mind"
 tags:
 
 - "seedlings"

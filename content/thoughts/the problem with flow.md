@@ -1,7 +1,7 @@
 ---
 title: The problem with flow
 date: 2022-07-14
-alias:
+aliases:
   - My problem with Flow in creativity
 tags:
   - seedlings

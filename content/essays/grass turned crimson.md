@@ -1,7 +1,7 @@
 ---
 title: "Where Grass Once Turned Crimson"
 date: "2022-07-03"
-alias:
+aliases:
 - "where-grass-once-turned-crimson"
 - "lilim/030"
 tags:

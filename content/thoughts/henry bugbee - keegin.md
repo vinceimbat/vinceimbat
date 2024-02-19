@@ -1,7 +1,7 @@
 ---
 title: "Henry Bugbee Thinker, Wanderer, Fly-Fisherman by Keegin"
 date: "2022-08-25"
-alias: "Henry-Bugbee-Thinker-Wanderer-Fly-Fisherman—Keegin"
+aliases: "Henry-Bugbee-Thinker-Wanderer-Fly-Fisherman—Keegin"
 tags:
 - "seedlings"
 sr-due: 2022-08-28

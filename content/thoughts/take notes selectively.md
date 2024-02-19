@@ -1,7 +1,7 @@
 ---
 title: "Take notes selectively"
 date: "2023-07-02"
-alias: "Take-notes-selectively"
+aliases: "Take-notes-selectively"
 tags:
 - "seedlings"
 sr-due: 2023-09-08

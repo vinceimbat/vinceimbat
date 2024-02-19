@@ -1,7 +1,7 @@
 ---
 title: "List of peers and mentors"
 date: "2022-10-05"
-alias: "thoughts/list-of-peers-and-mentors"
+aliases: "thoughts/list-of-peers-and-mentors"
 tags:
 
 - "seedlings"

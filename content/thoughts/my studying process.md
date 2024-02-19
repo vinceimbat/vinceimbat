@@ -1,7 +1,7 @@
 ---
 title: "My studying process"
 date: "2021-12-09"
-alias:
+aliases:
 - "Talahardin cycle"
 tags:
 - "seedlings"

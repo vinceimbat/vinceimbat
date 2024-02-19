@@ -1,7 +1,7 @@
 ---
 title: "Minimum viable brand"
 date: "2021-04-10"
-alias: "thoughts/minimum-viable-brand"
+aliases: "thoughts/minimum-viable-brand"
 tags:
 
 - "seedlings"

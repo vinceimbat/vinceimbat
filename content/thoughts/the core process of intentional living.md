@@ -1,7 +1,7 @@
 ---
 title: "The core process of intentional living"
 date: "2022-04-28"
-alias:
+aliases:
 - "The core process of intentional living"
 tags:
 - "seedlings"

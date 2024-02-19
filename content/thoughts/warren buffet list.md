@@ -1,7 +1,7 @@
 ---
 title: Warren Buffet list
 date: 2022-07-04
-alias:
+aliases:
   - warren buffet list
 tags:
   - seedlings

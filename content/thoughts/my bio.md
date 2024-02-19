@@ -1,7 +1,7 @@
 ---
 title: "My bio"
 date: "2023-07-18"
-alias: ""
+aliases: ""
 tags:
 - "seedlings"
 sr-due: 2023-07-21

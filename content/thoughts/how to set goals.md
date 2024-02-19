@@ -1,7 +1,7 @@
 ---
 title: How to set goals
 date: 2022-07-04
-alias:
+aliases:
   - How to set goals
 tags:
   - seedlings

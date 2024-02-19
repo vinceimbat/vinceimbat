@@ -1,7 +1,7 @@
 ---
 title: "Walking"
 date: "2022-08-15"
-alias: "Walking"
+aliases: "Walking"
 tags:
 - "seedlings"
 sr-due: 2028-10-27

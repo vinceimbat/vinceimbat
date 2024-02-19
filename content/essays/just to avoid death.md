@@ -1,7 +1,7 @@
 ---
 title: "Just to Avoid Death"
 date: "2021-09-12"
-alias:
+aliases:
 - "just-to-avoid-death"
 - "lilim/020"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Rem Tanauan
 date: 2021-02-17
-alias:
+aliases:
   - contacts/rem tanauan
 tags:
   - seedlings

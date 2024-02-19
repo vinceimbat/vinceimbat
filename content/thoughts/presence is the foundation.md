@@ -1,7 +1,7 @@
 ---
 title: "Presence is the foundation for happiness, self-actualization, and transcendence"
 date: "2021-08-17"
-alias:
+aliases:
 - "Presence-is-the-foundation-for-happiness-self-actualization-and-transcendence"
 tags:
 - "seedlings"

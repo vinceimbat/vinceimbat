@@ -1,7 +1,7 @@
 ---
 title: Metaphysics and epistemology can help us be kinder
 date: 2021-09-01
-alias:
+aliases:
   - Metaphysics and epistemology can help us be kinder
 tags:
   - seedlings

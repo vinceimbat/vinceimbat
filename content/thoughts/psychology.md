@@ -1,7 +1,7 @@
 ---
 title: Psychology
 date: 2021-02-13
-alias:
+aliases:
   - psychology
 tags:
   - seedlings

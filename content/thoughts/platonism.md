@@ -2,7 +2,7 @@
 title: Platonism
 date: 2022-08-30
 slug: platonism
-alias:
+aliases:
   - Platonism
 tags:
   - seedlings

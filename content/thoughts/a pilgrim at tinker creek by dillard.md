@@ -1,7 +1,7 @@
 ---
 title: "A Pilgrim at Tinker Creek - Dillard"
 date: "2022-05-07"
-alias:
+aliases:
 - "a pilgrim at tinker creek - dillard"
 tags:
 - "seedlings"

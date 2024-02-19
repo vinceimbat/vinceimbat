@@ -1,7 +1,7 @@
 ---
 title: Seeds
 date: 2022-08-15
-alias:
+aliases:
   - Seeds
 tags:
   - seedlings

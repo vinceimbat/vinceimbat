@@ -1,7 +1,7 @@
 ---
 title: "All Them Dirt Roads"
 date: "2022-05-23"
-alias:
+aliases:
 - "all-them-dirt-roads"
 - "lilim/026"
 tags:

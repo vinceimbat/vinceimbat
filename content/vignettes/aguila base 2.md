@@ -1,7 +1,7 @@
 ---
 title: "My Second Hike to Aguila Base"
 date: "2022-09-09"
-alias:
+aliases:
 - "My second hike at Mt. Makiling to Aguila Base"
 tags:
 - "seedlings"

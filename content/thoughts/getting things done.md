@@ -1,7 +1,7 @@
 ---
 title: Getting Things Done
 date: 2021-02-12
-alias:
+aliases:
   - getting things done
 tags:
   - seedlings

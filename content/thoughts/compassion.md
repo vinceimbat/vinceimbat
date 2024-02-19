@@ -1,7 +1,7 @@
 ---
 title: "Compassion"
 date: "2022-02-02"
-alias: "Compassion"
+aliases: "Compassion"
 tags:
 - "seedlings"
 sr-due: 2023-11-24

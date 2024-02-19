@@ -1,7 +1,7 @@
 ---
 title: "Mind"
 date: "2021-09-04"
-alias:
+aliases:
 - "mind"
 tags:
 - "seedlings"

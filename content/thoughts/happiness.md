@@ -1,7 +1,7 @@
 ---
 title: "Happiness"
 date: "2021-04-06"
-alias: "Happiness"
+aliases: "Happiness"
 tags:
 - "seedlings"
 sr-due: 2024-11-29

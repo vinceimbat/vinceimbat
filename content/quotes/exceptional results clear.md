@@ -1,7 +1,7 @@
 ---
 title: Average effort repeated for an above-average amount of time - James Clear
 date: 2023-05-15
-alias:
+aliases:
   - Average effort repeated for an above-average amount of time - James Clear
 tags:
   - evergreens

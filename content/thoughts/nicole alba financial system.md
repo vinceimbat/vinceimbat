@@ -1,7 +1,7 @@
 ---
 title: Nicole Alba’s financial management setup
 date: 2021-05-09
-alias:
+aliases:
   - Nicole Alba’s financial management setup
 tags:
   - seedlings

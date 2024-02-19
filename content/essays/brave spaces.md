@@ -1,7 +1,7 @@
 ---
 title: "We Need Brave Spaces, Not Safe Spaces"
 date: "2021-08-08"
-alias:
+aliases:
 - "brave-spaces-not-safe-spaces"
 - "lilim/015"
 tags:

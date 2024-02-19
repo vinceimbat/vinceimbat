@@ -1,7 +1,7 @@
 ---
 title: "Emily Dickinson"
 date: "2022-10-06"
-alias:
+aliases:
 - "Emily-Dickinson"
 tags:
 - "seedlings"

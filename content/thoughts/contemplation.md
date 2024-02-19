@@ -1,7 +1,7 @@
 ---
 title: "Contemplation"
 date: "2023-07-18"
-alias: "thoughts/contemplation"
+aliases: "thoughts/contemplation"
 tags:
 
 - "seedlings"

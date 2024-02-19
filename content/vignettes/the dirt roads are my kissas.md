@@ -1,7 +1,7 @@
 ---
 title: "The Dirt Roads Are My Kissas"
 date: "2022-08-31"
-alias:
+aliases:
 - "The Dirt Roads Are My Kissas"
 tags:
 - "seedlings"

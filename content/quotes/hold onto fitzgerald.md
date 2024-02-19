@@ -3,7 +3,7 @@ title: A few things everyone can humbly try to hold onto — Fitzgerald
 date: 2022-10-06
 tags:
   - evergreens
-alias:
+aliases:
   - A few things everyone can humbly try to hold onto — Fitzgerald
 ---
 So hard at best is the human lot, and so great is the beauty we can apprehend, that only a religious conception of things can take in the extremes and meet the case.

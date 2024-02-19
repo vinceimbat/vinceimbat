@@ -1,7 +1,7 @@
 ---
 title: "Understanding mainly informs action"
 date: "2022-02-02"
-alias:
+aliases:
 - "The-main-purpose-of-understanding-is-to-inform-action"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Notes on rapid email frameworks"
 date: "2022-12-17"
-alias:
+aliases:
 - "notes on rapid email frameworks"
 tags:
 - "seedlings"

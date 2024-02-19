@@ -1,7 +1,7 @@
 ---
 title: Ordinary life — William Martin
 date: 2023-11-06
-alias: 
+aliases: 
 tags:
   - evergreens
 ---

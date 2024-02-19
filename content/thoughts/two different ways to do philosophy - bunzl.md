@@ -1,7 +1,7 @@
 ---
 title: "Two different ways to do philosophy - Bunzl"
 date: "2023-07-31"
-alias: ""
+aliases: ""
 tags:
 - "seedlings"
 ---

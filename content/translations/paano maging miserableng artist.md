@@ -1,7 +1,7 @@
 ---
 title: "Paano Maging Miserableng Artist"
 date: "2023-05-22"
-alias:
+aliases:
 - "Paano Maging Miserableng Artist"
 tags:
 - "seedlings"

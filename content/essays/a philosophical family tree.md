@@ -1,7 +1,7 @@
 ---
 title: "A Philosophical Family Tree"
 date: "2022-10-09"
-alias:
+aliases:
 - "/the-long-walk-1"
 - "/tlw/001"
 tags:

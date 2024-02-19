@@ -1,6 +1,6 @@
 ---
 title: "Meaningful living is possible despite meaninglessness"
-alias: "Even-if-life-is-inherently-meaningless-we-can-still-live-meaningfully"
+aliases: "Even-if-life-is-inherently-meaningless-we-can-still-live-meaningfully"
 date: "2022-08-11"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Financial management system"
 date: "2023-08-21"
-alias:
+aliases:
 - "Financial management system"
 tags:
 - "seedlings"

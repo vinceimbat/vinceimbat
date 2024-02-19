@@ -1,7 +1,7 @@
 ---
 title: Unitarian-Universalism
 date: 2022-11-11
-alias:
+aliases:
   - unitarian-universalism
 tags:
   - seedlings

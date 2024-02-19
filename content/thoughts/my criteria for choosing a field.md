@@ -1,7 +1,7 @@
 ---
 title: "My criteria for choosing a field"
 date: "2021-02-16"
-alias:
+aliases:
 - "My-criteria-for-choosing-a-field"
 - "thoughts/my-criteria-for-choosing-a-field"
 tags:

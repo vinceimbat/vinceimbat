@@ -1,7 +1,7 @@
 ---
 title: "Self"
 date: "2018-06-01"
-alias: "Self"
+aliases: "Self"
 tags:
 
 - "seedlings"

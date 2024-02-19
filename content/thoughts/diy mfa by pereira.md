@@ -1,7 +1,7 @@
 ---
 title: "DIY MFA by Pereira"
 date: "2022-04-30"
-alias: "DIY-MFA-by-Pereira"
+aliases: "DIY-MFA-by-Pereira"
 tags:
 - "seedlings"
 sr-due: 2024-11-28

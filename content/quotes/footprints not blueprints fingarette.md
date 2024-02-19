@@ -1,7 +1,7 @@
 ---
 title: Footprints not blueprints
 date: 2022-08-26
-alias:
+aliases:
   - Footprints not blueprints — Fingarette
 tags:
   - evergreens

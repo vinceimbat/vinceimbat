@@ -1,7 +1,7 @@
 ---
 title: "Public life is necessary"
 date: "2023-08-01"
-alias: ""
+aliases: ""
 tags:
 - "seedlings"
 sr-due: 2023-08-02

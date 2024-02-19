@@ -1,7 +1,7 @@
 ---
 title: Religion originally applied to individuals
 date: 2022-08-30
-alias:
+aliases:
   - The concept of religion originally applied to individuals
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "Ask the Big Questions"
 date: "2021-08-15"
-alias:
+aliases:
 - "ask-the-big-questions"
 - "lilim/016"
 tags:

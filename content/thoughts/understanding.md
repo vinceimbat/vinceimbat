@@ -1,7 +1,7 @@
 ---
 title: "Understanding"
 date: "2021-02-11"
-alias: "Understanding"
+aliases: "Understanding"
 tags:
 - "seedlings"
 sr-due: 2026-12-30

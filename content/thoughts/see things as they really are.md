@@ -1,7 +1,7 @@
 ---
 title: "See things as they really are"
 date: "2021-11-09"
-alias:
+aliases:
 - "See things as they really are"
 tags:
 - "seedlings"

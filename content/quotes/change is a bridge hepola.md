@@ -1,7 +1,7 @@
 ---
 title: Change is a bridge - Hepola
 date: 2023-05-02
-alias:
+aliases:
   - Change is a bridge - Hepola
 tags:
   - evergreens

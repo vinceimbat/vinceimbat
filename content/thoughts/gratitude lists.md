@@ -1,7 +1,7 @@
 ---
 title: Gratitude lists
 date: 2021-09-18
-alias:
+aliases:
   - gratitude lists
 tags:
   - evergreens

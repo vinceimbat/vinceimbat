@@ -1,7 +1,7 @@
 ---
 title: climb is the fun part clear
 date: 2023-11-27
-alias: 
+aliases: 
 tags:
   - evergreens
 ---

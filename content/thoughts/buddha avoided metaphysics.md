@@ -1,7 +1,7 @@
 ---
 title: The Buddha avoided metaphysics
 date: 2021-08-17
-alias:
+aliases:
   - The Buddha avoided metaphysics
 tags:
   - seedlings

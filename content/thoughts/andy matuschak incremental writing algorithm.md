@@ -1,7 +1,7 @@
 ---
 title: Andy Matuschak's incremental writing algorithm
 date: 2022-04-24
-alias:
+aliases:
   - Andy Matuschak's incremental writing algorithm
 tags:
   - evergreens

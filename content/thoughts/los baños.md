@@ -1,7 +1,7 @@
 ---
 title: Los Baños
 date: 2022-05-13
-alias:
+aliases:
   - Los Baños
 tags:
   - seedlings

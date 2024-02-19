@@ -1,7 +1,7 @@
 ---
 title: ANWW20
 date: 2023-06-14
-alias:
+aliases:
   - ANWW20
 tags:
   - seedlings

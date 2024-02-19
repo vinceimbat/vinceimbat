@@ -1,7 +1,7 @@
 ---
 title: "Wasak"
 date: "2023-01-19"
-alias:
+aliases:
 - "Wasak"
 tags:
 - "evergreens"

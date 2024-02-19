@@ -1,7 +1,7 @@
 ---
 title: "There is no destiny"
 date: "2021-09-02"
-alias: "The-universe-has-no-predetermined-destiny-for-each-of-us"
+aliases: "The-universe-has-no-predetermined-destiny-for-each-of-us"
 tags:
 - "seedlings"
 sr-due: 2022-11-25

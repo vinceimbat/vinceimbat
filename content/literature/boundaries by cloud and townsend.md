@@ -1,7 +1,7 @@
 ---
 title: "Boundaries by Cloud and Townsend"
 date: "2023-08-06"
-alias:
+aliases:
 - "boundaries by cloud and townsend"
 tags:
 - "seedlings"

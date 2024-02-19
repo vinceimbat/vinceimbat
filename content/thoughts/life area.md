@@ -1,7 +1,7 @@
 ---
 title: "Life area"
 date: "2021-01-05"
-alias: "Life-area"
+aliases: "Life-area"
 tags:
 - "seedlings"
 sr-due: 2027-01-01

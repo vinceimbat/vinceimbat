@@ -1,7 +1,7 @@
 ---
 title: Ground level
 date: 2022-12-22
-alias:
+aliases:
   - ground level
 tags:
   - seedlings

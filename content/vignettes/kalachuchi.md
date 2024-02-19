@@ -1,7 +1,7 @@
 ---
 title: "Kalachuchi"
 date: "2022-05-08"
-alias:
+aliases:
 - "Buhay na buhay ang mga kalachuchi"
 tags:
 - "seedlings"

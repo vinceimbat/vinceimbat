@@ -1,7 +1,7 @@
 ---
 title: Do not spoil what you have by desiring what you have not — Epicurus
 date: 2023-03-27
-alias:
+aliases:
   - Do not spoil what you have by desiring what you have not — Epicurus
 tags:
   - evergreens

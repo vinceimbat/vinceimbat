@@ -1,7 +1,7 @@
 ---
 title: Be the Gateway by Dan Blank
 date: 2023-07-15
-alias:
+aliases:
   - Be-the-Gateway-by-Dan-Blank
   - thoughts/be the gateway by dan blank
 tags:

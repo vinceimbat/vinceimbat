@@ -1,7 +1,7 @@
 ---
 title: "Place is home"
 date: "2023-07-02"
-alias: "Place-is-home"
+aliases: "Place-is-home"
 tags:
 - "seedlings"
 sr-due: 2023-09-13

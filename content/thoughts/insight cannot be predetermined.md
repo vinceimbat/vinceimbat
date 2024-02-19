@@ -1,7 +1,7 @@
 ---
 title: Insight cannot be predetermined
 date: 2021-07-05
-alias:
+aliases:
   - Insight cannot be predetermined
 tags:
   - seedlings

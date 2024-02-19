@@ -1,7 +1,7 @@
 ---
 title: My workview
 date: 2022-11-22
-alias:
+aliases:
   - My workview
 tags:
   - seedlings

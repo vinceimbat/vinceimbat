@@ -1,7 +1,7 @@
 ---
 title: "How to live?"
 date: "2022-05-08"
-alias: ""
+aliases: ""
 tags:
 - "seedlings"
 sr-due: 2029-10-23

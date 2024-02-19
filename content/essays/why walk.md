@@ -1,7 +1,7 @@
 ---
 title: "Why Walk?"
 date: "2022-06-19"
-alias:
+aliases:
 - "why-walk"
 - "lilim/029"
 tags:

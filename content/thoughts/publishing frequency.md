@@ -1,7 +1,7 @@
 ---
 title: "How often should you share a publishable artifact?"
 date: "2021-12-14"
-alias:
+aliases:
 - "How-often-should-you-share-a-publishable-artifact"
 - "thoughts/publishing-frequency"
 tags:

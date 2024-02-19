@@ -1,7 +1,7 @@
 ---
 title: "Web design services"
 date: "2023-07-13"
-alias: "Web design services"
+aliases: "Web design services"
 tags:
 - "seedlings"
 sr-due: 2023-08-09

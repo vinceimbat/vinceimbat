@@ -1,7 +1,7 @@
 ---
 title: My Hero Books of 2019
 date: 2019-12-28
-alias: my-hero-books-of-2019
+aliases: my-hero-books-of-2019
 tags:
   - evergreens
 ---

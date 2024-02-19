@@ -1,7 +1,7 @@
 ---
 title: annual reports
 date: 2021-10-03
-alias:
+aliases:
   - annual reports
 tags:
   - evergreens

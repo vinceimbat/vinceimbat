@@ -1,7 +1,7 @@
 ---
 title: "Wanderlust by Rebecca Solnit"
 date: "2023-07-01"
-alias: "Wanderlust-by-Rebecca-Solnit"
+aliases: "Wanderlust-by-Rebecca-Solnit"
 tags:
 - "seedlings"
 sr-due: 2023-08-04

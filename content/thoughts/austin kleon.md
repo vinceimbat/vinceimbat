@@ -1,7 +1,7 @@
 ---
 title: Austin Kleon
 date: 2021-02-05
-alias:
+aliases:
   - Austin Kleon
 tags:
   - seedlings

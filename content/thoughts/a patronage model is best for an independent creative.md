@@ -1,7 +1,7 @@
 ---
 title: A patronage model is best for an independent creative
 date: 2021-02-01
-alias:
+aliases:
   - A patronage model is best for an independent researcher
 tags:
   - seedlings

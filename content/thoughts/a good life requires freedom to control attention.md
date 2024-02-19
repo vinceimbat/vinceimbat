@@ -1,7 +1,7 @@
 ---
 title: Full freedom in controling our attention is a prerequisite for a good life
 date: 2022-01-07
-alias:
+aliases:
   - Full freedom in controling our attention is a prerequisite for a good life
 tags:
   - seedlings

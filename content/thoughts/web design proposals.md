@@ -1,7 +1,7 @@
 ---
 title: "Web design proposals"
 date: "2023-04-06"
-alias:
+aliases:
 - "Web-design-proposals"
 - "thoughts/web-design-proposals"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Henry Bugbee"
 date: "2022-07-26"
-alias:
+aliases:
 - "Henry-Bugbee"
 - "thoughts/henry-bugbee"
 tags:

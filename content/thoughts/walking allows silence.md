@@ -1,7 +1,7 @@
 ---
 title: Walking allows silence
 date: 2023-08-21
-alias:
+aliases:
   - Walking allows silence
 tags:
   - seedlings

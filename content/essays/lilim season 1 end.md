@@ -1,7 +1,7 @@
 ---
 title: "Ending the First Season"
 date: "2021-07-19"
-alias:
+aliases:
 - "ending-the-first-season"
 - "lilim/012"
 tags:

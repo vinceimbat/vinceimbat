@@ -1,7 +1,7 @@
 ---
 title: First delight, then instruct – Waagen
 date: 2023-08-21
-alias: 
+aliases: 
 tags:
   - evergreens
 ---

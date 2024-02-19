@@ -1,7 +1,7 @@
 ---
 title: "My audience and community"
 date: "2021-02-12"
-alias:
+aliases:
 - "My-audience-and-community"
 - "thoughts/my-audience-and-community"
 tags:

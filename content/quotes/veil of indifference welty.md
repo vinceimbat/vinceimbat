@@ -1,7 +1,7 @@
 ---
 title: Veil of indifference – Eudora Welty
 date: 2023-11-27
-alias: 
+aliases: 
 tags:
   - evergreens
 ---

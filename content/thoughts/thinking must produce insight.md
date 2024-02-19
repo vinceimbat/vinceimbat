@@ -1,7 +1,7 @@
 ---
 title: The purpose of thinking is to produce insight
 date: 2021-03-18
-alias:
+aliases:
   - The purpose of thinking is to produce insight
 tags:
   - seedlings

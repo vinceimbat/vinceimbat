@@ -1,7 +1,7 @@
 ---
 title: "How should I live?"
 date: "2021-01-08"
-alias:
+aliases:
 - "How-should-I-live"
 - "thoughts/how-should-i-live"
 tags:

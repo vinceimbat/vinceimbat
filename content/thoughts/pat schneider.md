@@ -1,7 +1,7 @@
 ---
 title: Pat Schneider
 date: 2023-12-02
-alias:
+aliases:
   - Pat Schneider
 tags:
   - seedlings

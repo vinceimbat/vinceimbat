@@ -1,7 +1,7 @@
 ---
 title: "Blake Boles"
 date: "2023-07-17"
-alias: "thougths/blake-boles"
+aliases: "thougths/blake-boles"
 tags:
 
 - "seedlings"

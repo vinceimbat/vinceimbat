@@ -1,7 +1,7 @@
 ---
 title: "Extracting Sweetness and Comfort Out of Everything"
 date: "2021-07-12"
-alias:
+aliases:
 - "extracting-sweetness-and-comfort-out-of-everything"
 - "lilim/011"
 tags:

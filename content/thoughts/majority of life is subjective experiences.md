@@ -1,7 +1,7 @@
 ---
 title: "Majority of life is subjective experiences"
 date: "2021-04-18"
-alias:
+aliases:
 - "Life is almost all about subjective experiences"
 tags:
 - "seedlings"

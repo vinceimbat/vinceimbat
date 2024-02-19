@@ -1,7 +1,7 @@
 ---
 title: "Isang Taong Maghapon by Paolo Tiausas"
 date: "2023-07-02"
-alias:
+aliases:
 - "Isang-Taong-Maghapon-by-Paolo-Tiausas"
 - "isang-taong-maghapon"
 tags:

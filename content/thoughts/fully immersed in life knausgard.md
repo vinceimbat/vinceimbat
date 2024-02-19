@@ -1,7 +1,7 @@
 ---
 title: Being fully immersed in life – Karl Ove Knausgard
 date: 2023-11-27
-alias: 
+aliases: 
 tags:
   - evergreens
 ---

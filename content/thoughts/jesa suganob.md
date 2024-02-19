@@ -1,7 +1,7 @@
 ---
 title: Jesa Suganob
 date: 2023-08-13
-alias:
+aliases:
   - contacts/jesa suganob
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: Overseeing
 date: 2022-11-13
-alias:
+aliases:
   - Overseeing
 tags:
   - evergreens

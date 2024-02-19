@@ -1,7 +1,7 @@
 ---
 title: "My workflow"
 date: "2021-02-12"
-alias:
+aliases:
 - "My-workflow"
 - "thoughts/my-workflow"
 tags:

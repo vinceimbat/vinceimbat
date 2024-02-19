@@ -1,7 +1,7 @@
 ---
 title: "A Never-ending Walk"
 date: "2023-07-15"
-alias:
+aliases:
 - "tlw/011"
 tags:
 - "tlw"

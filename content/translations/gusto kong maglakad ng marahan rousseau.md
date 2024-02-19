@@ -1,7 +1,7 @@
 ---
 title: "Gusto kong maglakad ng marahan — Rousseau"
 date: "2021-12-19"
-alias:
+aliases:
 - "Gusto kong maglakad ng marahan — Rousseau"
 tags:
 - "seedlings"

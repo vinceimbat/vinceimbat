@@ -1,7 +1,7 @@
 ---
 title: "We Cannot Know For Sure"
 date: "2021-10-10"
-alias:
+aliases:
 - "we-cannot-know-for-sure"
 - "lilim/023"
 tags:

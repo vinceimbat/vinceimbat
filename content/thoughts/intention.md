@@ -1,7 +1,7 @@
 ---
 title: "Intention"
 date: "2022-04-28"
-alias: "Intention"
+aliases: "Intention"
 tags:
 - "seedlings"
 sr-due: 2025-03-02

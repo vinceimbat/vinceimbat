@@ -1,7 +1,7 @@
 ---
 title: Being in a place is better than reading about it
 date: 2023-04-10
-alias:
+aliases:
   - Being in a place is better than reading about it
 tags:
   - seedlings

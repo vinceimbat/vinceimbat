@@ -1,7 +1,7 @@
 ---
 title: My mission statement
 date: 2021-08-02
-alias:
+aliases:
   - My mission statement
 tags:
   - seedlings

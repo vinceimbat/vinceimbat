@@ -1,7 +1,7 @@
 ---
 title: My life areas
 date: 2021-01-06
-alias:
+aliases:
   - My life areas
 tags:
   - seedlings

@@ -1,7 +1,7 @@
 ---
 title: "Updates: The Long Wait"
 date: "2023-05-23"
-alias:
+aliases:
 - "tlw/010"
 tags:
 - "tlw"

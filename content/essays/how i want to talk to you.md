@@ -1,7 +1,7 @@
 ---
 title: "This is How I Want to Talk to You"
 date: "2021-08-23"
-alias:
+aliases:
 - "how-i-want-to-talk-to-you"
 - "lilim/017"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Walking Mt. Data Street"
 date: "2023-05-31"
-alias:
+aliases:
 - "Walking Mt. Data Street"
 tags:
 - "seedlings"

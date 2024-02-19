@@ -1,7 +1,7 @@
 ---
 title: "Atomic Habits by James Clear (Book Summary)"
 date: "2019-01-18"
-alias:
+aliases:
 - "atomic-habits"
 tags:
   - "seedlings"

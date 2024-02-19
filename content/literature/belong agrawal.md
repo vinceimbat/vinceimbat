@@ -1,7 +1,7 @@
 ---
 title: Belong by Radha Agrawal
 date: 2019-07-25
-alias:
+aliases:
   - Belong — Agrawal
 tags:
   - seedlings

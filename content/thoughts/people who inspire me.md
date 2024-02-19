@@ -2,7 +2,7 @@
 title: People who inspire me
 date: 2021-02-08
 slug: people-who-inspire-me
-alias:
+aliases:
   - People-who-inspire-me
 tags:
   - seedlings

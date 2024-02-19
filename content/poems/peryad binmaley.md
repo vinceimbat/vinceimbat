@@ -1,7 +1,7 @@
 ---
 title: Perya'd Binmaley
 date: 2023-02-04
-alias:
+aliases:
   - poems/diyad perya
 tags:
   - pangasinan

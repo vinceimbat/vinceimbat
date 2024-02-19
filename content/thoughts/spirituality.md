@@ -1,7 +1,7 @@
 ---
 title: Spirituality
 date: 2021-01-19
-alias:
+aliases:
   - spirituality
 tags:
   - seedlings

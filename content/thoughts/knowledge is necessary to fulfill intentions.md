@@ -1,7 +1,7 @@
 ---
 title: Knowledge is necessary to fulfill intentions
 date: 2022-07-14
-alias:
+aliases:
   - To fulfill ones intentions one needs to have adequate knowledge about the world
 tags:
   - seedlings

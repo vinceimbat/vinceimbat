@@ -1,7 +1,7 @@
 ---
 title: Steve Patterson
 date: 2021-02-17
-alias:
+aliases:
   - Steve Patterson
 tags:
   - seedlings

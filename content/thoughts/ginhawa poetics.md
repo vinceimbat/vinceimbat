@@ -1,7 +1,7 @@
 ---
 title: "Ginhawa poetics"
 date: "2022-11-13"
-alias: "Ginhawa-poetics"
+aliases: "Ginhawa-poetics"
 tags:
 - "seedlings"
 sr-due: 2025-03-13

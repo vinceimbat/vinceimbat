@@ -1,7 +1,7 @@
 ---
 title: Weekly habits are more difficult to build
 date: 2021-07-22
-alias:
+aliases:
   - Weekly habits are more difficult to build
 tags:
   - seedlings

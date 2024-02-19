@@ -3,7 +3,7 @@ title: My annual review routine
 date: 2021-12-21
 tags:
   - evergreens
-alias:
+aliases:
   - My annual review routine
 ---
 There are three parts to my [[thoughts/annual review|annual review]] process:

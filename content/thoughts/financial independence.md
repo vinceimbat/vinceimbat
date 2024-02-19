@@ -1,7 +1,7 @@
 ---
 title: "Financial independence"
 date: "2021-02-06"
-alias:
+aliases:
 - "Financial independence"
 tags:
 - "seedlings"

@@ -1,7 +1,7 @@
 ---
 title: "Dilemma with pre-colonial"
 date: "2023-04-12"
-alias: "thoughts/dilemma-with-precolonial"
+aliases: "thoughts/dilemma-with-precolonial"
 tags:
 
 - "seedlings"

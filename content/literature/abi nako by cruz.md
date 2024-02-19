@@ -1,7 +1,7 @@
 ---
 title: Abi Nako by Jhoanna Lynn Cruz
 date: 2023-08-29
-alias:
+aliases:
   - thoughts/abi nako by cruz
 tags:
   - seedlings

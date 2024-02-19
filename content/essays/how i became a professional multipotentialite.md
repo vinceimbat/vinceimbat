@@ -1,7 +1,7 @@
 ---
 title: How I Became a Professional Multipotentialite
 date: 2020-12-07
-alias:
+aliases:
   - how-i-became-a-professional-multipotentialite
   - How I Became a Professional Multipotentialite
 tags:

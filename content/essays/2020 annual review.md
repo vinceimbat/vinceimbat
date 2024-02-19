@@ -1,7 +1,7 @@
 ---
 title: My 2020 Annual Review
 date: 2021-01-26
-alias:
+aliases:
   - 2020-annual-review
   - My 2020 Annual Review
 tags:

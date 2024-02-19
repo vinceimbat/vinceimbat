@@ -1,7 +1,7 @@
 ---
 title: My writing voice
 date: 2021-08-01
-alias:
+aliases:
   - My writing voice
 tags:
   - seedlings

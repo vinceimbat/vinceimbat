@@ -1,7 +1,7 @@
 ---
 title: The long walk
 date: 2022-08-15
-alias:
+aliases:
   - The long walk
 tags:
   - seedlings

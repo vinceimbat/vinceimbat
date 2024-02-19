@@ -1,7 +1,7 @@
 ---
 title: "Bubuli"
 date: "2022-05-20"
-alias:
+aliases:
 - "Bubuli"
 tags:
 - "seedlings"

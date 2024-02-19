@@ -1,7 +1,7 @@
 ---
 title: "Ludwig Wittgenstein"
 date: "2022-07-24"
-alias: "thoughts/ludwig-wittgenstein"
+aliases: "thoughts/ludwig-wittgenstein"
 tags:
 
 - "seedlings"

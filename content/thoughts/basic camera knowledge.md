@@ -1,7 +1,7 @@
 ---
 title: "Basic camera knowledge"
 date: "2023-06-23"
-alias: "Basic-camera-knowledge"
+aliases: "Basic-camera-knowledge"
 tags:
 - "seedlings"
 sr-due: 2023-08-29

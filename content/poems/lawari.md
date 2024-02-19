@@ -1,7 +1,7 @@
 ---
 title: Lawari
 date: 2023-01-08
-alias:
+aliases:
   - poems/Kalabian ed Aglibut
 tags:
   - pangasinan

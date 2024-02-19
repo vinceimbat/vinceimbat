@@ -1,7 +1,7 @@
 ---
 title: "Things"
 date: "2021-11-14"
-alias:
+aliases:
 - "/thoughts/things"
 - "things"
 tags:

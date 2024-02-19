@@ -1,7 +1,7 @@
 ---
 title: Be regular and orderly in your life — Flaubert
 date: 2022-10-05
-alias:
+aliases:
   - Be regular and orderly in your life — Flaubert
 tags:
   - evergreens

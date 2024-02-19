@@ -1,7 +1,7 @@
 ---
 title: "A Walk to Dampalit Falls"
 date: "2023-01-23"
-alias:
+aliases:
 - "A Walk to Dampalit Falls"
 tags:
 - "seedlings"

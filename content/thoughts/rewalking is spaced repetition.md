@@ -1,7 +1,7 @@
 ---
 title: "Rewalking is spaced repetition"
 date: "2023-07-02"
-alias:
+aliases:
 - "Rewalking-is-spaced-repetition"
 - "thoughts/rewalking-is-spaced-repetition"
 tags:

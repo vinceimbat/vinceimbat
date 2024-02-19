@@ -1,7 +1,7 @@
 ---
 title: "Herman Melville"
 date: "2022-10-13"
-alias:
+aliases:
 - "Herman-Melville"
 - "thoughts/herman-melville"
 tags:

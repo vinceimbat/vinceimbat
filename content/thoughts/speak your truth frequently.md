@@ -1,7 +1,7 @@
 ---
 title: "Speak your truth frequently"
 date: "2021-02-12"
-alias: "thoughts/speak-your-truth-frequently"
+aliases: "thoughts/speak-your-truth-frequently"
 tags:
 
 - "seedlings"

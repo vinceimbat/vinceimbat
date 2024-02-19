@@ -1,7 +1,7 @@
 ---
 title: "Barry Lopez"
 date: "2023-05-15"
-alias:
+aliases:
 - "Barry-Lopez"
 - "thoughts/barry-lopez"
 tags:
