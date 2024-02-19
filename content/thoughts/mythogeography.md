@@ -64,3 +64,12 @@ Sensible shoes, maybe – needs vary. Maybe, something to leave behind. Small to
 
 **Après dérive:** make some memento of your drift to share with your fellow drifters or show to others. They may become your next companions.
 
+Smith, P. (2015). _Not psychogeography_. Mythogeography. [https://www.mythogeography.com/not-psychogeography.html](https://www.mythogeography.com/not-psychogeography.html)
+
+>**Psychogeography** arises as one of a set of ideas and practices developed by the International Lettristes (who later gave birth to the situationists), a study of how places affect the psychological states of those who pass through them. With a reciprocal meaning: that the places might be changed in order to change the experiences and mental states of their residents and visitors. This was part of a theory of radical  activism for the transformation of cities.  
+  
+>In the UK the concept of psychogeography was detached from activist meaning and reconfigured as a literary practice in the work of writers like Iain Sinclair and also gathered some occult trappings during this time from Sinclair, Peter Ackroyd and others.
+
+>**Mythogeography** describes a way of thinking about and visiting places where multiple meanings have been squeezed into a single and restricted meaning
+
+>**Mythogeography** is influenced by, and draws on, psychogeography – seeking to reconnect with some of its original political edge as well as with its more recent additions. While engaging seriously with academic discourses in areas like geography, tourism studies and spatial theory, mythogeography also draws upon what Charles Fort might have described as ‘the procession of damned data’. So, occulted and anomalous narratives are among those available to mythogeography, not as ends in themselves, but as means and metaphors to explain, engage and disrupt.

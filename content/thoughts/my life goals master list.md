@@ -12,7 +12,6 @@ kanban-plugin: basic
 - [ ] OVERSEEING
 - [ ] UNDERSTANDING
 - [ ] RESTORING
-- [ ] [R]I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
 - [ ] [R] I have established a healthy, sustainable, time-efficient, and cost-effective nutrition system that has worked wonders to my overall well-being.
 - [ ] CONNECTING
 - [ ] [CO] I have assisted Lea in starting a life design project to help her design her best life and work.
@@ -24,47 +23,50 @@ kanban-plugin: basic
 - [ ] [CO] I have created a plan on how I can establish my inner core and outer core communities.
 - [ ] [CO] I have established a habit of regularly searching for and reaching out to peers who do the work that I want to do in the space that I want to contribute to.
 - [ ] SUSTAINING
-- [ ] [S] I have legalized my freelance business.
 - [ ] [S] I have purchased a better HMO card for Lea and I.
 - [ ] [S] I have renewed my PWD card.
-- [ ] [S] I have added SSS into my retirement savings portfolio.
-- [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills.
 - [ ] [S] I have curated a minimalist wardrobe.
 - [ ] [S] I have delivered a beautiful and functioning website for Ili Likhaan Ceramics.
 - [ ] [S] I have reviewed my recent work with Candent and Ili and have set up systems, prices, and offers based on these.
-- [ ] [S] I have fixed the Asus laptop and sold it.
+- [ ] [S] I have performed an ultralearning project to improve my editing and proofreading skills. [?]
+- [ ] [S] I have fixed the Asus laptop and sold it. [?]
+- [ ] [S] I have added SSS into my retirement savings portfolio. [?]
 - [ ] CREATING
-- [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
-- [ ] [CR] I have published a zine about walking Los Baños.
-- [ ] [CR] I have started a book project about walking in Los Baños. An intimate contemplative walking guide for Los Baños.
+- [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (April 2024).
+- [ ] [CR] I have published a zine about my theoretical and practical foundations for using walking as a jiyu shukyo practice.
+- [ ] [CR] I have published a creative zine using my theory and practice of jiyu shukyo walking.
+- [ ] [CR] I have held my first prototype walking workshop with Louise Far.
+- [ ] [CR] I have led a walk and talk event.
 - [ ] [CR] I have climbed Mt. Makiling
 - [ ] [CR] I have started a walking in Pangasinan project.
-- [ ] [CR] I have conducted a photo-only walk around Los Baños.
-- [ ] [CR] I have led a walk and talk event.
-- [ ] [CR] I have performed a second week-long re-walk of some routes I walked in Baguio City as a JW minister (around May 2024).
 - [ ] [CR] I have performed a walk project with Uwa.
-- [ ] [CR] I have started compiling resources for a history of walking in the Philippines.
-- [ ] [CR] I have organized a group photo walk in Los Baños.
-- [ ] [CR] I have attended the AWA leadership training in November 2024.
-- [ ] [CR] I have learned how to take binaural videos effectively. I have learned how to edit them. I have compiled them in my YouTube.
+- [ ] [CR] I have started a book project about walking in Los Baños. An intimate contemplative walking guide for Los Baños.
+- [ ] [CR] I have held one or two writing workshops applying the AWA method to test whether I want to pursue it.
 - [ ] [CR] I have completed The Complete 2023 Web Development Bootcamp.
-- [ ] [CR] I have translated all my favorite Thoreau entries from English to Filipino.
+- [ ] [CR] Reintegrate learnings from the ANWW20 into writing life, goals, and practice.
+- [ ] [CR] I have started compiling resources for a history of walking in the Philippines. [?]
+- [ ] [CR] I have organized a group photo walk in Los Baños. [?]
+- [ ] [CR] I have attended the AWA leadership training in November 2024. [?]
+- [ ] [CR] I have translated all my favorite Thoreau entries from English to Filipino. [?]
 
 
 ## Next
 
-- [ ] FEBRUARY 2024
+- [ ] MARCH 2024
+- [ ] [S] I have registered my freelance business.
+- [ ] [CR] I have studied and articulated the theoretical and practical foundations for using walking as a jiyu shukyo practice.
+- [ ] [CR] I have conducted a photo-only walk around Los Baños.
 - [ ] [CO] I have assisted Lea in identifying the best day job for her.
 
 
 ## Primary focus
 
 - [ ] FEBRUARY 2024
-- [ ] [R] I have introduced a daily exercise habit that isn't walking.
 - [ ] [O] I have started prototyping conversations and experiences to help me clarify my direction in life.
 - [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
 - [ ] [CO] I have celebrated my birthday well.
 - [ ] [R] I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
+- [ ] [CR] I have improved my website, Talahardin, and newsletter to better present my work.
 
 
 ## 2024 Done
@@ -78,6 +80,7 @@ kanban-plugin: basic
 - [x] FEBRUARY 2024
 - [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-02-07]]
 - [x] [S] I have researched and made necessary changes for our couple financial system. @[[2024-02-12]]
+- [x] [R] I have introduced a daily exercise habit that isn't walking. @[[2024-02-17]]
 
 
 ## 2023 Done

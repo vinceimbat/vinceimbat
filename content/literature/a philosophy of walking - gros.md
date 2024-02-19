@@ -1,9 +1,10 @@
 ---
-title: "A Philosophy of Walking - Gros"
-date: "2021-12-15"
+title: A Philosophy of Walking - Gros
+date: 2021-12-15
+aliases:
+  - a philosophy of walking - gros
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2023-01-06
 sr-interval: 3
 sr-ease: 250

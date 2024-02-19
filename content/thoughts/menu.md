@@ -41,3 +41,4 @@ I will still keep track of my projects and their todos in Things, though. So, fo
 - Research the process of becoming a UU minister: https://www.uua.org/careers/ministers/becoming
 - Explore Gary Whited: https://www.garylwhited.com/
 - Explore Phil Smith: https://www.triarchypress.net/smithereens.html
+- http://www.mis-guide.com/index.html

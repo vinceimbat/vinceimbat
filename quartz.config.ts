@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-HP7HTWFTR8"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "vinceimbat.com",
     ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "project archives", "projects", "projects someday", "templates"],
     defaultDateType: "created",
     theme: {

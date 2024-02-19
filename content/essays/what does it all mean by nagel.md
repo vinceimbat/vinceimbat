@@ -1,8 +1,9 @@
 ---
 title: What Does It All Mean? by Thomas Nagel (Book Summary)
 date: 2018-02-11
-alias:
-  - "what-does-it-all-mean"
+aliases:
+  - what-does-it-all-mean
+  - samplee
 tags:
   - seedlings
 sr-due: 2022-08-20
