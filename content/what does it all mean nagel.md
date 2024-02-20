@@ -2,13 +2,11 @@
 title: What Does It All Mean? by Thomas Nagel (Book Summary)
 date: 2018-02-11
 aliases:
+  - /essays/what-does-it-all-mean-by-nagel
   - what-does-it-all-mean
-  - samplee
 tags:
   - seedlings
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - literature
 ---
 In _What Does It All Mean?_ Thomas Nagel explores nine questions that philosophers have been trying to answer for thousands of years. Nagel believes that engaging with these questions directly is the best way to start a study of philosophy. He introduces the beginning philosopher to the questions and the most common arguments about them. Within his discussion, Nagel also inserts his own stand on the problems but cautions the reader not to rely on his conclusions. Instead, he repeatedly encourages the reader to think through the questions using her own reasoning.
 
