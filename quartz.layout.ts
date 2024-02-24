@@ -27,23 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Essays",
-        limit: 3,
-        filter: (f) =>
-          f.slug!.startsWith("essays/") && f.slug! !== "essays/index" && !f.frontmatter?.noindex,
-        linkToMore: "essays/" as SimpleSlug,
-      }),
-    ),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Thoughts",
-        limit: 2,
-        filter: (f) => f.slug!.startsWith("thoughts/"),
-        linkToMore: "thoughts/" as SimpleSlug,
-      }),
-    ),
+    Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
@@ -59,6 +43,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Darkmode(),
   ],
   right: [],
 }
