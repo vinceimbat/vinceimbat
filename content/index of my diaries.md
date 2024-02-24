@@ -2,8 +2,10 @@
 title: Index of my diaries
 date: 2022-08-11
 aliases:
-  - thoughts/index of my diaries
+  - /thoughts/index of my diaries
+draft: false
 tags:
+  - thoughts
   - evergreens
 ---
 Below are links to indexes of all the diaries I have. This list is incomplete as not all diaries are indexed as of the moment.

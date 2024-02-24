@@ -54,19 +54,17 @@ kanban-plugin: basic
 
 - [ ] MARCH 2024
 - [ ] [S] I have registered my freelance business.
-- [ ] [CR] I have studied and articulated the theoretical and practical foundations for using walking as a jiyu shukyo practice.
 - [ ] [CR] I have conducted a photo-only walk around Los Baños.
-- [ ] [CO] I have assisted Lea in identifying the best day job for her.
 
 
 ## Primary focus
 
 - [ ] FEBRUARY 2024
-- [ ] [O] I have started prototyping conversations and experiences to help me clarify my direction in life.
-- [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
-- [ ] [CO] I have celebrated my birthday well.
-- [ ] [R] I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
 - [ ] [CR] I have improved my website, Talahardin, and newsletter to better present my work.
+- [ ] [R] I have transformed my simple abode into a place where I am inspired to live my best life every day and welcome the most important people in my life.
+- [ ] [CR] I have studied and articulated the theoretical and practical foundations for using walking as a jiyu shukyo practice.
+- [ ] [CO] I have assisted Lea in identifying the best day job for her.
+- [ ] [CR] I have read Writing Alone and With Others Part I and Part III to find and develop my most authentic voice.
 
 
 ## 2024 Done
@@ -81,6 +79,8 @@ kanban-plugin: basic
 - [x] [S] I have updated four OVIC overviews assigned to me and sent them. @[[2024-02-07]]
 - [x] [S] I have researched and made necessary changes for our couple financial system. @[[2024-02-12]]
 - [x] [R] I have introduced a daily exercise habit that isn't walking. @[[2024-02-17]]
+- [x] [CO] I have celebrated my birthday well. @[[2024-02-18]]
+- [x] [O] I have started prototyping conversations and experiences to help me clarify my direction in life. @[[2024-02-24]]
 
 
 ## 2023 Done

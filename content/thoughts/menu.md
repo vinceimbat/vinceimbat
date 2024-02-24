@@ -9,23 +9,6 @@ This is a weekly menu of activities preplanned during [[thoughts/my weekly revie
 
 I will still keep track of my projects and their todos in Things, though. So, for now, this menu would be mostly for reading, writing, talahardin, etc.
 ***
-# Reading
-- Read what Spirituality for the Godless says about humanism.
-- Read seiza resources.
-- Corsons Inlet by A. R. Ammons: https://www.poetryfoundation.org/poems/43073/corsons-inlet
-
-# Talahardin
-- Review how to process reading highlights.
-- Return to [[literature/the freedom to be tomorrow brown|The freedom to be tomorrow]] highlights and process them.
-	- Process Part III highlights.
-	- Process Part IV highlights.
-	- Think about how to adopt Part III and IV into the spirituality you are nurturing.
-- Review notes from [[private/andrew brown call 1|andrew brown call 1]].
-- Process notes from [[private/kiitsu kyokai 1|kiitsu kyokai 1]]
-
-# Writing
-- Write about reincorporating prayer.
-
 # Research
 - ~~Explore how to reincorporate prayer.
 - Prepare for Kiitsu Kyokai 2.

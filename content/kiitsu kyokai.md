@@ -1,12 +1,12 @@
 ---
 title: Kiitsu Kyokai
 date: 2024-02-08
+aliases:
+  - /thoughts/kiitsu-kyokai
 draft: false
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-02-11
-sr-interval: 3
-sr-ease: 250
 ---
 The first meeting of the post-war kiitsu kyokai (second version) was held on October 23, 1948. However, it didn't officially form until about two years after.
 
