@@ -10,7 +10,7 @@ sr-ease: 230
 ---
 # Emerson's influence
 
-Imaoka was called the [[thoughts/ralph waldo emerson|Emerson]] of Japan as he championed the [[free religion]] idea that Emerson espoused. Unlike Emerson, however, Imaoka didn't wrote that much and was never really the poet-philosopher that Emerson was.
+Imaoka was called the [[thoughts/ralph waldo emerson|Emerson]] of Japan as he championed the [[jiyu shukyo]] idea that Emerson espoused. Unlike Emerson, however, Imaoka didn't wrote that much and was never really the poet-philosopher that Emerson was.
 
 From Imaoka's own words:
 >Coincidentally, I was born in the year (1881) before Emerson died in 1882. Also, I followed in his footsteps at Harvard, and since he was a Unitarian and my great teacher of free religion, I feel a great responsibility in accepting his spiritual legacy.

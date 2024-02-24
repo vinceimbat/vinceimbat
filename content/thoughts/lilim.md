@@ -24,7 +24,7 @@ At that time, clouds are also more mature, much bigger, creating welcomed shades
 
 Lilim is my bi-weekly newsletter on walking. Originally it was a weekly newsletter, but I just couldn't sustain that schedule of production. It is too much product oriented. As of 2022-08-25, Lilim will be "published whenever ready" and shall be integrated with [[thoughts/uman]].
 
-I took [[thoughts/craig mod]]'s advice and released Lilim by season. As of 2022, Lilim has three seasons. The first season was a mix of walk vignettes and personal essays. The second season followed a 3-2-1 newsletter style. The third season is mostly walk vignettes.
+I took [[craig mod]]'s advice and released Lilim by season. As of 2022, Lilim has three seasons. The first season was a mix of walk vignettes and personal essays. The second season followed a 3-2-1 newsletter style. The third season is mostly walk vignettes.
 
 Moving forward, I would like to write shorter vignettes, like those of [[thoughts/ben hewitt]] (300-400 words, 2-4 paragraphs). This would teach me how to be more succinct and could lessen the load further so I can focus more on my studies.
 

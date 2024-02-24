@@ -27,7 +27,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 	- [[thoughts/subsistent spirituality|subsistent spirituality]]
 	- [[thoughts/writing is coding|writing is coding]]
 	- [[thoughts/how to approach complex social issues|how to approach complex social issues]]
-	- [[thoughts/spirituality|spirituality]]
+	- [[spirituality|spirituality]]
 	- [[an aesthetic of faith and play]]
 	- [[thoughts/my conversion process|my conversion process]]
 	- [[thoughts/doubt|doubt]]
@@ -47,7 +47,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 	- [[poems/isa akong ilog|isa akong ilog]]
 	- [[ballpoints]]
 - Asked Sir Rofel for recommendations of authors to read. He suggested Benilda Santos.
-- Watched [[thoughts/craig mod|Craig Mod's]] TBOT launch.
+- Watched [[craig mod|Craig Mod's]] TBOT launch.
 - Wrote an answer to J's questions: what do you think makes for a fulfilling life? is a fulfilling life even achievable or is it a myth?
 
 # Photography

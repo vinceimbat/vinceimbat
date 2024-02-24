@@ -23,4 +23,4 @@ I have also mastered my relationship with the material world. I support myself t
 
 # To Do
 
-- As I go deeper into [[thoughts/free religion|free religion]], I should be open to revising this document to articulate how I aspire to be in a world I share with other human beings, creatures, and non-living things.
+- As I go deeper into [[jiyu shukyo|jiyu shukyo]], I should be open to revising this document to articulate how I aspire to be in a world I share with other human beings, creatures, and non-living things.

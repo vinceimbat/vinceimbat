@@ -56,7 +56,7 @@ I am grateful for:
 47. My walk at Lopez Quezon, around town ([[vignettes/a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[essays/walking lopez 2]]), and at Santino's Farmville.
 48. Ate Nadia, the loving sister who feeds the stray animals in Batong Malake by buying cat food through the small money she earns as a maid.
 49. Lolo Aldo.
-50. [[thoughts/craig mod|craig mod]] sharing my [[essays/good art reorganizes your world|essay]] about how his work changed my life, which resulted to some traffic and IG follows.
+50. [[craig mod|craig mod]] sharing my [[essays/good art reorganizes your world|essay]] about how his work changed my life, which resulted to some traffic and IG follows.
 51. Getting some health indexes checked and learning that my blood sugar is normal.
 52. **Walking from LB to San Pablo, passing by the towns of Bay and Calauan, in half a day.**
 53. Walking around Sampaloc lake in San Pablo and visiting Bunot lake nearby.

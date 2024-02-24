@@ -72,7 +72,7 @@ Others
 	- I started doing research on lyric essays, documenting it in a note: [[thoughts/lyric essay|lyric essay]]
 	- Writing from the Margins by Zoë Bossiere and Erica Trabold
 	- What's Missing Here? by Julie Marie Wade
-- Watched [[thoughts/craig mod|Craig Mod's]] board meeting about his Random House deal.
+- Watched [[craig mod|Craig Mod's]] board meeting about his Random House deal.
 
 # Photography
 

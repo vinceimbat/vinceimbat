@@ -48,7 +48,7 @@ This is an email newsletter heavy strategy.
 Pros: Opportunity to regularly practice your craft; Readers remember you
 Cons: Pressure to produce; half-baked ideas are published
 
-Examples: [[thoughts/craig mod]]
+Examples: [[craig mod]]
 
 This issue is related with questions like [[Why does one opt to live in public?]]
 

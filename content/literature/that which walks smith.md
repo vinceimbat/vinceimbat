@@ -8,7 +8,7 @@ tags:
 ---
 # Radical walking
 
-I need to check on this further, but I have a hunch that radical walking what Smith calls the [[thoughts/dérive|dérive]]. It is radical simply because it is purposeful as compared to the thoughtless walk.
+I need to check on this further, but I have a hunch that radical walking what Smith calls the [[derive|derive]]. It is radical simply because it is purposeful as compared to the thoughtless walk.
 
 According to Phil Smith, radical walking emerged from anti-capitalist post-war European activists who rejected Stalinism in favor of "a Marcusean liberation of subjectivity, eros, desire, and exploration of irrational zones of consciousness, beyond the reach of mass media." Despite its strong sense of subjectivity, that movement deeply believed in the power of collectivities.
 
@@ -32,7 +32,7 @@ Smith argues that since 2008, the diverse radical walking space never really for
 
 In 2008, women were evidently marginalized in the walking arts. But this improved six years later as the walking arts expanded and diversified as illustrated by Smith's book *On Walking* (2014).
 
-The walking arts expanded because of the loose convergence of artists using the [[thoughts/dérive|dérive]] as a tool to "disrupt capitalist alienation" and land and live performance artists. However, waking also attracted other people with other priorities, such as meditation, tourism, nature walking, entrepreneurship, etc.
+The walking arts expanded because of the loose convergence of artists using the [[derive|derive]] as a tool to "disrupt capitalist alienation" and land and live performance artists. However, waking also attracted other people with other priorities, such as meditation, tourism, nature walking, entrepreneurship, etc.
 - ==This is the reason why it is important early on to articulate specifically what I want to use walking for.==
 
 # Negative developments

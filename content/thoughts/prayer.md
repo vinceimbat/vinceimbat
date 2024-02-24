@@ -5,7 +5,7 @@ draft: false
 tags:
   - seedlings
 ---
-The main question I am trying to think about now is how can "prayer" be incorporated into a [[thoughts/free religion|free creative spirituality]]? A top of mind answer to my own question would be to think about my needs. Sometimes, I feel like I have a need to talk to "someone" invisible even if I know he or she isn't there (like my dead friend, Rem). Sometimes, as if reminiscent to my prayers to Jehovah in the past, I feel like I want to pray to the universe as if it is a person.
+The main question I am trying to think about now is how can "prayer" be incorporated into a [[jiyu shukyo|free creative spirituality]]? A top of mind answer to my own question would be to think about my needs. Sometimes, I feel like I have a need to talk to "someone" invisible even if I know he or she isn't there (like my dead friend, Rem). Sometimes, as if reminiscent to my prayers to Jehovah in the past, I feel like I want to pray to the universe as if it is a person.
 
 But I am also interested in exploring forms of prayer that is more aligned to the non-theistic spirituality that I am slowly embracing. If there is no God or soul to talk to, how can prayer be done?
 

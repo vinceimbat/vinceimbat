@@ -12,5 +12,5 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-This is my task manager of choice. One of the best designed apps I've ever encountered. Suggested by [[thoughts/tiago forte]]. Used by [[thoughts/craig mod]].
+This is my task manager of choice. One of the best designed apps I've ever encountered. Suggested by [[thoughts/tiago forte]]. Used by [[craig mod]].
 

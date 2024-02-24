@@ -9,7 +9,7 @@ sr-due: 2023-10-29
 sr-interval: 1
 sr-ease: 232
 ---
-Brown has sympathies with the [[thoughts/free religion|Free Religion]] (自由宗教 — _jiju shukyo_) advocated by [[thoughts/shinichiro imaoka|Shin'ichirō Imaoka]].
+Brown has sympathies with the [[jiyu shukyo|Free Religion]] (自由宗教 — _jiju shukyo_) advocated by [[thoughts/shinichiro imaoka|Shin'ichirō Imaoka]].
 
 # Conversations
 

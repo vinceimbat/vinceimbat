@@ -1,15 +1,13 @@
 ---
-title: "Craig Mod"
-date: "2021-06-30"
+title: Craig Mod
+date: 2021-06-30
 aliases:
 - "Craig-Mod"
-- "thoughts/craig-mod"
+- "/thoughts/craig-mod"
 tags:
+- thoughts
+- seedlings
 
-- "seedlings"
-sr-due: 2027-05-16
-sr-interval: 1396
-sr-ease: 269
 ---
 Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[thoughts/henry david thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[thoughts/annie dillard]] who engaged more with [[Nature]] and, thus, talked more to themselves. (Note: How much should I talk to people I meet on my walks?)
 

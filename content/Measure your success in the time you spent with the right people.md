@@ -9,6 +9,6 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-This was [[thoughts/craig mod]]'s advice.
+This was [[craig mod]]'s advice.
 
 # References

@@ -92,7 +92,7 @@ Poetry
 - Journaled about my achievements for the past six months.
 - Began practicing seiza.
 - Read [The Life and Times of Okada Torajiro and his Seiza Method of Self-Harmonization](https://www.kyotojournal.org/spirit/the-life-and-times-of-okada-torajiro-and-his-seiza-method-of-self-harmonization/).
-- Notes: [[thoughts/kensho|kensho]], [[thoughts/free religion|free religion]].
+- Notes: [[thoughts/kensho|kensho]], [[jiyu shukyo|jiyu shukyo]].
 - Read and listened to [A Gentle Call to Adopt Imaoka Shin'Ichirō's Creative, Free Spirituality Found in His "Creed of Life"](https://andrewjbrown.blogspot.com/2023/09/a-gentle-call-to-adopt-imaoka.html).
 - Started journaling about [[thoughts/shinichiro imaoka|Shinichiro Imaoka]]'s first and second statements in his creed of life.
 - Read [Faith in Ourselves, Our Neighbours, and Ourselves as Neighbours](https://andrewjbrown.blogspot.com/2023/09/faith-in-ourselves-our-neighbours-and.html).

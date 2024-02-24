@@ -6,7 +6,7 @@ draft: false
 tags:
   - seedlings
 ---
-This page tracks my personal expression of [[thoughts/free religion|free religion]]. My free religion combines the following media of expression:
+This page tracks my personal expression of [[jiyu shukyo|jiyu shukyo]]. My free religion combines the following media of expression:
 - [[thoughts/walking|walking]]
 - [[thoughts/writing|writing]]
 - [[thoughts/photography|photography]]

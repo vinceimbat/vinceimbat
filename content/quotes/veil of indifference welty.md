@@ -11,7 +11,7 @@ My continuing passion is to part a curtain, that invisible shadow that falls bet
 
 # To do
 
-- Connect this with [[thoughts/free religion|free religion]].
+- Connect this with [[jiyu shukyo|jiyu shukyo]].
 - Connect this with [[essays/a goodness lurking|a goodness lurking]].
 
 # References

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 254
 ---
 
-According to [[thoughts/craig mod]], life is all about controlling your attention. Controlling your attention enhances your appreciation and ability to savor the current life you have. This protects you from thinking about the regrets of the past and the worries of the future.
+According to [[craig mod]], life is all about controlling your attention. Controlling your attention enhances your appreciation and ability to savor the current life you have. This protects you from thinking about the regrets of the past and the worries of the future.
 
 The past and the future are things out of your control anyway. You need to [[Focus on what you can control]], and [[The only thing you can truly control is your attention]].
 

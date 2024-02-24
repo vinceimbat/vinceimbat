@@ -7,9 +7,7 @@ tags:
 ***
 # Hi, I'm Vince Imbat.
 
-I'm a writer and photographer based in Los Baños, Laguna.
-
-I'm deeply interested in matters of [[religion]], [[spirituality]], and [[philosophy]], and I try to engage with these subjects through solitary [[walking]].
+## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
 
 Welcome to my little home in the web. This website tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" as used by [[Herbert Fingarette]]:
 

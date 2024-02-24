@@ -29,7 +29,7 @@ According to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]], using the word ki
 [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] initially wanted to revive the [[thoughts/unitarianism|Unitarian]] Church through[[ kiitsu kyokai]] but he realized that what is needed is a continuation of the church through a significant transformation. What are these transformations?
 
 - Imaoka wanted kiitsu kyokai to go beyond Christianity (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
-- He wanted it to be a [[free religion]].
+- He wanted it to be a [[jiyu shukyo]].
 - He wanted it to be non-sectarian.
 - He wanted it to be transdenominational (i.e., not being overly attached to established religions).
 - He wanted this free religion to be the base from which we accept established religions if we choose so.
@@ -43,7 +43,7 @@ It is interesting how [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] thinks ab
 ***
 ## plurality is critical to the success of a kiitsu kyokai
 
-Individuals with personal and autonomous religions (i.e. [[thoughts/free religion|free religion]]) can still come together and gather into a "church" (or [[thoughts/kiitsu kyokai|kiitsu kyokai]]). This variety is exactly what is necessary for a cooperative community to emerge. We shouldn't aspire for a community that is not plural, agrees to a single way of thinking, and penalizes divergent thinking. It is our differences with the people around us that teaches us how to practice tolerance, patience, kindness, and love.
+Individuals with personal and autonomous religions (i.e. [[jiyu shukyo|jiyu shukyo]]) can still come together and gather into a "church" (or [[thoughts/kiitsu kyokai|kiitsu kyokai]]). This variety is exactly what is necessary for a cooperative community to emerge. We shouldn't aspire for a community that is not plural, agrees to a single way of thinking, and penalizes divergent thinking. It is our differences with the people around us that teaches us how to practice tolerance, patience, kindness, and love.
 
 ***
 ## kiitsu kyokai is democratic
@@ -55,7 +55,7 @@ Individuals with personal and autonomous religions (i.e. [[thoughts/free religio
 
 In congruence with its [[thoughts/unitarianism|Unitarian]]  roots, the [[kiitsu kyokai]] advocates supporting social causes. According to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]], "salvation is both personal and social" and "individual salvation and societal salvation are two sides of the same coin." Therefore, the kiitsu kyokai, like the Unitarian movement, is an enlightenment project that aims to influence not just religion but society in general. Among the objectives of an enlightenment project according to Imaoka are harmonizing science and religion and promoting culture and peace.
 
-The kiitsu kyokai as an organization nurtures [[free religion]], which becomes the foundation for all efforts to address societal issues. Although it is an enlightenment project, it is also a religious organization, which means it isn't only for intellectual engagement. Imaoka aspires the kiitsu kyokai to be a practice ground for the ideal society, where all kinds of people from different walks of life could come together in unity.
+The kiitsu kyokai as an organization nurtures [[jiyu shukyo]], which becomes the foundation for all efforts to address societal issues. Although it is an enlightenment project, it is also a religious organization, which means it isn't only for intellectual engagement. Imaoka aspires the kiitsu kyokai to be a practice ground for the ideal society, where all kinds of people from different walks of life could come together in unity.
 
 To do: The "universality" of free religion is something worth thinking about.
 

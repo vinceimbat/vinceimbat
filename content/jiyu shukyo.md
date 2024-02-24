@@ -1,14 +1,14 @@
 ---
-title: Free Religion
+title: Jiyū shūkyō
 date: 2023-10-28
-tags:
-  - seedlings
+aliases:
+  - /thoughts/free-religion
 draft: false
-sr-due: 2023-10-31
-sr-interval: 1
-sr-ease: 210
+tags:
+  - thoughts
+  - seedlings
 ---
-Here is [[thoughts/andrew j. brown|Andrew J. Brown's]] advice on how to begin one's journey in [[thoughts/free religion|free religion]].
+Here is [[thoughts/andrew j. brown|Andrew J. Brown's]] advice on how to begin one's journey in [[jiyu shukyo|jiyu shukyo]].
 
 >the most important thing is always to keep listening with an as open-mind and open-heart as possible, both to what's going on all around us and also to what's going on in our own head and heart/body. Just beginning a simple practise of Seiza (Quiet Sitting) meditation is, I'm sure, a good and gentle place to begin this kind of non-judgemental listening.
 
@@ -34,6 +34,18 @@ I'm playing around possible translation of the word into Filipino. Here are some
 - Malayang pagsamba
 - **Malayang pamimintuho**
 
+# Expressions
+
+The connection between an embodied practice like walking and an abstract idea like jiyu shukyo would be varied. There is no one way to do it. Experiments are encouraged.
+
+My center of gravity isn't to help myself and others become better writers but to help myself and others become better people through writing and other methods.
+
+- [[jiyu shukyo allows taking a stand]]
+- [[walking as jiyu shukyo]]
+- [[writing as jiyu shukyo]]
+- [[photography as jiyu shukyo]]
+
 # Questions to explore here
 
 - Does the Philippines need jiyu shukyo?
+- How can Jiyu shukyo be used to walk a Filipino intellectual and spiritual terrain?

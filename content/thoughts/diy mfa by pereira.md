@@ -116,7 +116,7 @@ Who MFA is for:
 2.  Read with purpose. Read with the intention of understanding an author’s craft and finding something in it that you can use to improve your writing.
 3.  Build your community.
 
-Note: These are also what [[thoughts/craig mod]] said are the main areas of a writing life.
+Note: These are also what [[craig mod]] said are the main areas of a writing life.
 
 Ideally, maintain a time allocation of 50% writing, 25% reading, and 25% community-building. But keep this allocation flexible depending on your projects.
 

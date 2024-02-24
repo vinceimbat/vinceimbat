@@ -14,7 +14,7 @@ sr-ease: 250
 
 Hello, my friend,
 
-This week, I decided to be more intentional about my walks, partly because of encountering [[thoughts/craig mod|Craig Mod]] but also because I realized how unwise it was not to take full advantage of the place I currently live in.
+This week, I decided to be more intentional about my walks, partly because of encountering [[craig mod|Craig Mod]] but also because I realized how unwise it was not to take full advantage of the place I currently live in.
 
 I am currently living in Los Baños, Laguna, a town 63 kms away from Manila. It is one of the many places in the Philippines that are fortunate enough to be situated in the middle of a mountain and a large body of water. The house I am living at is literally at the foot of Mt. Makiling, while Laguna Lake is just about a 30-minute walk away.
 

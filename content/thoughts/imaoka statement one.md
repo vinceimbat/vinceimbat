@@ -26,7 +26,7 @@ Listening to myself may also involve developing intuition and trusting my gut fe
 
 I am already doing this listening; I just have to strengthen and cultivate it.
 
-In this [[thoughts/free religion|free religion]] path, it is wise to retreat to my well first and establish that center, that base, that stronghold before moving out.
+In this [[jiyu shukyo|jiyu shukyo]] path, it is wise to retreat to my well first and establish that center, that base, that stronghold before moving out.
 
 # On the self
 

@@ -23,7 +23,7 @@ This is the middle path that leads to contentment. This is why contentment is al
 
 The real job here is keeping that faith and nurturing it, practicing it, actively pursuing meaning and the search for affirmations for this faith.
 
-Faith as used by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[thoughts/free religion|free religion]] refers to openness to one's mind, heart, and neighbor.
+Faith as used by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[jiyu shukyo|jiyu shukyo]] refers to openness to one's mind, heart, and neighbor.
 
 # From Andrew J. Brown
 
