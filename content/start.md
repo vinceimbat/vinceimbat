@@ -4,7 +4,7 @@ date: "2021-02-11"
 tags:
 - "evergreens"
 ---
-This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[Herbert Fingarette]]:
+This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[herbert fingarette]]:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 

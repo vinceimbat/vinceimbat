@@ -4,21 +4,29 @@ enableToc: false
 tags:
 - "evergreens"
 ---
+
+***
+
 # Hi, I'm Vince Imbat.
 
 ## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
 
-Welcome to my little home in the web. This website tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" as used by [[Herbert Fingarette]]:
+***
+
+This website is an [[archive]] of my footprints both in the walks I take in [[thoughts/mental wilderness|the wilderness of my mind]] and [[thoughts/geographical wilderness|the wilderness out there]]. In curating this website, I take inspiration from [[herbert fingarette|Herbert Fingarette's]] words:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 
 Some projects I'm currently working on:
 
-- [[talahardin|Talahardin]]: This website itself; an experiment in using a [[thoughts/my forest garden of the mind|digital garden]] as a backbone for creative writing and thinking based on the premise that [[thoughts/art is never finished|art is never finished]]
-- [[essays/a goodness lurking|Free, creative, and subsistent spirituality]]: My ongoing research and documentation of my conversion toward liberal religion
-- [[thoughts/walking los baños|Walking Los Baños]]
-- [[thoughts/walking baguio|Walking Baguio]]
+- [[talahardin|Talahardin]]: This website itself; an experiment in combining walking with an [[archive]] and a digital garden as a backbone for a creative writing and thinking practice based on the premise that [[thoughts/art is never finished|art is never finished]].
+- [[jiyu shukyo|Jiyū Shūkyō]]: An exploration and documentation of my conversion toward a [[essays/a goodness lurking|free and creative spirituality]].
+- [[walking|Walking]]: An attempt to understand the contemporary [[derive|dérive]] in contrast with my experience of walking and Filipino indigenous conceptions of walking to come up with a creative embodied avenue to explore a free and creative spirituality. Some walks I've done:
+	- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
+	- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
+	- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+	- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
-I also send a weekly newsletter called [**The Long Walk**](https://vinceimbat.substack.com/). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
+I also send a weekly newsletter called [**The Long Walk**](/tags/tlw). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
 
 <iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

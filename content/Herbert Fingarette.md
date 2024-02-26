@@ -1,12 +1,11 @@
 ---
-title: "Herbert Fingarette"
-date: "2022-09-03"
+title: Herbert Fingarette
+date: 2022-09-03
+aliases:
+  - Herbert-Fingarette
 tags:
-
-- "seedlings"
-sr-due: 2022-09-06
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
 
 
