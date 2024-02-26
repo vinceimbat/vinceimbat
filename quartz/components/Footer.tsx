@@ -21,8 +21,6 @@ export default ((opts?: Options) => {
           <span style="margin-right: 20px;"></span>
           <a href="/talahardin">Notes</a>
           <span style="margin-right: 20px;"></span>
-          <a href="/walking">Walking</a>
-          <span style="margin-right: 20px;"></span>
           <a href="/newsletter">Newsletter</a>
         </div>
         <hr />
