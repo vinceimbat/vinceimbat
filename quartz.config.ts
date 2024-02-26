@@ -21,8 +21,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Newsreader",
-        body: "Spectral",
+        header: "Ubuntu Bold",
+        body: "Nanum Gothic",
         code: "Jetbrains Mono",
       },
       colors: {
