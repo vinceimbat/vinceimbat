@@ -13,7 +13,7 @@ export default (() => {
                 <a href="/about">About</a>
             </div>
             <div style="margin-bottom: 7px;">
-                <a href="/essays">Essays</a>
+                <a href="/tags/essays">Essays</a>
             </div>
             <div style="margin-bottom: 7px;">
                 <a href="/talahardin">Notes</a>
