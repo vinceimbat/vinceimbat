@@ -151,7 +151,7 @@ My work has some pastoral elements in it. My calling, my gift, is to remind peop
 
 My creative life is an extension of my life. The main reason why I create is because I want to understand the world and live well. My life is my most important artwork. Therefore, my creative life begins within. I am my first audience. Whatever creative work I do in private is my most important work. I believe that creation is first an act of renewal. This inner work is the most fundamental part of creative life. I could do away with all the other but not this.
 
-This is why the most important parts of [[thoughts/my daily routine]] are those that involve [[thoughts/meditation]], [[thoughts/contemplation]], [[thoughts/walking]], and [[thoughts/journaling is sacred|journaling]]. When I am busy with sustenance work, I could let go of other projects except these.
+This is why the most important parts of [[thoughts/my daily routine]] are those that involve [[thoughts/meditation]], [[thoughts/contemplation]], [[walking]], and [[thoughts/journaling is sacred|journaling]]. When I am busy with sustenance work, I could let go of other projects except these.
 
 (Note: Connect here discussion in [[Understanding and living are the core of my life work]])
 
@@ -181,7 +181,7 @@ Whenever I am ready, I want to work on applying my ideas to individuals on a mor
 
 I want my work to feel both emotional and intellectual.
 
-[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[thoughts/writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[thoughts/walking]], [[thoughts/poetry]], and [[thoughts/photography]], which provides a rest to intellectual work or facilitates and even guides the former.
+[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[thoughts/writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[walking]], [[thoughts/poetry]], and [[thoughts/photography]], which provides a rest to intellectual work or facilitates and even guides the former.
 
 ### Process over product
 
@@ -198,7 +198,7 @@ Today, I subscribe to the following beliefs about the act of creation:
 2. Creativity, because it involves action, is saying, "I choose to live this life which I didn't choose for myself, which was gifted to me, and which I could easily abandon by killing myself." Therefore, creativity if befriending life, embracing it, an effort to see what good can be taken from it.
 3. Creativity, is therefore, a way to create meaning in what is a meaningless world.
 
-Seeing life through this metaphor makes [[thoughts/walking]] relevant and writing walking excursions appropriate.
+Seeing life through this metaphor makes [[walking]] relevant and writing walking excursions appropriate.
 
 # To do
 

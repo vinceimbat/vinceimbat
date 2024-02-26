@@ -17,5 +17,5 @@ The more I walk, the more I understand my reality. The more I  understand my rea
 
 To see the world, to experience it. Is living.
 
-Maintenance work is still living. But what comes after maintenance is a different kind of living—flourishing. When we are [[thoughts/walking]], we flourish.
+Maintenance work is still living. But what comes after maintenance is a different kind of living—flourishing. When we are [[walking]], we flourish.
 

@@ -44,7 +44,7 @@ You can start exploring the digital garden by clicking on the following points o
 - [[thoughts/my forest garden of the mind|My forest garden of the mind]]
 - [[thoughts/my worldview|My worldview]]
 - [[thoughts/my poetics|My poetics]]
-- [[thoughts/walking|Walking]]
+- [[walking|Walking]]
 - [[newsletter|Newsletters]]
 - [[thoughts/poetry|Poetry]]
 - [[thoughts/photography|Photography]]

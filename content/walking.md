@@ -1,9 +1,12 @@
 ---
-title: "Walking"
-date: "2022-08-15"
-aliases: "Walking"
+title: Walking
+date: 2022-08-15
+aliases:
+  - Walking
+  - /thoughts/walking
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2028-10-27
 sr-interval: 1914
 sr-ease: 290

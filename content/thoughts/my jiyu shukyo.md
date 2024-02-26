@@ -7,7 +7,7 @@ tags:
   - seedlings
 ---
 This page tracks my personal expression of [[jiyu shukyo|jiyu shukyo]]. My free religion combines the following media of expression:
-- [[thoughts/walking|walking]]
+- [[walking|walking]]
 - [[thoughts/writing|writing]]
 - [[thoughts/photography|photography]]
 - [[thoughts/facilitating|facilitating]]

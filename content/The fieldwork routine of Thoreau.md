@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-[[thoughts/henry david thoreau]]'s fieldwork routine invovled [[thoughts/walking]] in the afternoon, writing notes while walking, and processing those notes into long journal entries in the following morninng. Sometimes, he modified this routine, but he always tried to spend equal times between writing and walking. He wanted to write based on experience and not based on books alone ([[Words written outdoors vs indoors]]).
+[[thoughts/henry david thoreau]]'s fieldwork routine invovled [[walking]] in the afternoon, writing notes while walking, and processing those notes into long journal entries in the following morninng. Sometimes, he modified this routine, but he always tried to spend equal times between writing and walking. He wanted to write based on experience and not based on books alone ([[Words written outdoors vs indoors]]).
 
 He wrote about what he saw and collected them, treating them as his harvest, as if they were real quantifiable treasures.
 

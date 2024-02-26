@@ -15,7 +15,7 @@ sr-ease: 255
 
 I wanted to leave, but instead, I did what I knew I had to do. I set forth for [[thoughts/the long walk|a long walk]] into [[thoughts/wilderness|the Wilderness]].
 
-As I walk, I cover two planes simultaneously—a finite [[thoughts/geographical wilderness]] and a vast and never-ending [[thoughts/mental wilderness]]. [[thoughts/walking|Walking]] in geographic space expands the mind. Walking the mind deepens the meaning of geographic space.
+As I walk, I cover two planes simultaneously—a finite [[thoughts/geographical wilderness]] and a vast and never-ending [[thoughts/mental wilderness]]. [[walking|Walking]] in geographic space expands the mind. Walking the mind deepens the meaning of geographic space.
 
 In this excursion, which ends only in death, I gather [seeds](tags/seeds.md) of thoughts, verses, images, and experiences. I pocket these seeds until I find the right soil to plant them, here in a third space—cyberspace.
 
