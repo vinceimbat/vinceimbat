@@ -7,11 +7,6 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      About: "/about",
-      Essays: "/tags/essays",
-      Notes: "/talahardin",
-      Walking: "/walking",
-      Newsletter: "/newsletter",
       Instagram: "https://www.instagram.com/vinceimbat",
       Threads: "https://www.threads.net/@vinceimbat",
       RSS: "/index/xml",

@@ -14,6 +14,18 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
+        <div class="navbar">
+          <a href="/about">About</a>
+          <span style="margin-right: 20px;"></span>
+          <a href="/essays">Essays</a>
+          <span style="margin-right: 20px;"></span>
+          <a href="/talahardin">Notes</a>
+          <span style="margin-right: 20px;"></span>
+          <a href="/walking">Walking</a>
+          <span style="margin-right: 20px;"></span>
+          <a href="/newsletter">Newsletter</a>
+        </div>
+        <hr />
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
