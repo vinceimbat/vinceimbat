@@ -13,7 +13,7 @@ Zettelkasten is a German word that roughly traslates to “slip-box.” Not ever
 
 To see how Luhmann used the Zettelkasten, see [[Luhmann's Zettelkasten Manual]]. While heavily similar, there might be subtle nuances in [[Ahren's Zettelkasten Manual]].
 
-My own version of this system is [[thoughts/talahardin]].
+My own version of this system is [[talahardin]].
 
 To do
 

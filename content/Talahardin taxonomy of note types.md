@@ -24,7 +24,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/e
    - Notes with precise declarative or imperative phrases with strong claims, e.g., [[Use a note-writing system]]. If I have no strong claim, I frame these notes as questions, e.g. [[thoughts/i want my audience to feel existential]] These atomic notes are the cream of the crop.
    - Higher-level permanent notes
       - Notes that abstract from multiple notes
-      - My own terms of art, e.g. [[thoughts/talahardin]]
+      - My own terms of art, e.g. [[talahardin]]
 - [[Outline notes]], e.g., [[thoughts/zettelkasten]]
 
 ## Non-ladder

@@ -1,25 +1,21 @@
 ---
-title: "About Me"
-date: "2017-03-18"
-slug: "about"
+title: About Me
+date: 2017-03-18
 tags:
-
-- "seedlings"
+  - seedlings
 sr-due: 2022-08-16
 sr-interval: 3
 sr-ease: 250
 ---
-
 Hi. My name is Vince Imbat. I'm a writer, poet, and photographer who walks in Laguna and elsewhere in the Philippines. I spend most of my days thinking and contemplating about the question _"How should I live?"_
 
-## Subscribe to my newsletters
+# Subscribe to my newsletter
 
-I regularly send two newsletters:
+I regularly send one newsletter:
 
-- _[Lilim](tags/lilim.md)_: a bi-weekly newsletter about walking in Laguna and elsewhere in the Philippines.
 - _[Uman](tags/uman.md)_: a monthly newsletter documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
-## What I Do
+# What I Do
 
 In my pursuit for answers, I study a wide variety of resources from different disciplines, cultures, and eras. I collect insights about the art of living and carefully and critically reflect on them. I write my thoughts in [atomic notes](https://notes.vinceimbat.com) and revisit them regularly through a note-writing system and practice I call [Talahardin](ttps://notes.vinceimbat.com) or "garden of notes." I support this practice by cultivating mindfulness, moderation, and introspection, facilitated in no small part by [long walks](/tags/walk-narratives). I see walking as a discipline of its own or perhaps a state of mind that creates a space for me to pause and grow my thoughts organically.
 

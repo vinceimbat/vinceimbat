@@ -12,7 +12,7 @@ It is the 20th century new critics who championed that the process that lead to 
 
 This principle also implies that a published literary work is self-containing and complete (i.e., whole and final) and that its interpretation can be found within itself.
 
-Since it favors the [[draft]] and is designed under the principle that [[thoughts/art is never finished|art is never finished]], the [[thoughts/talahardin|talahardin]] is a rejection of new criticism.
+Since it favors the [[draft]] and is designed under the principle that [[thoughts/art is never finished|art is never finished]], the [[talahardin|talahardin]] is a rejection of new criticism.
 
 # References
 

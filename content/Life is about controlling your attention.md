@@ -19,7 +19,7 @@ To control your attention, you have to:
 2. Develop the ability to pay attention (i.e., clearing the mind, being less distracted, being still).
 3. Use that ability to nurture what is worth paying attention to.
 
-If your current life is something that is important to you, you will pay more attention to it. A good method to experiencing Ginhawa is to develop attention to my own thoughts and environment. This is something I hope to accomplish in my daily routine. In the morning, I pay attention to my thoughts and develop them through writing in my [[Diary]] and [[thoughts/talahardin]]. In the afternoon, I go outdoors and develop savoring and paying attention by mindful walking and photography.
+If your current life is something that is important to you, you will pay more attention to it. A good method to experiencing Ginhawa is to develop attention to my own thoughts and environment. This is something I hope to accomplish in my daily routine. In the morning, I pay attention to my thoughts and develop them through writing in my [[Diary]] and [[talahardin]]. In the afternoon, I go outdoors and develop savoring and paying attention by mindful walking and photography.
 
 Take note: You don't have to pay attention to everything. You just have to be absolutely paying attention as best as you can. This is related to [[you cannot save everyone]]
 

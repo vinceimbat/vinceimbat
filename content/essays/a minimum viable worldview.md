@@ -29,7 +29,7 @@ Before encountering Patterson's work, I already held beliefs about the world. Th
 
 For example, for quite some time now, I have held the belief that ultimately there is no skin-encapsulated ego-centric "self." Instead, what exists is an "interdependent self" made up of myself, other humans, animals, plants, and the physical world. This belief, which I now understand as a "metaphysical" claim about reality, has inspired me to act on a considerable amount of environmentalism in previous years. These actions can be considered derivatives of an "ethics" (moral principles) inspired by my metaphysical understanding of the world. Early in my philosophical journey, without diving deep on the literature, I felt intuitively that: **my metaphysics informs my ethics**.
 
-Now, after meeting [Patterson's](http://steve-patterson.com) work, it became clear to me that I have to get deeper on my metaphysical beliefs to check their accuracy. Or more accurately, to check whether or not I am upholding one of my most cherished values: **honesty**. It became even clearer that this should be an important part of my [[About me]] for years to come. I said "years" because again, there's just too much information to consume!
+Now, after meeting [Patterson's](http://steve-patterson.com) work, it became clear to me that I have to get deeper on my metaphysical beliefs to check their accuracy. Or more accurately, to check whether or not I am upholding one of my most cherished values: **honesty**. It became even clearer that this should be an important part of my [[about]] for years to come. I said "years" because again, there's just too much information to consume!
 
 This led me to my major conundrum:
 

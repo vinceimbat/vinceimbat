@@ -10,7 +10,7 @@ sr-interval: 482
 sr-ease: 228
 ---
 
-The [[thoughts/talahardin]] cycle refers to the holistic process of using the system in engaging with information and generating knowledge. It is a cycle because the end of one loop informs the next. The phases of this cycle are:
+The [[talahardin]] cycle refers to the holistic process of using the system in engaging with information and generating knowledge. It is a cycle because the end of one loop informs the next. The phases of this cycle are:
 
 1. [[thoughts/metalearning]]
 2. [[thoughts/reading]], highlighting, and taking [[literature notes]]

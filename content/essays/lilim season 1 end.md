@@ -21,7 +21,7 @@ It has been a lot of fun writing stories and essays regularly and complementing 
 
 That said, my [[essays/how i became a professional multipotentialite|multipotentialite]] tendencies are still persistent, and there is so much more I want to do other than writing stories and essays about my walks with philosophical and artistic musings. Right now, I am being called to go back to [[essays/reading thoreau journal|translating Thoreau’s journal entries]], a project I want to see through as a published book. I already have a sizable amount of translations, but there is so much more to do before a manuscript can even start to take shape.
 
-Aside from this, I am once again being called to study the one question that my entire body of work revolves around— [[About me|"How should I live?"]] More specifically, I am beginning to feel that I need to spend more time researching and writing about this question, so I can publish essays about it in this newsletter and in my blog.
+Aside from this, I am once again being called to study the one question that my entire body of work revolves around— [[about|"How should I live?"]] More specifically, I am beginning to feel that I need to spend more time researching and writing about this question, so I can publish essays about it in this newsletter and in my blog.
 
 Because of these recent changes in my artistic inclinations, I have decided to experiment with a new Lilim newsletter format starting next week. I will then call the first 12 issues of Lilim as Lilim Season 1.
 

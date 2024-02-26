@@ -4,7 +4,6 @@ enableToc: false
 tags:
 - "evergreens"
 ---
-***
 # Hi, I'm Vince Imbat.
 
 ## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
@@ -15,7 +14,7 @@ Welcome to my little home in the web. This website tracks my footprints both in 
 
 Some projects I'm currently working on:
 
-- [[thoughts/talahardin|Talahardin]]: This website itself; an experiment in using a [[thoughts/my forest garden of the mind|digital garden]] as a backbone for creative writing and thinking based on the premise that [[thoughts/art is never finished|art is never finished]]
+- [[talahardin|Talahardin]]: This website itself; an experiment in using a [[thoughts/my forest garden of the mind|digital garden]] as a backbone for creative writing and thinking based on the premise that [[thoughts/art is never finished|art is never finished]]
 - [[essays/a goodness lurking|Free, creative, and subsistent spirituality]]: My ongoing research and documentation of my conversion toward liberal religion
 - [[thoughts/walking los baños|Walking Los Baños]]
 - [[thoughts/walking baguio|Walking Baguio]]

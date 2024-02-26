@@ -11,7 +11,7 @@ sr-ease: 232
 
 Writing is not the end goal in [[thoughts/my life plan]]. Writing is simply a tool I use to facilitate the enhancement of the most important of the [[Five areas of my life work]]: [[thoughts/living]]. I write to uncover what is true, to understand how truth relates to how I want to act,  and to create meaning from my actions and experiences ([[Writing is the best facilitator for thinking]]). Writing helps me live more effectively and intentionally.
 
-Therefore, the most important writing I do is journaling, note-writing in my [[thoughts/talahardin]], and other writings I do in private. These kinds of writing are not performative. They are deeply personal and functional.
+Therefore, the most important writing I do is journaling, note-writing in my [[talahardin]], and other writings I do in private. These kinds of writing are not performative. They are deeply personal and functional.
 
 An excemption is perhaps [[thoughts/uman]], which, although public, serves a very important purpose: to help me [[thoughts/review]] my actions and, therefore, check whether my end results match my intentions ([[thoughts/an action succeeds if its end state approximates its intention]]).
 

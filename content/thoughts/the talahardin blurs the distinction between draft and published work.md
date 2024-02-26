@@ -8,7 +8,7 @@ sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 268
 ---
-Because it publishes drafts as they are in the process of being developed, the [[thoughts/talahardin|talahardin]] blurs the modern distinction between [[draft]] and published work. This is possible through cheap and democratized technology (see [[thoughts/the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]]).
+Because it publishes drafts as they are in the process of being developed, the [[talahardin|talahardin]] blurs the modern distinction between [[draft]] and published work. This is possible through cheap and democratized technology (see [[thoughts/the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]]).
 
 # References
 

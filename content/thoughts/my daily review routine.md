@@ -11,7 +11,7 @@ sr-ease: 252
 ---
 There are few things I need to review every day:
 
-1. Progress in my philosophical studies including new developments in my [[thoughts/talahardin|talahardin]]
+1. Progress in my philosophical studies including new developments in my [[talahardin|talahardin]]
 2. Progress in my writing life
 3. Progress in my photography
 4. Progress in my walking

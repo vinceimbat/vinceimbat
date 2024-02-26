@@ -7,10 +7,14 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
+      About: "/about",
+      Essays: "/tags/essays",
+      Notes: "/talahardin",
+      Walking: "/walking",
+      Newsletter: "/newsletter",
       Instagram: "https://www.instagram.com/vinceimbat",
       Threads: "https://www.threads.net/@vinceimbat",
-      Mastodon: "https://mstdn.social/@vinceimbat",
-      GitHub: "https://github.com/vinceimbat",
+      RSS: "/index/xml",
     },
   }),
 }
@@ -27,10 +31,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
+    Component.DesktopOnly(Component.Darkmode()),
     Component.Graph(),
     Component.Backlinks(),
   ],
@@ -38,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

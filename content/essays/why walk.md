@@ -27,7 +27,7 @@ I knew I liked [[essays/lilim intro|walking]], perhaps more obsessively than mos
 
 # Walking is Being
 
-My ultimate life vision has been to understand this world, my place in it, and how I should move in it. I dream of being on my deathbed one day (or wherever death overcomes me) and saying to myself, "I have lived well. I have lived a life of meaning." That is the [[About me|ultimate vision]]. And walking is perhaps an unlikely means to fulfill that.
+My ultimate life vision has been to understand this world, my place in it, and how I should move in it. I dream of being on my deathbed one day (or wherever death overcomes me) and saying to myself, "I have lived well. I have lived a life of meaning." That is the [[about|ultimate vision]]. And walking is perhaps an unlikely means to fulfill that.
 
 But why walk when I could probably be better off dedicating my life to a cause, working with people, and fighting for those in need, as I did in the past? Why choose a mostly solitary activity that is impractical, hard, seemingly selfish, and frighteningly pointless?
 

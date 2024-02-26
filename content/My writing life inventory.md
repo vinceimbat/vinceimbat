@@ -17,7 +17,7 @@ I starte writing regularly since I starte my journaling practice around 2018. So
 
 **How much do you write each week?**
 
-Now, I write at least two page on my journal daily. I take notes while outdoors. I also write notes on my [[thoughts/talahardin]]. I published a 500–1,000-word essay every two weeks and another 1,000-word essay every month. I write probably 7,000–10,000 words per week.
+Now, I write at least two page on my journal daily. I take notes while outdoors. I also write notes on my [[talahardin]]. I published a 500–1,000-word essay every two weeks and another 1,000-word essay every month. I write probably 7,000–10,000 words per week.
 
 **Is your schedule structured or sporadic?**
 
