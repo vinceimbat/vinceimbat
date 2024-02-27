@@ -4,7 +4,10 @@ date: 2017-03-18
 tags:
   - seedlings
 ---
+![Vince Imbat ANWW20 headshot](files/anww20-vinceimbat.jpg)
 ## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
+
+***
 
 # Contact or Follow
 
@@ -17,7 +20,7 @@ tags:
 I regularly send two newsletters:
 
 - **[[tags/tlw|The Long Walk]]**: *The Long Walk* is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”
-- **[[tags/uman|𝌡 Uman]]**: Uman is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
+- **[[tags/uman|𝌡 Uman]]**: *Uman* is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
 <iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
@@ -41,6 +44,8 @@ I'm still in the process of deepening my understanding of jiyū shūkyō and I d
 
 # Walking
 
+![Man on overpass](files/20240116-090639-tall-tales-a-waiting-man_IG.jpg)
+
 I've always walked. Growing up as a Jehovah's Witness, it was something we just did. In college when I really started to go deep in the religion of my childhood, I volunteered in a sign language congregation that ministered to the deaf and hard of hearing in Baguio City. There I became a minister and young pastor. Part of my duties was to walk miles and miles around the hills of Baguio and nearby municipalities to search for deaf or hard of hearing individuals we could preach to. After I left the Jehovah's Witnesses in 2012, I used walking to grieve and begin creating my path ahead.
 
 While finding my way around different spiritual circles, I fell in love with [[henry david thoreau|Henry David Thoreau]]. I read his journals and started translating some of my favorite entries. I also started experimenting with walking as a spiritual practice and a platform for writing. Walking in the afternoons along dirt paths cutting through rice fields in my hometown of San Jacinto, Pangasinan, I developed an intimate relationship with my feet.
@@ -60,6 +65,8 @@ I'm fairly new to photography and have very little experience with the camera bu
 My interest with photography has always been driven by my desire to deepen my walks. My walks require me to look closer at objects and to look underneath what seems apparent in the landscape or the street. Photography, particularly the practice of [[contemplative photography]] I first learned from [[louise far|Louise Far]] seems to help me with both goals.
 
 My walks and photography work hand in hand. Almost all my photographs are taken during my walks.
+
+![Canvas](files/20231209-102338-rxg-canvas_IG.jpg)
 
 As of now, I'm also exploring how jiyū shūkyō could be practiced through photography. In thinking about photography this way, I take inspiration from Andrew James Brown:
 
