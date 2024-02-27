@@ -1,62 +1,82 @@
 ---
-title: About Me
+title: About Vince Imbat
 date: 2017-03-18
 tags:
   - seedlings
-sr-due: 2022-08-16
-sr-interval: 3
-sr-ease: 250
 ---
-Hi. My name is Vince Imbat. I'm a writer, poet, and photographer who walks in Laguna and elsewhere in the Philippines. I spend most of my days thinking and contemplating about the question _"How should I live?"_
+## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
 
-# Subscribe to my newsletter
+# Contact or Follow
 
-I regularly send one newsletter:
+- Email: [vince@vinceimbat.com](mailto:vince@vinceimbat.com)
+- Instagram: [@vinceimbat](https://www.instagram.com/vinceimbat/)
+- Threads: [@vinceimbat](https://www.threads.net/@vinceimbat)
 
-- _[Uman](tags/uman.md)_: a monthly newsletter documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
+# Subscribe to my newsletters
 
-# What I Do
+I regularly send two newsletters:
 
-In my pursuit for answers, I study a wide variety of resources from different disciplines, cultures, and eras. I collect insights about the art of living and carefully and critically reflect on them. I write my thoughts in [atomic notes](https://notes.vinceimbat.com) and revisit them regularly through a note-writing system and practice I call [Talahardin](ttps://notes.vinceimbat.com) or "garden of notes." I support this practice by cultivating mindfulness, moderation, and introspection, facilitated in no small part by [long walks](/tags/walk-narratives). I see walking as a discipline of its own or perhaps a state of mind that creates a space for me to pause and grow my thoughts organically.
+- **[[tags/tlw|The Long Walk]]**: *The Long Walk* is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”
+- **[[tags/uman|𝌡 Uman]]**: Uman is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
-Taken together, all of these create a holistic "practice of the mind," which I hope would help me better understand the world. Occasionally, when I have made enough progress on a certain subject, I write an essay about it. These essays are usually [personal](/categories/personal-essays) in nature, a narrative of how I have understood and embodied the things I have learned through contemplation and application. Some of them are more [theoretical](/categories/essays) as I attempt to understand things in a more objective and general lens.
+<iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-My goal for studying and writing is always to develop deep understanding first, so that I could respond to life appropriately. My studies are designed to help me act with purpose, integrity, and compassion. I experiment with different methods on how to achieve this and report my progress in my monthly newsletter, _[Uman](tags/uman.md)_. I also write a bi-weekly newsletter on walking called _[Lilim](tags/lilim.md)_.
+# Jiyū Shūkyō (自由宗教)
 
-## What Led Us Here
+Jiyū shūkyō (自由宗教), often translated as "free-religion," could also mean "a free and creative spirituality." It is what the Japanese visionary of progressive and liberal religion [[shinichiro imaoka|Imaoka Shin’ichirō-sensei (1881-1988)]] envisioned as his ideal foundation for a way of being in the world. The more contemporary works of George M. Williams, [[andrew j. brown|Andrew James Brown]], and a small community called [[kiitsu kyokai|Kiitsu Kyōkai]] (of which I'm a part of) are among the few things that breathe life to this long since overlooked religious and spiritual viewpoint.
 
-I was once a young pastor for an evangelical religion in a group specifically ministering to the Deaf. My life had its challenges, but a clear path was laid in front of me and I just had to follow it. Everything I believed in was spoon-fed to me and everything I did conformed with a prewritten script. I was an inexperienced 19-year-old with many years ahead of me, but I felt safe, secure, and purpose-driven.
+Current interpretations of jiyū shūkyō take inspiration from the few writings that Imaoka Shin'ichirō-sensei left, particularly his personal [[imaoka creed of life|Creed of Life]], a short document made of eight affirmations, which practitioners are encouraged to customize for their own unique spiritual expression.
 
-In 2011, all of that changed as I went through a painful year-long depressive episode that changed my life forever. The suffering I experienced led me to question everything I used to believe about myself and the world I lived in. It crushed my entire worldview to pieces, and along with it, my identity and life purpose.
+This cultivation of one's individual unique, creative, and autonomous spiritual expression while recognizing that such autonomy could only be possible through embracing one's interconnection with others—one's neighbors whether human or non-human—is, I think, what is at the core of jiyū shūkyō.
 
-A year after my depressive episode, I left my calling at the church to seek a new way of life—one that was more authentic to who I really am. I was faced with the almost impossible challenge of rebuilding how I saw the world and my place in it. Having abandoned my previous beliefs, community, and way of life, I was left without a clear path and purpose. I had no choice but to find my own.
+I found jiyū shūkyō after a 22-kilometer walk I did on June 9, 2022, from my current town of residence (Los Baños, Laguna) to San Pablo City. The strenuous yet meditative nature of that long walk moved me to finally confront my personal history as a former minister of the Jehovah's Witnesses, a confrontation I detailed in my essay [[traversing liminality through walking|"Traversing Liminality Through Walking: An Auto-Ethnography"]], which landed me a spot at the [[thoughts/anww20|20th Ateneo National Writers Workshop]].
 
-Little did I knew that the years of programming within the confines of my childhood religion was designed to crush this very desire to search for truth independently. With no knowledge or training to do a proper search, I jumped from one political, philosophical, or spiritual tradition to the next, only to find myself with the same existential void I had when I started. No matter how enticing the existing groups and traditions were, they always left out or even went against an important aspect of my personhood. Political and philosophical groups I joined glorified intellectualization, critical thinking, and abstract reasoning while dismissing contemplative practices and self-understanding. On the other hand, existing spiritual groups, both Western and Eastern, heavily used illogical languages as they neglected and even discouraged the cultivation of a rich intellectual life.
+Before this walk, I've tried so hard to avoid my religious past, thinking it is a period of my life no longer of use to me. However, as I wrote in the essay, what walking does is perform one's internal condition of being in-between spaces so that one could experience and perhaps finally see the distance between one's former self and present self, a moment that, with faith, leads to integration.
 
-Despite these challenges, I continued to have an insatiable hunger for truth, freedom, and beauty. I knew deep within me that these three could all coexist in a single way of life—a way of life where one can have a deep and satisfying relationship with oneself and the world while still being able to cultivate a sharp mind that does not have to believe in things it is not ready to believe in.
+What walking has helped me perceive is that the past is not something to avoid but is something that holds a few useful things to create and give meaning to my present reality. Walking helped me realize that despite not being affiliated to any formal religion I am still very interested in questions about reality, meaning, and being in the world. In short, I was and always is spiritual. Stumbling upon jiyū shūkyō through Andrew James Brown's blog [Caute](https://andrewjbrown.blogspot.com/) was the balm to my existential illness.
 
-But to live such a way of life, I realized that my path shall never be found _out there_. It had to be built—handcrafted _in here_ by my own mind from the ground up through an independent philosophical and contemplative practice.
+I'm still in the process of deepening my understanding of jiyū shūkyō and I don't have all the answers, but I try to write whatever I learn so I could share them to others. Some of my essays on the subject that others found helpful are:
+- [[a goodness lurking|A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]
+- [[where the sun warms|Where the Sun Warms: Nietzsche's Prognosis for Existential Illness]]
 
-## Where We Are Going
+# Walking
 
-My purpose is to live a life filled with _Ginhawa_ —a Filipino concept, which is usually translated as "well-being," and _Saysay_, which means "meaning". I want to help build a world filled with meaning and well-being—a world where self-actualizing people live in nonviolence, compassion, and freedom. To realize this vision, I am committed to developing "deep understanding"—that is, to "see things and people as they truly are," so I may always act with mindfulness and compassion.
+I've always walked. Growing up as a Jehovah's Witness, it was something we just did. In college when I really started to go deep in the religion of my childhood, I volunteered in a sign language congregation that ministered to the deaf and hard of hearing in Baguio City. There I became a minister and young pastor. Part of my duties was to walk miles and miles around the hills of Baguio and nearby municipalities to search for deaf or hard of hearing individuals we could preach to. After I left the Jehovah's Witnesses in 2012, I used walking to grieve and begin creating my path ahead.
 
-My most important work right now is to develop my understanding of myself and the world around me and to live intentionally. Along the way, I use this website as an iterative documentation of this journey, an ever-updating resource for living a life of purpose and meaning. To document my journey, I write reports that combine a narrative and a how-to manual of my individual projects and life areas. Ultimately, the essays published in this website along with the [Talahardin](https://notes.vinceimbat.com) shall serve as an articulation of my personal life philosophy.
+While finding my way around different spiritual circles, I fell in love with [[henry david thoreau|Henry David Thoreau]]. I read his journals and started translating some of my favorite entries. I also started experimenting with walking as a spiritual practice and a platform for writing. Walking in the afternoons along dirt paths cutting through rice fields in my hometown of San Jacinto, Pangasinan, I developed an intimate relationship with my feet.
 
-## Other Projects
+Encountering the Japan-based writer and photographer [[craig mod|Craig Mod]] in 2021 inspired me to move beyond Thoreau and consider other ways of fusing walking, writing, and photography. Aside from my first long walk from Los Baños to San Pablo in 2022, I also did three more walks:
 
-I also maintain other projects adjacent to my main work:
+- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
+- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
-- [Kaliskis na Ulap](https://kaliskisnaulap.com/) - A collection of translations from Henry David Thoreau's journal and other writings.
+As of now, I'm continuing my study of walking as a method and platform for thinking and creativity. I'm particularly interested on how the contemporary [[derive|dérive]] as theorized by [[phil smith|Phil Smith]] sits alongside Filipino indigenous conceptions and experiences of walking and how these embodied acts could serve as platforms for exploring jiyū shūkyō (or variants of it) in the Philippines.
 
-- [Mantaltaliwa](https://mantaltaliwa.substack.com/) - A collection of contemplative literary works written in Pangasinan.
+# Photography
 
-## How to Stay in Touch
+I'm fairly new to photography and have very little experience with the camera but call myself a photographer because it is such a critical part of the work I'm doing.
 
-I created this website to share my work and in the process find fellow companions in this journey. If you are interested in learning more about what it means to live a life of independent thought, contemplation, walking, and writing, you might find my work helpful. I write about my journey and document projects related to this way of life in my monthly email newsletter _Uman_. You can learn more about the newsletter and subscribe [here](newsletter.md).
+My interest with photography has always been driven by my desire to deepen my walks. My walks require me to look closer at objects and to look underneath what seems apparent in the landscape or the street. Photography, particularly the practice of [[contemplative photography]] I first learned from [[louise far|Louise Far]] seems to help me with both goals.
 
-Alternatively, you can directly send me an email at [vince@vinceimbat.com](mailto:vince@vinceimbat.com). I would love to start a conversation with you.
+My walks and photography work hand in hand. Almost all my photographs are taken during my walks.
 
-Of course, you can always start by exploring my work first. Read some of my [poetry](/categories/poetry), [vignettes](/categories/vignettes), or [personal essays](/categories/personal-essays). Or you could jump right into my more theoretical works by checking out my [essays](/categories/essays) or browsing through my collection of [notes](https://notes.vinceimbat.com).
+As of now, I'm also exploring how jiyū shūkyō could be practiced through photography. In thinking about photography this way, I take inspiration from Andrew James Brown:
 
-Whatever you choose to do, it is my sincere hope that our paths meet again.
+>I always try to pick up my camera and go out into the world without a ready-made, fully worked-out blueprint, theory or plan about how, when or where to take a photograph. In this sense, what the surfboard is to the surfer, the camera is to me the photographer. In doing this I’m attempting to keep myself open to whatever whooshes-up or shines before me, whether that is in the form of an obvious “subject”, “view”, or a simple passing play of sunlight and shadow. When something does whoosh-up or shines before me, I stop and take a photograph. To do this I must, of course, temporarily “take a position.” Not only by standing still in this or that place but also by taking a position with regard to the camera settings I am going to use, the f-stop, the shutter speed, film speed and whether to shoot in black and white or colour. Now, were I never to take this or that position with regard to all these things, I would never be able to take any photo (good or bad). However, it is vitally important that, having taken a photograph, I never become wholly wedded to this or that particular position, subject, view, passing play of sunlight and shadow or this or that set of settings—instead, I must move on, intra-actively, on the crest of the unfolding world, to attain another perspective and so allow something else to whoosh-up or shine before me which calls me to shoot, click!
+
+# Writing + Talahardin
+
+I was very fortunate to grow up in a household with books. By high school I had a decent handle of both English and Filipino I could express myself in these languages. That said, my earlier relationship with writing in the context of traditional schooling was mired with competition, heartbreaks, and insecurities.
+
+As a religious minister using sign language as my primary mode of communication, I wrote almost nothing. When I left the religion of my childhood I noticed I started writing once more but with a very different intention. I wrote only for myself under the private pages of my journal to help me understand what I was going through and to chart a course for the life ahead. In a way, writing was like walking with pen and paper.
+
+As of now, I'm experimenting with what I call the [[talahardin|Talahardin]] (literally, "note garden"), a digital archive of my essays, notes, poems, quotes, stories, translations, vignettes, and other "species of thought" in different states of development. I see my Talahardin as my body of work. As an archive, everything it contains are drafts as it itself is a draft. Seeing my body of work as a draft is anchored on the idea that [[art is never finished]], which means that like one's state during a walk, I see my art as being in a perpetual state of liminality. Because of this, I put priority on the process rather than the product of my writing. I have sympathies with the process movement in literature, particularly the work of [[pat schneider|Pat Schneider]] and her Amherst Writers and Artists (AWA) method.
+
+# Let's Keep in Touch
+
+The best way to get acquainted with my work is to enter into the Talahardin and follow the trails of thoughts. You can [[start|start here]].
+
+I created this website to share my work and in the process find fellow companions in this journey. If you are interested about anything I wrote here, don't be a stranger and email me at [vince@vinceimbat.com](mailto:vince@vinceimbat.com). I would love to start a conversation with you.
+
+Otherwise, the best way to keep in touch with me is through my [[newsletter]].

@@ -27,6 +27,6 @@ Some projects I'm currently working on:
 	- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
 	- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
-I also send a weekly newsletter called [**The Long Walk**](/tags/tlw). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
+I send updates on these projects as well as new writings in a weekly newsletter called [**The Long Walk**](/tags/tlw). It's about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
 
 <iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

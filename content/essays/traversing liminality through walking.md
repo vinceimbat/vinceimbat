@@ -5,10 +5,11 @@ aliases: ""
 tags:
 - "evergreens"
 ---
-
-## Abstract
+# Abstract
 
 Using a five-hour walk from Los Baños to San Pablo City, Laguna, as a springboard, this autoethnographic essay explores how I used the embodied, emplaced, and social act of walking as a means to traverse a psycho-socio-religious liminality. This essay reflects on my personal experience as an ex-ministerial servant (young pastor) of the Jehovah’s Witnesses, who left the religion after a personal crisis in 2012 and have spent ten years in an almost unconscious liminal state, characterized by exploring different belief systems and shifting between the yearning for the structure of my Old Self and the anti-structure of my New Self Becoming. Walking was a symptom of liminality and a way to perform this unconscious liminal state, which was only made conscious after the physicality of the long walk from Los Baños to San Pablo City provoked me to inquire about my motivations for walking. Through reviewing journal entries I wrote after the long walk and reflecting on photographs I have taken in recent years, I conclude that the knowledge generated through walking and ambulatory inquiry could open correspondence between my previous identity and the new identity I am forming, providing the possibility of leaving the _limen_ or, perhaps, finding a new home within it.
+
+***
 
 My shoulders tightened as I sensed a slight pain in my sacrum. As I took another step, I grabbed both of my backpack's shoulder straps to pull them forward away from my chest. As I did this, I felt my bag’s soft but warm cushion on my back, and the pain in my shoulders subsided. On my left, two dump trucks moved like tortoises climbing a rock. Behind them, a long line of cars started to form. I did not expect this eight-mile stretch from Calauan to San Pablo City to be elevated—one of the many other things I miscalculated in this walk. This elevated artery, which reminded me of the Aspiras–Palispis Highway of Benguet, was the most challenging part of the walk, mainly because it had almost no shade and sidewalks. The sun was peaking, and it burned my legs and feet—feet that were in pain from blisters.
 
@@ -18,7 +19,7 @@ On June 9, 2022, I walked over 22 kilometers from my apartment at Los Baños to 
 
 Days after the walk, I continued to revisit the questions that came to me while staring at Mt. Banahaw. Why was I walking? I have walked almost my entire life but never questioned my motivations until the long walk to San Pablo. At first, I struggled to piece together a coherent answer. I was surprised that thinking about my reason for walking directed me to supposedly unrelated existential issues concerning my past and current identities. After reviewing my journal entries, it became clear that walking has become my way to traverse the distance between identities—that liminal space between what I like to call my Old Self and my New Self and finally come face-to-face with my New Self Becoming.[[1]](#_ftn1)
 
-## A Liminal Wilderness
+# A Liminal Wilderness
 
 The concept of liminality emerged during the 20th century through works written in three disciplines: ethnography, architecture, and cultural anthropology. In all these disciplines, liminality was defined as an in-between state. Arnold van Gennep first used the word in the book _Les Rites de Passage_ (1909) to describe the second phase of a three-phased structure of rites: separation, transition, and reincorporation. For Gennep, the transition was always deliberate and voluntary. An individual launches themself into a disoriented state of liminality to transcend their former identity. In the 1950s, the concept entered architecture through the work of Aldo van Eyck, who expressed human transcience through the geometry of circles and rectangles. The architecture of liminal spaces sought to combine being in space and being in time as individuals interact with geometrical parameters (Al Shrbaji 75).
 
@@ -36,7 +37,7 @@ However, after a few years of reading about atheism and humanism, I encountered 
 
 Despite my religious identity (and my identity in general) being in flux for ten years since leaving my childhood religion, I never articulated this clearly. I knew I tended not to commit and was uncertain about many things since leaving the church, but I was unaware that this uncertainty was caused by separating myself from my Old Self. I was in an interstitial identity blackhole but did not know I was in one. To make matters worse, I avoided thinking about my life as a Jehovah’s Witness. I avoided it even when writing in the safe blank pages of my journals. It was a dark past that needed to be completely buried. By enacting my psycho-socio-religious liminality through daily walking, culminating in the long walk from Los Baños to San Pablo, things began to change.
 
-## Walking Liminality
+# Walking Liminality
 
 My desire to walk is a physical expression—a symptom—of liminality. Walking is performed liminality (Stenner 257). One notices this in the works of walking writers like Craig Mod, who has connected his desire to walk Japan with his background as an adopted child and a foreigner in a country far from home. In issue 55 of his popular newsletter _Ridgeline_, Mod wrote, “I am adopted. The sensation of unbelonging—the tenuousness of connection without blood—permeates the life of an adopted person, and so perhaps having lived that allows me to feel a kind of comfort in the distance of life here” (“The Rigor of Process”). In issue 86, Mod continued, “Adopted, Japan based some twenty+ years, torn from a blue-collar shell east of Hartford. Drunkenly walked Tokyo at night in my teens and twenties, and now soberly walk the countryside of Japan in my thirties. Walks have come to define my days and years, are now a durable “platform.” Using them to deconstruct the human geography and history of Japan...” (“Summer Walks”).
 
@@ -96,7 +97,7 @@ This is what walking does to the autoethnographer on the threshold of identities
 
 While walking one afternoon, I noticed a long line of flowers in two colors. At first, I thought they grew from different plants: one flower being a variant of the other. Upon closer inspection, I was surprised to see that the flowers grow from the same plant, although different in color. I would later learn that these were Umbrella Worts or more commonly known as Four O’clocks, because they open around that time, coinciding with my afternoon walks. This visual drama triggered thoughts on community—one of the things I lost after leaving my childhood religion. As a Jehovah’s Witness, I interacted with individuals who believed the same things I believed in almost daily. This was lost after I left. I have tried hard, even until now, to find community and accept that being in a liminal space such as where I am right now means coming at peace with the fact that I will not be connected to people I share similar beliefs with as easily as before and that differences and learning to navigate differences shall now be my norm. Walking and noticing Umbrella Worts and how two flowers of different colors could grow from the same plant made me ask whether growing a community despite differences is possible. This points me toward reincorporation.
 
-## Perpetual Liminality or A Never-ending Walk
+# Perpetual Liminality or A Never-ending Walk
 
 Derrida (1967) said that “deconstruction implies the possibility of rebuilding” (p. xlix). The rebuilding process starts with recognizing that one is in control of one’s destiny. Per Sartre (1946), existentialism and abandonment are related. Whatever its cause, abandonment involves detachment, a liminal condition that could be interpreted as an “autonomy of existence” (Al Shrbaji 76). Because no one is telling me what I need to do with my life, I have complete freedom to shape who I want to be and how I want to exist. From here lies the key to ending liminality and reaching the third phase of Van Gennep’s rite of passage: reincorporation. Implicit to the idea of liminality is that it has to end. I, who have lost community and a sense of identity, must eventually find a new community and identity. The correspondence between my Old Self and my New Self Becoming facilitated by the ambulatory inquiry that happens through walking must now point me towards arriving at that ever-elusive ideal: my New Self.
 
@@ -104,7 +105,7 @@ Indeed, I have seen recent signs of reincorporation in my life. While walking on
 
 Why should it be articulated, however? Liminality is not a single flavor. It could be either transitional or perpetual—a social position that persists in ambiguity and expansive in loyalty (Ybema et al. 24). In peripatetic language, a perpetual psycho-socio-religious state is a never-ending walk. Regarding my religious identity, I like how the Unitarian minister Andrew James Brown put it: perpetual liminars desire “the freedom to be tomorrow what we are not today,” which is precisely what walking signifies. As a metaphor for traversing liminality, walking reminds us that every day is a new walk. What only ends this daily recurring walk is the eventual perishing of the body. As long as it is here, the body, through movement, shall remind us of this perpetual liminality, this constant becoming, and helps us embrace it, traverse it, and perhaps even find ourselves at home en route to nowhere.
 
-## Works Cited
+# Works Cited
 
 Al Shrbaji, Sarah. “On Walking in Derelict Urban Spaces: Experiencing Liminality in a City.” _A Obra Nasce: Revista de Arquitetura e Urbanismo Da Universidade Fernando Pessoa_, vol. 14, 2020, pp. 73–83. [http://hdl.handle.net/10284/9885](http://hdl.handle.net/10284/9885)
 
