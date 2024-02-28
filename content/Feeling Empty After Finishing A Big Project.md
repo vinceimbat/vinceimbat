@@ -1,13 +1,10 @@
 ---
-title: "Feeling Empty After Finishing A Big Project"
-date: "2020-09-16"
-slug: "feeling-empty-after-finishing-a-big-project"
+title: Feeling Empty After Finishing A Big Project
+date: 2020-09-16
+slug: Feeling-Empty-After-Finishing-A-Big-Project
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
 ![Plant behind lights](Plant-behind-lights.jpg)
 
@@ -19,7 +16,7 @@ I looked at the large lights from afar. They are lights on the highway across th
 
 A feeling started to seep in while I saw all of these—the feeling that I’ve had since this morning and which I tried to escape from. It is the feeling that I am “still” lacking something—a feeling of failed expectations.
 
-## Familiar Doldrums
+# Familiar Doldrums
 
 Today marks the end of several months of trying to construct a [[thoughts/life management system]]—an integrated productivity, knowledge management, and total life system. It has been a fulfilling, revealing, and exciting project to build. It’s much needed too because for so long I have been unable to organize my life in a way that totally made sense to me. Being someone who admires and “needs” organization, not being able to do this meant years of procrastination and psychological stress. I was able to address this mental burden in the past three months or so and I have a functioning minimum viable life system to show for it.
 
@@ -29,7 +26,7 @@ But then, I was surprised to find myself in these familiar doldrums at the end o
 
 But the feeling won’t go. And I have grown old enough to know that feelings like these won’t go unless they’re confronted head on.
 
-## What Truly Makes Us Happy
+# What Truly Makes Us Happy
 
 Looking at the large and small lights from afar made me realize (or, more accurately, made me remember the lesson I learned months ago from Laurie Santos’ enlightening course [“The Science of Well-being."](https://www.coursera.org/learn/the-science-of-well-being)
 
@@ -52,7 +49,7 @@ Here’s a wallpaper created and shared by a [fellow student](https://www.facebo
 
 The science shows that once these tiny actions are covered, a person should expect his or her well-being to drastically improve. But the linchpin is to turn these into habits—actions we repeat and revisit. The reason why we need to continuously do them is because of the very nature of positive mental states like happiness or flow. Like any emotion really, happiness is fleeting. It shows up then goes. We know it’s good for us so it has to be pursued but we need to make some effort. Fortunately, these habits are small and doable as compared to the big projects that we are expecting will make us happy (getting married, buying a new car, getting a raise, etc.)
 
-## The Right Goals
+# The Right Goals
 
 We don’t realize this often but there’s a big possibility that we are going after the wrong goals or maybe the goals we set for ourselves are good and worthy goals but we are expecting a lot from them or we are expecting the wrong things from them.
 

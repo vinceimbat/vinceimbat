@@ -13,11 +13,11 @@ From December 4 to 10, 2023, I finally did a week-long walk around Los Baños, w
 
 Roots x Gravel improved my patience when sharing the road with other pedestrians and motorists, something I've always found difficult, inspiring me to articulate [[thoughts/some rules on sharing the road with others|some rules on sharing the road with others]].
 
-About two weeks after the project ended, I published an essay about my first solo walk of Bagong Silang last November 2023. That essay was entitled "[[essays/and i shall hear their hearts beating|And I Shall Hear Their Hearts Beating]]."
+About two weeks after the project ended, I published an essay about my first solo walk of Bagong Silang last November 2023. That essay was entitled "[[and i shall hear their hearts beating|And I Shall Hear Their Hearts Beating]]."
 
 Roots x Gravel helped me return photography, practice the craft, and rethink my systems. With my photo library growing because of these walks, a photo backup system should be in place. I invested in a 2TB Sandisk external SSD to serve as the primary storage of my photo archive. I then backed this archive up in the cloud through my Backblaze account.
 
-Next, I invested several hours going through my existing photographs, culling the albums, adding metadata, adding keywords, adding GPS coordinates, and renaming the best ones. While doing these, I had to return to photographs I took last year during [[essays/a never-ending walk|my long walk from Los Baños to San Pablo]]. Returning to these photographs, I noticed, was almost like re-walking that route.
+Next, I invested several hours going through my existing photographs, culling the albums, adding metadata, adding keywords, adding GPS coordinates, and renaming the best ones. While doing these, I had to return to photographs I took last year during [[a never-ending walk|my long walk from Los Baños to San Pablo]]. Returning to these photographs, I noticed, was almost like re-walking that route.
 
 I also spent a significant chunk of my December in dialogue with Jesa regarding our project. In our dialogue, I had to confront my ignorance of the gender lens, respond to her emails with grace, and write about what I know as well as what I'm still working on regarding my knowledge of walking as a writing method.
 
@@ -41,7 +41,7 @@ Vignettes
 - [[vignettes/gilitan|gilitan]]
 
 TLW
-- [[essays/and i shall hear their hearts beating|and i shall hear their hearts beating]]
+- [[and i shall hear their hearts beating|and i shall hear their hearts beating]]
 
 # Photography
 

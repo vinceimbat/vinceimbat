@@ -13,7 +13,7 @@ I published two issues of The Long Walk last October 2023.
 - [[poems/a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
 - [[thoughts/approach life with humor|Approach life with humor]] (note)
 
-Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[essays/uman 2023-09|last month's issue of Uman]].
+Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[uman 2023-09|last month's issue of Uman]].
 
 I went back home to Pangasinan, and I also visited my sister and her kids in Baguio. On October 15, a Sunday, I spent the morning walking from Engineer's Hill to Magsaysay Ave. in search of a Middle-Eastern restaurant. Alas I came too early; the beef won't be ready until lunch time. To kill time, I walked to and from the Bell Church. This walk led me down memory lane. This walk and my entire stay at Baguio made me realize that more than ten years after I left the church without saying goodbye to any of the friends and family I made there, I still grieve this loss.
 
@@ -39,18 +39,18 @@ Notes
 # Writing
 
 - Sent submission to INWW.
-- Published [[essays/uman 2023-09|Uman 2023-09]].
+- Published [[uman 2023-09|Uman 2023-09]].
 
 Started revising my epistolary essays with Jesa.
-1. [[essays/2023-08-18 letter to j|2023-08-18 letter to J]]
-2. [[essays/2023-08-19 letter to j|2023-08-19 letter to J]]
-3. [[essays/2023-08-21 letter to j|2023-08-21 letter to J]]
-4. [[essays/2023-08-22 letter to j|2023-08-22 letter to J]]
-5. [[essays/2023-08-23 letter to j|2023-08-23 letter to J]]
-6. [[essays/2023-08-24 letter to j|2023-08-24 letter to J]]
-7. [[essays/2023-08-29 letter to j|2023-08-29 letter to J]]
-8. [[essays/2023-09-02 letter to j|2023-09-02 letter to J]]
-9. [[essays/2023-09-13 letter to j|2023-09-13 letter to J]]
+1. [[2023-08-18 letter to j|2023-08-18 letter to J]]
+2. [[2023-08-19 letter to j|2023-08-19 letter to J]]
+3. [[2023-08-21 letter to j|2023-08-21 letter to J]]
+4. [[2023-08-22 letter to j|2023-08-22 letter to J]]
+5. [[2023-08-23 letter to j|2023-08-23 letter to J]]
+6. [[2023-08-24 letter to j|2023-08-24 letter to J]]
+7. [[2023-08-29 letter to j|2023-08-29 letter to J]]
+8. [[2023-09-02 letter to j|2023-09-02 letter to J]]
+9. [[2023-09-13 letter to j|2023-09-13 letter to J]]
 
 Received Jesa's Dear Vs and browsed them.
 

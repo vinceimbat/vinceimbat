@@ -60,4 +60,4 @@ What you will know about the place will largely depend on the people you ask.
 
 ## Related
 
-- [[A Simple Process for Answering the Question How to Live?]]
+- [[answering how to live]]

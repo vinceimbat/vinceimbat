@@ -24,4 +24,4 @@ I looked in front of me and I saw some cows grazing on dry grass. Nearby, goats 
 I continued walking and looked down. A poem is coming my way.
 
 # To do
-- Update backlinks and connect them to [[essays/all them dirt roads|all them dirt roads]]. Then deprecate this note.
+- Update backlinks and connect them to [[all them dirt roads|all them dirt roads]]. Then deprecate this note.

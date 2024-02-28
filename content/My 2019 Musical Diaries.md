@@ -1,13 +1,12 @@
 ---
-title: "My 2019 Musical Diaries"
-date: "2020-01-02"
-slug: "my-2019-musical-diaries"
+title: My 2019 Musical Diaries
+date: 2020-01-02
+aliases:
+  - My-2019-Musical-Diaries
+slug: my-2019-musical-diaries
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
 ![My 2019 Musical Diary](My-2019-Musical-Diary.png)
 

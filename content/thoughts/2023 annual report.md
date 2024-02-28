@@ -96,7 +96,7 @@ Aside from these, I enjoyed writing these notes:
 - [[thoughts/some experiences resist articulation|some experiences resist articulation]]
 - [[thoughts/public life is necessary|public life is necessary]]
 
-Lastly, I added my essay [[essays/a never-ending walk|A Never-ending Walk]] in [[thoughts/my forest garden of the mind|my forest garden of the mind]] and shared it in the [[newsletter]].
+Lastly, I added my essay [[a never-ending walk|A Never-ending Walk]] in [[thoughts/my forest garden of the mind|my forest garden of the mind]] and shared it in the [[newsletter]].
 
 The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
@@ -122,7 +122,7 @@ I managed to publish three newsletter issues:
 
 This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I realized I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing for the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
 
-What resulted was [[essays/mulimuli pangasiniani|Mulimuli Pangasiniani]], which I translated into English as [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]. It is a lyric essay about my personal struggles in writing in my mother tongue. While working on this essay, I read the works of other lyric essayists. A book that was particularly helpful was the anthology *[[literature/a harp in the stars by noble|A Harp in the Stars]]* edited by R. B. Noble.
+What resulted was [[mulimuli pangasiniani|Mulimuli Pangasiniani]], which I translated into English as [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]. It is a lyric essay about my personal struggles in writing in my mother tongue. While working on this essay, I read the works of other lyric essayists. A book that was particularly helpful was the anthology *[[literature/a harp in the stars by noble|A Harp in the Stars]]* edited by R. B. Noble.
 
 I also started a collaborative writing project with a co-fellow at the Ateneo National Writer's Workshop: [[thoughts/jesa suganob|Jesa Suganob]]. Our project involves doing a series of walks from August to the end of September. We're free to choose on which days to do the walking as long as we use each walk as a prompt for writing an epistolary essay on that walk. The essay is directed towards each other, but we won't send the essays until the end of the project.
 
@@ -132,7 +132,7 @@ Lastly, I was also able to update this website, which currently runs on a free o
 
 # September
 
-After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[thoughts/henry bugbee|Henry Bugbee's]] philosophy, while walking one night at Ela Ave., I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[essays/a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation. Indeed, [[thoughts/faith generates contentment|faith generates contentment]].
+After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[thoughts/henry bugbee|Henry Bugbee's]] philosophy, while walking one night at Ela Ave., I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation. Indeed, [[thoughts/faith generates contentment|faith generates contentment]].
 
 In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]]. I noticed that starting a dream log seems to make me have more dreams and remember them.
 
@@ -162,7 +162,7 @@ I published two issues of The Long Walk last October 2023.
 - [[poems/a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
 - [[thoughts/approach life with humor|Approach life with humor]] (note)
 
-Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[essays/uman 2023-09|last month's issue of Uman]].
+Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[uman 2023-09|last month's issue of Uman]].
 
 I went back home to Pangasinan, and I also visited my sister and her kids in Baguio. On October 15, a Sunday, I spent the morning walking from Engineer's Hill to Magsaysay Ave. in search of a Middle-Eastern restaurant. Alas I came too early; the beef won't be ready until lunch time. To kill time, I walked to and from the Bell Church. This walk led me down memory lane. This walk and my entire stay at Baguio made me realize that more than ten years after I left the church without saying goodbye to any of the friends and family I made there, I still grieve this loss.
 
@@ -174,7 +174,7 @@ With a few friends, I also visited Tita Cora and Rem's family at their house at 
 
 When I asked Andrew how one begins walking in this creative, free spirituality, he suggested trying seiza. Practicing seiza for a month has taught me a lot about being mindful of my posture. More importantly, seiza introduced me to two new people I now see as partners in this creative, free spirituality I'm exploring. In November, I attended three seiza group meditation sessions via Zoom, led by Miki Nakura. In one of those sessions, I sat silently with Andrew James Brown.
 
-Per Andrew's advice I also started studying the life of [[thoughts/shinichiro imaoka|Shinichiro Imaoka (1881–1988)]] by reading the book [[literature/cosmic sage williams|Cosmic Sage]]. I also started reflecting on [[imaoka creed of life|Imaoka's Creed of Life]]. I synthesized what I learned so far in my essay [[essays/a goodness lurking|"A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]."
+Per Andrew's advice I also started studying the life of [[thoughts/shinichiro imaoka|Shinichiro Imaoka (1881–1988)]] by reading the book [[literature/cosmic sage williams|Cosmic Sage]]. I also started reflecting on [[imaoka creed of life|Imaoka's Creed of Life]]. I synthesized what I learned so far in my essay [[a goodness lurking|"A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]."
 
 Thinking about Imaoka put me back to my quest and framing my life into a ministry. I asked myself what kind of ministry would fit my current life and realized that what preoccupied most of my 20s after leaving the church was an exploration of writing. I was primarily self-taught, and most of my writing was highly personal. And yet, it was a writing life nonetheless.
 
@@ -190,11 +190,11 @@ From December 4 to 10, 2023, I finally did a week-long walk around Los Baños, w
 
 Roots x Gravel improved my patience when sharing the road with other pedestrians and motorists, something I've always found difficult, inspiring me to articulate [[thoughts/some rules on sharing the road with others|some rules on sharing the road with others]].
 
-About two weeks after the project ended, I published an essay about my first solo walk of Bagong Silang last November 2023. That essay was entitled "[[essays/and i shall hear their hearts beating|And I Shall Hear Their Hearts Beating]]."
+About two weeks after the project ended, I published an essay about my first solo walk of Bagong Silang last November 2023. That essay was entitled "[[and i shall hear their hearts beating|And I Shall Hear Their Hearts Beating]]."
 
 Roots x Gravel helped me return photography, practice the craft, and rethink my systems. With my photo library growing because of these walks, a photo backup system should be in place. I invested in a 2TB Sandisk external SSD to serve as the primary storage of my photo archive. I then backed this archive up in the cloud through my Backblaze account.
 
-Next, I invested several hours going through my existing photographs, culling the albums, adding metadata, adding keywords, adding GPS coordinates, and renaming the best ones. While doing these, I had to return to photographs I took last year during [[essays/a never-ending walk|my long walk from Los Baños to San Pablo]]. Returning to these photographs, I noticed, was almost like re-walking that route.
+Next, I invested several hours going through my existing photographs, culling the albums, adding metadata, adding keywords, adding GPS coordinates, and renaming the best ones. While doing these, I had to return to photographs I took last year during [[a never-ending walk|my long walk from Los Baños to San Pablo]]. Returning to these photographs, I noticed, was almost like re-walking that route.
 
 I also spent a significant chunk of my December in dialogue with Jesa regarding our project. In our dialogue, I had to confront my ignorance of the gender lens, respond to her emails with grace, and write about what I know as well as what I'm still working on regarding my knowledge of walking as a writing method.
 

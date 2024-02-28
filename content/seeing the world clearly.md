@@ -1,15 +1,10 @@
 ---
 title: "'Seeing the World Clearly': The Shared Goal of Poetry, Science, and Philosophy"
-date: "2019-07-27"
-slug: "seeing-the-world-clearly"
+date: 2019-07-27
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Misty Mountain](misty-mountain.jpg)
 
 If you look deep enough, you'll realize there's no clear distinction between the disciplines of science, philosophy, and poetry, other than, perhaps, their histories, traditions, and methodologies. But even their histories are filled with people who were both poets and scientists, poets and philosophers, scientists and philosophers.
@@ -24,6 +19,6 @@ Poetry does not only refer to the writing of poems. It also pertains to writing,
 
 On the other hand, the poet is also reinforced by a knowledge of science and philosophy, because he is as interested to truth as he is to beauty. Truth is about **_"what is really there"_** not **_"what should be there"_**. Seeing **_"what is really there"_** is honest work, a beautiful work, a useful work—a work that scientists and philosophers are trained to do. And it is work that a true poet should also be interested to, as many poets of old have been: Empedocles, Rumi, Robert Frost, Ralph Waldo Emerson, Miguel de Unamuno, Paul Valéry, [and the list goes on and on](http://philosopherpoets.com/).
 
-Poetry is driven by a desire to see things clearly and to [[Doing Afternoon Fieldworks|report]] what one sees (and experiences) in the most beautiful way—in a way that the poet hopes could benefit others as well as himself.
+Poetry is driven by a desire to see things clearly and to [[doing afternoon fieldworks|report]] what one sees (and experiences) in the most beautiful way—in a way that the poet hopes could benefit others as well as himself.
 
 It's a noble vocation worthy to be pursued by all thinking human beings—not just by scientists, philosophers, and yes, poets.

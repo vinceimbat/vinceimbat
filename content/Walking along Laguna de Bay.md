@@ -20,4 +20,4 @@ It did not just isolate us from each other. It isolated us from the planet, from
 
 ## References
 
-[[essays/beauty is always around you]]
+[[beauty is always around you]]

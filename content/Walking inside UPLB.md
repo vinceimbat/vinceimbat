@@ -10,4 +10,4 @@ Before the latest community quarantine in this part of the country, I went out f
 
 ## References
 
-[[essays/beauty is always around you]]
+[[beauty is always around you]]

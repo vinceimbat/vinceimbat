@@ -1,15 +1,10 @@
 ---
-title: "The Challenges of Building a New Culture and Community of Poets"
-slug: "the-challenges-of-building-a-new-culture-and-community-of-poets"
-date: "2020-11-01"
+title: The Challenges of Building a New Culture and Community of Poets
+date: 2020-11-01
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Community Silhouette](community-silhouette.jpg)
 
 About a week ago, my good friend Rem Tanauan, a great poet himself whose work has profoundly influenced my own creative life, sent me [this article](https://www.theparisreview.org/interviews/482/the-art-of-poetry-no-83-billy-collins) that features an interview with Billy Collins, dubbed “the most popular poet in America”.
@@ -24,7 +19,7 @@ In this post, I’ll be sharing my thoughts on several quotes from the article.
 
 Enjoy.
 
-## You Are the Ultimate Judge of Your Work
+# You Are the Ultimate Judge of Your Work
 
 I’ll start with this quote from the article:
 
@@ -59,7 +54,7 @@ Any community of poets who would claim to be an alternative to business-as-usual
 
 > Actually, I don’t think you can be really badly influenced by anyone, as long as it makes you write.
 
-## "Did You Feel Good While Writing?"
+# "Did You Feel Good While Writing?"
 
 This brings me to my next meditation. As a thought experiment, imagine that a highly intellectual and conceptual formalist poet wanted to join the alternative community of blissful poets. She said she wanted to join because she liked the group’s emphasis on feeling joy throughout the creative process. By leaving the dog-eat-dog culture behind, she hopes to experience a different relationship with her writing. She immediately experiences what she is looking for because there are no strong standards or harsh judgments in the group.
 
@@ -77,7 +72,7 @@ Lesser rules mean that there is more space for ALL kinds of poetry. Even the sup
 
 If you add on that, then you add constraints that could muddle the very essence of what “feeling good” is. The subjective blissful experience of an individual poet should be the ultimate principle.
 
-## Freedom in Poetry
+# Freedom in Poetry
 
 The role of freedom in poetry was nicely said by Collins in this quote in the article:
 
@@ -87,7 +82,7 @@ My dream is for poetry to be freeing, and if a community should be a space for f
 
 I also think that this should be one of the main goals of any critique of traditional poetry. To be truly an alternative way, alternative poetry has to be freeing. It should, as much as possible, prevent creating rules on what should be and what shouldn’t be explored. It would be nice to see that each poet of such a group is exploring their own topics and their own structures and there should be a venue for them in the community to show their work. They should be given the time to share during gatherings or they should be given a platform where they can share their discoveries. They should be given a voice and there shouldn’t be censorship at all.
 
-## A Solo Act
+# A Solo Act
 
 All of these ties well with the general subject of the tension between an individual’s need for community and his need for authenticity. Here is an interesting quote from the article that jumps into this:
 
@@ -95,7 +90,7 @@ All of these ties well with the general subject of the tension between an indivi
 
 I think the challenge for any community of blissful poets is how it can be a place where camaraderie does not muddle with the solitude that poetry requires. How can poets be "alone together"? How can the community be a space where an individual’s need for community and the need for authenticity is both fulfilled?
 
-## Keep Your Center
+# Keep Your Center
 
 In ending, I think I want to highlight again this tension between the poet as the Self and the poet as a member of a group. In the article, Billy Collins sees this tension:
 

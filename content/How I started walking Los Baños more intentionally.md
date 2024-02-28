@@ -20,4 +20,4 @@ My first line of business was to find a way to see the shore of Laguna Lake. Loo
 
 ## References
 
-[[essays/beauty is always around you]]
+[[beauty is always around you]]

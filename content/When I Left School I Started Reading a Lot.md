@@ -1,15 +1,10 @@
 ---
-title: "When I Left School, I Started Reading a Lot"
-date: "2019-09-15"
-slug: "when-i-left-school-i-started-reading-a-lot"
+title: When I Left School, I Started Reading a Lot
+date: 2019-09-15
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Reading silhouette](Reading-silhouette.jpg)
 
 When I finished my college degree in 2014, I noticed something: I started reading a lot. I don't have a good explanation to this other than, perhaps, having more freedom of time and freedom to choose what subjects to explore. This two really got me into reading, like a caged animal let loose for the first time. Not that I wasn't really a reader. I read a lot when I was a child. But 17 years of schooling does something that most of us don't notice: it sucks the life out of our intellectual freedom.

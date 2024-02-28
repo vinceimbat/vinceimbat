@@ -16,18 +16,18 @@ Here is [[How to prepare an issue of Uman]], and here are all the Uman issues so
 
 # 2022
 
-- [[essays/uman 2022-01|𝌡 Uman — January 2022]]
-- [[essays/uman 2022-02|𝌡 Uman — February 2022]]
-- [[essays/uman 2022-03|𝌡 Uman — March 2022]]
-- [[essays/uman 2022-04|𝌡 Uman — April 2022]]
-- [[essays/uman 2022-05|𝌡 Uman — May 2022]]
-- [[essays/uman 2022-06|𝌡 Uman — June 2022]]
-- [[essays/uman 2022-07|𝌡 Uman — July 2022]]
-- [[essays/uman 2022-08|𝌡 Uman — August 2022]]
+- [[uman 2022-01|𝌡 Uman — January 2022]]
+- [[uman 2022-02|𝌡 Uman — February 2022]]
+- [[uman 2022-03|𝌡 Uman — March 2022]]
+- [[uman 2022-04|𝌡 Uman — April 2022]]
+- [[uman 2022-05|𝌡 Uman — May 2022]]
+- [[uman 2022-06|𝌡 Uman — June 2022]]
+- [[uman 2022-07|𝌡 Uman — July 2022]]
+- [[uman 2022-08|𝌡 Uman — August 2022]]
 
 # 2023
 
-- [[essays/uman 2023-07|𝌡 Uman — July 2023]]
-- [[essays/uman 2023-08|𝌡 Uman — August 2023]]
-- [[essays/uman 2023-09|𝌡 Uman — September 2023]]
-- [[essays/uman 2023-10|𝌡 Uman — October 2023]]
+- [[uman 2023-07|𝌡 Uman — July 2023]]
+- [[uman 2023-08|𝌡 Uman — August 2023]]
+- [[uman 2023-09|𝌡 Uman — September 2023]]
+- [[uman 2023-10|𝌡 Uman — October 2023]]

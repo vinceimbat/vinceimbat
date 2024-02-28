@@ -25,4 +25,4 @@ And even if we come to philosophy not to understand the world or to take advanta
 
 ## References
 
-[[essays/parenting in nature]]
+[[parenting in nature]]

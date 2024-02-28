@@ -20,15 +20,15 @@ sr-ease: 250
 
 # Epistolary essays on walking
 
-1. [[essays/2023-08-18 letter to j|2023-08-18 letter to J]]
-2. [[essays/2023-08-19 letter to j|2023-08-19 letter to J]]
-3. [[essays/2023-08-21 letter to j|2023-08-21 letter to J]]
-4. [[essays/2023-08-22 letter to j|2023-08-22 letter to J]]
-5. [[essays/2023-08-23 letter to j|2023-08-23 letter to J]]
-6. [[essays/2023-08-24 letter to j|2023-08-24 letter to J]]
-7. [[essays/2023-08-29 letter to j|2023-08-29 letter to J]]
-8. [[essays/2023-09-02 letter to j|2023-09-02 letter to J]]
-9. [[essays/2023-09-13 letter to j|2023-09-13 letter to J]]
+1. [[2023-08-18 letter to j|2023-08-18 letter to J]]
+2. [[2023-08-19 letter to j|2023-08-19 letter to J]]
+3. [[2023-08-21 letter to j|2023-08-21 letter to J]]
+4. [[2023-08-22 letter to j|2023-08-22 letter to J]]
+5. [[2023-08-23 letter to j|2023-08-23 letter to J]]
+6. [[2023-08-24 letter to j|2023-08-24 letter to J]]
+7. [[2023-08-29 letter to j|2023-08-29 letter to J]]
+8. [[2023-09-02 letter to j|2023-09-02 letter to J]]
+9. [[2023-09-13 letter to j|2023-09-13 letter to J]]
 
 ## Sources
 

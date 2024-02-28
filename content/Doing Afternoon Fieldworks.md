@@ -1,15 +1,13 @@
 ---
-title: "Doing Afternoon Fieldworks"
-date: "2019-04-29"
-slug: "doing-afternoon-fieldworks"
+title: Doing Afternoon Fieldworks
+date: 2019-04-29
+aliases:
+  - Doing-Afternoon-Fieldworks
+slug: doing-afternoon-fieldworks
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Field notes and pen strapped on my bike carrier](fieldnotes.jpg)
 
 Field notes and pen strapped on my bike carrier

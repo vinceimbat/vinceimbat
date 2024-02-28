@@ -1,15 +1,12 @@
 ---
-title: "On Monkish Friends"
-date: "2018-10-20"
-slug: "on-monkish-friends"
+title: On Monkish Friends
+date: 2018-10-20
+aliases:
+  - On-Monkish-Friends
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Flowers above a stairs](flowers_above_stairs.jpg)
 
 I came to the realization that most of the people I have now in my life are individuals who are comfortable being alone with themselves for long stretches of time.

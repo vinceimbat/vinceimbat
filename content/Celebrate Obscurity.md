@@ -1,13 +1,11 @@
 ---
-title: "Celebrate Obscurity"
-date: "2020-12-27"
-slug: "celebrating-obscurity"
+title: Celebrate Obscurity
+date: 2020-12-27
+aliases:
+  - Celebrating-Obscurity
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
 ![A journal entry](journal-entry.jpg)
 
@@ -38,7 +36,7 @@ Some examples:
 - Creativity is institutionalized and pigeonholed into hierarchies.
 - The creative marketplace has transformed into a dog-eat-dog environment where you either make it or you die (sometimes, literally).
 
-## The Celebrity Game
+# The Celebrity Game
 
 Much of society’s ideas of creativity and art revolve around the celebrity game. However, if you are an artist and you play the celebrity game, you have to face some hard facts:
 
@@ -46,7 +44,7 @@ Much of society’s ideas of creativity and art revolve around the celebrity gam
 2. Winning the celebrity game almost always requires you to compete. You have no choice about this.
 3. In specific instances, you can make it by playing the authenticity game but we shouldn’t forget the role of “luck” in these instances. Making it in the creative world just by being authentic is not the norm (for more on this, see the work of [Nassim Nicholas Taleb](https://hbr.org/2014/01/life-is-luck-heres-how-to-plan-a-career-around-it)).
 
-## The Authenticity Game
+# The Authenticity Game
 
 The alternative of the celebrity game is of course the authenticity game. What is the authenticity game?
 
@@ -56,7 +54,7 @@ The alternative of the celebrity game is of course the authenticity game. What i
 - Prepare for mild success (i.e., doing your best work based on your own standards, not that the standards of other people, and training yourself to be ready when “luck” works for you and you get a big break).
 - When a celebrity opportunity arrives, remember to reflect on the cons, not just the pros.
 
-## The Benefits of Obscurity
+# The Benefits of Obscurity
 
 There are some benefits of obscurity. [Austin Kleon](https://austinkleon.com/2018/07/05/you-dont-have-to-live-in-public/) said in _Steal Like an Artist_:
 

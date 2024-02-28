@@ -1,15 +1,12 @@
 ---
 title: "Accessing Ginhawa Directly"
 date: "2020-03-02"
-slug: "accessing-ginhawa-directly"
+aliases:
+- Accessing-Ginhawa-Directly
 tags:
   - "essays"
   - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
 ---
-
 ![Masamirey Cove](Masamirey-Cove.jpg)
 
 I sat at the farthest seat at the back of the Anfra. The one near the lock of the backdoor. I like this position. It allows me to stretch my legs on the long bench-like seats of the Anfra while I look out the window. My sister sat on the other side, parallel to me, doing the same thing: stretching out her legs and looking out the window. I opened my window as wide as it can and felt the cold breeze blow strong on my face as the vehicle started moving. I felt good.

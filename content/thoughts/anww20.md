@@ -44,4 +44,4 @@ During the workshop, here are my notes:
 - [[ANWW20 Jesa Suganob]]
 
 Lastly:
-- [[essays/getting into anww20]]
+- [[getting into anww20]]

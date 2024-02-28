@@ -25,6 +25,6 @@ Learning to navigate difficult conversations make us all better people.
 
 ## Related
 
-- [[The Art of Navigating Disagreements]]
+- [[navigating differences]]
 
 # References

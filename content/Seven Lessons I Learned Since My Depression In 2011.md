@@ -1,15 +1,10 @@
 ---
-title: "7 Lessons I Learned Since My Depression In 2011"
-date: "2018-06-12"
-slug: "seven-lessons-i-learned-since-my-depression-in-2011"
+title: 7 Lessons I Learned Since My Depression In 2011
+date: 2018-06-12
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-18
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Vince Imbat in a kubo at the beach](vince_imbat_kubo_beach.jpg)
 
 Most of my friends know about it. If you've been reading my blog for some time there's a big chance you know about it. I have written about it in the past and will continue to do so.
@@ -20,25 +15,25 @@ It was the single biggest event that changed my life (so far). I was 19 then. I 
 
 Today, I want to share with you 7 lessons I learned (and continue to learn) since my depressive episode in 2011.
 
-## 1\. Personal resolve—more than anything else—will save your life.
+# 1\. Personal resolve—more than anything else—will save your life.
 
 Here's a quote that stuck to me for a long time, from Dr. David D. Burns' popular book _Feeling Good: The New Mood Therapy_:
 
 > ...the crucial decision to _try to help yourself_ is the key that will allow you to feel better as soon as possible, regardless of how severe your mood disturbance might seem to be."
 
-## 2\. You shouldn’t blame anyone for your misfortune. Be totally responsible for your own life.
+# 2\. You shouldn’t blame anyone for your misfortune. Be totally responsible for your own life.
 
 After getting help in 2011 and when the sleeping pills started to kick in, I gained enough energy to start blaming other people about what happened to me. My parents became the number one culprit.
 
 I'm old enough to realize that I was greatly mistaken. I was totally responsible for what happened to me. And I am totally responsible for making it all right. The people around me are only there to support me. And even if they contributed to the suffering, they too suffered. We are all victims of forces beyond our control and the best way forward is to tackle the problem head-on, together.
 
-## 3\. Remember: It is not just you who is suffering. The people around you are also suffering.
+# 3\. Remember: It is not just you who is suffering. The people around you are also suffering.
 
 It is difficult to see this at first. Depression has an unbelievable way of sucking you into a vortex where what only mattered was you, you, and you.
 
 A few years after my episode, I chanced upon a notebook by accident. It contained notes my mother wrote to herself during the darkest days of my depression. While I was suffering, she was also suffering, and I didn't see this before. I see it now.
 
-## 4\. Learn to look at depression as a friend rather than an enemy.
+# 4\. Learn to look at depression as a friend rather than an enemy.
 
 With all the pain it brings anyone, it is only natural to see depression in a dark, bitter light. Time heals everything and time brings perspective.
 
@@ -46,17 +41,17 @@ Here's a quote by Thomas Moore from his contribution to the anthology _Sacred So
 
 > Depression grants the gift of experience not as a literal fact but as an attitude toward yourself. You get a sense of having lived through something, of being older and wiser. You know that life is suffering, and that knowledge makes a difference. You can't enjoy the bouncy, carefree innocence of youth any longer, a realization that entails both sadness because of the loss, and pleasure in a new feeling of self-acceptance and self-knowledge."
 
-## 5\. Always try to be in the present moment and live one day at a time.
+# 5\. Always try to be in the present moment and live one day at a time.
 
 I don't know of any other lesson I learned since my depression which was as useful, practical, and life-transforming as this one. The major reason why I had depression, in the first place, was that I took on a lot of stress from going after goals that run five years, six years, in the future. I thought that the "going after" and the "future" will give me joy. Well, turns out, I'm wrong.
 
 Today, it's difficult for me to set goals for more than one or two years. And it's even more difficult for me to track whether or not I'm getting "there." Most of the time, I'm just here, in this day, this moment. It feels like I'm not getting anywhere most of the time. But it also feels more calm, blissful, genuine.
 
-## 6\. Life is all about people.
+# 6\. Life is all about people.
 
 Depression taught me a lot about people. I don't know everything and I'm still a work in progress in terms of my relationships. But I can't live without the people in my life. I seek intimate conversations and genuine bonding with friends and family more than anything else.
 
-## 7\. Depression may be a call to slow down—stay small, make life simple, and do what makes you feel good.
+# 7\. Depression may be a call to slow down—stay small, make life simple, and do what makes you feel good.
 
 My choice for a simpler life is a direct corollary of my experience with depression. I understand that some people have a zest for the adrenaline that comes from going after really big and adventurous goals. But that's not me and I'm already okay with that.
 

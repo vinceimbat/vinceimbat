@@ -36,7 +36,7 @@ A walk in the forest garden of the mind refers to my daily visits to this collec
 
 For some context, see: [[thoughts/my quest|my quest]].
 
-For a longer narrative of how I got here, see my essay [[essays/a never-ending walk|A Never-ending Walk]].
+For a longer narrative of how I got here, see my essay [[a never-ending walk|A Never-ending Walk]].
 
 You can start exploring the digital garden by clicking on the following points of entry. These are my current interests and some themes I would like to pursue indefinitely:
 

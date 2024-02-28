@@ -20,7 +20,7 @@ This website is an [[archive]] of my footprints both in the walks I take in [[th
 Some projects I'm currently working on:
 
 - [[talahardin|Talahardin]]: This website itself; an experiment in combining walking with an [[archive]] and a digital garden as a backbone for a creative writing and thinking practice based on the premise that [[thoughts/art is never finished|art is never finished]].
-- [[jiyu shukyo|Jiyū Shūkyō]]: An exploration and documentation of my conversion toward a [[essays/a goodness lurking|free and creative spirituality]].
+- [[jiyu shukyo|Jiyū Shūkyō]]: An exploration and documentation of my conversion toward a [[a goodness lurking|free and creative spirituality]].
 - [[walking|Walking]]: An attempt to understand the contemporary [[derive|dérive]] in contrast with my experience of walking and Filipino indigenous conceptions of walking to come up with a creative embodied avenue to explore a free and creative spirituality. Some walks I've done:
 	- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
 	- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]

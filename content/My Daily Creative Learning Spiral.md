@@ -1,15 +1,12 @@
 ---
-title: "My Daily Creative Learning Spiral"
-date: "2020-12-11"
-slug: "my-daily-creative-learning-spiral"
+title: My Daily Creative Learning Spiral
+date: 2020-12-11
+aliases:
+  - My-Daily-Creative-Learning-Spiral
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Creative learning spiral](creative-learning-spiral.jpg)
 
 This is my own drawing of Mitchel Resnick's Creative Learning Spiral from his book _[Lifelong Kindergarten](https://mitpress.mit.edu/books/lifelong-kindergarten)_. It is an illustration of how kindergarteners learn, which, according to Resnick is also how all human beings, regardless of age, should learn.

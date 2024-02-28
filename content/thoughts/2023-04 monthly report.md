@@ -33,7 +33,7 @@ I finished the book May Nagsabi Sa Akin by Rofel Brion and The Deleted World by 
 - Wrote [[poems/sikmura]].
 - I wrote a post about my day at Casa San Pablo and coupled it with some photos.
 - I handwrote [[translations/isang tahanang tatawagin nating bukas]].
-- In my journal, I started developing [[essays/a walk to maahas road]].
+- In my journal, I started developing [[a walk to maahas road]].
 - Wrote [[poems/kaysarap]].
 - Wrote [[poems/sa madamba]].
 - Wrote [[poems/white butterfly]].

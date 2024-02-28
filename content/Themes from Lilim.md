@@ -11,14 +11,14 @@ sr-ease: 230
 
 For an introduction on what *Lilim* is, see [[thoughts/lilim]].
 
-[[essays/lilim intro]]
+[[lilim intro]]
 
 - [[Walking is my method for learning how to live]]
 - [[My creative products from walking]]
 - [[Etymology of the word lilim]]
 - [[Walking establishes the connection between mind and matter]]
 
-[[essays/sage and child]]
+[[sage and child]]
 
 - [[thoughts/los baños]]
 - [[Walking inside UPLB]]
@@ -26,11 +26,11 @@ For an introduction on what *Lilim* is, see [[thoughts/lilim]].
 - [[Walking along Laguna de Bay]]
 - [[Beauty saves lives]]
 
-[[essays/parenting in nature]]
+[[parenting in nature]]
 
 - 
 
-[[essays/umbrellaworts and truth partners]]
+[[umbrellaworts and truth partners]]
 
 - [[Umbrellaworts]]
 - [[Truth partners]]

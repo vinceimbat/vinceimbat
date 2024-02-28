@@ -49,14 +49,14 @@ I am grateful for:
 40. Bringing our entire family together to Pangasinan for the first time since the pandemic.
 41. **Learning how to incorporate all kinds of writing I do into my note-writing system, including [[thoughts/poetry]] and narratives.**
 42. Reading [[thoughts/diy mfa by pereira|DIY MFA]] and finding a simple framework to follow to build a writing life and career.
-43. Narrativizing [[essays/uman 2022-04]].
+43. Narrativizing [[uman 2022-04]].
 44. Relaunching [[thoughts/lilim|lilim]] after intentionally lengthening my afternoon walks and realizing I have so much to share about [[walking]].
 45. Discovering the story of the UPLB internment camp ang retracing its boundaries during an afternoon walk (see [[in search of the internment camp in los baños|In search of the internment camp in Los Baños]]). 
 46. The many poems and poetry drafts that came to me this year.
-47. My walk at Lopez Quezon, around town ([[vignettes/a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[essays/walking lopez 2]]), and at Santino's Farmville.
+47. My walk at Lopez Quezon, around town ([[vignettes/a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[walking lopez 2]]), and at Santino's Farmville.
 48. Ate Nadia, the loving sister who feeds the stray animals in Batong Malake by buying cat food through the small money she earns as a maid.
 49. Lolo Aldo.
-50. [[craig mod|craig mod]] sharing my [[essays/good art reorganizes your world|essay]] about how his work changed my life, which resulted to some traffic and IG follows.
+50. [[craig mod|craig mod]] sharing my [[good art reorganizes your world|essay]] about how his work changed my life, which resulted to some traffic and IG follows.
 51. Getting some health indexes checked and learning that my blood sugar is normal.
 52. **Walking from LB to San Pablo, passing by the towns of Bay and Calauan, in half a day.**
 53. Walking around Sampaloc lake in San Pablo and visiting Bunot lake nearby.
@@ -102,7 +102,7 @@ I am grateful for:
 94. **Realizing the importance of having a strong home and well, which includes a metaphysical and epistemological home that I could return to while I practice tolerance and compassion towards others.**
 95. The insights I got from doing some I Ching readings especially since Rem left.
 96. Helping with the translations in Mini's baybayin book.
-97. Visiting Tanay, walking around Hogar, and climbing Mt. Kulis (see [[essays/reflections on laundry]].
+97. Visiting Tanay, walking around Hogar, and climbing Mt. Kulis (see [[reflections on laundry]].
 98. Eating at Buddy's again and recreating our first date.
 99. Creating an initial plan for managing Rem's websites and sharing it to Tuloy-Daloy.
 100. Walking with Claire and Fruit Salad at Makiling Botanic Gardens.

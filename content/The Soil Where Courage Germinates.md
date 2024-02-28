@@ -1,15 +1,10 @@
 ---
-title: "The Soil Where Courage Germinates"
-date: "2019-03-07"
-slug: "the-soil-where-courage-germinates"
+title: The Soil Where Courage Germinates
+date: 2019-03-07
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-
 ![Seedlings](seedlings.jpg)
 
 Why do we continue to love even after we are hurt?

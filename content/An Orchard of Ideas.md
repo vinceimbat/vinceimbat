@@ -1,15 +1,13 @@
 ---
-title: "An Orchard of Ideas"
-date: "2020-11-29"
-slug: "an-orchard-of-ideas"
+title: An Orchard of Ideas
+date: 2020-11-29
+aliases:
+  - An-Orchard-of-Ideas
 tags:
-  - "essays"
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 250
+  - essays
+  - seedlings
 ---
-In Henry David Thoreau's 26 September 1859 letter to one of his most avid readers, Harrison Gray Otis Blake, he wrote the following:
+In [[henry david thoreau|Henry David Thoreau's]] 26 September 1859 letter to one of his most avid readers, Harrison Gray Otis Blake, he wrote the following:
 
 > In short, you’ve got to carry on two farms at once,—the farm on the earth and the farm in your mind.
 
