@@ -27,6 +27,32 @@ Some projects I'm currently working on:
 	- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
 	- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
-I send updates on these projects as well as new writings in a weekly newsletter called [**The Long Walk**](/tags/tlw). It's about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
+***
 
-<iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+I send updates about these projects as well as new writings through my newsletters. Please consider subscribing:
+
+- Uman: Monthly — spirituality × walking × writing × photography
+- The Long Walk: Weekly/Bi-weekly — essays, poems, notes, and photographs × walking
+
+They're free. Unsubscribe any time.
+
+<form method="post" action="https://list.vinceimbat.com/subscription/form" class="listmonk-form">
+  <div style="text-align: center;">
+    <input type="hidden" name="nonce" />
+    <p>
+      <input type="email" name="email" required placeholder="E-mail" />
+    </p>
+    <p>
+      <input id="0a6da" type="checkbox" name="l" checked value="0a6da788-1056-486f-8ef7-294b14c8ba33" />
+      <label for="0a6da">The Long Walk</label><br />
+    </p>
+    <p>
+      <input id="cfd1b" type="checkbox" name="l" checked value="cfd1bff8-8bb4-4c68-b220-44bc1ad49c6d" />
+      <label for="cfd1b">Uman</label><br />
+    </p>
+    <p>
+      <input type="submit" value="Subscribe" />
+    </p>
+  </div>
+</form>
+
