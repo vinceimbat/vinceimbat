@@ -22,7 +22,7 @@ export default (() => {
                 <a href="/walking">Walking</a>
             </div>
             <div style="margin-bottom: 7px;">
-            <a href="/newsletter">Newsletter</a>
+            <a href="/newsletters">Newsletters</a>
             </div>
         </div>
     )
