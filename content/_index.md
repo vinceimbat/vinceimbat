@@ -40,7 +40,7 @@ They're free. Unsubscribe any time.
   <div style="text-align: center;">
     <input type="hidden" name="nonce" />
     <p>
-      <input type="email" name="email" required placeholder="E-mail" />
+      <input type="email" name="email" required placeholder="your email address" />
     </p>
     <p>
       <input id="0a6da" type="checkbox" name="l" checked value="0a6da788-1056-486f-8ef7-294b14c8ba33" />
