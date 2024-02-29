@@ -86,4 +86,4 @@ The best way to get acquainted with my work is to enter into the Talahardin and 
 
 I created this website to share my work and in the process find fellow companions in this journey. If you are interested about anything I wrote here, don't be a stranger and email me at [vince@vinceimbat.com](mailto:vince@vinceimbat.com). I would love to start a conversation with you.
 
-Otherwise, the best way to keep in touch with me is through my [[newsletter]].
+Otherwise, the best way to keep in touch with me is through my [[newsletters]].

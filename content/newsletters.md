@@ -1,8 +1,10 @@
 ---
-title: "Newsletters"
-date: "2022-02-02"
+title: Newsletters
+date: 2022-02-02
+aliases:
+  - newsletter
 tags:
-- "evergreens"
+  - evergreens
 ---
 I currently have one active newsletter.
 

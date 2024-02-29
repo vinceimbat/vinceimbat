@@ -25,7 +25,7 @@ Aside from these, I enjoyed writing these notes:
 - [[thoughts/some experiences resist articulation|some experiences resist articulation]]
 - [[thoughts/public life is necessary|public life is necessary]]
 
-Lastly, I added my essay [[a never-ending walk|A Never-ending Walk]] in [[thoughts/my forest garden of the mind|my forest garden of the mind]] and shared it in the [[newsletter]].
+Lastly, I added my essay [[a never-ending walk|A Never-ending Walk]] in [[thoughts/my forest garden of the mind|my forest garden of the mind]] and shared it in the [[newsletters]].
 
 The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]

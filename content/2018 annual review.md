@@ -99,7 +99,7 @@ Feel free to use my format to write your own Annual Review.
 - Aside from continuing to build my worldview, I plan to continue all the other art forms I started exploring during the second half of last year (poetry and translations).
 - I also plan to explore more music. In fact, I have started a [musical diary](https://austinkleon.com/2018/12/20/musical-diaries/) which I learned from Austin Kleon. I'll be creating two diaries: one for international music and one for original Pilipino music (OPM). My OPM 2019 playlist is up on [Spotify](https://open.spotify.com/user/12156583444/playlist/7AYEtNdTCNqgMAUcCU3EC7?si=_d-7H8a_QIudu39F4bnNHg).
 - I also plan to start a hobby this year. While I'm open to all options, drawing is something that is really starting to call me. I used to draw really well when I was younger. Now I have completely forgotten how to draw. It's probably time to get back to doing it.
-- I'll be publishing more consistently in this website and in my email [newsletter](newsletter.md).
+- I'll be publishing more consistently in this website and in my email [newsletters](newsletters.md).
 - I don't want to set hard goals, never did. So another creative project I might start this year is a podcast/oral history project which will feature interviews with Filipino friends and people living not-so-conventional lives. I enjoy deep conversations and this is probably a good opportunity to make myself accountable for doing creative work while engaging in something that I really love.
 
 # Bonus question: What did I learn this year?

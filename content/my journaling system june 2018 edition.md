@@ -13,7 +13,7 @@ Mine is a simple journaling system. Although, of course, I think it can be furth
 
 This system will change in the future as with any system in my life. But this current June 2018 version is practically what I've been using for at least a year already.
 
-This post outlines what happens the moment an idea pops out of my head until it becomes something shareable. I publish my thoughts primarily here on the blog and on [[newsletter|my email newsletter]]. I intend to create a visual representation of the process in the future. But for now, this would be it.
+This post outlines what happens the moment an idea pops out of my head until it becomes something shareable. I publish my thoughts primarily here on the blog and on [[newsletters|my email newsletter]]. I intend to create a visual representation of the process in the future. But for now, this would be it.
 
 # Stage 1: Spark.
 
@@ -83,7 +83,7 @@ All tasks, most creative and business ideas, and a handful of inspirational and 
 
 # Stage 5: Publish.
 
-I publish most of my works here on the blog. I also share them with my email newsletter subscribers. If you have not subscribed yet, I encourage you to do so. You can subscribe [here](newsletter.md).
+I publish most of my works here on the blog. I also share them with my email newsletter subscribers. If you have not subscribed yet, I encourage you to do so. You can subscribe [here](newsletters.md).
 
 In the future, I might have to get my thoughts furnished and reach out to bigger channels where more people can appreciate them. But as of now, I've realized that the process of catching my ideas, revisiting them, seeing patterns and hidden realizations, and sharing them to a few people who would feel educated, inspired, and moved to action by reading them, is more rewarding than getting a lot of publicity. Even if I do build I bigger audience, I think this internal process will still be the best part of being a writer.
 
