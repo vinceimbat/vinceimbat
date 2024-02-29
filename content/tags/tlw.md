@@ -1,4 +1,4 @@
 ---
-title: "The Long Walk"
-description: "The Long Walk is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”"
+title: The Long Walk
 ---
+A weekly newsletter that used to share artifacts I find during my walks in geographic space and in the wilderness of the mind. Now I use it to share new essays, poems, short notes, and photographs all inspired by walking.
