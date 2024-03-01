@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-[[thoughts/poetry]] is appreciation training. Poetry is noticing—celebrating the moment—the truest truth. It is much like photography in this regard ([[Photography is mindfulness training]]). But it is a bit more complex as it uses words, which allow you to capture abstract concepts.
+[[poetry]] is appreciation training. Poetry is noticing—celebrating the moment—the truest truth. It is much like photography in this regard ([[Photography is mindfulness training]]). But it is a bit more complex as it uses words, which allow you to capture abstract concepts.
 
 In poetry, we employ [[Appreciation of beauty and excellence ]] as well as [[Renewed freshness of appreciation]]. Both rely on our ability to be present to what is happening now—baring withness to it. We do this in poetry, although [[thoughts/photography]] does this best ([[Photography is the art closest to the present moment]]).
 

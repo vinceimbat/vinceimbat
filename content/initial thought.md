@@ -1,12 +1,12 @@
 ---
 title: Initial Thought
 date: 2024-02-15
-tags:
-  - seedlings
+aliases:
+  - poems/initial-thought
 draft: false
-sr-due: 2024-02-19
-sr-interval: 4
-sr-ease: 270
+tags:
+  - poems
+  - seedlings
 ---
 If these trees  
 at Bagong Silang  

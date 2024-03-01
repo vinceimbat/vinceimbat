@@ -47,7 +47,7 @@ I am grateful for:
 38. Climbing Mt. Makiling twice with friends (see [[vignettes/aguila base 2|my second hike at Mt. Makiling to Aguila base]]).
 39. Traveling to Baguio with Lea for the first time since we became a couple, staying at Azalea for a night, and bonding with Jeff, Sarah, and Jane.
 40. Bringing our entire family together to Pangasinan for the first time since the pandemic.
-41. **Learning how to incorporate all kinds of writing I do into my note-writing system, including [[thoughts/poetry]] and narratives.**
+41. **Learning how to incorporate all kinds of writing I do into my note-writing system, including [[poetry]] and narratives.**
 42. Reading [[thoughts/diy mfa by pereira|DIY MFA]] and finding a simple framework to follow to build a writing life and career.
 43. Narrativizing [[uman 2022-04]].
 44. Relaunching [[thoughts/lilim|lilim]] after intentionally lengthening my afternoon walks and realizing I have so much to share about [[walking]].

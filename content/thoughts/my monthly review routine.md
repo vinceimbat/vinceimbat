@@ -7,7 +7,7 @@ aliases:
 tags:
   - evergreens
 ---
-There are four parts to my [[thoughts/monthly review|monthly review]]:
+There are four parts to my [[monthly review|monthly review]]:
 
 1. Write the [[thoughts/monthly reports|Monthly report]].
 2. Review my [[thoughts/sky level|sky level]].

@@ -23,7 +23,7 @@ I conduct four kinds of reviews
 
 - [[thoughts/daily review|daily review]]
 - [[thoughts/weekly review|weekly review]]
-- [[thoughts/monthly review|monthly review]]
+- [[monthly review|monthly review]]
 - [[thoughts/annual review|annual review]]
 
 The key to regularly performing these reviews (except the daily review) is reminders, since it is difficult to establish habits that are not daily.

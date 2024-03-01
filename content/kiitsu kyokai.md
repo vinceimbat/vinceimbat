@@ -2,7 +2,7 @@
 title: Kiitsu Kyokai
 date: 2024-02-08
 aliases:
-  - /thoughts/kiitsu-kyokai
+  - thoughts/kiitsu-kyokai
 draft: false
 tags:
   - thoughts

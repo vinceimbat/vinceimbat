@@ -1,12 +1,12 @@
 ---
 title: Well
 date: 2024-02-08
-tags:
-  - seedlings
+aliases:
+  - poems/well
 draft: false
-sr-due: 2024-02-10
-sr-interval: 2
-sr-ease: 230
+tags:
+  - poems
+  - seedlings
 ---
 On the surface
 of this deep, hollow well,

@@ -46,7 +46,7 @@ You can start exploring the digital garden by clicking on the following points o
 - [[thoughts/my poetics|My poetics]]
 - [[walking|Walking]]
 - [[newsletters|Newsletters]]
-- [[thoughts/poetry|Poetry]]
+- [[poetry|Poetry]]
 - [[thoughts/photography|Photography]]
 
 I also send a weekly newsletter called [**The Long Walk**](https://vinceimbat.substack.com/). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.

@@ -1,8 +1,11 @@
 ---
 title: Insights from tall tales 1
 date: 2024-02-01
+aliases:
+  - thoughts/insights-from-tall-tales-1
 draft: false
 tags:
+  - thoughts
   - seedlings
 ---
 - Use the present moment as an anchor when returning to places of gravity to protect yourself.

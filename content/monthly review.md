@@ -3,7 +3,9 @@ title: Monthly review
 date: 2022-05-03
 aliases:
   - Monthly review
+  - thoughts/monthly-review
 tags:
+  - thoughts
   - evergreens
 ---
 While the [[thoughts/weekly review|weekly review]] is designed to maintain my [[thoughts/ground level|ground level]] ([[thoughts/my lms ground level setup|my lms ground level setup]]), the monthly review breaks this continuous focus on taking [[thoughts/action|action]] and provides a space where I can evaluate my [[thoughts/sky level|sky level]], most especially [[thoughts/my life areas|my life areas]] and [[thoughts/life goals|life goals]]. If this is its purpose, a seeming disconnect between what I do and what I would like to do is caused by a problem in my monthly review process. This is why I think reading my [[thoughts/purpose statement|purpose statement]], [[thoughts/my mission statement|my mission statement]], etc. is necessary during [[thoughts/my monthly review routine|my monthly review routine]].

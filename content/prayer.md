@@ -1,10 +1,13 @@
 ---
 title: Prayer
 date: 2024-02-11
-tags:
-  - evergreens
-  - tlw
+aliases:
+  - poems/prayer
 draft: false
+tags:
+  - poems
+  - tlw
+  - evergreens
 ---
 Sitting there on that tiny chair  
 across her, I babbled words  

@@ -1,12 +1,12 @@
 ---
 title: Writing Alone and with Others by Pat Schneider
 date: 2023-11-24
-tags:
-  - seedlings
+aliases:
+  - literature/writing-alone-and-with-others-schneider
 draft: false
-sr-due: 2023-11-25
-sr-interval: 1
-sr-ease: 230
+tags:
+  - literature
+  - seedlings
 ---
 # An aesthetic of trust
 
@@ -431,7 +431,7 @@ I will not need to ask whether the form should be story or poem or novel or play
 - Beginning at Your Own Beginning: [[vignettes/kisses|Kisses]]
 - Healing the Wounds of Bad Experiences: [[private/nspc|NSPC]]
 - Getting Rid of Internal Critics: [[private/the bus|The Bus]]
-- Beginning (Again): [[vignettes/palaui|Palaui]]
+- Beginning (Again): [[palaui|Palaui]]
 - [[poems/well|well]]
 - Clustering and Mapping: see Diary dated [[2024-02-04]]
 

@@ -7,7 +7,11 @@ tags:
   - thoughts
   - seedlings
 ---
-Walking is continuous movement. It is both a metaphor and an embodiment of jiyu shukyo. By engagin in a practice like the contemporary derive which asks you to intentionally see the world differently, walking could help you embody this sense of positionlessness or if you want positionfulness.
+Walking is continuous movement. It is both a metaphor and an embodiment of jiyu shukyo. By engaging in a practice like the contemporary derive which asks you to intentionally see the world differently, walking could help you embody this sense of positionlessness or if you want positionfulness.
+
+Walking means multiple views, grounded views. Important to cast a wider net to things we consume: read, listen to, watch.
+
+I shouldn't look at other people in just one perspective.
 
 See walk and talk as done by [[Craig Mod]] and others.
 

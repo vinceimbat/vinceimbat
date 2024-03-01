@@ -16,7 +16,7 @@ Perhaps how we breath affects our thoughts while we write them. Perhaps better t
 
 # Advice from Miki Nakura
 
-I first learned how to do seiza through the guidance of [[thoughts/miki nakura|Miki Nakura]]. Here are some advice I learned from the group seiza sessions I had with him.
+I first learned how to do seiza through the guidance of [[miki nakura|Miki Nakura]]. Here are some advice I learned from the group seiza sessions I had with him.
 
 - Do not think of result. The purpose of seiza is to become a person of the lower belly. A person of the lower belly is a peaceful person.
 - The seiza posture is an independent posture. Our body and mind is closely related.

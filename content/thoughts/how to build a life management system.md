@@ -72,7 +72,7 @@ After setting up a system to organize your actions and a system to organize your
    - I use the annual review to aggregate an annual report, which I use to create new goals and a new vision for the coming year.
    - I then write an annual review article that I share to the public.
    - Here is [[thoughts/my annual review routine]].
-1. Use a [[thoughts/monthly review]].
+1. Use a [[monthly review]].
    - The purpose of the monthly review is to create a meaningful connection between monthly projects and areas as well as your vision for the year.
    - I use the monthly review to write a monthly report for the month.
    - I then create a publishable version of this report and share it via Uman.

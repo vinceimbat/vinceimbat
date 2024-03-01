@@ -1,12 +1,12 @@
 ---
 title: Charles Olson
 date: 2024-02-06
+aliases:
+  - thoughts/charles-olson
 draft: false
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-02-09
-sr-interval: 3
-sr-ease: 250
 ---
 # On Present as Prologue
 

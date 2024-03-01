@@ -34,7 +34,7 @@ Notes
 
 # Writing
 
-- Performed exercise 3 in [[literature/writing alone and with others schneider|Writing Alone and With Others]].
+- Performed exercise 3 in [[writing alone and with others schneider|Writing Alone and With Others]].
 
 Vignettes
 - [[vignettes/on my desk my fingers walk|on my desk my fingers walk]]
@@ -131,7 +131,7 @@ TLW
 ## Books
 
 - [[literature/being home norris and sibley|Being Home]] (finished)
-- [[literature/writing alone and with others schneider|Writing Alone and With Others)]] (unfinished)
+- [[writing alone and with others schneider|Writing Alone and With Others)]] (unfinished)
 - [[literature/a gathering of larks carroll|A Gathering of Larks]] (unfinished)
 - [[literature/things become other things mod|Things Become Other Things]] (finished)
 

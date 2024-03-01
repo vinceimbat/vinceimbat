@@ -14,7 +14,7 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 
 # Part I: Aggregate the annual report
 
-1. Start the process on January 3 of the year (this is to give way for [[monthly financial review process|monthly financial review]] and [[thoughts/monthly review|monthly review]] first).
+1. Start the process on January 3 of the year (this is to give way for [[monthly financial review process|monthly financial review]] and [[monthly review|monthly review]] first).
 2. Copy and paste the summary of each [[thoughts/monthly reports|monthly report]] into a new [[thoughts/annual reports|annual report]] using the [[templates/annual report|annual report template]].
 3. Use the annual report to accomplish the core of the annual review.
 

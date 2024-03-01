@@ -1,12 +1,12 @@
 ---
 title: man without a position
 date: 2024-02-01
+aliases:
+  - thoughts/man-without-a-position
 draft: false
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-02-02
-sr-interval: 1
-sr-ease: 230
 ---
 Contemplating positionlessness
 

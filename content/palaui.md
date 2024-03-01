@@ -1,12 +1,12 @@
 ---
 title: Palaui
 date: 2024-02-10
+aliases:
+  - vignettes/palaui
 tags:
+  - vignettes
   - seedlings
 draft: false
-sr-due: 2024-02-11
-sr-interval: 1
-sr-ease: 230
 ---
 A white dog moved slowly into the still water at that beach in Palaui island the morning of our walk. The creature didn't hesitate like most dogs do. As soon as it dipped its front paws in the water, an invisible force seemed to pull its entire body into the sea. It created tiny waves as it moved forward, creating a trail that the water immediately erased.
 

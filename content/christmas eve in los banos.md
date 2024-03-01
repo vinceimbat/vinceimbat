@@ -1,9 +1,12 @@
 ---
 title: Christmas Eve in Los Baños
 date: 2024-02-13
-tags:
-  - seedlings
+aliases:
+  - vignettes/christmas-eve-in-los-baños
 draft: false
+tags:
+  - vignettes
+  - seedlings
 ---
 The only storefronts truly open in LB on Christmas eve are the fruit stalls. Watermelon, apples, oranges, and grapes. All things round abound at this time of the year. But some fruits you shouldn't see make their appearances: papaya and mango.
 

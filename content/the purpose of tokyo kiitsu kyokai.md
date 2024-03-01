@@ -1,8 +1,11 @@
 ---
 title: The Purpose of Tokyo Kiitsu Kyokai by Imaoka Schin'Ichiro (September 1950, "Creation" [創造], Issue No. 1
 date: 2024-02-08
+aliases:
+  - literature/the-purpose-of-tokyo-kiitsu-kyokai
 draft: false
 tags:
+  - literature
   - seedlings
 ---
 - [[kiitsu kyokai continues unitarian universalism]]

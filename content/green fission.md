@@ -1,15 +1,13 @@
 ---
 title: Green Fission
 date: 2024-02-06
-tags:
-  - seedlings
+aliases:
+  - poems/green-fission
 draft: false
-sr-due: 2024-02-09
-sr-interval: 3
-sr-ease: 250
+tags:
+  - poems
+  - seedlings
 ---
-Green Fission
-
 Light  
 from a lamp post  
 hits leaves  
