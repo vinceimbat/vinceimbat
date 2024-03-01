@@ -22,7 +22,25 @@ I regularly send two newsletters:
 - **[[tags/tlw|The Long Walk]]**: *The Long Walk* is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”
 - **[[tags/uman|𝌡 Uman]]**: *Uman* is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
-<iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<form method="post" action="https://list.vinceimbat.com/subscription/form" class="listmonk-form">
+  <div style="text-align: center;">
+    <input type="hidden" name="nonce" />
+    <p>
+      <input type="email" name="email" required placeholder="your email address" />
+    </p>
+    <p>
+      <input id="0a6da" type="checkbox" name="l" checked value="0a6da788-1056-486f-8ef7-294b14c8ba33" />
+      <label for="0a6da">The Long Walk</label><br />
+    </p>
+    <p>
+      <input id="cfd1b" type="checkbox" name="l" checked value="cfd1bff8-8bb4-4c68-b220-44bc1ad49c6d" />
+      <label for="cfd1b">Uman</label><br />
+    </p>
+    <p>
+      <input type="submit" value="Subscribe" />
+    </p>
+  </div>
+</form>
 
 # Jiyū Shūkyō (自由宗教)
 
