@@ -3,8 +3,9 @@ title: Personal Narrative Vision
 date: 2022-08-11
 aliases:
   - Personal-Narrative-Vision
-  - thoughts/personal narrative vision
+  - thoughts/personal-narrative-vision
 tags:
+  - thoughts
   - evergreens
 ---
 To write a new personal narrative vision, follow these steps:

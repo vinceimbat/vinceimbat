@@ -15,7 +15,7 @@ Vision precedes [[thoughts/purpose]] and mission. It describes what you want to 
 
 I like to write a vision statement in the present tense and integrate how I want [[thoughts/my life areas]] to look like once all their standards have been established and maintained.
 
-Here is [[thoughts/my vision statement]].
+Here is [[my vision statement]].
 
 ## References
 

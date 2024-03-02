@@ -9,7 +9,7 @@ draft: false
 
 Faith on other people (i.e., my neighbour) has been a big weakness of mine. My difficulty trusting other people may have been caused by scars from relationships in the past. Even memories of encounters with strangers that were hurtful sometimes trigger me. There is so much work entailed in bettering how I trust others. Even those near me (family and friends) I see more often than I want to as threats.
 
-[[thoughts/shinichiro imaoka|Shinichiro Imaoka's]] wording is interesting. He connects belief in oneself with belief in one's neighbour, as if one determines the other. In fact, he says that belief in oneself always inevitably leads to belief in others.
+[[shinichiro imaoka|Shinichiro Imaoka's]] wording is interesting. He connects belief in oneself with belief in one's neighbour, as if one determines the other. In fact, he says that belief in oneself always inevitably leads to belief in others.
 
 The objective watcher believes in oneself believes in the neighbour.
 

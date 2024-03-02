@@ -1,13 +1,11 @@
 ---
 title: Phil Smith
 date: 2024-02-16
-aliases: 
+aliases:
+  - thoughts/phil-smith
 draft: false
 tags:
   - seedlings
-sr-due: 2024-02-19
-sr-interval: 3
-sr-ease: 250
 ---
 # Books
 

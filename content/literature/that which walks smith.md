@@ -14,7 +14,7 @@ According to Phil Smith, radical walking emerged from anti-capitalist post-war E
 
 # The original pattern of radical walking
 
-[[thoughts/phil smith|Phil Smith]] articulated a pattern of the walking arts in his 2008 paper "The Contemporary Dérive." This pattern was a "resistance against romanticist walking" that he noticed in [[psychogeography]], [[fluxus]], occultism, and land and performance artists.
+[[phil smith|Phil Smith]] articulated a pattern of the walking arts in his 2008 paper "The Contemporary Dérive." This pattern was a "resistance against romanticist walking" that he noticed in [[psychogeography]], [[fluxus]], occultism, and land and performance artists.
 
 # Absence of pattern in the walking arts
 

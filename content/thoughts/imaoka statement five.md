@@ -10,7 +10,7 @@ sr-ease: 226
 ---
 5. I have faith in the unity of life and nature (shizen). Life, which constitutes the trinity of self, neighbour, and cooperative society, further unites with all things in the universe.
 
-[[thoughts/shinichiro imaoka|Shinichiro Imaoka]] begins to integrate humans with sentient beings and non-living things into a collective unity. He calls this unity "Life and nature." What does it mean to have faith into this unity of Life and nature?
+[[shinichiro imaoka|Shinichiro Imaoka]] begins to integrate humans with sentient beings and non-living things into a collective unity. He calls this unity "Life and nature." What does it mean to have faith into this unity of Life and nature?
 
 The loving relationship that Imaoka has asked me to give to myself and which I try so hard to direct to my neighbour is now to be directed to Nature, including animals, plants, non-living things like soil, rocks, and water, that are essential to life itself. When the unity of the self, neighbor, and cooperative society is further unified with the rest of Nature, the interrelationship between each remains non-hierarchical.
 

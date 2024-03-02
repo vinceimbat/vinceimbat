@@ -1,12 +1,12 @@
 ---
-title: Shin'ichirō imaoka
+title: Shin'ichirō Imaoka
 date: 2023-10-28
-tags:
-  - seedlings
+aliases:
+  - thoughts/shinichiro-imaoka
 draft: false
-sr-due: 2023-11-17
-sr-interval: 3
-sr-ease: 230
+tags:
+  - thoughts
+  - seedlings
 ---
 # Emerson's influence
 

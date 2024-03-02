@@ -35,7 +35,7 @@ The beliefs about responding to reality within my worldview most relevant to my 
 4. When transitioning from unintentional to [Intentional living]], you need to know enough about what you want and how you are going to get what you want. The former requires self-knowledge. The latter requires knowledge about the world.
 5. A part of my DIY how to live project is ensuring that I am free of pain and happy as much as possible ([[thoughts/happiness]]).
 6. But then, I realize that [[Happiness is not the ultimate value]], and that I also need [[thoughts/meaning]].
-7. These arguments led me to a simple articulation of my purpose: "[[thoughts/my purpose is to live deliberately]]."
+7. These arguments led me to a simple articulation of my purpose: "[[my purpose is to live deliberately]]."
 
 My worldview and quest defines [[thoughts/my poetics]].
 

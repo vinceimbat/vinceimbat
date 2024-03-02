@@ -3,11 +3,10 @@ title: My lifeview
 date: 2022-11-22
 aliases:
   - My lifeview
+  - thoughts/my-lifeview
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-05-21
-sr-interval: 138
-sr-ease: 253
 ---
 [[thoughts/there is no destiny|There is no destiny]]. [[thoughts/purpose does not arise from the objective physical world|Purpose does not arise from the objective physical world]] and [[thoughts/there is no single purpose everyone must follow|there is no single purpose everyone must follow]]. We were thrown in this world and [[thoughts/life is inherently meaningless|life is inherently meaningless]]. But this is actually a good thing because it means [[thoughts/we create our individual purpose|we create our individual purpose]]. [[thoughts/meaningful living is possible despite meaninglessness|Meaningful living is possible despite meaninglessness]].
 
@@ -19,4 +18,4 @@ To live is also to recognize the mystery that made it possible for all of us to 
 
 # Related
 
-- [[thoughts/my workview|my workview]]
+- [[my workview|my workview]]

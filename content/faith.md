@@ -3,11 +3,10 @@ title: Faith
 date: 2022-10-10
 aliases:
   - Faith
+  - thoughts/faith
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-03-17
-sr-interval: 32
-sr-ease: 210
 ---
 A life can be lived in a spectrum. At both ends are the following:
 - A life in pursuit of peak moments (fishes)
@@ -23,7 +22,7 @@ This is the middle path that leads to contentment. This is why contentment is al
 
 The real job here is keeping that faith and nurturing it, practicing it, actively pursuing meaning and the search for affirmations for this faith.
 
-Faith as used by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[jiyu shukyo|jiyu shukyo]] refers to openness to one's mind, heart, and neighbor.
+Faith as used by [[shinichiro imaoka|Shinichiro Imaoka]] in his concept of [[jiyu shukyo|jiyu shukyo]] refers to openness to one's mind, heart, and neighbor.
 
 # From Andrew J. Brown
 

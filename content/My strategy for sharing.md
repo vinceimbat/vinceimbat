@@ -25,7 +25,7 @@ Every Monday, I perform [[thoughts/my weekly review routine]]. I simply review m
 
 # Monthly
 
-Every beginning of the month, I perform [[thoughts/my monthly review routine]]. Using a template, I review weekly reports and aggregate them into a monthly report. This monthly report gets shared to an email list via TinyLetter. Like the annual report, this is a non-negotiable artifact that has to be shared every month.
+Every beginning of the month, I perform [[my monthly review routine]]. Using a template, I review weekly reports and aggregate them into a monthly report. This monthly report gets shared to an email list via TinyLetter. Like the annual report, this is a non-negotiable artifact that has to be shared every month.
 
 # Annually
 

@@ -1,6 +1,8 @@
 ---
 title: Mythogeography
 date: 2024-02-15
+aliases:
+  - thoughts/mythogeography
 draft: false
 tags:
   - seedlings

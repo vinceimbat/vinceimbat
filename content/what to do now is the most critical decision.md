@@ -11,7 +11,7 @@ sr-ease: 250
 
 ![Sky, now, and ground](sky-now-ground.jpeg)
 
-You have multiple [[Project]]s and multiple [[thoughts/action]]s under those projects. The consolidation of these projects and actions could lead you towards your [[thoughts/purpose]] ([[thoughts/my purpose is to live deliberately]]).
+You have multiple [[Project]]s and multiple [[thoughts/action]]s under those projects. The consolidation of these projects and actions could lead you towards your [[thoughts/purpose]] ([[my purpose is to live deliberately]]).
 
 However, there is only this moment. [[you can only be at one state at any given moment]] The most critical decision of all is what you do at this moment—this action.
 

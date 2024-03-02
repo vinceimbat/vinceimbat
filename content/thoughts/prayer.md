@@ -26,7 +26,7 @@ More thoughts from Andrew on how this could be done.
 
 # Prayer addressed to people
 
-Meanwhile, [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] seems to use prayer and addresses it to someone, although that someone are the people themselves who are part of the community.
+Meanwhile, [[shinichiro imaoka|Shinichiro Imaoka]] seems to use prayer and addresses it to someone, although that someone are the people themselves who are part of the community.
 
 >_May we all be persistent in a free, creative, and universal faith, and go forward for the purpose of realizing the Kingdom of God, or Pure Land of Buddha, that is nothing but the Ideal Community._
 >

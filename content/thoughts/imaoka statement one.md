@@ -38,6 +38,6 @@ Both the mind and the self do not emerge independent of others (i.e., matter, pe
 
 The self as I see it now could not be solely equated with the mind. The self is a relationship (which perhaps means it is abstract?). The self is multi-layered and ever-changing. It includes the mind but also the body. And it could not exist (it perishes) without the outside world. It is indeed a river.
 
-This connects me back to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]]'s conception of the self. According to Andrew, his idea of the self was heavily influenced by Buddhist thought and [[thoughts/henri bergson|Henri Bergson]]. For Imaoka, the self is not discrete and permanent. It has been and always will be a part of an eternal, universal, free, creative, and unifying process that involves self, neighbour, and cooperative society (which includes non-humans).
+This connects me back to [[shinichiro imaoka|Shinichiro Imaoka]]'s conception of the self. According to Andrew, his idea of the self was heavily influenced by Buddhist thought and [[thoughts/henri bergson|Henri Bergson]]. For Imaoka, the self is not discrete and permanent. It has been and always will be a part of an eternal, universal, free, creative, and unifying process that involves self, neighbour, and cooperative society (which includes non-humans).
 
 Selves do exist and we must start with them. But we should not remain in the level of the self. Since the nature of the self is to rely on everything around it, eventually, we need to go out and take care of others.

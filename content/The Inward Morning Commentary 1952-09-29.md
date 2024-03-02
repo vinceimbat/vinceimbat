@@ -23,7 +23,7 @@ Bugbee then turns his attention to [[Imannuel Kant]], whose ethical theory he cr
 
 This reminds me of [[thoughts/scott barry kaufman]] and [[Transcend — Kaufman]]. [[Maslow’s heirarchy of needs]] has a claim to universality. Transcendence happens anywhere. Self-actualization happens everywhere. But each of us self-actualize and transcend in our own unique ways.
 
-After discussing this, Bugbee returns yet again to the subject of [[thoughts/faith]].[^2] He says, "the believing conditional to basic understanding is a matter of response to the intimations we receive of an absolute stake in life." I currently have a difficulty understanding what he means here.
+After discussing this, Bugbee returns yet again to the subject of [[faith]].[^2] He says, "the believing conditional to basic understanding is a matter of response to the intimations we receive of an absolute stake in life." I currently have a difficulty understanding what he means here.
 
 # References
 

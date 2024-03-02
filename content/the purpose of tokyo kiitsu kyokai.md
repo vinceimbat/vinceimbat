@@ -24,12 +24,12 @@ Kiitsu is often translated as "unity."
 ***
 ## kiitsu kyokai continues unitarian universalism
 
-According to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[thoughts/unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
+According to [[shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[thoughts/unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
 
 ***
 ## kiitsu kyokai transforms unitarianism
 
-[[thoughts/shinichiro imaoka|Shinichiro Imaoka]] initially wanted to revive the [[thoughts/unitarianism|Unitarian]] Church through[[ kiitsu kyokai]] but he realized that what is needed is a continuation of the church through a significant transformation. What are these transformations?
+[[shinichiro imaoka|Shinichiro Imaoka]] initially wanted to revive the [[thoughts/unitarianism|Unitarian]] Church through[[ kiitsu kyokai]] but he realized that what is needed is a continuation of the church through a significant transformation. What are these transformations?
 
 - Imaoka wanted kiitsu kyokai to go beyond Christianity (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
 - He wanted it to be a [[jiyu shukyo]].
@@ -41,7 +41,7 @@ According to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]], using the word ki
 ***
 ## free religion is faithful to genuine personal needs
 
-It is interesting how [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] thinks about the "ready-made-ness" of religions. He said that to gather the best parts of all religions and integrate them into a single ideal religion is still using what is ready-made. What he seems to suggest is to really begin at the individual level (i.e., what does the individual need?). Then begin thinking about how to integrate what exists out there into one's faith. I like how he describes the nature of such an individual religion: "it represents the most personal, realistic, and tangible form of faith" and it is "about being faithful to our genuine demands."
+It is interesting how [[shinichiro imaoka|Shinichiro Imaoka]] thinks about the "ready-made-ness" of religions. He said that to gather the best parts of all religions and integrate them into a single ideal religion is still using what is ready-made. What he seems to suggest is to really begin at the individual level (i.e., what does the individual need?). Then begin thinking about how to integrate what exists out there into one's faith. I like how he describes the nature of such an individual religion: "it represents the most personal, realistic, and tangible form of faith" and it is "about being faithful to our genuine demands."
 
 ***
 ## plurality is critical to the success of a kiitsu kyokai
@@ -51,12 +51,12 @@ Individuals with personal and autonomous religions (i.e. [[jiyu shukyo|jiyu shuk
 ***
 ## kiitsu kyokai is democratic
 
-[[thoughts/shinichiro imaoka|Shinichiro Imaoka]] thought that democracy is what would protect the individuality and freedom, which is perhaps the most important thing that people owned within the [[kiitsu kyokai]], as they practice their faith with others. To keep the kiitsu kyokai democratic, he advocated for congregationalism and layman-ism, which meant that members were encouraged to lead worships and sermons. He also mentioned that the kiitsu kyokai follows the nonhierarchical structure of Quakers, where the church is not owned by a clergy but by its members.
+[[shinichiro imaoka|Shinichiro Imaoka]] thought that democracy is what would protect the individuality and freedom, which is perhaps the most important thing that people owned within the [[kiitsu kyokai]], as they practice their faith with others. To keep the kiitsu kyokai democratic, he advocated for congregationalism and layman-ism, which meant that members were encouraged to lead worships and sermons. He also mentioned that the kiitsu kyokai follows the nonhierarchical structure of Quakers, where the church is not owned by a clergy but by its members.
 
 ***
 ## kiitsu kyokai nurtures a free religion that inspires compassion
 
-In congruence with its [[thoughts/unitarianism|Unitarian]]  roots, the [[kiitsu kyokai]] advocates supporting social causes. According to [[thoughts/shinichiro imaoka|Shinichiro Imaoka]], "salvation is both personal and social" and "individual salvation and societal salvation are two sides of the same coin." Therefore, the kiitsu kyokai, like the Unitarian movement, is an enlightenment project that aims to influence not just religion but society in general. Among the objectives of an enlightenment project according to Imaoka are harmonizing science and religion and promoting culture and peace.
+In congruence with its [[thoughts/unitarianism|Unitarian]]  roots, the [[kiitsu kyokai]] advocates supporting social causes. According to [[shinichiro imaoka|Shinichiro Imaoka]], "salvation is both personal and social" and "individual salvation and societal salvation are two sides of the same coin." Therefore, the kiitsu kyokai, like the Unitarian movement, is an enlightenment project that aims to influence not just religion but society in general. Among the objectives of an enlightenment project according to Imaoka are harmonizing science and religion and promoting culture and peace.
 
 The kiitsu kyokai as an organization nurtures [[jiyu shukyo]], which becomes the foundation for all efforts to address societal issues. Although it is an enlightenment project, it is also a religious organization, which means it isn't only for intellectual engagement. Imaoka aspires the kiitsu kyokai to be a practice ground for the ideal society, where all kinds of people from different walks of life could come together in unity.
 

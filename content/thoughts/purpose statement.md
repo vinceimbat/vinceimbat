@@ -11,4 +11,4 @@ sr-ease: 250
 ---
 The purpose statement in the [[thoughts/sky level]] of my [[thoughts/life management system]] answers the question “Why do I exist?” If [[thoughts/life is a project]], then a life [[thoughts/purpose]] is the reason behind the [[thoughts/action]]s I take in life.
 
-My purpose statement is written here: [[thoughts/my purpose is to live deliberately]].
+My purpose statement is written here: [[my purpose is to live deliberately]].

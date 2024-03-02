@@ -19,7 +19,7 @@ There are two works involved in understanding:
 
 The main question I try to study is: [[thoughts/how should I live?|how should I live?]]
 
-A concise answer to this question is my purpose: [[thoughts/my purpose is to live deliberately|my purpose is to live deliberately]]
+A concise answer to this question is my purpose: [[my purpose is to live deliberately|my purpose is to live deliberately]]
 
 Since [[thoughts/life is a project|life is a project]] made up of individual actions, answering the question “How should I live?” involves understanding what [[thoughts/action|action]] is. To understand what action is, I also need to understand the context where it is initially intended (the [[thoughts/mind|mind]]) and the context where it is manifested (the physical universe).
 

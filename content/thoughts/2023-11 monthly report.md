@@ -9,7 +9,7 @@ draft: true
 
 When I asked Andrew how one begins walking in this creative, free spirituality, he suggested trying seiza. Practicing seiza for a month has taught me a lot about being mindful of my posture. More importantly, seiza introduced me to two new people I now see as partners in this creative, free spirituality I'm exploring. In November, I attended three seiza group meditation sessions via Zoom, led by Miki Nakura. In one of those sessions, I sat silently with Andrew James Brown.
 
-Per Andrew's advice I also started studying the life of [[thoughts/shinichiro imaoka|Shinichiro Imaoka (1881–1988)]] by reading the book [[literature/cosmic sage williams|Cosmic Sage]]. I also started reflecting on [[imaoka creed of life|Imaoka's Creed of Life]]. I synthesized what I learned so far in my essay [[a goodness lurking|"A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]."
+Per Andrew's advice I also started studying the life of [[shinichiro imaoka|Shinichiro Imaoka (1881–1988)]] by reading the book [[literature/cosmic sage williams|Cosmic Sage]]. I also started reflecting on [[imaoka creed of life|Imaoka's Creed of Life]]. I synthesized what I learned so far in my essay [[a goodness lurking|"A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]."
 
 Thinking about Imaoka put me back to my quest and framing my life into a ministry. I asked myself what kind of ministry would fit my current life and realized that what preoccupied most of my 20s after leaving the church was an exploration of writing. I was primarily self-taught, and most of my writing was highly personal. And yet, it was a writing life nonetheless.
 
@@ -68,7 +68,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 
 - I read [[thoughts/imaoka creed of life meditations|Imaoka's Creed of Life]] and wrote reflections on each of his statements.
 - Received a reply from Toby expressing his interest in free religion.
-- Researched Unitarian writers and discovered the connection between Transcendentalism and Unitarianism and concluding that the free religion advocated by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] was very much influenced by [[thoughts/ralph waldo emerson|Ralph Waldo Emerson]].
+- Researched Unitarian writers and discovered the connection between Transcendentalism and Unitarianism and concluding that the free religion advocated by [[shinichiro imaoka|Shinichiro Imaoka]] was very much influenced by [[thoughts/ralph waldo emerson|Ralph Waldo Emerson]].
 - Seiza
 	- Joined Miki Nakura's seiza groups twice.
 	- Met Andrew Brown.

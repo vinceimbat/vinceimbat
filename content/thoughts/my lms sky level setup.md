@@ -9,9 +9,9 @@ sr-due: 2026-07-29
 sr-interval: 1303
 sr-ease: 288
 ---
-Everything begins with [[thoughts/purpose]]. [[thoughts/my purpose is to live deliberately]].
+Everything begins with [[thoughts/purpose]]. [[my purpose is to live deliberately]].
 
-To imagine what fulfilling my purpose looks like, I wrote [[thoughts/my vision statement]].
+To imagine what fulfilling my purpose looks like, I wrote [[my vision statement]].
 
 To imagine how my vision could translate into action and allow myself to track my progress, I have created [[thoughts/my life areas]].
 
@@ -26,5 +26,5 @@ To ensure that I am performing actions that lead me toward my goals, I set up [[
 - [[My top five character strengths]]
 - [[My top three sources of self-actualization]]
 - [[thoughts/my best future self exercise]]
-- [[thoughts/my lifeview]]
-- [[thoughts/my workview]]
+- [[my lifeview]]
+- [[my workview]]

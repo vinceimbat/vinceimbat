@@ -3,11 +3,10 @@ title: My workview
 date: 2022-11-22
 aliases:
   - My workview
+  - thoughts/my-workview
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-01-18
-sr-interval: 47
-sr-ease: 234
 ---
 Work is [[thoughts/action|action]]. It is everything I do to fill up this one life. Work should ultimately provide one's life with meaning. As I see it, work can either be a form of livelihood or a [[vocation]]. Livelihood provides sustenance to oneself to continue living, so it has to generate money or material needs. On the other hand, vocation does not always make money, but it is always an important work. [[thoughts/some important work are necessary even if unprofitable|Some important work are necessary even if unprofitable]].
 

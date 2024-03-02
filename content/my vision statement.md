@@ -1,12 +1,12 @@
 ---
-title: "My vision statement"
-date: "2022-02-07"
-aliases: "My-vision-statement"
+title: My vision statement
+date: 2022-02-07
+aliases:
+  - My-vision-statement
+  - thoughts/my-vision-statement
 tags:
-- "seedlings"
-sr-due: 2023-05-09
-sr-interval: 16
-sr-ease: 210
+  - thoughts
+  - seedlings
 ---
 I am [[thoughts/living|living]] my life deliberately by continuously acting according to my [[thoughts/intention|intentions]]. My intentions and [[thoughts/action|actions]] are informed by a deep and honest [[thoughts/understanding|understanding]] of reality—the universe, others, and myself.
 
@@ -19,8 +19,9 @@ I have also mastered my relationship with the material world. I support myself t
 # Related
 
 - For a more detailed long-term vision, see [[thoughts/my best future self exercise|my best future self exercise]].
-- For a shorter, one-year visions, see [[thoughts/personal narrative vision|personal narrative vision]].
+- For a shorter, one-year visions, see [[personal narrative vision|personal narrative vision]].
 
 # To Do
 
 - As I go deeper into [[jiyu shukyo|jiyu shukyo]], I should be open to revising this document to articulate how I aspire to be in a world I share with other human beings, creatures, and non-living things.
+- Simplify by combining this and [[my purpose is to live deliberately]] into my own creed of life.

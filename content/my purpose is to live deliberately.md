@@ -4,11 +4,10 @@ date: 2022-07-14
 aliases:
   - My-purpose-is-to-live-deliberately
   - my-purpose
+  - thoughts/my-purpose-is-to-live-deliberately
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-11-04
-sr-interval: 1
-sr-ease: 234
 ---
 My purpose is to live deliberately.
 

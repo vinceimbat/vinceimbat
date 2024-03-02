@@ -42,7 +42,7 @@ I remember Andrew James Brown’s similar method for what he calls **[“metaph
 
 ## November 22, Tuesday
 
-One of the exercises in the book _**[Designing Your Life](https://designingyour.life/the-book/)**_, which I am slowly realizing is a compelling book that integrates a lot of lessons I have learned in the past about career planning and job searching, is writing your philosophy of work (workview) and philosophy of life (lifeview). After writing [[thoughts/my workview]] and [[thoughts/my lifeview]], I reflected on how the two relate to each other.
+One of the exercises in the book _**[Designing Your Life](https://designingyour.life/the-book/)**_, which I am slowly realizing is a compelling book that integrates a lot of lessons I have learned in the past about career planning and job searching, is writing your philosophy of work (workview) and philosophy of life (lifeview). After writing [[my workview]] and [[my lifeview]], I reflected on how the two relate to each other.
 
 I realized that both my worview and my lifeview have this minimalist and balanced view of money that acknowledges its importance but only as a supportive element. I internally agree that the most important things happen not in exchange spaces but in gift spaces. I realized that I have never truly been driven by money. I have been very cheap in my life and could be even cheaper if needed. The more I don’t think about how I can generate more income, the better. On a related tangent, because the main work is inner and its movement is slow, fame is not part of the equation. I am never motivated by it.
 

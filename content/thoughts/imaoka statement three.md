@@ -12,7 +12,7 @@ sr-ease: 230
 
 I need only to look within me and my memory to be convinced that to love my neighbour as I do myself is true and this path shall forge the world I want to live in. I shall focus on thinking about the practice of love and how I can embody it daily toward myself, my neighbour, and the world.
 
-This third statement by [[thoughts/shinichiro imaoka|Shinichiro Imaoka]] can work even if one believes that constituents of the universe are first independent entities. It will even work if one is a metaphysical dualist ([[thoughts/metaphysical dualism is not ethical separation|metaphysical dualism is not ethical separation]]). No matter what the metaphysical status of the self, the only commitment the statement asks is faith on an obvious fact of reality: we are dependent on others and the world to exist and thrive in this life.
+This third statement by [[shinichiro imaoka|Shinichiro Imaoka]] can work even if one believes that constituents of the universe are first independent entities. It will even work if one is a metaphysical dualist ([[thoughts/metaphysical dualism is not ethical separation|metaphysical dualism is not ethical separation]]). No matter what the metaphysical status of the self, the only commitment the statement asks is faith on an obvious fact of reality: we are dependent on others and the world to exist and thrive in this life.
 
 The statement also asks that we recognize the uniqueness of each person. If we see the [[self]] as bundled and ever-changing like a river, then it is easy to see how a person can be unique.
 

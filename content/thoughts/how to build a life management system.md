@@ -49,7 +49,7 @@ Once I had my ground level in place and have acquainted myself to it, I was able
 
 1. Write a [[thoughts/purpose statement]].
    - Ideally, this is the first step. However, I found articulating my [[thoughts/purpose]] very tricky and difficult at first as I wasn’t clear about the point and meaning of life. Even if I had enough self-knowledge, answering the question “Why do you live?” was still difficult. I decided to use a temporary purpose and skipped thinking about it altogether and focused on working with my life areas first.
-   - Purpose statement: [[thoughts/my purpose is to live deliberately]].
+   - Purpose statement: [[my purpose is to live deliberately]].
 1. Do the best future self exercise to create a vision.
    - [[thoughts/my best future self exercise]]
 1. Write a [[thoughts/mission statement]].
@@ -77,7 +77,7 @@ After setting up a system to organize your actions and a system to organize your
    - I use the monthly review to write a monthly report for the month.
    - I then create a publishable version of this report and share it via Uman.
    - For the coming month, I review my sky level and choose the goals to tackle and setup project folders and todo lists for each.
-   - Here is [[thoughts/my monthly review routine]].
+   - Here is [[my monthly review routine]].
 1. Use a [[thoughts/weekly review]].
    - The purpose of the weekly review is to process all accumulated loose ends in all inboxes both actionable and non-actionable and to make sure that projects and tasks are up-to-date.
    - Here is [[thoughts/my weekly review routine]].

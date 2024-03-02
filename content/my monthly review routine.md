@@ -4,7 +4,9 @@ date: 2021-07-22
 aliases:
   - My-monthly-review-routine
   - my monthly review routine
+  - thoughts/my-monthly-review-routine
 tags:
+  - thoughts
   - evergreens
 ---
 There are four parts to my [[monthly review|monthly review]]:
@@ -24,11 +26,11 @@ There are four parts to my [[monthly review|monthly review]]:
 
 # Part II: Review my sky level
 
-1. Review [[thoughts/my purpose is to live deliberately|my purpose is to live deliberately]].
-2. Review [[thoughts/my vision statement|my vision statement]].
-3. Review [[thoughts/my lifeview|my lifeview]].
-4. Review [[thoughts/my workview|my workview]].
-5. Review my [[thoughts/personal narrative vision|personal narrative vision]] for the year.
+1. Review [[my purpose is to live deliberately|my purpose is to live deliberately]].
+2. Review [[my vision statement|my vision statement]].
+3. Review [[my lifeview|my lifeview]].
+4. Review [[my workview|my workview]].
+5. Review my [[personal narrative vision|personal narrative vision]] for the year.
    - Bold parts that could be addressed with new projects.
    - Highlight parts that fit more into Areas.
    - Code-format parts that have been achieved.
