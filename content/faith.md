@@ -32,6 +32,17 @@ shinjin: true entrusting
 Check John Schellenberg
 - Prairie Schooners: only way to find out if it's true is to try
 
+# Faith and action
+
+I have faith so I could take action.
+I take action so I could develop faith.
+
+What actions to take to develop faith?
+- Developing the self.
+- Cultivating relationship with others.
+- Contributing to societal change.
+- Taking care of the nonhuman.
+
 # References
 
 Webb, S. E. (1999). Presence, Memory, and Faith: Passages from a Notebook on The Inward Morning. In E. F. Mooney (Ed.), _Wilderness and the Heart: Henry Bugbee’s Philosophy of Place, Presence, and Memory_ (pp. 32–72). The University of Georgia Press.

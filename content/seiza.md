@@ -1,12 +1,12 @@
 ---
 title: Seiza
 date: 2023-10-29
-tags:
-  - seedlings
+aliases:
+  - thoughts/seiza
 draft: false
-sr-due: 2023-12-12
-sr-interval: 34
-sr-ease: 270
+tags:
+  - thoughts
+  - seedlings
 ---
 I like this definition of seiza written by [[thoughts/andrew j. brown|Andrew J. Brown]]. It reminds me why I chose it as a spiritual practice:
 
@@ -26,9 +26,16 @@ I first learned how to do seiza through the guidance of [[miki nakura|Miki Nakur
 - The subtle difference between zazen and seiza is that in seiza it is encouraged to drop the solar plexus to achieve a more natural sitting position in accordance with gravity. In contrast, the traditional zazen posture seems to encourage self-power (i.e., "I must experience satori with my self-power.").
 - Your *heso* (navel) should face heaven.
 
+# History of seiza
+
+Friends of Seiza (Seizanotomo)
+
+Okada didn't have an organization
+
 # Resources
 
 - Hara: The Vital Center of Man (book)
+- Recommendations for Doing Seiza book (available in: https://archive.org/details/okadashikiseizan0000unse)
 
 # References
 

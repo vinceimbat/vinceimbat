@@ -11,4 +11,4 @@ tags:
 
 # Related
 
-- [[thoughts/seiza|seiza]]
+- [[seiza|seiza]]

@@ -5,7 +5,7 @@ draft: true
 tags:
   - evergreens
 ---
-This is a weekly menu of activities preplanned during [[thoughts/my weekly review routine|my weekly review routine]], which I can choose from for my day-to-day activities. The "soup du jour" option captures things I'm curious about and might check on.
+This is a weekly menu of activities preplanned during [[my weekly review routine|my weekly review routine]], which I can choose from for my day-to-day activities. The "soup du jour" option captures things I'm curious about and might check on.
 
 I will still keep track of my projects and their todos in Things, though. So, for now, this menu would be mostly for reading, writing, talahardin, etc.
 ***

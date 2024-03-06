@@ -13,7 +13,7 @@ A weekly review is one of the four kinds of [[thoughts/review|review]] necessary
 
 According to [[thoughts/tiago forte|Tiago Forte]], [[thoughts/a weekly review is an operating system|a weekly review is an operating system]], which is checked by a [[monthly review|monthly review]]. He further notes that, because [[thoughts/weekly habits are more difficult to build|weekly habits are more difficult to build]], establishing and maintaining a weekly review habit can be difficult. Nevertheless, when properly designed, a weekly review can free up your mind and spur you to take action ([[A life management system should free your mind]]; [[Build a life management system that helps you take intentional action]]). For Tiago, a good Weekly Review should be done fast and lightly for about 15-30 minutes. To do so, the reviewer needs to resist the urge to actually do a task and focus on processing open loops.
 
-Here is [[thoughts/my weekly review routine|my weekly review routine]].
+Here is [[my weekly review routine|my weekly review routine]].
 
 TO DO
 

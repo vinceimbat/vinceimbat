@@ -72,7 +72,7 @@ I am grateful for:
 63. Articulating that the most important thing when I walk is my connection with space, object, or scene.
 64. Walking with Mama and Papa.
 65. Being reunited with Tita Sabel.
-66. Modifying how I prioritize goals. I created [[thoughts/my life goals master list]] and divided it into two: a list of five primary focus goals and a large list of what is left called "avoid-at-all-cost list."
+66. Modifying how I prioritize goals. I created [[my life goals master list]] and divided it into two: a list of five primary focus goals and a large list of what is left called "avoid-at-all-cost list."
 67. Learning from Bugbee to value insights as they come and so categorizing them as [[thoughts/seeds]] in my note-writing system.
 68. [[thoughts/andrew j. brown|Andrew J. Brown]] and his writings and podcast, which have been my go-to resource on thinking about religion.
 69. **Facing head-on my fear of religion and accepting that my current work has a religious nature.**

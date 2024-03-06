@@ -35,7 +35,7 @@ There are four parts to my [[monthly review|monthly review]]:
    - Highlight parts that fit more into Areas.
    - Code-format parts that have been achieved.
    - Put (?) at the end of projects that may be dropped or postponed for the next year.
-6. Review and update [[thoughts/my life goals master list|my life goals master list]] (refer to [[thoughts/how to set goals|how to set goals]]).
+6. Review and update [[my life goals master list|my life goals master list]] (refer to [[thoughts/how to set goals|how to set goals]]).
    - Transfer completed goals to Done.
    - If there are incomplete goals, carry them over to the current month or return them to Someday/Maybe.
    - If there are no incomplete goals, check for any remaining goals under the primary focus and choose there.

@@ -21,7 +21,7 @@ Having said that, I don’t want to pressure myself with sharing daily. If there
 
 # Weekly
 
-Every Monday, I perform [[thoughts/my weekly review routine]]. I simply review my daily reports and aggregate them to create a weekly report. I won't share this report though as I don't want to be pressured to produce a publishable artifact every week. In addition, I also don't want to be pressured to make progress every week. Progress will be done, but I don't want to be pressured to make it.
+Every Monday, I perform [[my weekly review routine]]. I simply review my daily reports and aggregate them to create a weekly report. I won't share this report though as I don't want to be pressured to produce a publishable artifact every week. In addition, I also don't want to be pressured to make progress every week. Progress will be done, but I don't want to be pressured to make it.
 
 # Monthly
 

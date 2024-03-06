@@ -15,7 +15,7 @@ To imagine what fulfilling my purpose looks like, I wrote [[my vision statement]
 
 To imagine how my vision could translate into action and allow myself to track my progress, I have created [[thoughts/my life areas]].
 
-Within my life areas are goals that I track in [[thoughts/my life goals master list]].
+Within my life areas are goals that I track in [[my life goals master list]].
 
 To ensure that I am performing actions that lead me toward my goals, I set up [[Routines]].
 

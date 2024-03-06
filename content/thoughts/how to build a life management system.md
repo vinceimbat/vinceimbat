@@ -80,7 +80,7 @@ After setting up a system to organize your actions and a system to organize your
    - Here is [[my monthly review routine]].
 1. Use a [[thoughts/weekly review]].
    - The purpose of the weekly review is to process all accumulated loose ends in all inboxes both actionable and non-actionable and to make sure that projects and tasks are up-to-date.
-   - Here is [[thoughts/my weekly review routine]].
+   - Here is [[my weekly review routine]].
 1. Use a [[thoughts/daily review]].
    - The purpose of the daily review is to choose and perform actions  for the day from all the options you have articulated.
    - Here is [[thoughts/my daily review routine]].
