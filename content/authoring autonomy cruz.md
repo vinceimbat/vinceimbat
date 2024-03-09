@@ -59,10 +59,6 @@ In her own walking poem entitled "Pedestrian Studies," included in her book Ther
 >In constructing the chaos of Manila, rife with manifestations of uneven development and on the brink of Marcos‘s declaration of martial law, Lacaba employs what Charles Bernstein calls "antiabsorptive" techniques, which, through the incorporation of "nontransparent or nonnaturalizing elements" direct the reader‘s attention to the artifice of the text and the materiality of language (52). Juxtaposition, which the poet uses extensively, is made visually and auditorily apprehensible (120)
 
 >Like the metropolis, the poem is replete with heteroglossia and does not fuse into a unified whole. "A running transformer, constantly ingesting incoming unprocessed data" is how Marjorie Perloff characterizes the collage form of Ezra Pound‘s _Cantos_, a description also applicable to Lacaba‘s poem, which similarly relies on "metonymic linkages" and constructs "Cubist surfaces or aerial maps where images jostle one another" ("Pound/Stevens" 500).
-***
-To do
-- Read Chapter 3 until end
-- Look for a copy of Jose Lacaba's The Annotated Catechism. It is in "A habit of shores : Filipino poetry and verse from English, 60's to the 90's: the sequel to a native clearing" edited by Gemino H. Abad.
 
 ***
 
@@ -81,6 +77,7 @@ Art that came from walking is best done by showing how it came to where it got.
 # Related
 
 - [[pedestrian studies cruz]]
+- [[form as protest]]
 
 # References
 
