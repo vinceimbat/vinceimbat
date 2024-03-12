@@ -10,7 +10,7 @@ sr-ease: 225
 ---
 # Notes
 
-- [[thoughts/draft|draft]] DONE
+- [[draft|draft]] DONE
 - [[thoughts/art is never finished|art is never finished]]
 - [[thoughts/the draft is liminal|the draft is liminal]] DONE
 - [[thoughts/the talahardin blurs the distinction between draft and published work|the talahardin blurs the distinction between draft and published work]] DONE

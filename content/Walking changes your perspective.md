@@ -8,7 +8,6 @@ sr-due: 2023-01-29
 sr-interval: 3
 sr-ease: 250
 ---
-
 [[Walking is a prompt for thinking]], but it also changes how we think by altering our perspective. It does so by the following:
 
 - Climbing: While one climbs, one uses and develops persistence. This quality is highly valuable when cultivating novel ideas.

@@ -8,7 +8,7 @@ sr-due: 2023-09-20
 sr-interval: 4
 sr-ease: 270
 ---
-The essence of a [[thoughts/draft|draft]] is that [[thoughts/art is never finished|it is never finished]]. This being "in process" is what gives a draft its value. Because a draft is perpetually in transit, working with drafts works well with [[walking|walking]]. In fact, I would say that a walking methodology necessitates seeing one's body of work as a perpetual draft.
+The essence of a [[draft|draft]] is that [[thoughts/art is never finished|it is never finished]]. This being "in process" is what gives a draft its value. Because a draft is perpetually in transit, working with drafts works well with [[walking|walking]]. In fact, I would say that a walking methodology necessitates seeing one's body of work as a perpetual draft.
 
 # References
 

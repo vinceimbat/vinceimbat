@@ -35,7 +35,7 @@ I finished the book May Nagsabi Sa Akin by Rofel Brion and The Deleted World by 
 - I handwrote [[translations/isang tahanang tatawagin nating bukas]].
 - In my journal, I started developing [[a walk to maahas road]].
 - Wrote [[poems/kaysarap]].
-- Wrote [[poems/sa madamba]].
+- Wrote [[sa madamba]].
 - Wrote [[poems/white butterfly]].
 - Wrote [[poems/parang kailan lang]].
 - Wrote [[Kung paano ako naging artist]].

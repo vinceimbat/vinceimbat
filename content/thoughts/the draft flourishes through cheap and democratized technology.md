@@ -8,7 +8,7 @@ sr-due: 2023-09-17
 sr-interval: 1
 sr-ease: 230
 ---
-To simplify the historical evolution of the [[thoughts/draft|draft]], we could say that the medieval period favored materiality (i.e., being printed), the modern period has broken away from uncompromising materiality but not yet fully embraced paperless alternatives, and the post-modern period has entirely gone post-print.
+To simplify the historical evolution of the [[draft|draft]], we could say that the medieval period favored materiality (i.e., being printed), the modern period has broken away from uncompromising materiality but not yet fully embraced paperless alternatives, and the post-modern period has entirely gone post-print.
 
 Interestingly, the cheaper and more democratized our thought and writing technology is the easier it is to work with drafts and to see one's work as a draft. For example, the very concept of a draft was only made possible after the invention of printing and most importantly cheap paper. The introduction of the typewriter only made literary production faster and when writers work faster, they tend to try different ways of writing their work, which increases the production of drafts.
 

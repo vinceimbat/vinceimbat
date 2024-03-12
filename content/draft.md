@@ -1,12 +1,12 @@
 ---
 title: Draft
 date: 2023-09-16
+aliases:
+  - thoughts/draft
+draft: false
 tags:
+  - thoughts
   - seedlings
-draft:
-sr-due: 2023-09-17
-sr-interval: 1
-sr-ease: 230
 ---
 Draft is a category of a wide variety of materials that are unified by not being printed or published. A select number of drafts are kept in archives. However, the bulk of materials considered drafts are never archived. The majority have been forgotten or purposefully destroyed. In the electronic age, drafts also include even the tiny revisions we make in electronic files that may or may not have been tracked. This category also includes thoughts and experiences that were never written down.
 

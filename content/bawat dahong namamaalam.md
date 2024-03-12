@@ -1,20 +1,22 @@
 ---
-title: "Bawat Dahong Namamaalam"
-date: "2022-05-09"
-location: [14.160514,121.232721]
+title: Bawat Dahong Namamaalam
+date: 2022-05-09
+aliases:
+  - poems/bawat-dahong-namamaalam
+location:
+  - 14.160514
+  - 121.232721
 tags:
-- "filipino"
-- "seedlings"
-- buhian
-sr-due: 2022-05-13
-sr-interval: 4
-sr-ease: 270
+  - poems
+  - filipino
+  - seedlings
+  - buhian
 ---
-Ang dakong it ng Molawin ay himlayan  
+Ang dakong ito ng Molawin ay himlayan  
 ng mga dahong nahuhulog na parang mga payong  
 mula sa mga tarangkahan ng langit.  
 
-Dumadapo sila sa mabababang halaman,  
+Dumarapo sila sa mabababang halaman,  
 sa lupang pinaliguan ng batis,  
 pero madalas sa tubigan.  
 

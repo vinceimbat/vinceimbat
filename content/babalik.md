@@ -1,14 +1,14 @@
 ---
 title: Babalik
 date: 2023-04-25
+aliases:
+  - poems/babalik
 locations: 
 tags:
+  - poems
   - filipino
   - seedlings
   - buhian
-sr-due: 2023-04-26
-sr-interval: 1
-sr-ease: 230
 ---
 Kanina  
 sa estasyon ng jeep  
@@ -18,12 +18,12 @@ sa Semana Santa.[^1]
 
 Ngayon  
 habang nakadungaw  
-sa labas ng bintana  
+sa bintana  
 rinig na rinig ko ang pag-awit  
 ng Imam sa moske.[^2]  
 
 Mamaya  
-paglabas ko ng pinto  
+paglabas ko sa pinto  
 muli akong babatiin  
 ng nakaputing salawal  
 na kapitbahay kong Mormon.  
@@ -31,7 +31,7 @@ na kapitbahay kong Mormon.
 At bukas  
 malamang makatatanggap ako  
 ng mensahe mula sa kung sinong  
-kamag-anak na hihiling sa'king  
+kamaganak na hihiling sa'king  
 manumbalik sa panginoon.  
 
 Lahat sila'y pauwi  

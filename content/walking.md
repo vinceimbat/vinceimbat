@@ -7,9 +7,6 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2028-10-27
-sr-interval: 1914
-sr-ease: 290
 ---
 1. [[Walking is leaving]]
 2. [[Walking deepens space]]

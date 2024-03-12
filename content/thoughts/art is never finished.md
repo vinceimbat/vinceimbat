@@ -10,7 +10,7 @@ sr-ease: 232
 ---
 The tension between the pursuit of finality and perpetual liminality in art has been persistent from the 20th century to the present. While the late 19th century Western literati generally agreed that [[thoughts/art is never finished|art is never finished]], the tide turned during the 20th century, particularly with the rise of [[new criticism]], when the literati began to aspire for the wholeness of art.
 
-In writing, the modern fair copy (a copy of the text after revisions) aims for finality and therefore fixity. Meanwhile, the [[thoughts/draft|draft]], which was never consistently preserved represents what seems to be the very nature of art: unfinished, always in flux, always mutable.
+In writing, the modern fair copy (a copy of the text after revisions) aims for finality and therefore fixity. Meanwhile, the [[draft|draft]], which was never consistently preserved represents what seems to be the very nature of art: unfinished, always in flux, always mutable.
 
 Finality in a work of art is an illusion. A work of art can always be made better as long as the writer lives and perhaps even when he or she dies. Obviously, this belief is purely subjective. You can believe that your work is done and as the author, you have authority to declare it as such. But I think, there are benefits to seeing all of your work as a never finished draft.
 

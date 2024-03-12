@@ -12,7 +12,7 @@ sr-ease: 270
 Kada labi antis ya man alas siyete mandaragup iray ugugaw, ankekelag tan angkakabaleg, ed gilig na riles, akatsinelas man o andi, man-eelekan, mankakantsawan. Leleg ya manlulutoy pandeman iray kainaan tan mangiyuunat na sali-sali iray kaamaan, manlalakapan iran akaimis, akabantag ed sagur. Tumtumbokey mata ra so marmarlang ya sile-silew na manungol ya tren angga'd isabi to'd petek da ya mamagiwgiwgiw ed sikara ed liket—ed agnapokpokan a liket.
 
 ---
-Impatalos ed Filipino: [[translations/ipb road (sa filipino)]]
+Impatalos ed Filipino: [[ipb road (sa filipino)]]
 
 ---
 
