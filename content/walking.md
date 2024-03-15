@@ -8,6 +8,8 @@ tags:
   - thoughts
   - seedlings
 ---
+
+
 1. [[Walking is leaving]]
 2. [[Walking deepens space]]
 3. [[Walking lengthens time]]
