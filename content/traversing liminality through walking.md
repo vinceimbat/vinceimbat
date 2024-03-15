@@ -65,7 +65,7 @@ Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
 
 Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022
 
-![Monobloc chairs](files/20230305-03052023-los-baños-monoblocs.jpg)
+![[20230305-03052023-los-baños-monoblocs.jpg]]
 
 Figure 5. Abandoned House, UPLB, Laguna, 2023
 

@@ -8,7 +8,18 @@ tags:
   - thoughts
   - seedlings
 ---
+This page, like most pages in this website, is a work in progress. Its aim is to become a comprehensive source on walking in a Philippine context.
 
+# Walking Literature in the Philippines
+
+# My Walks 
+
+- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
+- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
+- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
+
+# My Notes on Walking
 
 1. [[Walking is leaving]]
 2. [[Walking deepens space]]
