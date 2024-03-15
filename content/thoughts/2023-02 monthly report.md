@@ -25,7 +25,7 @@ I wrote:
 # Writing
 - I wrote poems:
 	- [[poems/peryad binmaley]] and its translation into Filipino
-	- [[poems/ang unang liwayway]]
+	- [[ang unang liwayway]]
 	- [[poems/tunog]]
 
 # Photography

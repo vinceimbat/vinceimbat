@@ -14,6 +14,6 @@ Holding on to the past can prevent us from fully being in the present, from resp
 Related
 - [[Presence bridges attachment and non-attachment]]
 - [[thoughts/presence is the foundation]]
-- [[thoughts/walking allows fullness of presence]]
+- [[walking allows fullness of presence]]
 
 # References

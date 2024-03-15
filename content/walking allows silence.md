@@ -3,18 +3,16 @@ title: Walking allows silence
 date: 2023-08-21
 aliases:
   - Walking allows silence
+  - thoughts/walking-allows-silence
 tags:
   - seedlings
-draft:
-sr-due: 2023-09-11
-sr-interval: 3
-sr-ease: 250
+draft: false
 ---
 Silence is what ensues when there is no language. It allows experiencing that, which cannot be put into words. When we walk, we allow ourselves to experience.
 
 And then when we write and enter the word-ful, we do so not as someone who has inhabited the word-ful alone but someone who has inhabited both word-ful and wordless.
 
-TO DO
+# To Do
 
 - Connect here metaphysical discussions on language, wordless vs words
 

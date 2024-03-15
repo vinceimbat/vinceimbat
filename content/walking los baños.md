@@ -1,8 +1,11 @@
 ---
 title: Walking Los Baños
 date: 2024-01-26
+aliases:
+  - thoughts/walking-los-baños
 draft: false
 tags:
+  - thoughts
   - seedlings
 ---
 This is a project on walking [[thoughts/los baños|Los Baños]].

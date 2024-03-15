@@ -28,7 +28,7 @@ During the last _sesshin_ (接心) I attended in 2018, our sensei Elda, in her
 
 Speaking of _sesshins_, the first post-COVID _sesshin_ in Baguio has just culminated this November. Unfortunately, I learned about it ex post facto, so all I could do is to wait for the next one on April 2023. Sitting once more for long hours and long days in silence would be nice.
 
-In my digital note garden, I wrote the following [[explore metaphysical and epistemological beliefs as if it was a walk|note]]:
+In my digital note garden, I wrote the following [[explore your worldview like a walk|note]]:
 
 > **Explore metaphysical and epistemological beliefs as if it is a walk**
 > 

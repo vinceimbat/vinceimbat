@@ -9,7 +9,7 @@ sr-due: 2025-09-05
 sr-interval: 610
 sr-ease: 230
 ---
-I use walking to hit multiple goals ([[Walking accomplishes multiple goals]]). I take daily walks to make progress in several areas of interests.
+I use walking to hit multiple goals ([[walking accomplishes multiple goals]]). I take daily walks to make progress in several areas of interests.
 
 However, the most important goal when walking is to attempt to be in a poetic state of mind, to be in the zone, and from there make myself more open for [[thoughts/lyrical philosophy]]. To do this, I follow [[thoughts/my thinking while walking strategy]].
 

@@ -16,7 +16,7 @@ For an introduction on what *Lilim* is, see [[thoughts/lilim]].
 - [[Walking is my method for learning how to live]]
 - [[My creative products from walking]]
 - [[Etymology of the word lilim]]
-- [[Walking establishes the connection between mind and matter]]
+- [[walking connects mind and matter]]
 
 [[sage and child]]
 

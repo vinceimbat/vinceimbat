@@ -3,11 +3,10 @@ title: Walking is a metaphor for living
 date: 2021-12-10
 aliases:
   - Walking is a perfect metaphor for living
+  - thoughts/walking-is-a-metaphor-for-living
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-12-22
-sr-interval: 471
-sr-ease: 230
 ---
 Living is an exploratory navigation of [[The geography of life]]. When I walk, I deepen my understanding and familiarity of the space I occupy: the universe, Earth, my country, my locale, the space I am currently standing or sitting on.
 

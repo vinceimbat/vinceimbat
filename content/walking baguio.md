@@ -4,11 +4,10 @@ date: 2024-01-26
 draft: false
 aliases:
   - Walking Baguio
+  - thoughts/walking-baguio
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-01-29
-sr-interval: 3
-sr-ease: 250
 ---
 This is a project about re-walking Baguio City.
 

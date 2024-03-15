@@ -3,11 +3,10 @@ title: Live as if you are walking
 date: 2022-11-13
 aliases:
   - Live your life as if it was a walk
+  - thoughts/live-as-if-you-are-walking
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-11-17
-sr-interval: 4
-sr-ease: 270
 ---
 Living life like a walk involves a progression of four steps:
 

@@ -1,14 +1,13 @@
 ---
-title: "Walking allows fullness of presence"
-date: "2022-02-08"
+title: Walking allows fullness of presence
+date: 2022-02-08
+aliases:
+  - thoughts/walking-allows-fullness-of-presence
 tags:
-- "seedlings"
-sr-due: 2024-10-06
-sr-interval: 425
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
-The best walks are those that allow you to really make the most of each moment—to experience fullness of presence ([[Walking is a mindfulness practice]]). Gros says: “You don’t walk to kill time but to welcome it, to pick off its leaves and petals one by one, second by second."
+The best walks are those that allow you to really make the most of each moment—to experience fullness of presence ([[walking is a mindfulness practice]]). Gros says: “You don’t walk to kill time but to welcome it, to pick off its leaves and petals one by one, second by second."
 
 For a walk to allow you to do this, bring only what is “essential” in walks. Do not bring anything with you, physical or material, that derails you from living in the moment. Leave anything that reinforces social calculation (i.e., comfort or style).
 

@@ -8,7 +8,6 @@ tags:
   - essays
   - seedlings
 ---
-
 ![Child playing lego](child-playing-lego.jpg)
 
 I am yet to skate, wear rollerblades, and ride a skateboard. I have never ridden a roller coaster because I was too afraid to try. I have never played paintball or laser tag. I wish I had my own scooter and Gundam robot. The remote-controlled car I had was a cheap version I bought for myself.

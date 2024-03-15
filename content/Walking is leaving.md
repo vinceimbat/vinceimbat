@@ -1,15 +1,13 @@
 ---
-title: "Walking is leaving"
-date: "2021-12-17"
+title: Walking is leaving
+date: 2021-12-17
+aliases:
+  - Walking-is-leaving
 tags:
-
-- "seedlings"
-sr-due: 2023-04-05
-sr-interval: 3
-sr-ease: 257
+  - thoughts
+  - seedlings
 ---
-
-[[walking]] can simply be a means to leave something behind and there is a joy in this. However, this decision also entails discontent, sometimes even anger, to one's status quo at one's dwelling place. Unlike other forms of transport where it is easy to go back, walking has a quality of finality to it that makes it difficult to return, especially when one has walked a long way. Too much investment in a walk prevents giving up and returning.
+[[walking|Walking]] can simply be a means to leave something behind and there is a joy in this. However, this decision also entails discontent, sometimes even anger, to one's status quo at one's dwelling place. Unlike other forms of transport where it is easy to go back, walking has a quality of finality to it that makes it difficult to return, especially when one has walked a long way. Too much investment in a walk prevents giving up and returning.
 
 This possibility that walking allows is best exemplified by [[Arthur Rimbaud]].
 

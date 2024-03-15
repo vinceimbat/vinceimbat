@@ -1,21 +1,20 @@
 ---
-title: "Walking changes your perspective"
-date: "2021-12-16"
+title: Walking changes your perspective
+date: 2021-12-16
+aliases:
+  - Walking-changes-your-perspective
 tags:
-
-- "seedlings"
-sr-due: 2023-01-29
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-[[Walking is a prompt for thinking]], but it also changes how we think by altering our perspective. It does so by the following:
+[[walking is a prompt for thinking|Walking is a prompt for thinking]], but it also changes how we think by altering our perspective. It does so by the following:
 
 - Climbing: While one climbs, one uses and develops persistence. This quality is highly valuable when cultivating novel ideas.
 - Elevation: Atop a mountain or a hill, one sees things in a bird’s eyeview. One becomes detached to things. This perspective helps us see the connections between details and construct a big picture look at reality.
 - Movement: While walking, movement stimulates thinking. The quality of these thoughts are subtly different from thoughts brought about by other thoughts (See [[Words written outdoors vs indoors]]).
 - Surprise: Secret discoveries or unexpected surprises also changes one’s perspective.
-- Time: [[Walking lengthens time]]
-- Space: [[Walking deepens space]]
+- Time: [[walking lengthens time]]
+- Space: [[walking deepens space]]
 - Wideness: Walking in a narrow trail is different from walking in a wide open space.
 
 However, I notice that the presence of people along the way while walking has an effect on whether walking changes ones perspective . It seems that solitude heightens these changes as well as the length of the walk and thus of solitude.

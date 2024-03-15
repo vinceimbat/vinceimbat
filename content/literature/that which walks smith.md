@@ -64,7 +64,7 @@ Among the theorizations of radical walking available are:
 - Helen Billinghurst doctoral thesis
 - Morag Rose’s doctoral thesis
 
-However, the most influential of these theorizations come from the "new nature" writers like Fredric Gros ([[literature/a philosophy of walking - gros|A Philosophy of Walking]]) and Robert Macfarlane (The Old Ways) that advocate [[romanticism]].
+However, the most influential of these theorizations come from the "new nature" writers like Fredric Gros ([[a philosophy of walking gros|A Philosophy of Walking]]) and Robert Macfarlane (The Old Ways) that advocate [[romanticism]].
 
 In Smith's survey of the website of the Walking Artists Network, theory and practice was not talked about that much. What was popular were:
 - events

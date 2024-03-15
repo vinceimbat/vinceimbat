@@ -1,15 +1,13 @@
 ---
-title: "Walking in Cablong"
-date: "2023-07-02"
-aliases: "walking-in-cablong"
+title: Walking in Cablong
+date: 2023-07-02
+aliases:
+  - walking-in-cablong
+  - thoughts/walking-in-cablong
 tags:
-
-- "seedlings"
-sr-due: 2023-08-04
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
 When walking here in Cablong, in areas where I don't know the people and they are sitting on the side of the road, I feel uneasy. People here know everyone and so when someone is a visitor, an outsider, they know. And they unintentionally express this by looking at you almost watching you walk. In this circumstance walking really becomes a performance.
 
 Feeling unease with this, I prefer walking alone in paths unfrequentes by humans.

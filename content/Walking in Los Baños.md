@@ -15,4 +15,4 @@ I need to be alone in the middle of rice fields to find the magic of my walks.
 
 Back here in LB, I walk and almost no one recognizes me. The freedom of anonymity. I do not have to hide. I feel solitude in the middle of a hundred different heads.
 
-See [[thoughts/walking in cablong]].
+See [[walking in cablong]].

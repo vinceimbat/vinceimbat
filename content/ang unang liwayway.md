@@ -3,12 +3,11 @@ title: Ang Unang Liwayway
 date: 2023-02-11
 aliases:
   - ang unang liwayway
+  - poems/ang-unang-liwayway
 tags:
-  - seedlings
+  - poems
   - filipino
-sr-due: 2023-02-15
-sr-interval: 4
-sr-ease: 270
+  - seedlings
 ---
 Sa kailalimlaliman  
 ng gabing lipos ng ligalig  

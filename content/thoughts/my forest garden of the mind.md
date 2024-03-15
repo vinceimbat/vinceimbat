@@ -12,7 +12,7 @@ sr-ease: 250
 
 My forest garden of the mind is what I use to refer to the collection of contents of the mind, recorded in media or unrecorded, that I have actively and consciously collected, curated, and cultivated. Therefore, it includes my digital notes and documents, analog materials, and photos.
 
-I use a forest garden as a metaphor to work with my metaphor of [[thoughts/wilderness]] and [[walking]] as a metaphor for thinking and exploring mental spaces.
+I use a forest garden as a metaphor to work with my metaphor of [[wilderness]] and [[walking]] as a metaphor for thinking and exploring mental spaces.
 
 The metaphor is inspired by [[thoughts/digital gardening]], which involves a sense of ownership to place or at least a relationship between self and space.
 

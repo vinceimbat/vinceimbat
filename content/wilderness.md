@@ -3,11 +3,10 @@ title: Wilderness
 date: 2022-08-15
 aliases:
   - The Wilderness
+  - thoughts/wilderness
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-01-24
-sr-interval: 59
-sr-ease: 210
 ---
 The wilderness is what I use to describe the state of being "unexplored" (or "currently being explored") of a few things.
 
@@ -20,5 +19,3 @@ I was inspired by how [[thoughts/henry bugbee|Henry Bugbee]] used it.
 To do
 - Write a note about Henry Bugbee's conceptualization of wilderness.
 - Write a note about Thoreau's idea of wilderness.
-
-# References

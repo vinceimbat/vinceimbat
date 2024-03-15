@@ -19,7 +19,7 @@ Rimbaud’s history of walking can be summarized as follows:
 
 Rimbaud walked a lot throughout his entire life until his leg had to be amputated. He died waiting for his wooden leg to arrive.
 
-Rimbaud's walks best exemplified that [[Walking is leaving]].
+Rimbaud's walks best exemplified that [[walking is leaving]].
 
 # References
 

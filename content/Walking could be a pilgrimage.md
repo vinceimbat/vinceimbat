@@ -1,14 +1,12 @@
 ---
-title: "Walking could be a pilgrimage"
-date: "2022-01-31"
+title: Walking could be a pilgrimage
+date: 2022-01-31
+aliases:
+  - Walking-could-be-a-pilgrimage
 tags:
-
-- "seedlings"
-sr-due: 2024-02-19
-sr-interval: 221
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
-
 The main goal of a pilgrim is be changed when he returns.
 
 The pilgrim sees the path as transitory. Not a home but a way towards the real thing. Things that are met along the way as well as people are temporary.
