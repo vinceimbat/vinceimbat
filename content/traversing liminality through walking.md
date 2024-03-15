@@ -49,7 +49,7 @@ Walking in nature became a way to recuperate from losing friends and family memb
 
 If documentation through field notes and photography could capture our experience of liminality when looking at dereliction in geographic space, say, in abandoned urban spaces (Al Shrbaji 74), then perhaps, documentation too can be used to capture liminality as expressed through the field notes and photos we take during a walk. Photography and written or audio notes capture the memory of that specific moment in the threshold. I go back to the photographs I took during all the walks I have undertaken since leaving my childhood religion, and I now see glimpses of what it means to be in limen. I did not know it then when I took the photos, but there was a reason why I was attracted to abandoned buildings, decaying objects, and landscapes that evoke uncertainty and limbo.
 
-![Broken gas range](files/20221013-10132022-los-baños-stove.jpg)
+![Gas Stove](files/20221013-10132022-los-baños-stove.jpg)
 
 Figure 1. Broken cooking range, Los Baños, Laguna, 2022
 
@@ -61,7 +61,7 @@ Figure 2. Closed Old San Pablo Ice Plant, San Pablo City, Laguna, 2022
 
 Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
 
-![Luggage and graffiti](files/20221209-12092022-sta=barbara-luggage.jpg)
+![Luggage and graffiti](20221209-12092022-sta-barbara-luggage.jpg)
 
 Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022
 
