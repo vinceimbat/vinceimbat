@@ -19,7 +19,7 @@ A shadow formed before me as I continued walking toward a sharp curve. A small t
 
 On June 9, 2022, I walked over 22 kilometers from my apartment at Los Baños to San Pablo City, Laguna. The walk that took 35,000 steps to complete in more than 5 hours started along the busy Lopez Avenue at Los Baños and traversed 5 kilometers of the Manila South Road, passing by the town of Bay, before turning right toward Calauan for another 5 kilometers. From Calauan, the walk turned into a 10-kilometer hike on a highway with a 630 feet elevation en route to San Pablo City. The following morning, I walked an extra 22,000 steps around Sampaloc Lake and visited nearby Bunot Lake. I went home that afternoon by riding a jeep that covered what I had walked for five hours the day before in just around 30 minutes—a surreal experience.
 
-Days after the walk, I continued to revisit the questions that came to me while staring at Mt. Banahaw. Why was I walking? I have walked almost my entire life but never questioned my motivations until the long walk to San Pablo. At first, I struggled to piece together a coherent answer. I was surprised that thinking about my reason for walking directed me to supposedly unrelated existential issues concerning my past and current identities. After reviewing my journal entries, it became clear that walking has become my way to traverse the distance between identities—that liminal space between what I like to call my Old Self and my New Self and finally come face-to-face with my New Self Becoming.[[1]](#_ftn1)
+Days after the walk, I continued to revisit the questions that came to me while staring at Mt. Banahaw. Why was I walking? I have walked almost my entire life but never questioned my motivations until the long walk to San Pablo. At first, I struggled to piece together a coherent answer. I was surprised that thinking about my reason for walking directed me to supposedly unrelated existential issues concerning my past and current identities. After reviewing my journal entries, it became clear that walking has become my way to traverse the distance between identities—that liminal space between what I like to call my Old Self and my New Self and finally come face-to-face with my New Self Becoming.[[1]]
 
 # A Liminal Wilderness
 
@@ -65,7 +65,7 @@ Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
 
 Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022
 
-![Monobloc chairs](20230305-03052023-los-baños-monoblocs.jpg)
+![Monobloc chairs](files/20230305-03052023-los-baños-monoblocs.jpg)
 
 Figure 5. Abandoned House, UPLB, Laguna, 2023
 
