@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "project archives", "projects", "projects someday", "templates"],
     defaultDateType: "created",
     theme: {
+      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Ubuntu Bold",
@@ -72,7 +73,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
