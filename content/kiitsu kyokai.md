@@ -10,6 +10,11 @@ tags:
 ---
 The first meeting of the post-war kiitsu kyokai (second version) was held on October 23, 1948. However, it didn't officially form until about two years after.
 
+# Meeting notes
+
+- [[2024-03-14 kiitsu kyokai]]
+- [[2024-02-08 kiitsu kyokai]]
+
 # References
 
 Brown, A. J. (2024, January 19). Basic Information & Weekly Zoom Meetings on Thursdays. _Caute_. [https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html](https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html)

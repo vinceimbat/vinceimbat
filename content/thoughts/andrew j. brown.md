@@ -14,7 +14,7 @@ Brown has sympathies with the [[jiyu shukyo|Free Religion]] (自由宗教 — _
 # Conversations
 
 - [[private/andrew brown call 1|andrew brown call 1]]
-- [[private/kiitsu kyokai 1|kiitsu kyokai 1]]
+- [[2024-02-08 kiitsu kyokai|2024-02-08 kiitsu kyokai]]
 - [[private/andrew brown call 2|andrew brown call 2]]
 
 # Related

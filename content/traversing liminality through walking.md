@@ -2,7 +2,7 @@
 title: "Traversing Liminality Through Walking: An Autoethnography"
 date: 2023-07-15
 aliases:
-  - /essays/traversing-liminality-through-walking
+  - essays/traversing-liminality-through-walking
 tags:
   - essays
   - evergreens
@@ -49,23 +49,23 @@ Walking in nature became a way to recuperate from losing friends and family memb
 
 If documentation through field notes and photography could capture our experience of liminality when looking at dereliction in geographic space, say, in abandoned urban spaces (Al Shrbaji 74), then perhaps, documentation too can be used to capture liminality as expressed through the field notes and photos we take during a walk. Photography and written or audio notes capture the memory of that specific moment in the threshold. I go back to the photographs I took during all the walks I have undertaken since leaving my childhood religion, and I now see glimpses of what it means to be in limen. I did not know it then when I took the photos, but there was a reason why I was attracted to abandoned buildings, decaying objects, and landscapes that evoke uncertainty and limbo.
 
-![](file:////Users/vinceimbat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)
+![Broken gas range](files/20221013-10132022-los-baños-stove.jpg)
 
 Figure 1. Broken cooking range, Los Baños, Laguna, 2022
 
-![](file:////Users/vinceimbat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
+![San Pablo Ice Plant](files/20220610-120845-spwalk-san-pablo-ice-plant.jpg)
 
 Figure 2. Closed Old San Pablo Ice Plant, San Pablo City, Laguna, 2022
 
-![](file:////Users/vinceimbat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg)
+![Abandoned red store](files/20221209-12092022-sta-barbara-abandoned-store.jpg)
 
 Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
 
-![](file:////Users/vinceimbat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+![Luggage and graffiti](files/20221209-12092022-sta=barbara-luggage.jpg)
 
 Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022
 
-![](file:////Users/vinceimbat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.jpg)
+![Monobloc chairs](20230305-03052023-los-baños-monoblocs.jpg)
 
 Figure 5. Abandoned House, UPLB, Laguna, 2023
 
@@ -75,7 +75,7 @@ When walking, an ethnographer encounters two entities: the Other and the place w
 
 We could point to several characteristics of walking that make it a perfect ethnographic method. First, walking opens the space for informality and candor between the researcher and the researched. While walking, the researcher and the researched are allowed to be “messy, uncertain, and multivoiced” (Denzin and Lincoln 26), which is not always the case in formal armchair interviews. Second, because walks are informal, they allow moments of “experimental encounter” (Hickey et al. 42). Freed from strict rules of research, both researcher and participant experience parrhesia (speaking freely). Last, and perhaps most importantly, the freedom that walking provides facilitates the negotiation of identities between the researcher and the researched as they traverse the inherently liminal nature of ethnographic research together (Hickey et al. 50). Walking, therefore, is both a tool and metaphor for ethnographic inquiry.
 
-## Walking as Autoethnography
+# Walking as Autoethnography
 
 If walking not only figuratively explains the liminal nature of ethnographic research but also helps an ethnographer traverse this interstitial space, then the benefits of walking are easily transferrable to autoethnography. When applied to an autoethnographic encounter of someone in a psycho-socio-religious liminal state, as I am, walking generates a moment from within that liminal state through a “physiologically mediated propulsion of the body and socially performed action” (Hickey et al. 48) and transforms it into a shared encounter between the Old Self and the New Self Becoming. The idea that the Old Self and the New Self Becoming are sharing this moment in the threshold becomes the very foundation from where more honest reflection could emerge.
 
@@ -159,4 +159,4 @@ Yi’En, C. “Telling Stories of the City: Walking Ethnography, Affective Mater
 
 ---
 
-[[1]](#_ftnref1)         I chose the word “Becomings” per Deleuze and Guattari (1980).
+[[1]] I chose the word “Becomings” per Deleuze and Guattari (1980).

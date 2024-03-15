@@ -2,14 +2,11 @@
 title: Imaoka's Creed of Life
 date: 2023-12-02
 aliases:
-  - /thoughts/imaoka-creed-of-life
-tags:
-  - seedlings
-  - "#thoughts"
+  - thoughts/imaoka-creed-of-life
 draft: false
-sr-due: 2023-12-03
-sr-interval: 1
-sr-ease: 230
+tags:
+  - thoughts
+  - seedlings
 ---
 1. I have faith (shinzuru) in myself. I recognize my own subjectivity and creativity and feel the worth of living in life (ikigai). Subjectivity and creativity can be rephrased as personality, divinity, and Buddha-nature.
 2. I have faith in my neighbour. The neighbour is oneself as a neighbour. If I believe in myself, I inevitably believe in my neighbour.
