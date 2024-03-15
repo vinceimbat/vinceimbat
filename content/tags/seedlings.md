@@ -1,5 +1,4 @@
 ---
-title: "Seedlings"
-description: "Very rough lines of thought and ideas."
-slug: "seedlings"
+title: Seedlings
 ---
+Very rough lines of thought and ideas.

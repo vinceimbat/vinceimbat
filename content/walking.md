@@ -14,7 +14,7 @@ This page, like most pages in this website, is a work in progress. Its aim is to
 
 - 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
 - 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
-- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+- 2023 December 4–10: [[rxg|Roots x Gravel: A Week-long Walk of Los Baños]]
 - 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
 # My Essays on Walking

@@ -24,7 +24,7 @@ Some projects I'm currently working on:
 - [[walking|Walking]]: An attempt to understand the contemporary [[derive|dérive]] in contrast with my experience of walking and Filipino indigenous conceptions of walking to come up with a creative embodied avenue to explore a free and creative spirituality. Some walks I've done:
 	- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
 	- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
-	- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+	- 2023 December 4–10: [[rxg|Roots x Gravel: A Week-long Walk of Los Baños]]
 	- 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
 ***

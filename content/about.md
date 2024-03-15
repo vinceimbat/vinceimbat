@@ -96,7 +96,7 @@ While finding my way around different spiritual circles, I fell in love with [[h
 Encountering the Japan-based writer and photographer [[craig mod|Craig Mod]] in 2021 inspired me to move beyond Thoreau and consider other ways of fusing walking, writing, and photography. Aside from my first long walk from Los Baños to San Pablo in 2022, I also did three more walks:
 
 - 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
-- 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+- 2023 December 4–10: [[rxg|Roots x Gravel: A Week-long Walk of Los Baños]]
 - 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
 
 As of now, I'm continuing my study of walking as a method and platform for thinking and creativity. I'm particularly interested on how the contemporary [[derive|dérive]] as theorized by [[phil smith|Phil Smith]] sits alongside Filipino indigenous conceptions and experiences of walking and how these embodied acts could serve as platforms for exploring jiyū shūkyō (or variants of it) in the Philippines.

@@ -1,4 +1,4 @@
 ---
-title: "Hero Books"
-description: "Favorite books I read in a given year."
+title: Hero Books
 ---
+Favorite books I read in a given year.

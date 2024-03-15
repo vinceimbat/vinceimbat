@@ -1,4 +1,4 @@
 ---
-title: "Evergreens"
-description: "Writings that are reasonably complete (although may need tending from sometime)."
+title: Evergreens
 ---
+Writings that are reasonably complete (although may need tending from sometime).

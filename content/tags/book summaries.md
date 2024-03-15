@@ -1,4 +1,4 @@
 ---
-title: "Book Summaries"
-description: "Book summaries of books I loved."
+title: Book Summaries
 ---
+Book summaries of books I loved.

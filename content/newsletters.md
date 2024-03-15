@@ -75,7 +75,7 @@ Consider subscribing. They're free. Unsubscribe any time.
 
 A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a formed minister of the Jehovah's Witnesses.
 
-## Roots ྾ Gravel — December 4 to 10, 2023 (8 issues)
+## [[rxg|Roots ྾ Gravel]]  — December 4 to 10, 2023 (8 issues)
 
 A pop-up newsletter for my first week-long walk around Los Baños. The original intention of the walk was to explore a free, creative, and subsistent spirituality through walking around my current town of residence. The essays and photographs diverted from this original intention as the walk progressed.
 
