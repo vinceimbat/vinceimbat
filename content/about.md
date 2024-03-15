@@ -22,11 +22,36 @@ I regularly send two newsletters:
 - **[[tags/tlw|The Long Walk]]**: *The Long Walk* is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”
 - **[[tags/uman|𝌡 Uman]]**: *Uman* is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
 
+<style>
+	/* Style for the placeholder text */
+	  ::placeholder {
+      font-size: 16px;
+    }
+	
+  /* Style for the Submit button */
+    .submit-button {
+      background-color: #7b97aa;
+      color: white;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+      transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+    }
+
+    /* Hover effect */
+    .submit-button:hover {
+      background-color: #5c7f93; /* Darker color on hover */
+      transform: scale(1.05); /* Scale up the button slightly */
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
+    }
+</style>
+
 <form method="post" action="https://list.vinceimbat.com/subscription/form" class="listmonk-form">
   <div style="text-align: center;">
     <input type="hidden" name="nonce" />
     <p>
-      <input type="email" name="email" required placeholder="your email address" />
+      <input type="email" name="email" required placeholder="your email address" size="30" style="padding: 10px;">
     </p>
     <p>
       <input id="0a6da" type="checkbox" name="l" checked value="0a6da788-1056-486f-8ef7-294b14c8ba33" />
@@ -37,7 +62,7 @@ I regularly send two newsletters:
       <label for="cfd1b">Uman</label><br />
     </p>
     <p>
-      <input type="submit" value="Subscribe" />
+      <input type="submit" class="submit-button" value="Subscribe">
     </p>
   </div>
 </form>
