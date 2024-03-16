@@ -8,6 +8,8 @@ tags:
   - thoughts
   - seedlings
 ---
+![[20231206-111406-rxg-walking-man.jpg]]
+
 This page, like most pages in this website, is a work in progress. Its aim is to become a comprehensive source on walking in a Philippine context.
 
 # My Walks 
@@ -55,7 +57,7 @@ A weekly newsletter that used to share artifacts I find during my walks in geogr
 
 A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a formed minister of the Jehovah's Witnesses.
 
-## Roots ྾ Gravel — December 4 to 10, 2023 (8 issues)
+## [[rxg|Roots ྾ Gravel]] — December 4 to 10, 2023 (8 issues)
 
 A pop-up newsletter for my first week-long walk around Los Baños. The original intention of the walk was to explore a free, creative, and subsistent spirituality through walking around my current town of residence. The essays and photographs diverted from this original intention as the walk progressed.
 
