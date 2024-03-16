@@ -109,7 +109,7 @@ My interest with photography has always been driven by my desire to deepen my wa
 
 My walks and photography work hand in hand. Almost all my photographs are taken during my walks.
 
-![Canvas](files/20231209-102338-rxg-canvas_IG.jpg)
+![Canvas](20231209-102338-rxg-canvas.jpg)
 
 As of now, I'm also exploring how jiyū shūkyō could be practiced through photography. In thinking about photography this way, I take inspiration from Andrew James Brown:
 

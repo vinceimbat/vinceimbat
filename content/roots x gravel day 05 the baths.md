@@ -1,6 +1,6 @@
 ---
 title: "[R྾G] Day 05 — The Baths"
-date: 2023-12-09
+date: 2023-12-08
 aliases: 
 draft: false
 tags:
@@ -8,7 +8,7 @@ tags:
   - rxg
   - evergreens
 ---
-December 09, 2023
+December 08, 2023
 
 ![[20231208-085339-rxg-tadlac-lake.jpg]]
 
