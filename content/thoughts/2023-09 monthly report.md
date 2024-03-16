@@ -120,7 +120,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 
 ## Gawad Bienvenido Lumbera
 
-- Finalized 7 Pangasinan poems to revise for [[project archives/gawad bienvenido lumbera|Gawad Bienvenido Lumbera]].
+- Finalized 7 Pangasinan poems to revise for [[kasabi kaagwan|Gawad Bienvenido Lumbera]].
 - Added five more poems to make a collection of 12 and arriving at the organizing principle for the GBL entry: 12 poems to signify 12 noon (Kasabi Kaagwan, the title of the collection). Poems meditate on time and space and things that happen within the day culminating with a poem set around noon.
 - Edited the poems repeatedly.
 - Notarized and sent entries.

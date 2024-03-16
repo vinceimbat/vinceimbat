@@ -9,7 +9,7 @@ tags:
 
 When I finished my college degree in 2014, I noticed something: I started reading a lot. I don't have a good explanation to this other than, perhaps, having more freedom of time and freedom to choose what subjects to explore. This two really got me into reading, like a caged animal let loose for the first time. Not that I wasn't really a reader. I read a lot when I was a child. But 17 years of schooling does something that most of us don't notice: it sucks the life out of our intellectual freedom.
 
-So last night and this morning, I began going down memory lane and listing all the books I finished reading since 2015 and prepared [[thoughts/library|this page to you]].
+So last night and this morning, I began going down memory lane and listing all the books I finished reading since 2015 and prepared [[library|this page to you]].
 
 It is not a complete list. It does not include all the books I may have started but never finished. It does not include books I haven't logged in the Book Summaries stack in my Evernote. But it's a robust list.
 
@@ -21,4 +21,4 @@ Creating a list like this is like creating a personal intellectual history. It r
 
 If you want to create a similar list, check out [Frank Chimero](https://frankchimero.com/reading/) and [Austin Kleon](https://austinkleon.com/tag/my-reading-year/) for more inspiration.
 
-And in case you missed it, here's [[thoughts/library|my list again]].
+And in case you missed it, here's [[library|my list again]].

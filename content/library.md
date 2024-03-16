@@ -3,7 +3,7 @@ title: Library
 date: 2019-08-28
 aliases:
   - reading-list
-  - library
+  - thoughts/library
 tags:
   - evergreens
 ---
@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-03-14]]: [[having listened whited|Having Listened by Gary Whited]] ★
 - [[2024-02-12]]: [[literature/a gathering of larks carroll|A Gathering of Larks by  Abigail Carroll]]
 
 # 2023
