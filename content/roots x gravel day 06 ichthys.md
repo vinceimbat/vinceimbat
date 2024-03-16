@@ -5,6 +5,7 @@ aliases:
 draft: false
 tags:
   - essays
+  - rxg
   - evergreens
 ---
 December 09, 2023
