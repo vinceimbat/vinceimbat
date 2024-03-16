@@ -1,6 +1,6 @@
 ---
-title: Day 01 — Ode to Water Meters
-date: 2023-12-05
+title: "[R྾G] Day 01 — Ode to Water Meters"
+date: 2023-12-04
 aliases: 
 draft: false
 tags:
