@@ -37,7 +37,7 @@ Tatawirin nila ang bukid na ito
 Papunta sa sitiong iyon.
 
 Sa pagdating ng dilim,
-Iiwan na ng magsasa
+Iiwan na ng magsasaka
 Ang liyab
 Usok
 At anumang naiwang

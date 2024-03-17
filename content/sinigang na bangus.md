@@ -1,12 +1,13 @@
 ---
-title: "Sinigang na Bangus"
-date: "2022-05-13"
+title: Sinigang na Bangus
+date: 2022-05-13
 aliases:
-- "Sinigang na Bangus"
+  - Sinigang na Bangus
+  - recipes/sinigang-na-bangus
 tags:
-- "evergreens"
+  - recipes
+  - evergreens
 ---
-
 # Ingredients
 
 -   2 lbs. bangus milkfish, cleaned and sliced

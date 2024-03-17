@@ -1,13 +1,15 @@
 ---
-title: "Adobong labong"
-date: "2022-05-07"
+title: Adobong labong
+date: 2022-05-07
 aliases:
-- "Adobong labong"
+  - Adobong labong
+  - recipes/adobong-labong
 tags:
-- "evergreens"
+  - recipes
+  - evergreens
 ---
-
 # Ingredients
+
 -   2 to 2 1/2 cups bamboo shoot; cut in 1 to 2 inch length
 -   1/8 lb pork thinly sliced
 -   6 pieces shrimps shelled and deveined
@@ -20,6 +22,7 @@ tags:
 -   Salt and ground black pepper to taste
 
 # Steps
+
 1. Pour cooking oil in a wok then apply heat.
 2. Sauté garlic and onions.
 3. Add pork then cook for 5 minutes.

@@ -1,12 +1,12 @@
 ---
 title: Perdonam Iray Dumaralos
 date: 2020-02-19
+aliases:
+  - poems/perdonam-iray-dumaralos
 tags:
-  - seedlings
+  - poems
   - pangasinan
-sr-due: 2022-07-09
-sr-interval: 1
-sr-ease: 230
+  - seedlings
 ---
 Lilinisay dumaralos so kaumaan  
 panamegley na ngalab  

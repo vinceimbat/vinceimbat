@@ -1,12 +1,13 @@
 ---
-title: "Sinigang na Baboy"
-date: "2022-06-03"
+title: Sinigang na Baboy
+date: 2022-06-03
 aliases:
-- "Sinigang na Baboy"
+  - Sinigang na Baboy
+  - recipes/sinigang-na-baboy
 tags:
-- "evergreens"
+  - recipes
+  - evergreens
 ---
-
 # Ingredients
 
 -   2 lbs. pork belly sliced into cubes

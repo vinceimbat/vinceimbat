@@ -1,7 +1,10 @@
 ---
 title: Pork Ginataan with Squash and String Beans
 date: 2023-08-21
+aliases:
+  - recipes/pork-ginataan-with-squash-and-string-beans
 tags:
+  - recipes
   - evergreens
 ---
 # Ingredients
