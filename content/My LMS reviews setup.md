@@ -13,5 +13,5 @@ I have four kinds of reviews:
 
 - [[thoughts/annual review]]
 - [[monthly review]]
-- [[thoughts/weekly review]]
+- [[weekly review]]
 - [[thoughts/daily review]]

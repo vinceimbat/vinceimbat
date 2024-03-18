@@ -5,7 +5,7 @@ draft: false
 tags:
   - seedlings
 ---
-[[thoughts/tiago forte]] uses the metaphor of an operating system to describe the importance of a [[thoughts/weekly review]]. According to him, the weekly review is the context for the actions you took for an entire week.
+[[thoughts/tiago forte]] uses the metaphor of an operating system to describe the importance of a [[weekly review]]. According to him, the weekly review is the context for the actions you took for an entire week.
 
 # References
 

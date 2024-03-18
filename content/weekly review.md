@@ -2,12 +2,11 @@
 title: Weekly review
 date: 2022-05-09
 aliases:
-  - Weekly review
+  - Weekly-review
+  - thoughts/weekly-review
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-05-12
-sr-interval: 3
-sr-ease: 250
 ---
 A weekly review is one of the four kinds of [[thoughts/review|review]] necessary to maintain a functional [[thoughts/life management system|life management system]]. [[thoughts/david allen|David Allen]] calls the weekly review the "Master Key to GTD” ([[thoughts/getting things done|getting things done]])—the most critical habit to maintain the system.
 
@@ -15,7 +14,7 @@ According to [[thoughts/tiago forte|Tiago Forte]], [[thoughts/a weekly review is
 
 Here is [[my weekly review routine|my weekly review routine]].
 
-TO DO
+# To Do
 
 - This is still written in Tiago's perspective. Rewrite it to use my perspective.
 

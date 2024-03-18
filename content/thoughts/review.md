@@ -22,7 +22,7 @@ Review systems must:
 I conduct four kinds of reviews
 
 - [[thoughts/daily review|daily review]]
-- [[thoughts/weekly review|weekly review]]
+- [[weekly review|weekly review]]
 - [[monthly review|monthly review]]
 - [[thoughts/annual review|annual review]]
 

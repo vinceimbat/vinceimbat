@@ -78,7 +78,7 @@ After setting up a system to organize your actions and a system to organize your
    - I then create a publishable version of this report and share it via Uman.
    - For the coming month, I review my sky level and choose the goals to tackle and setup project folders and todo lists for each.
    - Here is [[my monthly review routine]].
-1. Use a [[thoughts/weekly review]].
+1. Use a [[weekly review]].
    - The purpose of the weekly review is to process all accumulated loose ends in all inboxes both actionable and non-actionable and to make sure that projects and tasks are up-to-date.
    - Here is [[my weekly review routine]].
 1. Use a [[thoughts/daily review]].

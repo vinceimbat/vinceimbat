@@ -9,7 +9,7 @@ sr-due: 2023-02-21
 sr-interval: 3
 sr-ease: 250
 ---
-According to [[thoughts/tiago forte]], weekly habits happen frequently to be lynchpins in one's [[thoughts/life management system]] but not often enough to be natural habits like daily habits. This nature means they require more motivation and willpower to do. Thus, a [[thoughts/weekly review]] can be challenging to establish and maintain.
+According to [[thoughts/tiago forte]], weekly habits happen frequently to be lynchpins in one's [[thoughts/life management system]] but not often enough to be natural habits like daily habits. This nature means they require more motivation and willpower to do. Thus, a [[weekly review]] can be challenging to establish and maintain.
 
 # References
 
