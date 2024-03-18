@@ -1,6 +1,6 @@
 ---
 title: The Possibility of Love
-date: 2023-08-20, Sunday, 11:36:46 am
+date: 2023-08-20
 aliases:
   - vignettes/the-possibility-of-love
 location:
