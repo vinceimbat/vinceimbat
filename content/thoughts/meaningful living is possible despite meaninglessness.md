@@ -13,7 +13,7 @@ sr-ease: 248
 
 [[thoughts/life is inherently meaningless|Life is inherently meaningless]]. [[There is no objective meaning]]. We derive meaning not from out there—from the physical universe—but in here, within ourselves. Only human minds can create meaning because [[Meaning is a mental construction]].
 
-Therefore, the best approach to life is this: Recognize that life is inherently pointless, but live it anyway. Because you can make your life count at least for yourself. You can also live it for others. But be wary that you don’t take yourself too seriously. Create your own purpose, live it, but do not feel bad when things don’t pan out. Live lightly, live in the present moment. [[thoughts/approach life with humor]].
+Therefore, the best approach to life is this: Recognize that life is inherently pointless, but live it anyway. Because you can make your life count at least for yourself. You can also live it for others. But be wary that you don’t take yourself too seriously. Create your own purpose, live it, but do not feel bad when things don’t pan out. Live lightly, live in the present moment. [[approach life with humor]].
 
 Even if life is meaningless, we can continue living it. We could recognize it and forget about it. According to [[Thomas Nagel]], the trick is to "keep your eyes on what's in front of you, and allow justifications to come to an end inside your life, and inside the lives of others to whom you are connected."
 

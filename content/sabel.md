@@ -2,14 +2,13 @@
 title: Sabel
 date: 2022-09-01
 aliases:
-  - Meeting Tita Sabel for the first time again
-  - tita sabel
+  - Meeting-Tita-Sabel-for-the-first-time-again
+  - tita-sabel
+  - vignettes/sabel
 tags:
-  - seedlings
+  - vignettes
   - tlw
-sr-due: 2024-04-27
-sr-interval: 223
-sr-ease: 230
+  - evergreens
 ---
 ![Baby me and Tita Sabel](vignettes/images/sabel1.jpg)
 

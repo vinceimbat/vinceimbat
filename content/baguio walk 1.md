@@ -36,7 +36,7 @@ How fast a seemingly innocent walk can transport oneself into what is thought to
 
 That walk led to feelings of regret (for leaving the church? for letting go of what could've possibly been a secure life around people who loved me? for hurting my parents?) and then of doubts (am I on the right path? is this life really better? is this freedom worth it?)
 
-The questions were too much to bear. I was moved to [[2023 annual review 1|ask for "spiritual help" for the first time in twelve years]].
+The questions were too much to bear. I was moved to [[2023 annual review|ask for "spiritual help" for the first time in twelve years]].
 ***
 
 Why do the streets of Baguio have this power over me?

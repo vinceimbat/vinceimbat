@@ -40,7 +40,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 	- [[vignettes/aglibut ave|Aglibut ave.]]
 	- [[thoughts/leaves|leaves]]
 - TLW
-	- [[thoughts/purpose is a convergence tool|purpose is a convergence tool]]
+	- [[purpose is a convergence tool|purpose is a convergence tool]]
 	- [[whats next for the long walk|What's Next for The Long Walk]]
 	- [[a goodness lurking|A Goodness Lurking]]
 - Poetry

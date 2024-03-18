@@ -22,4 +22,4 @@ Here are the annual reviews I've published through the years:
 - [[2020 annual review|2020 annual review]]
 - [[2021 annual review 1|2021 annual review 1]]
 - [[2022 annual review|2022 annual review]]
-- [[2023 annual review 1|2023 annual review 1]]
+- [[2023 annual review|2023 annual review]]

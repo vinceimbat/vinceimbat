@@ -1,17 +1,15 @@
 ---
-title: "In July"
-date: "2023-08-10"
+title: In July
+date: 2023-08-10
 aliases:
-- "tlw/015"
+  - tlw/015
+  - poems/in-july
 tags:
-- "tlw"
-- "seedlings"
+  - poems
+  - tlw
+  - seedlings
 locations:
-sr-due: 2023-08-11
-sr-interval: 1
-sr-ease: 230
 ---
-
 [He](geo:14.166446249410958,121.24214673531245) said he puts things where he remembers them. She said we still lose them anyway.
 .
 

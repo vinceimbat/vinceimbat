@@ -3,9 +3,11 @@ title: Approach life with humor
 date: 2022-04-27
 aliases:
   - Approach life with humor
+  - thoughts/approach-life-with-humor
 tags:
-  - evergreens
+  - thoughts
   - tlw
+  - evergreens
 ---
 If life is ultimately meaningless (i.e., [[thoughts/nihilism|nihilism]]), then it is ridiculous to take yourself too seriously. The best way to approach life is through a comic rather than a tragic mode.
 

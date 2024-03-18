@@ -1,16 +1,14 @@
 ---
-title: "Those Stairs at Bakakeng"
-date: "2023-07-30"
+title: Those Stairs at Bakakeng
+date: 2023-07-30
 aliases:
-- "tlw/012"
+  - tlw/012
+  - poems/those-stairs-at-bakakeng
 tags:
-- "tlw"
-- "seedlings"
-sr-due: 2023-08-10
-sr-interval: 6
-sr-ease: 230
+  - poems
+  - tlw
+  - seedlings
 ---
-
 And
 because
 you came

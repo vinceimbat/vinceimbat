@@ -37,7 +37,7 @@ Schedule: Monday, afternoon
 - Review High priority tasks: Check accomplished tasks, schedule tasks, or convert tasks to Medium priority.
 - Review Medium priority tasks: Check if any can be converted to High priority tasks and schedule them.
 - Create a [[menu]] of actions for the week.
-	- Reconcile YNAB couple fund.
 - Reconcile Vince's fund.
+- Reconcile YNAB couple fund.
 
 After I do my weekly review, I jump right into my weekly tasks under [[House and pet care system]]. This involves vacuuming and mopping the house.

@@ -15,9 +15,9 @@ I enjoyed writing two notes this month:
 
 I managed to publish three newsletter issues:
 
-- [[vignettes/the very first memory|The Very First Memory]]
-- [[vignettes/lolo aldo|Lolo Aldo]]
-- [[poems/in july|In July]]
+- [[the very first memory|The Very First Memory]]
+- [[lolo aldo|Lolo Aldo]]
+- [[in july|In July]]
 
 This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I realized I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing for the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
 
@@ -49,9 +49,9 @@ Poems
 - [[poems/walk poem 2|Walk Poem 2]]
 - [[poems/listen|Listen]]
 - [[poems/ipb road|IPB Road]]
-- [[poems/in july|In July]]
+- [[in july|In July]]
 - [[poems/55c ed dagupan|5ºC ed Dagupan]]
-- [[poems/this morning|This Morning]]
+- [[this morning|This Morning]]
 
 Essays
 - [[navigating spiritual ambiguity|Navigating Spiritual Ambiguity]]
@@ -61,9 +61,9 @@ Vignettes
 - [[vignettes/kilala|Kilala]]
 
 TLW
-- [[vignettes/the very first memory|The Very First Memory]]
-- [[vignettes/lolo aldo|Lolo Aldo]]
-- [[poems/in july|In July]]
+- [[the very first memory|The Very First Memory]]
+- [[lolo aldo|Lolo Aldo]]
+- [[in july|In July]]
 
 Others
 - Studied [[literature/billy collins masterclass|Billy Collins Masterclass]].

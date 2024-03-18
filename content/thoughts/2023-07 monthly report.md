@@ -18,7 +18,7 @@ Some of my favorite writings include the walk poem drafts:
 
 I wrote these poems initially as fragments of observations during two afternoon walks. My rule was to write a brief note on whatever piqued my interest or whatever thought calls on the walk and to separate these lines per street where they occurred. Thus the number of stanzas equal the number of streets walked.
 
-One Sunday morning, another poem came to me: [[poems/those stairs at bakakeng|Those Stairs at Bakakeng]].
+One Sunday morning, another poem came to me: [[those stairs at bakakeng|Those Stairs at Bakakeng]].
 
 Aside from these, I enjoyed writing these notes:
 - [[thoughts/suicide|suicide]]
@@ -61,7 +61,7 @@ Poems
 - [[poems/walk poem 1|Walk Poem 1]]
 - [[poems/walk poem 2|Walk Poem 2]]
 - [[poems/listen|Listen]]
-- [[poems/those stairs at bakakeng|Those Stairs at Bakakeng]]
+- [[those stairs at bakakeng|Those Stairs at Bakakeng]]
 - [[poems/to an unnamed path|To an Unnamed Path]]
 
 Essays

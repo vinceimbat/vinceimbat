@@ -9,7 +9,7 @@ sr-due: 2023-02-14
 sr-interval: 43
 sr-ease: 247
 ---
-Convergence can only happen after divergence. A [[thoughts/convergence tool]] like [[thoughts/purpose]] ([[thoughts/purpose is a convergence tool]]) can only be produced by trial and error. Deciding on what to try out is usually done through [[Intuition]] (i.e., [[System 2 Thinking]]).
+Convergence can only happen after divergence. A [[thoughts/convergence tool]] like [[thoughts/purpose]] ([[purpose is a convergence tool]]) can only be produced by trial and error. Deciding on what to try out is usually done through [[Intuition]] (i.e., [[System 2 Thinking]]).
 
 [[thoughts/we create our individual purpose]] through the following proces:
 

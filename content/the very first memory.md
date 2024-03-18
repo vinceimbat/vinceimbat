@@ -1,14 +1,13 @@
 ---
-title: "The Very First Memory"
-date: "2023-05-21"
+title: The Very First Memory
+date: 2023-05-21
 aliases:
-- "tlw/013"
+  - tlw/013
+  - vignettes/the-very-first-memory
 tags:
-- "tlw"
-- "seedlings"
-sr-due: 2023-12-07
-sr-interval: 107
-sr-ease: 230
+  - vignettes
+  - tlw
+  - seedlings
 ---
 I raised my head to look up at the roof of our house, but what I saw was the sky—light blue, almost lifeless. But then you began talking to me, and for a child as little as I was, this was everything. And so, even if I didn't know your name, I talked back to you as you squatted there over thin sheets of iron. I remember calling you Doctor after a game I just learned to play the day before. I was little, sitting on whatever was left of that short bicycle in my memory. I was in awe of the enormity of the house you were building with my grandfather, and I hid under the gumamela shrubs and the large kamansi tree for fear the house would eat me alive.
 

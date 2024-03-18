@@ -1,12 +1,12 @@
 ---
 title: Tiny Drops
 date: 2023-01-16
+aliases:
+  - poems/tiny-drops
 tags:
-  - evergreens
+  - poems
   - tlw
-sr-due: 2024-03-22
-sr-interval: 231
-sr-ease: 230
+  - evergreens
 ---
 I hear the tiny drops of rain  
 one after the other  

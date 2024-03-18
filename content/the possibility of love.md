@@ -1,14 +1,15 @@
 ---
 title: The Possibility of Love
 date: 2023-08-20, Sunday, 11:36:46 am
+aliases:
+  - vignettes/the-possibility-of-love
 location:
   - 14.166480839951156
   - 121.25481696682982
 tags:
+  - vignettes
+  - tlw
   - evergreens
-sr-due: 2023-09-04
-sr-interval: 1
-sr-ease: 230
 ---
 Yesterday, as I was walking back from sampling more of the IPB road, realizing it was difficult to walk on it, I saw this crowd of children and other groups sitting on the side of the road over the short concrete wall that UPLB built around its fields along Pili Drive. A taller adolescent, whom I recognized, joined the group of children. He was one of the fishball vendors at Grove, which I used to frequent in the afternoon before or after my walks. This young man has a crooked pinky finger, which he tries to hide sometimes. He was often shy, especially around female peers. But today, I saw him laughing, toying around the kids. He recognized me and was the first to nod his head to greet me. I nodded back. I walked pass them alongside two elderly ladies walking, taking their time.
 

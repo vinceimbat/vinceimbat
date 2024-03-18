@@ -1,15 +1,14 @@
 ---
-title: "Lolo Aldo"
-date: "2022-06-08"
+title: Lolo Aldo
+date: 2022-06-08
 aliases:
-- "A visit to Lolo Aldo"
-- "tlw/014"
+  - A-visit-to-Lolo-Aldo
+  - tlw/014
+  - vignettes/lolo-aldo
 tags:
-- "tlw"
-- "seedlings"
-sr-due: 2022-08-15
-sr-interval: 3
-sr-ease: 250
+  - vignettes
+  - tlw
+  - seedlings
 ---
 Lolo Aldo lives in his house near the fishponds he owns, which now belongs to Tiyo Jessie, his son, who lives with him, watches over him while he lies down on bed every day. When we reached their humble house on that afternoon, Tiyo Jessie was having an early drinking matchup with a friend. Was it lambanog? I am not sure. There was a dog tied on a post outside the house, which we made sure to avoid. The animal was quiet, but Tiyo Jessie said it has bitten several already.
 

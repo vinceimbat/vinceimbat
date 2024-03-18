@@ -41,4 +41,4 @@ so kasalanan to'd dalin ya lamesen to
 lalamet kabangon tod malet ya ugip to.
 
 ***
-Impatalos ed Filipino: [[translations/patawarin mo ang mga magsasaka|Patawarin Mo Ang Mga Magsasaka]]
+Impatalos ed Filipino: [[patawarin mo ang mga magsasaka|Patawarin Mo Ang Mga Magsasaka]]

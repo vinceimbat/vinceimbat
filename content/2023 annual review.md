@@ -3,11 +3,13 @@ title: 2023 Annual Review
 date: 2024-01-05
 aliases:
   - essays/2023-annual-review
+  - 2023-annual-review-1
+draft: false
 tags:
   - essays
   - annual-reviews
+  - tlw
   - evergreens
-draft: false
 ---
 ![A clothesline with clothes](20231208-112035-rxg-clothesline.jpg)
 

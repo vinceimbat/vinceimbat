@@ -3,9 +3,11 @@ title: A Midsummer Rain in LB
 date: 2023-05-17
 aliases:
   - A-Midsummer-Rain-in-LB
+  - poems/a-midsummer-rain-in-lb
 tags:
-  - evergreens
+  - poems
   - tlw
+  - evergreens
 ---
 When water dies  
 of terrible heat  

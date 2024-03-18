@@ -3,11 +3,11 @@ title: Purpose is a convergence tool
 date: 2022-08-18
 aliases:
   - Purpose is a convergence tool
+  - thoughts/purpose-is-a-convergence-tool
 tags:
+  - thoughts
+  - tlw
   - evergreens
-sr-due: 2022-04-25
-sr-interval: 1
-sr-ease: 226
 ---
 Here's a bottom-up approach to discovering your [[thoughts/purpose|purpose]].
 

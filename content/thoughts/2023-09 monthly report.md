@@ -19,9 +19,9 @@ The best things I read this month were:
 
 I published three newsletters this month:
 
-- [[poems/this morning|This Morning]]
-- [[vignettes/the possibility of love|The Possibility of Love]]
-- [[vignettes/sabel|Sabel]]
+- [[this morning|This Morning]]
+- [[the possibility of love|The Possibility of Love]]
+- [[sabel|Sabel]]
 
 My application to the Cordillera Creative Writing Workshop (CCWW) was rejected and this got me thinking about how I'm approaching these applications and my writing life. I realized that, since the acceptance rate to these writing events is pretty low, the healthiest attitude when applying is to expect rejection. Then, use the application process to these events to force you to do your work. Everything should be about your personal projects. Articulate what your art stands for, focus on creating a portfolio around that stand, and never rely on others to tell you you're good or publishable. Stick to your gut feeling and use contests, workshops, and fellowships to serve your vision, not the other way around. I used this newfound perspective in approaching the submission process to the Gawad Bienvenido Lumbera (GBL).
 
@@ -55,9 +55,9 @@ Poetry
 - [[poems/night is|Night Is]]
 
 TLW
-- [[poems/this morning|This Morning]]
-- [[vignettes/the possibility of love|The Possibility of Love]]
-- [[vignettes/sabel|Sabel]]
+- [[this morning|This Morning]]
+- [[the possibility of love|The Possibility of Love]]
+- [[sabel|Sabel]]
 
 Vignettes
 - [[vignettes/fleetingness of it all|fleetingness of it all]]

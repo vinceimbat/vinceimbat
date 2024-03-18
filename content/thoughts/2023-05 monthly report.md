@@ -28,7 +28,7 @@ Wrote the following notes:
 - [[When your family does not cheer your art]]
 - [[The poet's state of mind]]
 - [[thoughts/writing prose as a poet]]
-- [[vignettes/the very first memory]]
+- [[the very first memory]]
 
 Studied Barry Lopez's work briefly.
 
@@ -41,7 +41,7 @@ Really enjoyed this quote: [[The daily routine of a Danish aristocrat - Dillard]
 - [[poems/on an afternoon walk i saw fireflies]]
 - [[poems/obong]]
 - [[poems/fog]]
-- [[poems/a midsummer rain in lb]]
+- [[a midsummer rain in lb]]
 
 Translation
 - [[translations/paano maging miserableng artist]]

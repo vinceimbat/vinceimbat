@@ -9,7 +9,7 @@ tags:
   - tlw
   - evergreens
 ---
-This is a revised version of [[traversing liminality through walking]] the essay, which landed me a spot at the [[thoughts/anww20]]. The original essay was heavy on citations and theory and included some photos. This one was written for a more general audience. I sent it as an entry for the 2023 Palanca.
+This is a revised version of [[traversing liminality through walking|Traversing Liminality Through Walking]] the essay, which landed me a spot at the [[anww20|ANWW20]]. The original essay was heavy on citations and theory and included some photos. This one was written for a more general audience. I sent it as an entry for the 2023 Palanca.
 
 ***
 

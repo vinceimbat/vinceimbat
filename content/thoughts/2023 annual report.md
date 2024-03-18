@@ -89,7 +89,7 @@ Some of my favorite writings this month include the walk poem drafts:
 
 I wrote these poems initially as fragments of observations during two afternoon walks. My rule was to write a brief note on whatever piqued my interest or whatever thought calls on the walk and to separate lines per street where they occurred. Thus the number of stanzas equal the number of streets walked.
 
-One Sunday morning, another poem came to me: [[poems/those stairs at bakakeng|Those Stairs at Bakakeng]].
+One Sunday morning, another poem came to me: [[those stairs at bakakeng|Those Stairs at Bakakeng]].
 
 Aside from these, I enjoyed writing these notes:
 - [[thoughts/suicide|suicide]]
@@ -116,9 +116,9 @@ I enjoyed writing two notes this month:
 
 I managed to publish three newsletter issues:
 
-- [[vignettes/the very first memory|The Very First Memory]]
-- [[vignettes/lolo aldo|Lolo Aldo]]
-- [[poems/in july|In July]]
+- [[the very first memory|The Very First Memory]]
+- [[lolo aldo|Lolo Aldo]]
+- [[in july|In July]]
 
 This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I realized I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing for the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
 
@@ -144,9 +144,9 @@ The best things I read this month were:
 
 I published three newsletters this month:
 
-- [[poems/this morning|This Morning]]
-- [[vignettes/the possibility of love|The Possibility of Love]]
-- [[vignettes/sabel|Sabel]]
+- [[this morning|This Morning]]
+- [[the possibility of love|The Possibility of Love]]
+- [[sabel|Sabel]]
 
 My application to the Cordillera Creative Writing Workshop (CCWW) was rejected and this got me thinking about how I'm approaching these applications and my writing life. I realized that, since the acceptance rate to these writing events is pretty low, the healthiest attitude when applying is to expect rejection. Then, use the application process to these events to force you to do your work. Everything should be about your personal projects. Articulate what your art stands for, focus on creating a portfolio around that stand, and never rely on others to tell you you're good or publishable. Stick to your gut feeling and use contests, workshops, and fellowships to serve your vision, not the other way around. I used this newfound perspective in approaching the submission process to the Gawad Bienvenido Lumbera (GBL).
 
@@ -159,8 +159,8 @@ Around the middle of the month, Lea and I visited Bohol to celebrate our anniver
 Jesa and I have finished revising all our essays and sent them to each other. We've exchanged our initial impressions about each other's work and considered our options moving forward.
 
 I published two issues of The Long Walk last October 2023.
-- [[poems/a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
-- [[thoughts/approach life with humor|Approach life with humor]] (note)
+- [[a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
+- [[approach life with humor|Approach life with humor]] (note)
 
 Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[uman 2023-09|last month's issue of Uman]].
 

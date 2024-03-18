@@ -10,8 +10,8 @@ draft: true
 Jesa and I have finished revising all our essays and sent them to each other. We've exchanged our initial impressions about each other's work and considered our options moving forward.
 
 I published two issues of The Long Walk last October 2023.
-- [[poems/a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
-- [[thoughts/approach life with humor|Approach life with humor]] (note)
+- [[a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
+- [[approach life with humor|Approach life with humor]] (note)
 
 Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site/home.html) I started to explore  free and open-source software like [Darktable](https://www.darktable.org/). I used it to edit photos from my recent trip to Bohol, which I shared on Instagram and [[uman 2023-09|last month's issue of Uman]].
 
@@ -55,8 +55,8 @@ Started revising my epistolary essays with Jesa.
 Received Jesa's Dear Vs and browsed them.
 
 Published TLW
-- [[poems/a midsummer rain in lb|A Midsummer Rain in LB]]
-- [[thoughts/approach life with humor|Approach life with humor]]
+- [[a midsummer rain in lb|A Midsummer Rain in LB]]
+- [[approach life with humor|Approach life with humor]]
 
 Poetry
 - [[poems/di ako marunong tumula|Di ako marunong tumula]]
