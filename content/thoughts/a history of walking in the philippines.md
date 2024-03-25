@@ -28,5 +28,5 @@ The first goal is to collect resources.
 
 # Sources
 
-- [[thoughts/history of walking in the philippines 001]]
-- [[thoughts/history of walking in the philippines 002]]
+- [[history of walking in the philippines 001]]
+- [[history of walking in the philippines 002]]
