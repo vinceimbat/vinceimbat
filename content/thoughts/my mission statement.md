@@ -21,7 +21,7 @@ I am committed to maintaining and improving my [[thoughts/life management system
 
 I am committed to building a world filled with Ginhawa by:
 
-1. honoring [[My top values]] and living according to my principles in my daily life;
+1. honoring [[my top values]] and living according to my principles in my daily life;
 2. authentically expressing my ideas and stories through writing and other artforms in a way that is helpful to my audience;
 3. nurturing a community and ecosystem of individual relationships with allies, peers, mentors, and followers; and
 4. facilitating the development of skills, practices, and knowledge related to the fulfillment of my vision and purpose in others.

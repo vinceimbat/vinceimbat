@@ -31,3 +31,7 @@ What is made possible when we put our awareness in nature?
 Photo journal reflections
 
 Photograph a date with yourself
+
+[[2024-03-21]]
+
+Windows of tolerance

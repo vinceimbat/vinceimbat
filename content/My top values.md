@@ -1,12 +1,11 @@
 ---
-title: "My top values"
-date: "2021-07-16"
+title: My top values
+date: 2021-07-16
+aliases:
+  - My-top-values
 tags:
-
-- "seedlings"
-sr-due: 2024-06-22
-sr-interval: 520
-sr-ease: 290
+  - thoughts
+  - seedlings
 ---
 
 1. ==Freedom
@@ -29,7 +28,6 @@ Based on the test I took at [Personal Values Assessment | Discover Your Values](
 4. Authenticity
 5. Freedom
 
-TO DO
+# To do
 
 - Why do I need to articulate these? How are they related to my core desired mental states? What in the first place are values?
-

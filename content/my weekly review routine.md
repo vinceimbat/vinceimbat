@@ -24,6 +24,7 @@ Schedule: Monday, afternoon
    - In Things 3, mark completed projects as Completed.
    - Delete anything that is obviously not a project.
    - If a project can be substituted by a calendar entry, add it to your calendar instead.
+   - Move projects that won't be completed this month to Someday.
    - Combine projects that are tied to the same outcome.
    - Add a deadline for each project.
    - If the project has no description, add one.
