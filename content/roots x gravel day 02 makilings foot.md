@@ -162,7 +162,7 @@ I feel the tension on my feet and the tiredness in my limbs. But I keep on.
 
 At the end of Forestry is the entrance to the Mt. Makiling Trail (MMT). Beside the trail are two branches that both lead to a dead end. The first dead end is wherever the Makiling Botanical Garden ends. The second dead end, I assume, is this: Banuyo. The last of the streets in Forestry I'm walking today.
 
-Before you reach the cluster of homes at the end of Banuyo, you will pass by a short bridge. At the mouth of the bridge are two interesting objects: a broken concrete staircase covered with vines that lead directly to the river below and a broken van at the side of the road left to be consumed by the forest. Over the fun, flowers blossom.
+Before you reach the cluster of homes at the end of Banuyo, you will pass by a short bridge. At the mouth of the bridge are two interesting objects: a broken concrete staircase covered with vines that lead directly to the river below and a broken van at the side of the road left to be consumed by the forest. Over the van, flowers blossom.
 
 It is just my second time to visit this scene. I was so enthralled by the van the first time that I didn't notice the staircase. I surrounded the van like a police enforcer looking at a crime scene.
 

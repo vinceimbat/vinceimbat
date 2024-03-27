@@ -44,7 +44,7 @@ I am grateful for:
 35. Being inspired to lengten my walks and collect field notes once again.
 36. My blackout poems being featured at the Tuloy-Daloy exhibit at Rizal.
 37. Visiting Rizal shrine for the first time.
-38. Climbing Mt. Makiling twice with friends (see [[vignettes/aguila base 2|my second hike at Mt. Makiling to Aguila base]]).
+38. Climbing Mt. Makiling twice with friends (see [[my second hike to agila base|my second hike at Mt. Makiling to Aguila base]]).
 39. Traveling to Baguio with Lea for the first time since we became a couple, staying at Azalea for a night, and bonding with Jeff, Sarah, and Jane.
 40. Bringing our entire family together to Pangasinan for the first time since the pandemic.
 41. **Learning how to incorporate all kinds of writing I do into my note-writing system, including [[poetry]] and narratives.**

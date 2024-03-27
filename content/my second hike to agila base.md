@@ -1,13 +1,12 @@
 ---
-title: "My Second Hike to Aguila Base"
-date: "2022-09-09"
+title: My Second Hike to Aguila Base
+date: 2022-09-09
 aliases:
-- "My second hike at Mt. Makiling to Aguila Base"
+  - My second hike at Mt. Makiling to Aguila Base
+  - vignettes/aguila-base-2
 tags:
-- "seedlings"
-sr-due: 2025-01-29
-sr-interval: 528
-sr-ease: 270
+  - vignettes
+  - seedlings
 ---
 Nicco and I talked about pursuing dreams. He shared about his food business. He was a Grab driver before the pandemic. During the pandemic that obviously ended. He and his wife were forced to switch to food business: cheese cakes mainly but other stuff too. Business was going well at the beginning of the pandemic, but after the lockdowns eased up, sales dropped as people started going back to restaurants instead of eating at home. Food Panda drivers were affected as well. They moved from Lala Move to Food Panda when online food deliveries were such a trend at the start of the pandemic but went back to Lala Move after online food sales dropped. Nicco is currently selling insurance aside from selling food. But it is still a struggle.
 
