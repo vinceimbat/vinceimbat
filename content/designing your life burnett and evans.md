@@ -3,11 +3,10 @@ title: Designing Your Life - Burnett and Evans
 date: 2022-11-18
 aliases:
   - designing your life - burnett and evans
+  - literature/designing-your-life---burnett-and-evans
 tags:
+  - literature
   - seedlings
-sr-due: 2022-11-24
-sr-interval: 2
-sr-ease: 246
 ---
 - [[thoughts/life design assessment|life design assessment]]
 - [[my workview|my workview]]

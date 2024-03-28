@@ -107,7 +107,7 @@ I am grateful for:
 99. Creating an initial plan for managing Rem's websites and sharing it to Tuloy-Daloy.
 100. Walking with Claire and Fruit Salad at Makiling Botanic Gardens.
 101. **Designing a livelihood system that is resilient and encourages the pursuit of more fulfilling work.**
-102. The book [[literature/designing your life - burnett and evans|Designing Your Life by Burnett and Evans]] for helping me think beyond the obvious and design a five-year plan I could pursue.
+102. The book [[designing your life burnett and evans|Designing Your Life by Burnett and Evans]] for helping me think beyond the obvious and design a five-year plan I could pursue.
 103. Helping Lea build her comfort fund and finally getting her insured.
 104. Meeting Sir Melchor, Lex Castillo, and Santiago Villafania and reconnecting with Pangasinan.
 105. Being with Tito Bobby (the dates, seeing the land, the shoes, watching Quezon's Game).

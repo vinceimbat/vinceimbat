@@ -129,7 +129,7 @@ The walk also encouraged me to return to photography. I wanted to take good phot
 
 After doing photography and walking for almost a month, I felt the urge to return to my foundation: philosophy and contemplation. I reminded myself that my walks and photos would be more meaningful if I am more intentional about them, that is if I use them to deepen my sense of meaning. To facilitate this meaning-making, I continued to sharpen my writing this month. I continued marinating myself in narratives, which helped me elevate my experiences while walking.
 
-Another highlight of June was ordering, unboxing, and reading *[[literature/kissa by kissa mod|Kissa by Kissa]]* by Craig Mod. I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
+Another highlight of June was ordering, unboxing, and reading *[[kissa by kissa mod|Kissa by Kissa]]* by Craig Mod. I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
 
 ![[files/savia_birthday.jpg]]
 
@@ -179,7 +179,7 @@ Rem's death made me closer to my community. Thinking about the meaning of commun
 
 While I contemplated community, I helped a friend translate the foreword of her upcoming book, walked with some friends at Makiling Botanic Gardens, and shared space with others at the Ginhawa Breathing Space event at Tanay, Rizal. There, I walked around the Hermitage and Organic Gardens (HOGAR) of the Institute for Consecrated Life in Asia (ICLA) and did a hike to Mt. Kulis with my partner and some old and new friends. The trip helped me grieve Rem and provided some much-needed inspiration to write a few poems and some issues of TLW.
 
-After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book *[[literature/designing your life - burnett and evans|Designing Your Life]]* by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
+After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book *[[designing your life burnett and evans|Designing Your Life]]* by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
 
 # December
 

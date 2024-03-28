@@ -1,12 +1,12 @@
 ---
 title: Modern manuscripts and drafts by Jani Scandura
 date: 2023-09-14
+aliases:
+  - literature/modern-manuscripts-and-drafts-by-scandura
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-23
-sr-interval: 1
-sr-ease: 225
 ---
 # Notes
 

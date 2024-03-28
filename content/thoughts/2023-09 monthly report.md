@@ -93,7 +93,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 - Explored draft as literature.
 - Learned about Obsidian Leaflet.
 - Finalized map and learned how to generate QR codes that don't expire.
-- Read [[literature/modern manuscripts and drafts by scandura|Modern manuscripts and drafts by Jani Scandura]].
+- Read [[modern manuscripts and drafts scandura|Modern manuscripts and drafts by Jani Scandura]].
 - Sent it to Katipunan.
 
 ## Bohol trip

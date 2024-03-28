@@ -3,11 +3,10 @@ title: Kissa by Kissa — Mod
 date: 2022-06-21
 aliases:
   - Kissa by Kissa — Mod
+  - literature/kissa-by-kissa-mod
 tags:
+  - literature
   - seedlings
-sr-due: 2025-10-06
-sr-interval: 643
-sr-ease: 230
 ---
 Kissa by Kissa is not a page-turner. It elicits the same feeling I get when reading [[craig mod|Craig Mod]]'s newsletter, which I have adopted in *[[thoughts/lilim|Lilim]]* and *[[thoughts/uman|Uman]]*, primarily because of the use of photos as breaks to texts. There are no captions in these photos. They speak for themselves, although many of these photos have subjects that are talked about by the nearby text.
 

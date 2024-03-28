@@ -1,9 +1,11 @@
 ---
 title: That Which Walks (2021) by Phil Smith
 date: 2024-02-16
-aliases: 
+aliases:
+  - literature/that-which-walks-smith
 draft: false
 tags:
+  - literature
   - seedlings
 ---
 # Radical walking
