@@ -2,7 +2,7 @@
 title: Jiyū shūkyō
 date: 2023-10-28
 aliases:
-  - /thoughts/free-religion
+  - thoughts/free-religion
 draft: false
 tags:
   - thoughts
@@ -49,3 +49,11 @@ My center of gravity isn't to help myself and others become better writers but t
 
 - Does the Philippines need jiyu shukyo?
 - How can Jiyu shukyo be used to walk a Filipino intellectual and spiritual terrain?
+
+# Jiyu shukyo and rules
+
+The only way we can be truly free is by binding ourselves with a community. This is the essence of jiyu shukyo, which is different from the stance that the self should be protected at all cost. It is a beautiful concept but one that has to be tested constantly in real life.
+
+I believe that a minimalist rules of conduct could be enough to bind us toward freedom. But the rules or creed is always addressed to the self rather than to the group as a whole. I wonder whether this suggests that Imaoka-sensei trusted the individual to keep this at heart and that their creed doesn't have to be a written law used to make pronounced judgments or punishments—elaborate ones carried out by judicial committees.
+
+Having faith to the other means trusting that if he or she constantly reads the creed, he or she should be able to internalize it and live it in a way that strengthens the group.
