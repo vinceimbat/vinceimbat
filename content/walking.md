@@ -83,8 +83,12 @@ Many of the titles in this section and the next are from the syllabus of [Vincen
 
 - Malasig, Jeline. “Tsunami, Cobra, Infinity, Lava: A Look at the Many Walks of Miss Universe Philippines.” _Interaksyon_, 14 Dec. 2018, [https://interaksyon.philstar.com/trends-spotlights/2018/12/14/140500/catriona-gray-tsunami-infinity-lava-walk-miss-universe-philippines/](https://interaksyon.philstar.com/trends-spotlights/2018/12/14/140500/catriona-gray-tsunami-infinity-lava-walk-miss-universe-philippines/).
 - Santos, Ana P. “The Sumilao Farmers, a Decade after They Marched for Their Rights.” _Rappler_, 15 Oct. 2017, [https://www.rappler.com/moveph/185345-sumilao-farmers-decade-after-march/](https://www.rappler.com/moveph/185345-sumilao-farmers-decade-after-march/).
-- [[history of walking in the philippines 001]]
-- [[history of walking in the philippines 002]]
+- [[history of walking in the philippines 001|History of Walking in the Philippines 001]]
+- [[history of walking in the philippines 002|History of Walking in the Philippines 002]]
+
+# Walking Arts in the Philippines
+
+- [Anthro on Foot](https://anthroonfoot.com/) by Raizel Albano. Check out her [audio walking guides of 44 places in the Philippines](https://izi.travel/en/9373-anthro-on-foot), which I secretly hope she made free.
 
 # Recommended Resources
 

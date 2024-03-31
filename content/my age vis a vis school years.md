@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-Here is a table featuring my age and school year vis a vis the year. I thought this might be useful when I write a [[Personal essay]].
+Here is a table featuring my age and school year vis a vis the year. I thought this might be useful when I write a [[personal essay]].
 
 | Year | Age | School     |
 |:---- |:--- |:---------- |
