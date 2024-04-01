@@ -17,8 +17,9 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-03-31]]: [[abi nako cruz|Abi Nako, Or So I Thought by Jhoanna Lynn Cruz]]
 - [[2024-03-14]]: [[having listened whited|Having Listened by Gary Whited]] ★
-- [[2024-02-12]]: [[literature/a gathering of larks carroll|A Gathering of Larks by  Abigail Carroll]]
+- [[2024-02-12]]: [[literature/a gathering of larks carroll|A Gathering of Larks by Abigail Carroll]]
 
 # 2023
 

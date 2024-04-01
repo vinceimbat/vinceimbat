@@ -1,7 +1,8 @@
 ---
-title: A Page on Walking the Philippines
+title: Walking the Philippines
 date: 2024-03-31
-aliases: 
+aliases:
+  - page-on-walking-the-philippines
 draft: false
 tags:
   - essays

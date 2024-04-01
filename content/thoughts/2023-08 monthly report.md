@@ -190,7 +190,7 @@ Others
 - [[thoughts/ghazalia maralus ya ayat by villafania|Ghazalia: Maralus ya Ayat by Santiago Villafania]] (unfinished)
 - [[thoughts/saray anlong nen kookaburra by ariola-nepascua|Saray Anlong nen Kookaburra by Alma Ariola-Nepascua]] (unfinished)
 - [[literature/a harp in the stars by noble|A Harp in the Stars by Noble]] (unfinished)
-- [[literature/abi nako by cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
+- [[abi nako cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
 
 I bought new books:
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]]

@@ -110,7 +110,7 @@ See: [[thoughts/my creative artifacts]]
 
 I want my work to execute the following:
 1. Framework: Move between these three realms: cosmic–local–personal (ala [[thoughts/henry david thoreau]]).
-2. Inventiveness and poetry (ala [[thoughts/annie dillard]])
+2. Inventiveness and poetry (ala [[annie dillard]])
 3. Simplicity of language (ala [[thoughts/ben hewitt]] and [[thoughts/rofel brion]])
 4. Walking vignettes and photographs (ala [[craig mod]])
 5. Have a surface-level element that it was written outdoors through the dance of mind and body moving.

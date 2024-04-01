@@ -7,4 +7,8 @@ tags:
   - thoughts
   - seedlings
 ---
-Walking without taking photos
+- Walking without taking photos
+
+# Related
+
+- [[literary experiments]]
