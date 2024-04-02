@@ -2,13 +2,11 @@
 title: Talahardin
 date: 2023-09-16
 aliases:
-  - /thoughts/talahardin
+  - thoughts/talahardin
 draft: false
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-09-19
-sr-interval: 3
-sr-ease: 255
 ---
 ![Banner](files/banner.jpg)
 <h2>I was thrown here—alone and oblivious. The landscape is gray, cold, and frightening. I stared at the horizon and immediately understood—I knew nothing of this terrain.</h2>

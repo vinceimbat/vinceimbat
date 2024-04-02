@@ -39,7 +39,7 @@ I am grateful for:
 30. **Realizing that all the writing I do should accrete and combine to create an offer to the world. That offer is beautiful non-fiction books with photographs that combine personal narratives, philosophical thinking, cultural references, and historical descriptions all situated in a specific geographical location.**
 31. Successfully transfering my notes from Craft to Obsidian (after one and a half years of enjoying Craft).
 32. Researching writers who were influenced by Thoreau.
-33. [[thoughts/a pilgrim at tinker creek by dillard|A Pilgrim at Tinker Creek by Annie Dillard]].
+33. [[a pilgrim at tinker creek dillard|A Pilgrim at Tinker Creek by Annie Dillard]].
 34. [[desert solitaire — abbey|Desert Solitaire by Edward Abbey]].
 35. Being inspired to lengten my walks and collect field notes once again.
 36. My blackout poems being featured at the Tuloy-Daloy exhibit at Rizal.

@@ -9,4 +9,4 @@ tags:
   - seedlings
 ---
 
-- [[thoughts/a pilgrim at tinker creek by dillard|A Pilgrim at Tinker Creek - dillard]]
+- [[a pilgrim at tinker creek dillard|A Pilgrim at Tinker Creek - dillard]]

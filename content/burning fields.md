@@ -9,7 +9,7 @@ tags:
 ---
 I miss  
 The birds that wake me up  
-In sta maria
+In Sta. Maria
 
 I miss my room  
 The ceiling  

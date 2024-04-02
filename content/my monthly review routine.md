@@ -30,7 +30,7 @@ There are four parts to my [[monthly review|monthly review]]:
 2. Review [[my vision statement|my vision statement]].
 3. Review [[my lifeview|my lifeview]].
 4. Review [[my workview|my workview]].
-5. Review my [[personal narrative vision|personal narrative vision]] for the year.
+5. Review my [[personal narrative vision|personal narrative vi sion]] for the year.
    - Bold parts that could be addressed with new projects.
    - Highlight parts that fit more into Areas.
    - Code-format parts that have been achieved.

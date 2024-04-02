@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-Per conversation with [[thoughts/vincenz serrano]]:
+Per conversation with [[vincenz serrano]]:
 - 26-minute pop song
 
 ## References

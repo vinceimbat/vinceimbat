@@ -1,13 +1,12 @@
 ---
-title: "A Pilgrim at Tinker Creek - Dillard"
-date: "2022-05-07"
+title: A Pilgrim at Tinker Creek - Dillard
+date: 2022-05-07
 aliases:
-- "a pilgrim at tinker creek - dillard"
+  - a-pilgrim-at-tinker-creek---dillard
+  - thoughts/a-pilgrim-at-tinker-creek-by-dillard
 tags:
-- "seedlings"
-sr-due: 2023-09-16
-sr-interval: 256
-sr-ease: 250
+  - literature
+  - seedlings
 ---
 
 # Style
@@ -79,6 +78,50 @@ sr-ease: 250
 # Questions
 
 Is it possible to channel this sense of wonder? Everyday? Is it possible to be an existence where this wonder is not lost, but cultivated and transmitted to other and in one's work?
+
+# Chapter by Chapter Analysis
+
+## Heaven and Earth in Jest
+
+1. The tomcat and its bloodied pawprints
+2. Washing the pawprints in front of the mirror in the morning
+
+3. Waking up in the morning = arriving on the shore and entering a headland
+
+4. Present: Waiting for surprises outside her window
+5. Introduces setting: house, the creeks, the mountains
+
+6. Wood duck flying -> eating oatmeal at home -> afternoon walking
+7. Walking and walking near water
+8. Walking on a January day; Kazantkasis
+9. Describes a part of Tinker Creek; steers
+10. Describes the steers
+11. Continues to describe a walk with these steers
+12. Describes a different part of the creek, an island, now featuring water creatures
+
+13. Returns to talking about the island but on a different time (summers ago), i.e, backstory -> talks about frogs -> a specific frog
+14. Witnessed the frog eaten by a giant water bug
+15. Talks about the giant water bug
+16. Carnivorous animals
+17. Thesis: Its is chancy in the world but we are also created. But were we created in jest? Did God created us then absconded us? Perhaps God has not absconded but spread that we can't reach him.
+18. Thesis: Despite the existence of cruelty, we can't describe the world just by this because of the existence of grace -> mockingbird drop
+19. Continues discussion on the mockingbird drop -> Beauty and grace happens even if we don't witness it (we just have to be there)
+20. Sharks
+21. Thesis: See the landscape as a whole
+22. Thesis: The landscape has been extravagances from the get go
+
+23. Describes the creek then a walk out of it
+24. Describes the wind then the light
+25. The most beautiful day of the year at 4:00
+26. The most beautiful day of the year (continued): 4:30 light and mountains
+27. The most beautiful day of the year (continued): 5:30 end of the show but moves on to the next part of the landscape, never stops -> compares it with a magician
+
+28. Describes walking on the other side of the mountain -> references Thoreau's "a meteorological journal of the mind."
+29. Explorer of neighborhood, not scientist. -> Compares herself to a child
+30. Like Thoreau, she describes her "profession" done in the night.
+31. Describes her profession done in the mornings.
+32. Calls herself a stalker or instrument of the hunt -> talks about Indians
+33. Conclusion: heavy symbolisms of air
 
 # References
 

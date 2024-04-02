@@ -5,10 +5,8 @@ aliases:
   - The-Collapse-of-What-Separates-Us-by-Vincenz-Serrano
   - thoughts/the collapse of what separates us by vincenz serrano
 tags:
+  - literature
   - seedlings
-sr-due: 2024-01-28
-sr-interval: 172
-sr-ease: 270
 ---
 # Fog
 
@@ -89,7 +87,7 @@ Insight: Either you pursue popularization and democratization or you pursue inno
 
 # Poetry is read on faces. Therefore it is urgent to create new faces.
 
-This is one of [[thoughts/vincenz serrano|Vincenz Serrano's]] multilayered poems. This one has two layers separated by a single dot equidistant from the last line of the first poem and the first line of the second.
+This is one of [[vincenz serrano|Vincenz Serrano's]] multilayered poems. This one has two layers separated by a single dot equidistant from the last line of the first poem and the first line of the second.
 
 The first poem has two lines each occurrence of layer. It is a play of images and concepts: bed, pickup, house, and road. I can understand it but it's surreal.
 
