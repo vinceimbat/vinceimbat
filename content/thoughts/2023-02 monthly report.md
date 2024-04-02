@@ -60,7 +60,7 @@ I wrote:
 # Life Areas
 
 ## Overseeing
-- I finished processing all the remaining journal entries in [[2018-10 to 2019-10 Diary]]. I also fixed its index and that of the [[thoughts/2018-07 to 2019 Diary]].
+- I finished processing all the remaining journal entries in [[2018-10 to 2019-10 diary]]. I also fixed its index and that of the [[2018-07 to 2019 diary]].
 
 ## Restoring
 - Had my first massage in a long time at Footprints.
