@@ -1,14 +1,20 @@
 ---
-title: "Walking is my method for learning how to live"
-date: "2023-03-23"
+title: Walking to learn how to live
+date: 2023-03-23
+aliases:
+  - Walking-is-my-method-for-learning-how-to-live
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
 ---
 
 My desire to walk arose out of the realization that to answer the central question I was so interested in "How should I live?" I needed to combine intellectual processes with embodied inquiry outdoors.
 
-## References
+***
+
+Subalit, ang buhay ay mas arte kaysa sining. Napaka-subjective nito. Kailangan mo munang subukang mabuhay bago mo ito maintindihan. Kailangan mo muna itong maranasan bago mo ito maunwaan. Siguro nga hindi pansansibukuban ang mga katotohanang matatagpuan ko habang naglalakad sa kalyeng ito, subalit kung ito ang nagpapasaya sa akin, ano pang pangangatwiran ang kailangan ko bago gawin ito?
+
+# References
 
 [[lilim intro]]
 >Over the extent of my entire young life, and especially during my lowest moments, I have tried and retried to answer a single question that has always baffled me—How should I live?

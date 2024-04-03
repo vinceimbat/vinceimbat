@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-[[thoughts/henry david thoreau]] went and built a cabin along Walden pond and lived there for two years, because he had to build his own worldview. By worldview, I mean how he sees the world and how he should live in it.
+[[henry david thoreau]] went and built a cabin along Walden pond and lived there for two years, because he had to build his own worldview. By worldview, I mean how he sees the world and how he should live in it.
 
 To use a metaphor, Thoreau's Walden was an act of drawing a map of the terrain and navigates that terrain. It was, therefore, an act of independnt intellectual emancipation and living that rebellion at the same time. His experiment was a combination of intellectual reasoning and experience.
 

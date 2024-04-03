@@ -9,7 +9,7 @@ tags:
 - seedlings
 
 ---
-Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[thoughts/henry david thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[annie dillard]] who engaged more with [[Nature]] and, thus, talked more to themselves. (Note: How much should I talk to people I meet on my walks?)
+Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[henry david thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[annie dillard]] who engaged more with [[Nature]] and, thus, talked more to themselves. (Note: How much should I talk to people I meet on my walks?)
 
 What I think I can steal from his process is how he organizes long-walks and create publishable artifacts from those walks.
 

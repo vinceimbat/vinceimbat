@@ -14,7 +14,7 @@ Koleksyon na an-anlong ko ed Pangasinan.
 - [[kakisir]]
 - [[amayo]]
 - [[poems/perdonam iray dumaralos|perdonam iray dumaralos]]
-- [[poems/ipb road|ipb road]]
+- [[ipb road|ipb road]]
 - [[poems/peryad binmaley|peryad binmaley]]
 - [[poems/inuman ed di mang ador|inuman ed di mang ador]]
 - [[poems/lawari|lawari]]

@@ -17,7 +17,7 @@ I am grateful for:
 8. Improving [[thoughts/my lms sky level setup|my LMS sky level setup]].
 9. Learning about the differences between [[rationalism vs empiricism]].
 10. **Launching [[thoughts/uman]] and publishing eight issues in 2022.**
-11. Learning how to use a custom domain for my notes and [[thoughts/henry david thoreau]] journal translations when they were still in [[craft|Craft]].
+11. Learning how to use a custom domain for my notes and [[henry david thoreau]] journal translations when they were still in [[craft|Craft]].
 12. Successfully migrating my main website ([vinceimbat.com](https://vinceimbat.com/)) from Wordpress to Hugo using [Congo](https://jpanther.github.io/congo/)  (see [[How to migrate Wordpress to Hugo]]).
 13.  Attending what is perhaps the best wedding I have ever witnessed: Beth and JA's wedding.
 14. Experiencing the power of family through successfully facing the challenge regarding Mama's eyesight.

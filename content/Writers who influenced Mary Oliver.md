@@ -7,7 +7,7 @@ tags:
 ---
 
 - [[thoughts/walt whitman]]
-- [[thoughts/henry david thoreau]]
+- [[henry david thoreau]]
 - [[Rumi]]
 - Hafez
 - [[thoughts/ralph waldo emerson]]

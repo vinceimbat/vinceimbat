@@ -18,7 +18,7 @@ sr-ease: 269
 
 In the foreword of his book, *Living Philosophy*, [[thoughts/edward mooney]] shares what kind of writers and writings he made as his life work. He prefers authors that mixed philosophy, religion, and literature. Authors who value action and "a yielding soul." Authors like:
 - [[thoughts/michel de montaigne]]
-- [[thoughts/henry david thoreau]]
+- [[henry david thoreau]]
 - [[thoughts/søren kierkegaard]]
 - [[thoughts/friedrich nietzsche]]
 - [[thoughts/stanley cavell]]

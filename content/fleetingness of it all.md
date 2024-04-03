@@ -1,12 +1,12 @@
 ---
 title: The Fleetingness of It All
 date: 2023-10-02
+aliases:
+  - vignettes/fleetingness-of-it-all
 tags:
+  - vignettes
   - seedlings
 draft: false
-sr-due: 2023-10-05
-sr-interval: 3
-sr-ease: 250
 ---
 Whenever I walk past the St. Therese chapel at Ela Ave., I would always see posters of those whose remains are housed inside. Last night, I saw a poster of a girl who was the same age as I was, born just a month earlier in 1992. She died just the day before.
 

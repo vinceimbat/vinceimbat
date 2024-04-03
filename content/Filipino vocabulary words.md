@@ -1,19 +1,20 @@
 ---
-title: "Filipino vocabulary words"
-date: "2022-12-07"
+title: Filipino vocabulary words
+date: 2022-12-07
+aliases: Filipino-vocabulary-words
 tags:
-
-- "evergreens"
+  - thoughts
+  - evergreens
 ---
-
-## A
+# A
 
 Aba - ituring na mababà at hamak ang kapuwa o sarili; dukha (pinakaaba sa aba)
 Abaloryo - maliit at bilóg na kristal, bató, at katulad na may bútas sa gitna, karaniwang tinutuhog upang gawing palamuti, galáng, o kuwintas; bead
+Agunyas - tugtog ng kampana para sa namatáy.
 Alo - aliw para sa táong nalulungkot, nababagabag, o may suliranin
 Alpas - kumawala o umalis sa pagkakahawak, pagkakatali, o pagkakakulóng
 
-## B
+# B
 
 Bahaw - kung sa tinig, paos o malat (basag)
 Banaag - bahagyang pagkakilála sa anumang bagay na nakikíta dahil sa kalabuan ng matá
@@ -26,7 +27,7 @@ Bulsikot - purse; maliit na bag, pouch, o kaha na lalagyan ng salapi
 Burak - uri ng pútik na mabahò at malansa gaya ng putik sa pusalì at estero
 Busilak - immaculate; pure; immaculate whiteness (busilak sa kaputian; lalong bubusilak)
 
-## D
+# D
 
 Dagat-dagatan
 Dagim - dark clouds that bring rain
@@ -35,13 +36,13 @@ Dawag - damo at baging (madawag, dawagan)
 Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kamay; sukat ng haba nito
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
 
-## G
+# G
 
 Ginsa - bigla (nang di-kaginsa-ginsa'y)
 Gupo - pagbagsak o pagkagiba, karaniwang dahil sa labis na kahinàan o sa bigat ng anumang dumagán (maigupo = foiled)
 Gulantang - nagulat; biglang nagising
 
-## H
+# H
 
 Hagip - sunggab o pagsunggab; pagkuha ng isang bagay na gumagalaw sa tubig; pagdagil, pagbundol, o pagkasagi; pagtama sa inaasinta.
 Halinghing - huni ng kabayo; daing ng tao na nahihirapan sa karamdaman o naliligayahan sa sex
@@ -54,6 +55,7 @@ Hinihinulihan (mula sa hinuli) - to clean someone's ears
 Hinihinukuhan (mula sa hinuko) -  to cut someone's nails
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
+Hitit - paghithit ng usok mula sa sigarilyo o tabako
 Hugpong - joint; bagay na nag-uugnay o nagkakabit sa dalawang bagay; ang púnto na pinagdugtungan ng dalawang bagay; ang karugtong o idinugtong sa dulo upang humabà (naghuhugpong; hugpungan)
 Hulab - possibly hunab; vapor rising from the ground
 Hulagpos - freed
@@ -61,14 +63,14 @@ Huna - karupukan ng isang estruktura (kahunaan = frailty)
 Hungkag - walang laman
 Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
 
-## I
+# I
 
 Igkas - galaw ng anumang bagay na bumalik sa dáting ayos matapos hilahin o bitawan
 Ingit - mahinàng iyak ng isang batà o hayop
 Impit - pagpapaliit ng isang bagay sa anumang paraan; pagpigil sa tawa, iyak, o sigaw; pinigil sa isang kalagayan upang hindi makawala o maibulalas
 Iwarang - Batangueñong salita; tabinge, hindi pantay (paiwa-iwarang)
 
-## K
+# K
 
 Kabyaw - pag-ilo o pag-katas ng tubó; pagikot ng paa sa bisikleta
 Kaibuturan - kaloob-looban o kalagitnaan; "aking kaibuturan" = soul
@@ -86,7 +88,7 @@ Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nit�
 Kura - upo? Parang sa picnic?
 Kuyom - nakatikom na palad; magkimkim o kimkimin (kuyumin, magkuyom); "humuhulagpos sa kuyom" (metaphor: escaping the grasp of")
 
-## L
+# L
 
 Labsak - kalat; labis na kalambutan ng isang bagay, lalo na kung prutas o halámang-ugat
 Lagaslas - hagalhal; malakas na tunog ng tubig na bumabagsak mula sa mataas na pook gaya ng talón
@@ -102,7 +104,7 @@ Lukayo - lakayo; payaso
 Lukong - rabaw o bagay na nakakurba paloob, gaya ng panloob na bahagi ng bílog (saluhin ng pinalukong kong palad)
 Lunoy - lumakad sa tubigán nang hindi naghuhubad ng damit; dumaan sa makipot na bahagi ng isang ilog (paglulunuyan, lumunoy, maglunoy)
 
-## M
+# M
 
 Maapuhap - paghahanap sa pamamagitan ng kamay
 Manaka-naka - bihira
@@ -112,14 +114,16 @@ Matarling - mataas at matining na tinig; soprano
 Mulaga - stare
 Mutawi - tapat na pagbigkas ng mga salitâ; diin ng pagbigkas ng salitâ
 
-## N
+# N
 
 Nasisino - recognize
 Ngisi - grin; pag-ngiti nang banát ang labì at nakalan-tad ang mga ngipin
+Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
 
-## P
+# P
 
 Pagal - panghihina dahil sa pagod
+Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit; 
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
 Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina o amá, karani-wang itinatambal sa isa pang salita, halimbawa: amáng pangúmán, ináng pangú-mán; madrasta
@@ -127,15 +131,17 @@ Pañuelo - dress
 Pelus - velvet
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
+Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
 Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing;   
 pag-antig o pagpapagunita sa isang nakalilimot
+Punebre - tugtog para sa patay o paglilibing.
 Pusali - pook na pina-mamahayan o dinadaluyan ng maru-mi at maitim na likido o tubig
 
-## R
+# R
 
 ratay - variant ng datay; pamamalagi nang matagal sa pagkakahiga dahil sa karamdaman; paglalagay ng isang bagay sa sahig nang nakalapat ang lahat ng bahagi
 
-## S
+# S
 
 Sakong - heel; likurang bahagi ng paa sa ibabâ ng búkong-búkong; bahagi ng sapatos o bota na sumusuporta dito; [ST] naatasan at napipilitan dahil sa dami ng dapat gawin.
 Salta - lundag; pasok
@@ -152,7 +158,7 @@ Sulingan - refuge
 Sungaw - pierce
 Suyod - suklay na may ngiping masinsin; kasang-kapang pansáka na ginagamit na pandurog at pampino ng lupa sa li-náng; masuyod = masinsin
 
-## T
+# T
 
 Taginting - kalansing; tunog na nalilikha ng nagpipingkiang metal, porselana, at iba pa; matarling
 Taguangkan - sinapupunan
@@ -177,20 +183,20 @@ Tunghay - pagtataas ng mukha
 Tunghay - pagtataas 
 Tuwad - nakahilig pababâ sa harap na ang puwit ay higit na mataas kaysa ulo
 
-## U
+# U
 
 Ulo-ulo - tadpole; butete
 Ultaw - litaw
 Usal - paulit-ulit na pagsasalita nang pabulong, karaniwan kapag nagsasaulo ng isang aralin.
 
-## W
+# W
 
 walang-maliw - walang-kupas; walang-hanggan; eternal
 
-## Y
+# Y
 
 Yumi - hinhin
 
-## Idioms
+# Mga Idioma
 
 Pagmamantsa ng pisngi - blush

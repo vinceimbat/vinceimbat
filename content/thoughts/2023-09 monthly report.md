@@ -60,7 +60,7 @@ TLW
 - [[sabel|Sabel]]
 
 Vignettes
-- [[vignettes/fleetingness of it all|fleetingness of it all]]
+- [[fleetingness of it all|fleetingness of it all]]
 - [[vignettes/angob|angob]]
 - [[vignettes/matauhan|matauhan]]
 

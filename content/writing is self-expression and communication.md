@@ -1,14 +1,12 @@
 ---
-title: "Writing is simply self-expression and communication"
-date: "2022-01-11"
+title: Writing is simply self-expression and communication
+date: 2022-01-11
+aliases:
+  - thoughts/Writing-is-simply-self-expression-and-communication
 tags:
-
-- "seedlings"
-sr-due: 2022-05-16
-sr-interval: 4
-sr-ease: 272
+  - thoughts
+  - seedlings
 ---
-
 Writing by itself is simply self-expression and communication. When one expresses oneself, one automatically communicates. There is nothing detrimental with expressing oneself and making a connection. These are needs and are important for our well-being.
 
 Art and creativity are simply a vehicle, a tool, a method to fulfill a deeper need: that of knowing who one truly is and then acting, expressing, and communicating from that place. From here, questions arise:

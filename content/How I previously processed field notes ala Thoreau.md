@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-In mid-2020, I tried following [[thoughts/henry david thoreau]]'s routine of doing a fieldwork in the afternoon, taking notes, and processing those notes in the following morning.
+In mid-2020, I tried following [[henry david thoreau]]'s routine of doing a fieldwork in the afternoon, taking notes, and processing those notes in the following morning.
 
 Here are the steps I took to process those notes.
 

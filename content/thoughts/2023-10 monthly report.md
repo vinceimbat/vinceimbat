@@ -29,7 +29,7 @@ With a few friends, I also visited Tita Cora and Rem's family at their house at 
 - Started reading about agential realism and itra-action.
 
 Notes
-- [[vignettes/fleetingness of it all|fleetingness of it all]]
+- [[fleetingness of it all|fleetingness of it all]]
 - [[thoughts/subsistent spirituality|subsistent spirituality]]
 - [[quotes/comparing every truth schopenhauer|comparing every truth schopenhauer]]
 - [[thoughts/complete silence is a myth|complete silence is a myth]]

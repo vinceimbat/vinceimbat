@@ -8,7 +8,6 @@ sr-due: 2023-10-03
 sr-interval: 273
 sr-ease: 250
 ---
-
 Alternative title: Chasing the Ghosts of The Internment Camp
 
 Went to UPLB Library and read about the internment camp at UPLB during the Japanese occupation. It was an amazing read. The historian was a good writer. After reading, by 4 pm when the library closed, I walked around Freedom Park, Madamba, and Viado to trace the interment camp. I wrote my impressions, reflections, and discoveries.

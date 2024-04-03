@@ -6,17 +6,14 @@ tags:
 - "seedlings"
 ---
 
-I relocated in [[thoughts/los baños|Los Baños]] last January 2021. Ever since arriving, I have settled on the comfortable routine of walking on Mt. Makiling’s foot every day. It wasn’t until the week of May 10–15, 2021, that I decided to look at the map of Los Baños and see where else I might be able to walk.
+I relocated in [[thoughts/los baños|Los Baños]] last January 2021. Ever since arriving, I have settled on the comfortable routine of walking on Mt. Makiling’s foot (i.e., UPLB) every day. It is where one can really start to feel the character of Mt. Makiling—trees start to get taller, bird songs become weirder, roads begin to ascend, and the wind starts to get colder. It wasn’t until the week of May 10–15, 2021, that I decided to look at the map of Los Baños and see where else I might be able to walk.
 
 I was astounded after seeing that Mt. Makiling and UP already took about half of the entire municipality of Los Baños. And as long as the quarantine continues, that half remains off-limits to people who want to walk.
 
-Looking at the map—looking at things as they really are—I realized that there are a plethora of other places I could be walking to. And that is what I did.
-
-My first line of business was to find a way to see the shore of Laguna Lake. Looking at the map once more, I saw that there are several barangays where roads and the shore seem to converge: Masili, Tadlak, Baybayin, Malinta, Mayondon, and Bayog.
-
 # Related
 
-- [[Walking along Laguna de Bay]]
+- [[walking los baños]]
+- [[walking to laguna de bay]]
 
 ## References
 

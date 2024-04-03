@@ -23,11 +23,11 @@ This entails the following:
 
 "so that I may respond to what the present moment asks from me appropriately" — The purpose of philosophy and contemplation is to act better and appropriately.
 
-"happy" — I want to achieve self-actualization. I want to savor life, feel that my days are longer, make the most out of every moment, and feel healthy and loved. In the words of [[thoughts/henry david thoreau|Henry David Thoreau]], "I wanted to live deep and suck out all the marrow of life."
+"happy" — I want to achieve self-actualization. I want to savor life, feel that my days are longer, make the most out of every moment, and feel healthy and loved. In the words of [[henry david thoreau|Henry David Thoreau]], "I wanted to live deep and suck out all the marrow of life."
 
 "meaning" — I want to deepen my sense of existence, engage with deep truth, make the mundane sacred, and most importantly, be relevant to the lives of people I care deeply about.
 
-A different way to express my purpose is "to self-actualize and transcend." [[thoughts/happiness|Happiness]] is closer to what [[thoughts/self-actualization|self-actualization]] generates, while [[thoughts/meaning|meaning]] is what [[thoughts/transcendence|transcendence]] is all about.
+A different way to express my purpose is "to self-actualize and transcend." [[thoughts/happiness|Happiness]] is closer to what [[thoughts/self-actualization|self-actualization]] generates, while [[thoughts/meaning|meaning]] is what [[transcendence|transcendence]] is all about.
 
 This [[thoughts/purpose|purpose]] came from a line of thought I detailed in [[thoughts/my quest|my quest]]. It was also inspired by an initial reading of [[thoughts/the inward morning by bugbee|The Inward Morning by Bugbee]] and Thoreau's purpose written in [[thoughts/walden by thoreau|Walden]]:
 

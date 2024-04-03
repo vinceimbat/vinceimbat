@@ -13,7 +13,7 @@ Money is life energy.
 
 The real cost of money is the life energy (time and effort) we put towards making it. This is a core principle in [[Your Money or Your Life]].
 
-[[thoughts/henry david thoreau]] though the same but applied it to all—both things and activities. He said:
+[[henry david thoreau]] though the same but applied it to all—both things and activities. He said:
 
 > the cost of a thing is the amount of what I will call life which is required to be exchange for it, immediately or in the long run.
 

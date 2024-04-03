@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-This is a timeline of the life of [[thoughts/henry david thoreau]].
+This is a timeline of the life of [[henry david thoreau]].
 
 0, 1817
 - Birth

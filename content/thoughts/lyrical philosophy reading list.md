@@ -12,7 +12,7 @@ sr-ease: 230
 
 - [[thoughts/friedrich nietzsche]]
 - [[thoughts/henry bugbee]]
-- [[thoughts/henry david thoreau]]
+- [[henry david thoreau]]
 - [[thoughts/herman melville]]
 - [[thoughts/ludwig wittgenstein]]
 - [[thoughts/michel de montaigne]]

@@ -29,7 +29,7 @@ There are two ways I can share my theories and methods:
 1. [[Sharing the product]]
 2. [[Sharing the process]] (i.e. [[thoughts/work with the garage door up]])
 
-My main art is still non-fiction prose writing. I want to write about my studies and the application of my studies in the context of my personal story and in a way that makes fine reading (see [[thoughts/i write personal essays]]). But I could perhaps also write plain direct philosophical artifacts and use them to write the more creative ones. For sure, I need to do a lot of thinking about my [[thoughts/writing]] and how I share it. Good thing I can learn from [[People who inspire my sharing]].
+My main art is still non-fiction prose writing. I want to write about my studies and the application of my studies in the context of my personal story and in a way that makes fine reading (see [[thoughts/i write personal essays]]). But I could perhaps also write plain direct philosophical artifacts and use them to write the more creative ones. For sure, I need to do a lot of thinking about my [[writing]] and how I share it. Good thing I can learn from [[People who inspire my sharing]].
 
 # How to share
 

@@ -13,7 +13,7 @@ For an introduction on what *Lilim* is, see [[thoughts/lilim]].
 
 [[lilim intro]]
 
-- [[Walking is my method for learning how to live]]
+- [[walking to learn how to live]]
 - [[My creative products from walking]]
 - [[Etymology of the word lilim]]
 - [[walking connects mind and matter]]
@@ -23,7 +23,7 @@ For an introduction on what *Lilim* is, see [[thoughts/lilim]].
 - [[thoughts/los baños]]
 - [[Walking inside UPLB]]
 - [[How I started walking Los Baños more intentionally]]
-- [[Walking along Laguna de Bay]]
+- [[walking to laguna de bay]]
 - [[Beauty saves lives]]
 
 [[parenting in nature]]

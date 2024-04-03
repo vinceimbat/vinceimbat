@@ -18,7 +18,7 @@ When we walk,
 
 Walking favors [[thoughts/process over product]] and is [[Circular over linear]] ([[Austin Kleon - The creative life is not linear]]).
 
-I have always incorporated walking (or biking) in [[thoughts/my daily routine]]. I also tried following [[The fieldwork routine of Thoreau]]. However, I find it too time-consuming, which shows the mental investment that [[thoughts/henry david thoreau]] gave to his process. He really loved nature. It was his workplace.
+I have always incorporated walking (or biking) in [[thoughts/my daily routine]]. I also tried following [[The fieldwork routine of Thoreau]]. However, I find it too time-consuming, which shows the mental investment that [[henry david thoreau]] gave to his process. He really loved nature. It was his workplace.
 
 I don’t need to adopt such investment on doing fieldworks though. A 1-2 hour walk in the afternoon will usually suffice in benefiting any serious writer. Aside from a daily walk, a monthly fieldwork, or something like what [[craig mod]] does, that combines excursion to nature and art could surely work.
 

@@ -109,7 +109,7 @@ See: [[thoughts/my creative artifacts]]
 ## My style
 
 I want my work to execute the following:
-1. Framework: Move between these three realms: cosmic–local–personal (ala [[thoughts/henry david thoreau]]).
+1. Framework: Move between these three realms: cosmic–local–personal (ala [[henry david thoreau]]).
 2. Inventiveness and poetry (ala [[annie dillard]])
 3. Simplicity of language (ala [[thoughts/ben hewitt]] and [[thoughts/rofel brion]])
 4. Walking vignettes and photographs (ala [[craig mod]])
@@ -161,7 +161,7 @@ My photos shall be philosophical. Capture an abstract concept from macrocosm the
 
 Same with writing. Macrocosmic concept but use a vignette to represent it. My writing work should combine cosmic, local, and personal perspectives in one, moving from one to the other in a dance.
 
-This is a style I borrowed from [[thoughts/henry david thoreau]].
+This is a style I borrowed from [[henry david thoreau]].
 
 ### Only give birth to something as it arise
 
@@ -181,7 +181,7 @@ Whenever I am ready, I want to work on applying my ideas to individuals on a mor
 
 I want my work to feel both emotional and intellectual.
 
-[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[thoughts/writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[walking]], [[poetry]], and [[thoughts/photography]], which provides a rest to intellectual work or facilitates and even guides the former.
+[[My life work is both emotional and intellectual]]. The intellectual work involves [[thoughts/reading]], [[writing]], and thinking (i.e., [[thoughts/philosophy]], which is also my main craft). The emotional work involves [[walking]], [[poetry]], and [[thoughts/photography]], which provides a rest to intellectual work or facilitates and even guides the former.
 
 ### Process over product
 

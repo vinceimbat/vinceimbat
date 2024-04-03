@@ -13,7 +13,7 @@ Founder of [[thoughts/transcendentalism|transcendentalism]].
 
 # Related
 
-- [[thoughts/henry david thoreau|Henry David Thoreau]]
+- [[henry david thoreau|Henry David Thoreau]]
 - [[shinichiro imaoka|Shinichiro Imaoka]]
 
 # References

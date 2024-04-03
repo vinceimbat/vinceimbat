@@ -66,7 +66,7 @@ There are some benefits of obscurity. [Austin Kleon](https://austinkleon.com/201
 >
 > Enjoy your obscurity while it lasts. Use it.
 
-This is where I admire [[thoughts/henry david thoreau]] so much. Yes, he was able to make a name for himself while he was alive, but he was never a big hit like J.K. Rowling was or similar big names in literature. Even when he started gaining traction in writing books and lecturing, he always recognized the tension between fame and his desire to be authentic in the work that he does.
+This is where I admire [[henry david thoreau]] so much. Yes, he was able to make a name for himself while he was alive, but he was never a big hit like J.K. Rowling was or similar big names in literature. Even when he started gaining traction in writing books and lecturing, he always recognized the tension between fame and his desire to be authentic in the work that he does.
 
 For example, he stopped giving lecture tours when he noticed that they took away the time he spends in nature and when he noticed that his audience were just looking for formulaic presentations that forced him to be inauthentic just to please them. Furthermore, his journal was done in private and was never really meant to bring him fame. And yet he viewed it as his most important work.
 

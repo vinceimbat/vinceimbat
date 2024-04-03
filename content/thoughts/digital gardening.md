@@ -13,7 +13,7 @@ Digital gardens are intentionally less performative than traditional blogs. They
 
 I see some parallelism between [[thoughts/henry bugbee]]'s ethic and the values inherent in digital gardening. A work of writing is decisively done at any given moment even if it is unfinished once it is shared. Once you provided the public with a peek of it, it is done. Inauthenticity happens when you force yourself to declare "finish" what isn't finish, when you declare "sure" what is unsure. Declare. Share me when you are. But don't fake it. I want to know the truth.
 
-It is clear to me by now that if my primary goal when [[thoughts/writing]] is [[thoughts/understanding]], I should follow the tradition of digital gardening rather than blogging. This means I need to stick to the plan of cultivating [[thoughts/forest garden of the mind]] and optimizing how that cultivation happens. By doing so, I am actually giving myself permission to explore different genres: notes, poetry, vignettes, and essays, and, therefore, play more.
+It is clear to me by now that if my primary goal when [[writing]] is [[thoughts/understanding]], I should follow the tradition of digital gardening rather than blogging. This means I need to stick to the plan of cultivating [[thoughts/forest garden of the mind]] and optimizing how that cultivation happens. By doing so, I am actually giving myself permission to explore different genres: notes, poetry, vignettes, and essays, and, therefore, play more.
 
 That said, the problem with digital gardening is that digital gardens, unlike blogs, are not as conducive to [[Sharing]]. For this problem, here are [[Publishing strategies for digital gardeners]].
 

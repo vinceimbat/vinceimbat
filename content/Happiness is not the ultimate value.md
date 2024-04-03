@@ -20,6 +20,6 @@ These reasons for not plugging in the experience machine shows that we are conce
 
 This thought experiment attempts to refute [[Hedonism]] or the idea that happiness is the ultimate good by making us choose between a simulated reality and real life. As the experiment shows, there are things that increases a person's well-being beyond happiness, which makes hedonism false. If hedonism was true then we would not hesitate plugging into this machine.
 
-In [[thoughts/scott barry kaufman]]'s revision of [[Maslow’s heirarchy of needs]], he argues that the highest mental state a human can achieve is [[thoughts/transcendence]]. In transcendence, happiness can be sacrificed for the sake of a more meaningful existence with oneself and with others.
+In [[thoughts/scott barry kaufman]]'s revision of [[Maslow’s heirarchy of needs]], he argues that the highest mental state a human can achieve is [[transcendence]]. In transcendence, happiness can be sacrificed for the sake of a more meaningful existence with oneself and with others.
 
 # References

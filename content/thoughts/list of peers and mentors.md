@@ -17,7 +17,7 @@ Others
 - [[Benjamen Walker]]
 - [[Eric Hoffer]]
 - [[Daniele Bolelli]]
-- [[thoughts/henry david thoreau]]
+- [[henry david thoreau]]
 - [[Jules Evans]]
 - [[Matthew Nisbet]]
 - [[thoughts/michel de montaigne]]

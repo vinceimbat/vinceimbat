@@ -17,4 +17,4 @@ Los Baños means "The Baths." The baths refer to the hot springs where Filipinos
 This is a good research project. How did the spas started? Are the current baths inherited from the baths in the past?
 ## Related
 
-- [[The Los Baños internment camp]]
+- [[los baños internment camp]]

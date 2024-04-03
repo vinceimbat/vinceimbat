@@ -1,13 +1,12 @@
 ---
-title: "Kalachuchi"
-date: "2022-05-08"
+title: Kalachuchi
+date: 2022-05-08
 aliases:
-- "Buhay na buhay ang mga kalachuchi"
+  - Buhay-na-buhay-ang-mga-kalachuchi
+  - vignettes/kalachuchi
 tags:
-- "seedlings"
-sr-due: 2025-02-10
-sr-interval: 540
-sr-ease: 230
+  - vignettes
+  - seedlings
 ---
 Buhay na buhay ang mga kalachuchi sa UP. Nagkakandahulog ang mga bulaklak nila, pinamamalamutian ang mga kalsada't sidewalk at humahalimuyak sa sinumang napapadaan. Para bang humahalik lang sila sa lupa kapag nakita nilang may sumibol nang papalit na sa kanila.
 

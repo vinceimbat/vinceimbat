@@ -9,7 +9,7 @@ sr-ease: 250
 ---
 In this contemplative and philosophical life, there are two skills to develop:
 1. analysis
-2. [[thoughts/mindfulness|mindfulness]]
+2. [[mindfulness|mindfulness]]
 
 We use these skills to process stimuli from phenomena whether an artwork, situation, or text. Both analysis and mindfulness could generate thoughts and emotions that, in turn, generate words and actions.
 

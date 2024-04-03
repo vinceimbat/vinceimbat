@@ -35,7 +35,7 @@ Best notes
 - [[thoughts/jack gilbert|Jack Gilbert]]
 - [[thoughts/public life is necessary|public life is necessary]]
 - [[thoughts/suicide|suicide]]
-- [[thoughts/domingo m. lantican ave.|Domingo M. Lantican Ave.]]
+- [[domingo lantican ave|Domingo M. Lantican Ave.]]
 - [[thoughts/mindfulness over analysis|mindfulness over analysis]]
 - [[thoughts/write in contemporary pangasinan|Write in contemporary Pangasinan]]
 
@@ -48,7 +48,7 @@ Poems
 - [[poems/to an unnamed path|To an Unnamed Path]]
 - [[poems/walk poem 2|Walk Poem 2]]
 - [[poems/listen|Listen]]
-- [[poems/ipb road|IPB Road]]
+- [[ipb road|IPB Road]]
 - [[in july|In July]]
 - [[poems/55c ed dagupan|5ºC ed Dagupan]]
 - [[this morning|This Morning]]
