@@ -103,12 +103,12 @@ Is it possible to channel this sense of wonder? Everyday? Is it possible to be a
 14. Witnessed the frog eaten by a giant water bug
 15. Talks about the giant water bug
 16. Carnivorous animals
-17. Thesis: Its is chancy in the world but we are also created. But were we created in jest? Did God created us then absconded us? Perhaps God has not absconded but spread that we can't reach him.
-18. Thesis: Despite the existence of cruelty, we can't describe the world just by this because of the existence of grace -> mockingbird drop
+17. ==Thesis: Its is chancy in the world but we are also created. But were we created in jest? Did God created us then absconded us? Perhaps God has not absconded but spread that we can't reach him.
+18. ==Thesis: Despite the existence of cruelty, we can't describe the world just by this because of the existence of grace -> mockingbird drop
 19. Continues discussion on the mockingbird drop -> Beauty and grace happens even if we don't witness it (we just have to be there)
 20. Sharks
-21. Thesis: See the landscape as a whole
-22. Thesis: The landscape has been extravagances from the get go
+21. ==Thesis: See the landscape as a whole
+22. ==Thesis: The landscape has been extravagances from the get go
 
 23. Describes the creek then a walk out of it
 24. Describes the wind then the light
