@@ -32,6 +32,8 @@ Busilak - immaculate; pure; immaculate whiteness (busilak sa kaputian; lalong bu
 Dagat-dagatan
 Dagim - dark clouds that bring rain
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
+Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
+Danga - [ST] paglukso
 Dawag - damo at baging (madawag, dawagan)
 Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kamay; sukat ng haba nito
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
@@ -85,6 +87,7 @@ Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
 Korto - shorts
 Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nitó at nag-sisilbing palapag
+Kunwa - varyant ng kunwari
 Kura - upo? Parang sa picnic?
 Kuyom - nakatikom na palad; magkimkim o kimkimin (kuyumin, magkuyom); "humuhulagpos sa kuyom" (metaphor: escaping the grasp of")
 
@@ -126,10 +129,13 @@ Pagal - panghihina dahil sa pagod
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit; 
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
+Palanas - malawak na kapatagan; pook na maaliwalas; baybayin ng ilog na mabato.
 Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina o amá, karani-wang itinatambal sa isa pang salita, halimbawa: amáng pangúmán, ináng pangú-mán; madrasta
+Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _var_ panim-dímin
 Pañuelo - dress
 Pelus - velvet
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
+Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
 Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing;   
