@@ -21,7 +21,21 @@ During the old normal, it was already too difficult for many of us to see the b
 
 It did not just isolate us from each other. It isolated us from the planet, from the simple things that could bring us great joy.
 
-# August 23, 2021
+# [[2021-05-21]]
+
+Yesterday, I…  
+  
+went to see Laguna lake for the first time since I came here. It was an abrupt decision. I was coming from Calamba when I decided to check my map and go for a little walk. It ended up not just being a “little walk”.  
+  
+I got off Baybayin, walked Taft, saw a wall with the inscription: HANDOG NI FERNANDO POE JR. 1989, and then followed the street that led directly to the shore—Burgos Street. That name reminded me of Ilocos, but the look of the street reminded me of Bolinao.  
+  
+It was the first time I communed with a large body of water since the pandemic started. Back in Pangasinan, after the community quarantine relaxed, I frequented the Lobong CIS, a pond perhaps the size of Freedom Park. I called it “my Walden” and it had kingfishers, and bush hens, and blue herons. It was beautiful and it provided the quiet haven that Tiktokers took away from me when they invaded my favorite road. But it just didn’t have that unfathomable element that makes large bodies of water deeply awe-inspiring.  
+  
+Yesterday, I was overwhelmed by mixed emotions as I watched the sun make its descent on the West, above Metro Manila, while the tiny waves of the lake cried for it to return and Makiling, just staring at the whole brouhaha, clouds assembled over its peak like a tiny parasol.  
+  
+I walked towards home by 6 and left them there.
+
+# [[2021-08-21]]
 
 I went back to the lake today—tempted to call it dagat as people do here. I’m capping a week of living without Facebook and Messenger by communing with water. I am also going back to work tomorrow—another intense editing marathon for five days, which means no long walks in the afternoon, only short tours on the streets around my place, around 30 minutes—an hour if I am lucky. So I walked today. My pedometer computed 5,000+ steps from my home to the lake. I took the longer cut by using the inner streets to reach the highway rather than the main road. The walk is quieter that way. I try my best to avoid the noise when I walk. Actually, I try my best to avoid the noise wherever and whenever I can. It’s the only way I can give myself a chance to hear myself.
 
