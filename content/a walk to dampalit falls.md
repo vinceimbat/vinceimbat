@@ -1,13 +1,12 @@
 ---
-title: "A Walk to Dampalit Falls"
-date: "2023-01-23"
+title: A Walk to Dampalit Falls
+date: 2023-01-23
 aliases:
-- "A Walk to Dampalit Falls"
+  - A Walk to Dampalit Falls
+  - vignettes/a-walk-to-dampalit-falls
 tags:
-- "seedlings"
-sr-due: 2023-01-27
-sr-interval: 4
-sr-ease: 270
+  - vignettes
+  - seedlings
 ---
 We caught her before she went back inside. "Excuse me, ito po ba daan papuntang Dampalit Falls?" I asked.
 

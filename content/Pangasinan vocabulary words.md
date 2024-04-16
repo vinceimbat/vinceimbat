@@ -1,21 +1,22 @@
 ---
-title: "Pangasinan vocabulary words"
-date: "2022-12-07"
+title: Pangasinan vocabulary words
+date: 2022-12-07
+aliases:
+  - Pangasinan-vocabulary-words
 tags:
-
-- "seedlings"
-sr-due: 2022-12-10
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - pangasinan
+  - seedlings
 ---
 
-## A
+# A
 
 Akis
 Alabian - ginabi?
+Alotor - to go to every place to get something; to gather; to visit every house without leaving one out
 Alunggawit
 
-## B
+# B
 
 Balang
 Balani
@@ -24,99 +25,100 @@ Balatabat
 Beklat - python
 Binmuneknek - blossomed?
 
-## C
+# C
 
 Casborran - daan ya ngaran na Alaminos nen say inmonan baley et wala ni'd gilig na dayat; nanlapud Binobolinao ("pasen ya dakel so sobul"); Pangasinan = pinasian panbonga na saray kikiew tan tanaman tanday mabona tan mabindision ya impanmunat; ingka-bolaslas, ingka-abig tan ingkarakep na Alaminos
 
-## D
+# D
 
 Danaya - limgas ba kaumaan o kaalogan
 Dangoan
 
-## E
+# E
 
-## F
+# F
 
-## G
+# G
 
 Garing
 Gulait - manag-almoy gold
 
-## H
+# H
 
-## I
+# I
 
 Ilalam
 imey - leak; man-imey so ebet to
 
-## J
+# J
 
-## K
+# K
 
 Korit - write
 Kusal - kawayan ya pantongo
 Kuyab-kuyab
 
-## L
+# L
 
 Labitewen - natnoy bitewen?
 Laineng
 Lepsag - baba; malepsag = humble?
 Luyag - lugar; kaluyagan = kabaleyan
 
-## M
+# M
 
+Malepsag - humble
 Managaag - shining?
+Makter - faithful or trustworthy (?)
 Munat
 
-## N
+# N
 
 Nangis
 
-## O
+# O
 
 Odiem - storm?
 Ogagep
 Ompaniring
 Otel - depth
 
-## P
+# P
 
 Paga - worry (sikami lay ompaga); say paga walad ponsiya; say caba walad la union
 Pangkawanan - pakiramdam na sayang
 Piaet - pilalek?
 Pilatek - pilalek?
 Poltaki - tomboy; mataba
-Posapos - "posapos na linawa"
+Posapos - "posapos na linawa"; to desire vehemently
 
+# Q
 
-## Q
-
-## R
+# R
 
 Rilag
 
-## S
+# S
 
 Sempen - blanket that covers? Balabal?
 Sulming
 
-## T
+# T
 
 Tambayo - comfort
 
-## U
+# U
 
-## V
+# V
 
-## W
+# W
 
-## X
+# X
 
-## Y
+# Y
 
 Yaanduyan
 Yampar - itabi, ihanay
 
-## Z
+# Z
 

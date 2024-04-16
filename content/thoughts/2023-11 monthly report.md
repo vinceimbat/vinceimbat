@@ -61,7 +61,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 ## Lea's Life Design
 
 - Started reviewing highlights for [[designing your life burnett and evans|Designing Your Life]] in preparation for activating Lea's main project.
-- Lea and I did the first exercise in [[projects/vince life design/life design|life design]]: We did the HWLP Dashboard and talked about our insights.
+- Lea and I did the first exercise in [[life design|life design]]: We did the HWLP Dashboard and talked about our insights.
 - Sat at the abandoned YMCA Plaza building and wrote/updated our [[workview]] and [[lifeview]].
 
 ## Free Religion

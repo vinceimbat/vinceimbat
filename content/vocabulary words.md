@@ -11,4 +11,4 @@ sr-ease: 250
 
 - [[english vocabs]]
 - [[filipino vocabulary words]]
-- [[Pangasinan vocabulary words]]
+- [[pangasinan vocabulary words]]

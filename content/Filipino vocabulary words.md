@@ -13,6 +13,7 @@ Abaloryo - maliit at bilóg na kristal, bató, at katulad na may bútas sa gitna
 Agunyas - tugtog ng kampana para sa namatáy.
 Alo - aliw para sa táong nalulungkot, nababagabag, o may suliranin
 Alpas - kumawala o umalis sa pagkakahawak, pagkakatali, o pagkakakulóng
+Amba - nagbabanta at poot na kilos ng kamay
 
 # B
 
@@ -77,6 +78,7 @@ Iwarang - Batangueñong salita; tabinge, hindi pantay (paiwa-iwarang)
 Kabyaw - pag-ilo o pag-katas ng tubó; pagikot ng paa sa bisikleta
 Kaibuturan - kaloob-looban o kalagitnaan; "aking kaibuturan" = soul
 Kakanyahan - kaakuhan; natatanging aspekto ng katauhan ng isang tao; identidad; ang gayon ding pagkakakilanlan ng isang pangkat o bansa bílang tatak ng pagkakaisa
+Kalamkam - kiliti (pero ginamit ni Tinio para ilarawan ang radyo)
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
@@ -201,6 +203,7 @@ walang-maliw - walang-kupas; walang-hanggan; eternal
 
 # Y
 
+Yangyang - pagpapatuyô ng nakasampay na damit sa hangin
 Yumi - hinhin
 
 # Mga Idioma

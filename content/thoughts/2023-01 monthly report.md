@@ -47,7 +47,7 @@ In between all of these activities, I spent time getting more clarity on what so
 
 - While walking, Lea and I came to the conclusion that it is the eliminatist tendencies that we should strive to let go. This is what creates problems both in mental and physical health.
 - I walked after getting an awesome haircut and it felt good.
-- Lea and I walked to Dampalit Falls. I wrote [[vignettes/a walk to dampalit falls]].
+- Lea and I walked to Dampalit Falls. I wrote [[a walk to dampalit falls]].
 
 ## Projects
 
