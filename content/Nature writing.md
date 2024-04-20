@@ -1,14 +1,12 @@
 ---
-title: "Nature writing"
-date: "2022-04-30"
+title: Nature writing
+date: 2022-04-30
+aliases:
+  - Nature-writing
 tags:
-
-- "seedlings"
-sr-due: 2022-05-06
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
 Creative nonfiction
 The environment or the narrator's encounter of it are the dominant subjects.
 Literary
@@ -20,7 +18,7 @@ Pastoral
 
 The kind of nature writing that I want to explore is one that is devoid of this desire to moralize and set ethical principles. This means I want to distance myself from the environmental movement, at least until I discover a personal reason for doing so.
 
-I want to write what David Gessner "human writing that just happens to take place in nature" like [[thoughts/walden by thoreau]].
+I want to write what David Gessner "human writing that just happens to take place in nature" like [[walden thoreau|Walden by Thoreau]].
 
 Nature writing reminds us 
 

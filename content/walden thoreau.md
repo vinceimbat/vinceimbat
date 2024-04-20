@@ -1,14 +1,13 @@
 ---
-title: "Walden by Thoreau"
-date: "2022-04-30"
-aliases: "Walden-Thoreau"
+title: Walden by Thoreau
+date: 2022-04-30
+aliases:
+  - Walden-Thoreau
+  - thoughts/walden-by-thoreau
 tags:
-- "seedlings"
-sr-due: 2025-02-26
-sr-interval: 575
-sr-ease: 250
+  - literature
+  - seedlings
 ---
-
 Economy
 - inquiries from townsmen
 - Using the pronoun I

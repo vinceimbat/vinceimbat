@@ -34,7 +34,7 @@ Here are the steps I took to process those notes.
 3. Search for plant details from Stuartxchange’s Philippine Medicinal Plants.
 4. Start filling in the fieldwork report with photos and names of the identified plants.
 
-I kept these narratives in a [[Nature journal]].
+I kept these narratives in a [[nature journal]].
 
 I stopped doing this after a few weeks when I realized it took almost the entire day, and that I had so much more interests to pursue. This made me realize that my love of nature is not as strong as Thoreau’s and that I like to spend more time inside my head. I switched to [[thoughts/my morning writing practice]] not long after this.
 

@@ -13,7 +13,7 @@ Thus, [[thoughts/my thinking while walking strategy]].
 
 # Related
 
-- [[Appreciating nature is like meditation]]
+- [[appreciating nature is like meditation]]
 - [[Deep thinking is meditation]]
 
 # References

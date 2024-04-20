@@ -11,5 +11,5 @@ sr-ease: 270
 - [[Meditation does not require silence or nonthinking]]
 - [[Meditation does not reside in the wordless]]
 - [[Does meditation make us more objective?]]
-- [[Appreciating nature is like meditation]]
+- [[appreciating nature is like meditation]]
 

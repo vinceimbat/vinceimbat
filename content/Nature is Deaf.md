@@ -1,14 +1,12 @@
 ---
-title: "Nature is Deaf"
-date: "2022-05-14"
+title: Nature is Deaf
+date: 2022-05-14
+aliases:
+  - Nature-is-Deaf
 tags:
-
-- "seedlings"
-sr-due: 2022-05-15
-sr-interval: 1
-sr-ease: 230
+  - thoughts
+  - seedlings
 ---
-
 Nature is Deaf. It does not speak human words. We understand it by observing its actions. Its language is visual.
 
 This is the reason why it is so difficult to build a relationship with it. We build relationships with people we can talk to, with those who benefit us and us them. Ideally, we know them by their stories. Nature does not have those qualities inherently. It can feel like a one-way relatonship with it sometimes, until we go deeper and understand how much we are all connected.
@@ -22,5 +20,3 @@ It seems then that the natural sciences is the language through which we can unc
 But the natural world does not understand the language of man. It does not understand poetry. It only understands the language of action.
 
 You can talk about conserving nature nonstop, but nature won’t understand you until you strike a stick to the ground to support a dying plant. Nature talks through actions, listens through actions.
-
-# References

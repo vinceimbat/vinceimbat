@@ -11,7 +11,7 @@ sr-ease: 270
 
 White is considered the patron saint of English nature writing, although some would argue that [[henry david thoreau]] performed a more pivotal role.
 
-He established the pastoral dimension of [[Nature writing]] in the 18th century.
+He established the pastoral dimension of [[nature writing]] in the 18th century.
 
 # References
 

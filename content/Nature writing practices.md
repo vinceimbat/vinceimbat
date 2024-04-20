@@ -1,16 +1,12 @@
 ---
-title: "Nature writing practices"
-date: "2022-05-06"
+title: Nature writing practices
+date: 2022-05-06
+aliases:
+  - Nature-writing-practices
 tags:
-
-- "seedlings"
-sr-due: 2022-09-03
-sr-interval: 46
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
 - Practice describing landscape via a photograph.
 - Practice describing what happens an hour before sunset.
 - Sit in Freedom Park in the evening and describe the sky and the environment.
-
-# References
