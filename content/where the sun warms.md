@@ -12,7 +12,7 @@ tags:
 ![White container van](20240115-075625-tall-tales-container-van_IG.jpg)
 In 1886, in a new preface he wrote for his book *Human, All-Too-Human: A Book for Free Spirits*, [[thoughts/friedrich nietzsche|Friedrich Nietzsche]] detailed a four-phased journey that an individual takes to become a "free spirit." Gordon Bearn called these phases: hearth health, sickness, convalescence, and the great health of the free spirit.[^1] As the labels suggest, the journey describes a path to recovery from an illness.
 
-[[thoughts/andrew j. brown|Andrew J. Brown]][^2] directed my attention to this four-phased journey during my [[tags/tall tales 1|re-walk]] of Baguio last January 15–21, 2024. On the first day of that week-long walk, I returned to the kingdom hall at Rimando Road, the center of my activities as a Jehovah's Witness (JW) minister fourteen years ago.
+[[andrew j brown|Andrew J. Brown]][^2] directed my attention to this four-phased journey during my [[tags/tall tales 1|re-walk]] of Baguio last January 15–21, 2024. On the first day of that week-long walk, I returned to the kingdom hall at Rimando Road, the center of my activities as a Jehovah's Witness (JW) minister fourteen years ago.
 
 As I stood there staring at an entirely new building, the old wooden one destroyed and replaced by a new concrete structure, I felt like a voyeur staring at something I shouldn't look at. There, I started questioning my motivations for returning. I began to have doubts about the purpose of the entire project.[^3]
 

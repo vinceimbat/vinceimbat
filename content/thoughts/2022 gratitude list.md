@@ -74,7 +74,7 @@ I am grateful for:
 65. Being reunited with Tita Sabel.
 66. Modifying how I prioritize goals. I created [[my life goals master list]] and divided it into two: a list of five primary focus goals and a large list of what is left called "avoid-at-all-cost list."
 67. Learning from Bugbee to value insights as they come and so categorizing them as [[thoughts/seeds]] in my note-writing system.
-68. [[thoughts/andrew j. brown|Andrew J. Brown]] and his writings and podcast, which have been my go-to resource on thinking about religion.
+68. [[andrew j brown|Andrew J. Brown]] and his writings and podcast, which have been my go-to resource on thinking about religion.
 69. **Facing head-on my fear of religion and accepting that my current work has a religious nature.**
 70. **Preparing and getting a poem and its translation published in TLDTD (see [[poems/gawat|Gawat]]).**
 71. **Transitioning my website into a digital garden using [Quartz](https://quartz.jzhao.xyz/).**

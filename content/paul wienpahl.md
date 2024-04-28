@@ -7,6 +7,10 @@ tags:
   - thoughts
   - seedlings
 ---
+# Related
+
+- [[an unorthodox lecture wienpahl]]
+
 # References
 
 Fingarette, Herbert, et al. “Paul D. Wienpahl, Philosophy: Los Angeles and Santa Barbara.” _Online Archive of California_, [http://texts.cdlib.org/view?docId=hb1j49n6pv;NAAN=13030&doc.view=frames&chunk.id=div00110&toc.depth=1&toc.id=&brand=oac4](http://texts.cdlib.org/view?docId=hb1j49n6pv;NAAN=13030&doc.view=frames&chunk.id=div00110&toc.depth=1&toc.id=&brand=oac4). Accessed 27 Apr. 2024.

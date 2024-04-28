@@ -16,7 +16,7 @@ From Michael McGhee in [[literature/spirituality for the godless mcghee|Spiritua
 
 # Prayer as listening
 
-In his essay about [[having listened whited|Gary Whited's book Having Listened]] and [[thoughts/leo tolstoy|Leo Tolstoy]], [[thoughts/andrew j. brown|Andrew J. Brown]] proposes prayer as a way to listen, specifically to what the world around and within is saying.
+In his essay about [[having listened whited|Gary Whited's book Having Listened]] and [[thoughts/leo tolstoy|Leo Tolstoy]], [[andrew j brown|Andrew J. Brown]] proposes prayer as a way to listen, specifically to what the world around and within is saying.
 
 >Now, in order to discern “God’s will”, and/or that which “lays claim to us”, and through it to find the meaning and purpose of our lives (and what this is will be different for each person), we simply cannot be engaged in the kind of petitionary prayer that is all about transmitting our personal wishes outward; as Jesus memorably taught, in prayer we should not babble but become silent and enter into a quiet, un-showy, receptive way of being; it is to listen. It is this we, ourselves, must learn.
 

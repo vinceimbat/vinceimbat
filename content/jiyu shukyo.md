@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Here is [[thoughts/andrew j. brown|Andrew J. Brown's]] advice on how to begin one's journey in [[jiyu shukyo|jiyu shukyo]].
+Here is [[andrew j brown|Andrew J. Brown's]] advice on how to begin one's journey in [[jiyu shukyo|jiyu shukyo]].
 
 >the most important thing is always to keep listening with an as open-mind and open-heart as possible, both to what's going on all around us and also to what's going on in our own head and heart/body. Just beginning a simple practise of Seiza (Quiet Sitting) meditation is, I'm sure, a good and gentle place to begin this kind of non-judgemental listening.
 

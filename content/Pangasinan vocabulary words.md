@@ -48,6 +48,7 @@ Gulait - manag-almoy gold
 # I
 
 Ilalam
+Ilong
 imey - leak; man-imey so ebet to
 
 # J
@@ -55,6 +56,7 @@ imey - leak; man-imey so ebet to
 # K
 
 Korit - write
+Kuririt
 Kusal - kawayan ya pantongo
 Kuyab-kuyab
 
@@ -105,6 +107,7 @@ Sulming
 
 # T
 
+Talukoy
 Tambayo - comfort
 
 # U

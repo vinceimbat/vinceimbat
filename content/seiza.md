@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-I like this definition of seiza written by [[thoughts/andrew j. brown|Andrew J. Brown]]. It reminds me why I chose it as a spiritual practice:
+I like this definition of seiza written by [[andrew j brown|Andrew J. Brown]]. It reminds me why I chose it as a spiritual practice:
 
 >Seiza (静坐 — literally, “quiet sitting”) meditation was developed and established by Okada Torajiro (1872-1920) in Japan during the early years of the 20th century and was the form of meditation parcticed by Imaoka Shin’ichirō and Kiitsu Kyōkai. It is exceptionally minimalistic and does not rely upon any external organizations, temples, churches, tithing, dogma, theory, canon, worship, beliefs, literature, scriptures, calendar, prayers, hymns, priesthood, hierarchy, relics, icons, saints, homage, cults of personality, holidays, myths, cosmology, symbols, architecture, laws or commandments. Neither is Seiza tied to particular intellectual, rational or medical ideas or theories. It does not depend on emotion, piety, or devotionalism. It is not otherworldly, mystical, nor renunciatory. It is not tied to a particular race, ethnicity, or culture. It is not congressional and needs no pilgrimage. Nor does it proselytize or support military aggression. To practise Seiza, one needs no group or leader, no visualization, vocalization, counting, or mantra repetition, and no special symbolic objects, apparatus, or clothing.
 

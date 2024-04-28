@@ -9,5 +9,5 @@ sr-due: 2023-03-17
 sr-interval: 3
 sr-ease: 250
 ---
-- [[literature/be the gateway by dan blank|Be the Gateway by Dan Blank]]
+- [[be the gateway blank|Be the Gateway by Dan Blank]]
 

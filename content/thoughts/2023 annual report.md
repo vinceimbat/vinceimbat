@@ -166,7 +166,7 @@ Inspired by the solar punk artists behind [Hundred Rabbits](https://100r.co/site
 
 I went back home to Pangasinan, and I also visited my sister and her kids in Baguio. On October 15, a Sunday, I spent the morning walking from Engineer's Hill to Magsaysay Ave. in search of a Middle-Eastern restaurant. Alas I came too early; the beef won't be ready until lunch time. To kill time, I walked to and from the Bell Church. This walk led me down memory lane. This walk and my entire stay at Baguio made me realize that more than ten years after I left the church without saying goodbye to any of the friends and family I made there, I still grieve this loss.
 
-After leaving Baguio, I finally accepted that I could no longer go through this long postponed grieving process alone. I knew I needed help, so I reached out to [[thoughts/andrew j. brown|Andrew J. Brown]] via email, which he generously returned with advice on how to begin embracing a free and creative religious existence.
+After leaving Baguio, I finally accepted that I could no longer go through this long postponed grieving process alone. I knew I needed help, so I reached out to [[andrew j brown|Andrew J. Brown]] via email, which he generously returned with advice on how to begin embracing a free and creative religious existence.
 
 With a few friends, I also visited Tita Cora and Rem's family at their house at Batangas to remember Rem's first death anniversary. The day was spent chatting, sharing food, playing video games, and communing with Rem's library.
 
