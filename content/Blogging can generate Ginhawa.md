@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 
-In [[thoughts/my life plan]], one of the [[Five areas of my life work]] is [[Sharing]]. The primary vehicle I use for sharing is my blog and newsletter. It has to feel good while I'm doing it.
+In [[my life plan]], one of the [[Five areas of my life work]] is [[Sharing]]. The primary vehicle I use for sharing is my blog and newsletter. It has to feel good while I'm doing it.
 
 How can I do this?
 

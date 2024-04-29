@@ -15,6 +15,6 @@ I have six [[thoughts/life area|life areas]]:
 3. [[thoughts/restoring|Restoring]]
 4. [[thoughts/connecting|Connecting]]
 5. [[thoughts/sustaining|Sustaining]]
-6. [[thoughts/creating|Creating]]
+6. [[creating|Creating]]
 
 Rather than clear silos that box projects, these life areas behave like tags. One project could be tagged with multiple life areas. This implies that a project could improve multiple life area standards simultaneously. To not be overwhelmed in maintaining my life's standards, I follow this advice: [[live as if you are walking|live as if you are walking]].

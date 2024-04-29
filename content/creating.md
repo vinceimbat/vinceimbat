@@ -1,9 +1,12 @@
 ---
-title: "Creating"
-date: "2022-11-13"
-aliases: "Creating"
+title: Creating
+date: 2022-11-13
+aliases:
+  - Creating
+  - thoughts/creating
 tags:
-- "evergreens"
+  - thoughts
+  - evergreens
 ---
 This [[thoughts/life area|life area]] involves working on crafts that I identify as integral to who I show up in the world and those that I do mainly as a hobby.
 

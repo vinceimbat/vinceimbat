@@ -3,11 +3,10 @@ title: My life plan
 date: 2021-01-30
 aliases:
   - My life plan
+  - thoughts/my-life-plan
 tags:
+  - thoughts
   - seedlings
-sr-due: 2026-04-07
-sr-interval: 824
-sr-ease: 270
 ---
 # To Do
 
