@@ -146,6 +146,10 @@ you will be offering people a chance to align with the narratives that engage th
 
 When you consider how you are a gateway for others, understanding your narrative, understanding theirs, and connecting the two is inherently what you are offering.
 
+know what you stand for, and to share it in a way that truly speaks to others
+
+It is how you craft and share your work with others
+
 # Provide narratives people need
 
 When you understand the narratives your ideal audience seeks, you know how to engage those people. You know how to grab their attention, you know how to get them to lean in, and to become so enamored that they can’t help but tell their friends.
@@ -179,7 +183,129 @@ Is there a disconnect between what you do every week versus what you you want to
 1. The things in life that you care so much about that you would fight to protect them, and to ensure that they can reach their full potential.
 2. A practice. What you do every single day
 
-CONTINUE WITH "CRAFT A MISSION STATEMENT"
+# Other ways to find your narratives
+
+Consider what you love talking about. What topics could you sit at a cafe or bar and talk about for hours and hours? What types of people do you seek out and enjoy chatting with?
+
+What are common traits of these people, what resonates with you about them, and they with you?
+
+# How to craft a mission statement for your writing
+
+identify a simple sentence that focuses on the experience you want your writing to create for others.
+
+think about someone who purchased and read your book nine months ago. How do you hope it shifted the way they think?
+
+Nine months after someone reads your book, what do you want them to think quietly in their heads about the world you have opened for them? How does it relate to their life, their identity, their interactions?
+
+Write down a series of belief statements—things that you feel resonate in your creative work. Sit with them for a week, reviewing them each day.
+
+at the end of the week, choose one that you are drawn to the most. Don’t worry, just like paint, you can change it over time.
+
+ensuring that you believe in your gateway with such clarity—such verve—that nothing can shake it.
+
+# Write a bio that reinforces your qualification for writing your works
+
+Your bio is the centerpiece of the narrative that connects the work you create and who you are.
+
+describe who you are and how your experience makes you the perfect person to write the books you are working on.
+
+Your bio should embody not just a chronological view of your life, but the narratives that fuel you.
+
+1. A belief statement that your ideal reader would read and say “YES! This!”
+2. A description of the one thing you desperately want that reader to care about. (Hint: this should be your creative work.)
+3. Your credentials as they relate to your creative work.
+4. Your background and experience. Filter this through your creative work.
+5. Who you are as a person. This is where your hobbies, where you live, and your background come in. Only after you have hooked us with the narratives that we care about.
+
+# Bio Step #1: Start With a Belief Statement
+
+Don’t start your biography at the beginning of your life and work forward. Instead, start with the present and work backward.
+
+don’t start with you at all. Instead, start with me
+
+If you want me to pause from what I am doing to give you and your work a chance, you have to create a bridge. That bridge is from the things I desperately care about and engage with to what you and your work are about.
+
+If your goal is to have someone engage with you, you have to begin with empathy and start with them, not you.
+
+This can take the form of a belief statement—the things that embody your work and your drive to create that would resonate with your ideal audience. This will be a version of the mission statement you crafted above. It can be what you are fighting for, or what you are fighting against. It can be a feeling that you want people to have when they experience your work. It can be a story that is shorthand for what your audience wants to align with.
+
+# Bio Step #2: Focus on Your Creative Work
+
+There are two common mistakes I see people make at this stage. The first is (again), people start at the beginning and work their way forward. They tell the reader about their very first forays into their art or craft, and then walk us through it slowly working their way to the present.
+
+The second mistake people make in this section is to list too many things all at once, as if each has equal importance.
+
+slow down and focus first on the thing that matters to you in your creative work right now.
+
+# Bio Step #3: Your Credentials
+
+build the case for why you are the perfect person to be creating the creative work you just described.
+
+align to the narratives and stories we talked about earlier. This can take the form of a story as to how you got into your craft, or why it matters to you.
+
+# Bio Step #4: Your Background and Experience
+
+go broader into other areas of your life beyond your creative work
+
+filter it through your creative work
+
+# Bio Step #5: Personal Details
+
+this is where you can place anything that didn’t fit.
+
+# Make honing your gateway a habit
+
+Your gateway is a process not unlike your creative work. You will hone it via habits, keen observation, and experimentation. Day by day, it will feel more true, as if it is the thing that people have been waiting to welcome into their lives.
+
+# Hone your gateway by doing creative work each week
+
+==Insight: Gateway is content marketing.==
+
+Analyze whether every aspect that surrounds your creative work embodies your mission statement. This begins with the creative work itself.
+
+Craft your gateway by doing your creative work each week.
+
+Develop a simple personal habit of focusing on your creative work and how you share it with others. This is a critical distinction: you are not creating a product (a book, album, craft) that you are selling in a marketplace. That is simply a milestone. You are connecting other human beings to your stories and knowledge and, as a gateway, are opening them up to something new.
+
+track your progress of developing a daily habit, establish a system to recognize it.
+
+Be accountable to yourself before you ask others to validate and support you.
+
+Identify the “single push-up” for your creative work each day.
+
+have a practice of creating your work that focuses on your mission
+
+# Hone your mission statement by using it in conversations
+
+just as your creative work does, it needs to grow and evolve. Say your mission statement out loud. Does it sound weird? If so, then craft a spoken version that aligns to the written version. Use it in casual conversations.
+
+seek out these conversations to test it.
+
+See how this feels to say it out loud to another person. Note where you lose them—where they don’t understand, where it falls flat, and what their follow-up questions are. Use this to hone the language of your mission statement so that it is not only clear to you, but clear to others.
+
+# Prepare for bad days
+
+When developing your creative vision, plan for disaster.
+
+When you lose faith and clarity in your own vision and work, prepare a “reset” that reminds you of why you create. This could be a quote from your hero, a photo that sparks your imagination on what is possible, a biography or documentary about someone who inspires you, or a song that centers you.
+
+Create check-ins in your calendar—daily, weekly, monthly, quarterly, yearly—where you write down the progress you have made.
+
+recognize and honor the things you do accomplish. This could be a simple statement each day that you write down
+
+Have an “emergency call” list of three people who motivate you. These should be individuals you trust, who believe in the possibility of what you want to create, and would take your call without judgment.
+
+Very often, our own internal fear of judgment will prevent us from reaching out to others for a moment of help. If you want to be successful in your creative work, you need to let go of that fear.
+
+# Aspire for sustainability
+
+Do I want you to be wildly successful with your creative work? Sure. But what I want more for you is that you keep sharing your voice and your vision with new work; that this work, over time, changes the lives of others for the better; that you concurrently develop slow organic growth, but also increase the chances of serendipitous luck that connects your work to even more people.
+
+# Opening your gateway is finding your people and bringing them into you gateway
+
+The goal should not be data; the goal should be a demonstrable impact that your work has had on someone’s life. To experience this, you need to open the gateway you have built.
+
+Opening the gate is about finding your people. Knowing what resonates with them, where they hang out, and who reaches them. Then, one by one, bringing them through the gate.
 
 # References
 
