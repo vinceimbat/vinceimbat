@@ -36,6 +36,12 @@ Reader experience is how the reader experiences the world through your creative 
 
 >Being a gateway is about ensuring your work truly connects with others in the most meaningful way possible
 
+Stop thinking about art works as objects, and start thinking about them as triggers for experiences.
+
+When you build your gateway and walk someone through it, you are creating a fulfilling experience that provides long-term value.
+
+change one person’s life with your creative work right now by crafting meaningful experiences.
+
 # Public milestones are deceptive
 
 object
@@ -57,6 +63,34 @@ Achieving these traditional markers for success—objects, tokens, and metrics�
 # Focus on one-on-one engagement
 
 >Reframe success so it isn’t about seeking validation from massive audiences, but rather how you reach one person. The people I see who succeed focus on one-on-one engagement with other people, not on going viral.
+
+going out and finding those who may love their work, and engaging them one by one, directly.
+
+learn where these people hang out, what they need, what they love, how they like to engage, and then seek them out.
+
+if you dig into the story of someone’s success “back in the day,” you find a web of relationships, of persistent effort on the business/marketing side, and, of course, a lot of luck.
+
+This work is about you taking nice small actions that are totally within your control. Instead of launching a “brand,” you are simply seeking out small conversations, tiny ways of helping, and having meaningful conversations with people who will care about your vision.
+
+This is about individual conversations, small moments, and a combination of sharing and helping, all filled with empathy. The payoff is that these things truly work to drive awareness of your creative work, and ensure it has an effect on the world.
+
+Even knowing you reached one person on a deep level can radically change the momentum for what you create.
+
+It is about extending the experience of your creative work to at least one person in a meaningful way.
+
+Instead of “audience building,” focus on one person at a time.
+
+Build your audience one person at a time. Do so by connecting with others long before you feel you are ready to “launch” your work.
+
+Interview those who do what you would love to do. You can ask them everything you ever worried about in your own work, but also share the interview to promote them and become aligned with them publicly.
+
+developing simple practices of reaching out and having simple conversations using what you have.
+
+The goal is not to launch a campaign, but to identify one person you can help.
+
+Learn from this experience, then iterate.
+
+When you walk a single person through your gateway, you learn so much about their needs, desires, and preferences, and how they relate to your creative work. Perhaps you learn fifty percent of what you need to know to forge new paths to your gateway. Then, walk a second person through, again doing so with empathy and care. Really pay attention to them. Double down on these people—don’t look past the individual because you are so focused on engaging “an audience.” Invest in the people who are right in front of you and who are interested in your work.
 
 # Focusing on reader experience and personal fulfillment makes success more accessible
 
@@ -89,6 +123,12 @@ focus on sharing experiences you have, because this is indeed how stories are cr
 Instead of dreaming up some “big brand” you want to create, simply document and share what you are passionate about. This encourages you to be aware of how your daily life aligns to your creative work. It forces you to be accountable for attending to it. When you share what drives you and how you attend to your creative work, it prevents you from getting lost in the dream.
 
 don’t sell me on your work by telling me how great it is; instead, show me the process, show me why your work matters to you, and how it can connect to what I care about.
+
+Deconstruct why the type of work you create is special and take people behind the scenes to show how it is done.
+
+share the process, the materials, the milestones, and educate them on the elements of what makes incredible work.
+
+share what drives you on a deeper level.
 
 # Be a gateway for people to experience a worldview
 
@@ -306,6 +346,441 @@ Do I want you to be wildly successful with your creative work? Sure. But what I 
 The goal should not be data; the goal should be a demonstrable impact that your work has had on someone’s life. To experience this, you need to open the gateway you have built.
 
 Opening the gate is about finding your people. Knowing what resonates with them, where they hang out, and who reaches them. Then, one by one, bringing them through the gate.
+
+# Universal skills to find your people
+
+develop the skills that are universal and timeless to find your people, know what resonates, craft a connection, and help them to find alignment with your creative work.
+
+1. Awareness
+2. Consideration
+3. Conversion
+4. Loyalty
+5. Advocacy
+
+The top—the widest part of the inverted pyramid—represents the broadest possible message to the largest group of people. Each step down the funnel slowly leads those who are most interested in what you have to offer to deeper levels of engagement with you and your work.
+
+# Nurture advocates
+
+the marketing funnel doesn’t end with a sale
+
+For your creative work to grow, you have to envision the sale as one milestone in a much bigger process, one where people who buy from you tell others about your work.
+
+For a creative professional selling their work, their biggest source of revenue is often repeat customers.
+
+# Really know your audience
+
+find and explore the path that your ideal audience already knows and walks along every day
+
+have empathy for who they are, what they already know, their habits, their interests, and who they trust. If you want people to find your gateway and walk through, you first have to walk a mile in their shoes.
+
+understanding them and their marketplace, and using that to hone how to communicate about the work you create. It helps you identify where you need to be, what engages others, and who you need to know. It also helps ensure that this is fun and meaningful for both you and them.
+
+Spend time “in the field” to learn about where these people are, who they are, and what engages them. All the while, take into account who you want to reach, your vision, and your goals. Primary research means figuring things out on your own.
+
+The most effective way for you to engage with others is to have a keen sense of empathy, to learn about what drives them, and to craft conversations that connect this to your own drive and creative work.
+
+establish a sense of empathy for what that experience is like, which will result in you making many small adjustments to ensure it truly engages others. Creative work fails to find an audience when the creator assumes a specific intrinsic value within it that their ideal audience is never able to see or experience because the creator didn’t make it clear to them. Walking someone through the gate is a process of helping others experience your work, by having empathy with how they see the world.
+
+# Position your gateway where your readers already walk
+
+Instead of constructing your gateway out in the wilderness where there are no pre-existing paths, we are going to construct it closer to where your ideal audience already walks. Find the paths they know and love, so you can place your gateway in exactly the right spot. You are going to ensure the words you use to attract people to your gateway are understood by your ideal audience, engaging them and drawing them closer. Your work will speak to them when and where they need it; and when the moment is right, you can open the gate for them to pass through.
+
+# Perform direct primary research
+
+do primary research in consistent and action-oriented ways
+
+truly understand who the ideal audience for your work is.
+
+You can put names and faces to them.
+
+develop colleagues (others who work in your field, support the type of creative work that you do, connect that work to an audience, and are advocates for it)
+
+Doing primary research lays the foundation for capturing the attention of your ideal audience in a way that is sustainable and meaningful.
+
+- what your ideal audience cares about
+- where they hang out online and off
+- what other creative work they love and why
+- who they admire and listen to
+
+Doing this allows audience outreach to feel meaningful to you, where every time you learn something new about your audience, it fuels a deep sense of momentum.
+
+# How to find your audience
+
+use landmarks for you to move outward from where you are to understand the marketplace where your creative work will exist, and then, to find your ideal audience.
+
+turning the same landmarks into guideposts to leave a trail for people to follow to lead them back to your gateway.
+
+Landmarks are the examples of what you hope your creative work aspires to be like, which your ideal audience knows universally as the best example of the kind of work you do.
+
+focus on the positive emotions people feel about similar work already, and redirect those emotions and attention to your own creations.
+
+comps
+- other things in the marketplace that your ideal audience likely already knows, and has some similarities to what you create and why they may love it.
+
+consider how your audience reacts to the landmarks you identify, and how they can use those to become aware of yours.
+
+use comps to help you understand how your work fits into the lives of your ideal audience, how others would describe it, to use as a model for success, and to begin uncovering the path that leads to your gateway.
+
+# How to find comps
+
+Find Five Comparable Works
+
+had some success, but if possible, not be the breakout hits that defined a generation.
+
+- released within the past one to five years
+- some level of public validation, such as reviews
+- within the same field as the one where you create
+
+/1. Begin with Landmarks
+
+start with the big prominent names in your field—the people who everyone knows. Go to the marketplaces where this work is shared or sold.
+
+**For books online, go to Amazon or Goodreads.** For physical books, go to libraries or bookstores.
+
+begin with the landmark in your field whose work you feel has some relation to yours.
+
+this landmark exercise is not about defining who you are, but simply understanding how the marketplace categorizes work such as yours.
+
+/2. Find Guideposts
+
+find the people who have created similar work to you, finding success in the process, but perhaps haven’t had massive breakout hits.
+
+Go into Amazon and type in the names of the authors you have identified whose works are landmarks for you, or the names of specific books that you feel are guides. Now, scroll down to the “Customers Who Bought This Item Also Bought” section and click on each book. Keep scrolling to see all of the books Amazon displays here. Amazon provides similar features that may be useful, such as “What Other Items Do Customers Buy After Viewing This Item?”, “Frequently Bought Together”, and even “Sponsored Products Related To This Item.”
+
+look for those that were published within the past five years, which have some reviews (at least twenty), and most importantly, that you feel resonate with the work you create in some way.
+
+Write down the names of the books and authors whose work resembles yours in some way; note why that is the case.
+
+seek out other authors who write in the same topic or genre as you do. Show up to their events, email them, support their work. Be curious about their readers. Ask them questions about what they love and why.
+
+/3. Obsess About the Voice of the Reader
+
+put you in touch with five local readers who loved it. Then, you are going to talk to those five people.
+
+For the comps you have identified in the previous step, go to Amazon and begin reading through reviews.
+
+We want to know what readers liked about the book, what they didn’t like, and why. Pay very close attention to the language they use. Look for trends in terms of phrases or focus.
+
+For each of the comps you find, identify how others categorize them. You can look at the Amazon category rankings
+
+make note of phrases you see again and again, or phrases you are curious to see pop up. Then, type those into the search box and see which occur more frequently.
+
+Review “best of” lists each year, but also user-generated lists that are created on sites, such as Amazon for authors
+
+Review how the artist describes their work. Look for phrases that resonate.
+
+Do Google searches on the work that you do find, even on the most basic definitions of what that work is. Switch to a Google image search to see what comes up. Then do a Google video search. Don’t stop at the first sign that validates what you already know. Challenge your assumptions, and move well beyond the first page of Google search results.
+
+Look for mentions of these comps anywhere you can find it—blogs, podcasts, within major media, and well outside of it.
+
+When seeking examples to help guide you, the question you want to ask yourself is, “Who is doing work that matters and is succeeding at it?”
+
+# Befriend people who have experience in your field
+
+These are the individuals who have already engaged an audience similar to the one you want for your work. Their own work embodies similar things that yours does.
+
+you don’t just want to have a map of your marketplace, you want to befriend those who have deep experience within it.
+
+# Find mid-level doers
+
+creative professionals who are mid-career, have found a sustainable way to focus on their creative work, and are a healthy mixture of aspirational and accessible.
+
+You aspire to be able to do what they do not just in terms of the work itself, but the lifestyle they get to live, or the validation they have received from others.
+
+They are big enough to matter, but not so big that you can’t connect with them.
+
+Look for those who are advocates for the type of work you do. This could be as formal as media (newspapers, bloggers, podcasters), but as informal
+
+Who shows up to conferences or events, workshops, and online chats? Whom does your ideal audience already know and respect in their field?
+
+A particularly good place to find mid-level doers is podcasts in your field. The podcaster themselves is someone you should focus on
+
+The list of people interviewed is a great place to begin in identifying additional mid-level doers.
+
+# See other creators as collaborators not competitors
+
+Don’t treat other creators as “competition.” View them instead as like-minded people who share the same passion that you do for this work and how it affects the world. Their experiences can shave years off your own journey in setting up your gateway and carving a path to it.
+
+Instead of feeling envy or jealousy of others, I would encourage you to overwhelm them with kindness.
+
+# Use social media for research
+
+think of social media as the greatest research tool ever created.
+
+observe and listen intently, and in doing so, better understand the people who will walk through your gateway. Use social media as an input, not an output.
+
+Find your mid-level doers on every social media channel you can.
+
+noticing which channels seem to be more popular for your creative field.
+
+Observe which channels the mid-level doers are most active on, and have the most followers on, and then follow them there.
+
+identify the one or two that really matter to them. Focus on those.
+
+begin recognizing the practices that work for those in your field
+
+see who they follow
+
+See who these mid-level doers mention often in their social media feeds.
+
+observe any @names that the person mentions again and again in their feeds. Look for names and faces.
+
+look at who follows these mid-level doers, but also see who mentions them, by searching their @name in the search field for each social network.
+
+Give yourself a week or two, and simply listen. Look at every social media update they share.
+
+focus on the people and what they engage with. Let go of your assumptions and your own narratives here.
+
+use a wide range of communication channels and methods, not just one social network.
+
+# Meet people in person and ask questions
+
+focus your attention on the attendees. Talk to them.
+
+Ask people why they came. Ask about what kind of work they love and why. Ask how they got into this field. Don’t try to impress people, and don’t try to sound too smart or savvy. Whatever you do, don’t promote your own work.
+
+consider reaching out to those mid-level doers you identified. Ask simple questions that you need help with.
+
+# Look at brands as made up of people
+
+If there are brands or media that you feel your audience knows and respects, I would encourage you to not think of them as publicity channels for your work, but instead as people with a shared passion.
+
+Learn how the organization is structured, how many people are within it, and where they are located. For your specific field, see if there is a subgroup that specializes in it.
+
+Stop pitching blindly to “entities” and start understanding these organizations as real groups of multifaceted people, who are just like you.
+
+If you want to have a better sense of how marketing works within a big publisher, look these people up on LinkedIn.
+
+do research to see what these departments and individuals truly look like.
+
+Go to bookstores and befriend people there.
+
+# Use the Least Crowded Channel
+
+Look for the people who surround the mid-level doer, such as a manager, an assistant, the support staff. If you are attending an event that one of your heroes is putting on, befriend all the people who are working on it.
+
+You can do this via email (send questions, receive back answers), Skype for an online video interview, phone, or meet in person.
+
+# Interview people
+
+interviewing the mid-level doers, the members of the communities you hope to engage, and the people who are fans of work similar to yours.
+
+it also helps you understand the needs of your community.
+
+you are creating maps. You are learning the existing paths, the people you need to know, the language your audience understands, and how to use that to connect your work to your ideal audience.
+
+putting in the time to understand the communities they hope to be a part of. The core focus here is to consider the people who make up these communities, and create relationships with them.
+
+Consider not how you can gain the attention of others, but how you can bring joy to them, and develop meaningful connections over time, because what lasts is what you create
+
+# Dedicate yourself to being present with others
+
+being someone who is there when they need to experience joy, when they need to learn, when they need a helping hand, and when they simply need to know that there is hope. What lasts isn’t instant success, but that inclination to be present for others.
+
+# How to find and use the right channels
+
+When choosing the channels you invest in to reach your audience, it should be a mixture of online and offline channels
+
+use your research to determine the channels where your ideal audience is most engaged.
+
+popular channels where your audience engages versus “the least crowded channel.” You should instead use both strategies in different ways, at different times.
+
+# How to build a website
+
+If you are creating a website for yourself, do a survey of ten colleagues to see what their sites look like. Then, for your own, I would encourage you to keep it as simple as possible in terms of both content and design.
+
+identify the core things it has to do and include only those. Include as few items on the navigation bar as possible; write in the first person and not in the third person to directly address those who do come
+
+Simply be aware whether you are focusing your audience’s attention, or splitting it.
+
+Be clear about what the main gateway represents, and why they would want to enter.
+
+Consider whether you will create long-form content.
+
+# Use both a blog and a newsletter
+
+Consider the difference between a blog and an email newsletter as “pull” versus “push.” With “pull,” you are hoping to pull your audience back to your blog again and again. You are relying on them remembering to come back
+
+email newsletters are a nice way to “push” your content out to those who choose to receive it. They receive an email the exact moment you want them to
+
+# How to use social media
+
+You can share your content, aggregate content from others, post status updates on what you are doing (professionally or personally) and, of course, directly engage with others.
+
+Don’t just constantly share updates about your services and intrude on others’ lives. Instead, use social media meaningfully. Engage in real conversations, showcase your purpose and your process, and celebrate others who care about the same type of work you do.
+
+# Use research to craft social media posts that give your audience what they want to feel
+
+focus on topics that you uncovered in the research earlier in this chapter, but also focus on the feelings that you give people.
+
+understand the feelings people want to have
+
+be inventive
+
+To have people understand your work, you will need to become a student of those you hope to reach.
+
+# Tell other people's stories too
+
+Generosity—with your time and attention, your talent and your enthusiasm—is a core way to engage others. If you do something such as an email newsletter, use it to tell other people’s stories as it relates to your vision, not just your own experience.
+
+# Actively direct people to your gate
+
+Don’t wait for people to find and walk through your gateway on their own. Instead, one by one, bring people to your gateway and assist them in walking through it.
+
+# Share your work like you're sharing to a friend
+
+Sharing should be a process that involves others: one that is social, and one that feels as natural as a conversation with a close friend.
+
+tell them about your process, what motivated you, the roadblocks, and so much else about what drives you.
+
+Sharing the journey is about developing advocates around your creative work that lead to word-of-mouth marketing.
+
+Stop being distant and professional.
+
+Write in the first person.
+
+Share proper status updates that include the complex reality of your life.
+
+Show enthusiasm for other people's work.
+
+# Your creative work and readers are more important that your ego, identity, image, and metrics
+
+With your creative work, what matters is the work itself, how you have grown as a person as you develop your craft, and how your work affects the lives of others.
+
+# The four S
+
+1. Seek out others.
+2. Signal to others that you are like them, and are welcoming a chance to engage.
+3. Share things that represent your message.
+4. Shape conversations by asking questions.
+
+# Share emotions that drive you
+
+share the emotion you want others to feel when they experience your work. This practice focuses on experiences, not “things.”
+
+these do not need to be positive emotions.
+
+Emotions of any kind act as a signal and give people a way in.
+
+# Find models outside your field
+
+look for people whose work you admire who also share behind-the-scenes examples of how they have grown their career.
+
+# Treat your audience like royalty no matter how few they are
+
+if you have sixty followers, treat them like the most special people in the world. They are the foundation for how your work will reach more people, and impact the world.
+
+# How to engage with your audience one on one
+
+Connect with one new person per week. Take them out to lunch, email them, or set up a phone call.
+
+focus on engaging more with the top ten percent, those who seem to be more supportive.
+
+Send an email to a colleague—a mid-level doer who practices the same craft you do—and thank them for how their work inspired you.
+
+Interview those who do what you would love to do. You can ask them everything you ever worried about in your own work, but also share the interview to promote them and become aligned with them publicly.
+
+# Develop a support system
+
+identify collaborators
+
+surround yourself with people who understand your work and trust you as a person
+
+ensure your creative vision spreads
+
+Consider how each person you connect with becomes a collaborator—someone who is part of your creative process
+
+For collaborators, start small but intentional.
+
+You simply need someone who can be a sounding board when you have questions, and keep you on track and accountable.
+
+If you want someone to help answer questions, you have to be clear and concise in what you ask, and you have to actually be willing to act on that person’s advice. If you want someone to keep you accountable, you have to illustrate to them that you will do the work, even in the moments they aren’t prodding you.
+
+embrace collaborators early in your process so you can learn what truly engages an audience.
+
+# Find mentors
+
+shadow them, apprentice with them, or meet once per month
+
+consider informal mentorships. Identifying people in your life who you can check in with on a regular basis, but without them having to agree to officially be a mentor for you.
+
+For every second email, ask a simple question that you could use their input on.
+
+asks nothing, but gives quite a bit
+
+the small things you do ask for are framed in a way that illustrates the impact that they will make
+
+# Establish a mastermind group
+
+Small group mastermind
+- Each person was allocated one-fourth of the call (20-30 minutes) to tell the group about a specific challenge they had or a goal they were working toward. The rest of their time was spent brainstorming ideas and ways of helping them navigate.
+
+One-on-one mastermind
+- speak weekly via the phone, and devote one call to her challenges and one to mine.
+
+Managed mastermind group
+- one person acts as the leader of the group and actively manages the group by giving prompts, sharing ideas, and encouraging collaboration.
+- members come from different creative fields, have different goals, and are asked to hone in on specific challenges and goals they need assistance with.
+- run these groups entirely online using a group chat program and videos.
+- members have the ability to chat and post updates 24/7
+
+# How collaborators, mentors, and masterminds help you
+
+helping you better understand those you want to reach and how to effectively communicate and engage with those people.
+
+telling you practical stories of what did and didn’t work for them
+
+allowing you to gain perspective from another person of how they interpret the messages and work you are crafting
+
+# Experiment to make the social aspects of your work fun
+
+my challenge wasn’t that I couldn’t engage with people; it was that I needed a safe context to do so, and one that had a structure to it.
+
+To help people walk through your gateway, experiment with ways to make the social aspects of this fun and reduce the amount of anxiety you may feel.
+
+# Walk people to your gateway again and again
+
+Walking someone through your gate is a process of finding out who that person is, what drives them, and how your gateway aligns with their own path. Don’t assume that once you have crafted your beautiful gateway and the realm that lies beyond it, people can actually reach it.
+
+you are going to have to walk people again and again down the path that leads to your gateway. By doing this, you will learn new things about what motivates those you hope to engage, and you will learn where your “strategy” for engaging others with your work was, in fact, you being willfully ignorant of the gap between your intention and the needs or desires of those you hope to engage.
+
+# Use experiments to gain feedback from your audience to iterate your work
+
+hunting for aspects of your work that capture the interest of others
+
+adjust the work itself based on feedback from your audience
+
+When I found something, I kept exploring it and growing it
+
+multiple channels: my private mastermind, video, blog, email newsletter, webinar, interviews, private emails, and private phone calls.
+
+view opportunities to engage others with your work as experiences you craft, and as a way for you to learn more about who you are hoping to capture and what drives them. Identify ways to experiment to find out what works. Put yourself in the position to have to ask your ideal audience what drives them, or find ways to observe them in action.
+
+Learn more about what works and what engages your ideal audience by conducting many experiments.
+
+# Hold a literary salon
+
+hold a literary salon in your living room, at the local library, or as part of a local organization. Don’t worry about promoting your own work.
+
+experiment with what creates an event that attracts and engages people interested in books similar to yours.
+
+# Create experience, not content
+
+change one person’s life with your creative work right now by crafting meaningful experiences.
+
+While writing an article, creating a podcast, or creating a social media strategy may feel like “audience engagement,” it isn’t.
+
+focus on creating experiences.
+
+Seek out conversations and connections with individuals—something that is specific and truly social. It takes effort to create experiences. Too often, we hide behind the safety of content.
+
+What experiences can you create around your gateway?
+
+be ludicrously kind and generous to those who support your creative work or creative work like yours
+
+Consider how you can give back to specific people in a huge way.
+
+Create an experience and do it really well. Crazy well. The return on investment should be lopsidedly bad. Invest way more than you think you should.
 
 # References
 
