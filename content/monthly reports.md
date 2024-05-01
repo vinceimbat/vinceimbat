@@ -2,8 +2,10 @@
 title: Monthly reports
 date: 2022-05-03
 aliases:
-  - Monthly reports
+  - Monthly-reports
+  - thoughts/monthly-reports
 tags:
+  - thoughts
   - evergreens
 ---
 The monthly report aims to present the general outlook of my past month in a single document. It presents a summary of my progress in three key areas:
@@ -13,9 +15,9 @@ The monthly report aims to present the general outlook of my past month in a sin
 
 It also evaluates my major life areas: life system, physical health, mental health, relationships, sustenance, and life work.
 
-The goal of monthly reports is to inform my goal-setting and planning for the next month and to become the main reference from which I will write [[thoughts/annual reports]] and an [[thoughts/annual review article]] during [[thoughts/my annual review routine]].
+The goal of monthly reports is to inform my goal-setting and planning for the next month and to become the main reference from which I will write [[annual reports]] and an [[annual review article]] during [[my annual review routine]].
 
-I write it using the template: [[templates/monthly report]]. Here are the instructions on [[How to fill up the monthly report]].
+I write it using the [[monthly report]] template. Here are the instructions on [[how to fill up the monthly report]].
 
 Here are all the monthly reports I currently have:
 

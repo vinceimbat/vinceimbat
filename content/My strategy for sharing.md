@@ -29,7 +29,7 @@ Every beginning of the month, I perform [[my monthly review routine]]. Using a t
 
 # Annually
 
-Every first week of January, I perform [[thoughts/my annual review routine]]. Using a template, I review monthly reports and aggregate them into an annual report. This annual report gets shared to my email list via TinyLetter. Along with the monthly report, this is a non-negotiable artifact that has to be shared every year.
+Every first week of January, I perform [[my annual review routine]]. Using a template, I review monthly reports and aggregate them into an annual report. This annual report gets shared to my email list via TinyLetter. Along with the monthly report, this is a non-negotiable artifact that has to be shared every year.
 
 # As it happens
 

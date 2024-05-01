@@ -2,12 +2,10 @@
 title: Annual review article
 date: 2023-01-06
 aliases:
-  - annual review article
+  - thoughts/annual-review-article
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-01-06
-sr-interval: 1
-sr-ease: 230
 ---
 Be mindful that the current [[thoughts/annual review|annual review]] article will be used as a reference to the next annual review article. The article should be published first through the blog, then newsletter, then social media.
 

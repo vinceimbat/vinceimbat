@@ -23,7 +23,7 @@ This is the backdrop from which I began 2023. I entered the year thinking it wou
 
 Oh, how wrong I was.
 ***
-This is my 2023 annual review. While preparing it, I was surprised to learn that I've been writing [[thoughts/annual review article|annual reviews]] for almost a decade. It's a practice I learned from the earliest bloggers that stuck with me through the years. I see each annual review [[cairns to mark the journey|as a cairn that marks a certain point in my long walk]]. Once in a while, when I'm feeling down or lost, I return to these cairns to see how much I've covered and how far I've come. These revisits often boost my confidence in my choices and the path I'm currently treading.
+This is my 2023 annual review. While preparing it, I was surprised to learn that I've been writing [[annual review article|annual reviews]] for almost a decade. It's a practice I learned from the earliest bloggers that stuck with me through the years. I see each annual review [[cairns to mark the journey|as a cairn that marks a certain point in my long walk]]. Once in a while, when I'm feeling down or lost, I return to these cairns to see how much I've covered and how far I've come. These revisits often boost my confidence in my choices and the path I'm currently treading.
 
 In the past couple of years, I've tried to experiment with the format of these reviews. [[2022 annual review|Last year]], I returned to a recap of each month of 2022. For my 2023 annual review, I'll share the most important events of my year and some lessons I learned along the way.
 ***

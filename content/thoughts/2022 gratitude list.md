@@ -9,7 +9,7 @@ I am grateful for:
 
 1. The book [[a philosophy of walking gros|A Philosophy of Walking by Frederic Gros]].
 2. [[thoughts/thich nhat hanh|Thich Nhat Hanh]]—his life, thinking, and works.
-3. Improving [[thoughts/my annual review routine]].
+3. Improving [[my annual review routine]].
 4. Learning web design ([[flux free web design course]]) and development ([[the complete 2022 web development bootcamp]]).
 5. Building and launching the [Kaliskis Na Ulap site](https://kaliskisnaulap.com/) using [[hugo|Hugo]] (see [[how I built the kaliskis na ulap website]]).
 6. The many board games and weekends I spent with Lea's family, which got me through a tough start of the year.

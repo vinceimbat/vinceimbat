@@ -71,7 +71,7 @@ After setting up a system to organize your actions and a system to organize your
    - The purpose of the annual review is to create a meaningful connection between what you accomplished in your monthly projects and areas, and your Sky level (i.e., purpose, vision, and mission).
    - I use the annual review to aggregate an annual report, which I use to create new goals and a new vision for the coming year.
    - I then write an annual review article that I share to the public.
-   - Here is [[thoughts/my annual review routine]].
+   - Here is [[my annual review routine]].
 1. Use a [[monthly review]].
    - The purpose of the monthly review is to create a meaningful connection between monthly projects and areas as well as your vision for the year.
    - I use the monthly review to write a monthly report for the month.

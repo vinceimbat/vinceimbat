@@ -1,10 +1,12 @@
 ---
 title: My annual review routine
 date: 2021-12-21
-tags:
-  - evergreens
 aliases:
-  - My annual review routine
+  - My-annual-review-routine
+  - thoughts/my-annual-review-routine
+tags:
+  - thoughts
+  - evergreens
 ---
 There are three parts to my [[thoughts/annual review|annual review]] process:
 
@@ -15,7 +17,7 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 # Part I: Aggregate the annual report
 
 1. Start the process on January 3 of the year (this is to give way for [[monthly financial review process|monthly financial review]] and [[monthly review|monthly review]] first).
-2. Copy and paste the summary of each [[thoughts/monthly reports|monthly report]] into a new [[thoughts/annual reports|annual report]] using the [[templates/annual report|annual report template]].
+2. Copy and paste the summary of each [[monthly reports|monthly report]] into a new [[annual reports|annual report]] using the [[templates/annual report|annual report template]].
 3. Use the annual report to accomplish the core of the annual review.
 
 # Part II: Perform the core of the annual review
@@ -32,7 +34,7 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 
 # Part III: Write the annual review article and publish it
 
-1. Use the previous year's annual review article, your list of goals from the previous year, and your list of goals in the coming year to write a draft of the previous year’s [[thoughts/annual review article]].
+1. Use the previous year's annual review article, your list of goals from the previous year, and your list of goals in the coming year to write a draft of the previous year’s [[annual review article]].
 2. Edit.
 3. Format as a blog post, publish, then share in social media.
 4. Format it as a newsletter article then send it to email list.

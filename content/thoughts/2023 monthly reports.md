@@ -6,7 +6,7 @@ aliases:
 tags:
   - evergreens
 ---
-Here are my [[thoughts/monthly reports|monthly reports]] for 2023.
+Here are my [[monthly reports|monthly reports]] for 2023.
 
 - [[thoughts/2023-01 monthly report|2023-01 monthly report]]
 - [[thoughts/2023-02 monthly report|2023-02 monthly report]]

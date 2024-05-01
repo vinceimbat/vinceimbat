@@ -2,11 +2,12 @@
 title: annual reports
 date: 2021-10-03
 aliases:
-  - annual reports
+  - thoughts/annual-reports
 tags:
+  - thoughts
   - evergreens
 ---
-To create an annual report, simply copy and paste eache [[thoughts/monthly reports]] summary under the corresponding month in the [[Annual report format]].
+To create an annual report, simply copy and paste eache [[monthly reports]] summary under the corresponding month in the [[Annual report format]].
 
 # Annual reports
 
