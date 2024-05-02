@@ -9,7 +9,7 @@ tags:
   - thoughts
   - evergreens
 ---
-There are four parts to my [[monthly review|monthly review]]:
+There are four parts to my [[monthly review|monthly review]]: 
 
 1. Write the [[monthly reports|monthly report]].
 2. Review my [[thoughts/sky level|sky level]].

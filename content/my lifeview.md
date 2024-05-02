@@ -12,7 +12,7 @@ tags:
 
 We bring meaning into our lives through work that sustains our spiritual and material needs and work that makes good use of our talents and gifts so that we can help those who need them. In addition, we create more meaning in our lives by nurturing relationships with as many people as we can and practicing compassion to every stranger no matter who they are.
 
-[[thoughts/freedom|Freedom]] is an essential aspiration for a meaningful life. One can't pursue one's vocation without freedom. Freedom is connecting with one's true [[thoughts/self|self]] underneath all superfluous externalities. A loving, compassionate, and cooperative society is the bedrock of true freedom. We can never be fully free, but we can get closer to our true selves by being closer to our neighbors, society, and the rest of the universe.
+[[freedom|Freedom]] is an essential aspiration for a meaningful life. One can't pursue one's vocation without freedom. Freedom is connecting with one's true [[thoughts/self|self]] underneath all superfluous externalities. A loving, compassionate, and cooperative society is the bedrock of true freedom. We can never be fully free, but we can get closer to our true selves by being closer to our neighbors, society, and the rest of the universe.
 
 To live is also to recognize the mystery that made it possible for all of us to be here. We may never fully understand it, but simply knowing that we came here outside our volition should be enough to move us to value this one life and live it with more intentionality. Through this, I appreciate everything and every moment that I'm alive and let that appreciation guide me to do the most important and appropriate actions moment by moment.
 

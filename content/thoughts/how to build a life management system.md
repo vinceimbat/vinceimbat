@@ -52,7 +52,7 @@ Once I had my ground level in place and have acquainted myself to it, I was able
    - Purpose statement: [[my purpose is to live deliberately]].
 1. Do the best future self exercise to create a vision.
    - [[thoughts/my best future self exercise]]
-1. Write a [[thoughts/mission statement]].
+1. Write a [[mission statement]].
    - [[my mission statement]]
 1. Divide life into life areas.
    - Life areas are important to make sense of divergent projects ([[Areas are mini life purposes]]).

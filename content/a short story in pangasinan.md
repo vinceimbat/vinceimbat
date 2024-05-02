@@ -1,13 +1,12 @@
 ---
-title: 2024-04-21 seeds
-date: 2024-04-21
+title: A short story in pangasinan
+date: 2024-05-01
 aliases: 
 draft: false
 tags:
-  - thoughts
-  - seeds
+  - short-stories
+  - seedlings
 ---
-- [[a short story in pangasinan]]
 
 What to focus on?
 - existence, large questions

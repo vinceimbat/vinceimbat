@@ -13,7 +13,7 @@ An offshoot of [[thoughts/unitarianism|unitarianism]] founded by [[thoughts/ralp
 
 Per [[andrew j brown|Andrew J. Brown]], [[thoughts/james martineau|James Martineau's]] Rationale of Religious Enquiry had a profound influence to the development of transcendentalism. According to Brown, most contemporary unitarian ministers "see themselves primarily as descendants of this Transcendentalist movement." And since [[shinichiro imaoka|Shinichiro Imaoka]] has explicitly mentioned the influence Emerson had on him, it will also be an inspiration of his [[jiyu shukyo|jiyu shukyo]].
 
-This connection between transcendentalism and free religion makes sense why I have always been attracted to [[henry david thoreau|Henry David Thoreau]] and why my desired life work is a combination of [[thoughts/philosophy|philosophy]], [[thoughts/contemplation|contemplation]], [[writing|writing]] (and other art forms like [[thoughts/photography|photography]]), and [[facilitating]].
+This connection between transcendentalism and free religion makes sense why I have always been attracted to [[henry david thoreau|Henry David Thoreau]] and why my desired life work is a combination of [[thoughts/philosophy|philosophy]], [[thoughts/contemplation|contemplation]], [[writing|writing]] (and other art forms like [[photography|photography]]), and [[facilitating]].
 
 # References
 

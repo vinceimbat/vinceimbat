@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 271
 ---
 
-Creative freedom entails being able to create what one wants, how one wants to do it, and when. This is what [[henry david thoreau]] wanted. He liked writing and giving lectures. But when he started to gain traction and popularit that he needed to go to book tours, he felt that he was losing time from his walks. He felt the tension between popularity and [[thoughts/freedom]].
+Creative freedom entails being able to create what one wants, how one wants to do it, and when. This is what [[henry david thoreau]] wanted. He liked writing and giving lectures. But when he started to gain traction and popularit that he needed to go to book tours, he felt that he was losing time from his walks. He felt the tension between popularity and [[freedom]].
 
 The irony is that one can only truly feel free if one has addressed one's basic needs. I could, for example, imagine a hunter and gatherer who, after spending the entire morning looking for food and satisfying his need, decides to spend the entire day looking at the sky.
 

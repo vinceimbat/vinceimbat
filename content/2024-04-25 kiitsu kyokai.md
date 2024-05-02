@@ -13,7 +13,7 @@ there is always this balance between the self and the community
 should this two entities be treated as equal or should one be more important than the other?
 we could interpret this as that when we are free as individuals we become closer together; likewise, we we become closer, we become freer
 
-this interpretation goes against this often cited idea that the individual and community is at odds against each other. Or more specifically that "freedom" declines whenn "community is strengthened" and "community declines when freedom is strengthened."
+this interpretation goes against this often cited idea that the individual and community is at odds against each other. Or more specifically that "freedom" declines when "community is strengthened" and "community declines when freedom is strengthened."
 
 And when we talk about this, we can't escape but to talk about politics a bit, because politics in its very core is simply about how one relates to the other.
 

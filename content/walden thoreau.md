@@ -40,6 +40,9 @@ Economy
 - fashion follows the new keeps on changing whimsically; compares it with tattooing that doesn't change
 - fashion is not meant to cloth people but to make people rich
 
+# Others
+
+The ultimate goal of the author's experiment at Walden is not to prove the economic advantage of living simply, but rather to nurture understanding of self and of the universe.
 
 # References
 

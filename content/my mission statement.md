@@ -25,5 +25,24 @@ I am committed to building a world filled with Ginhawa by:
 3. nurturing a community and ecosystem of individual relationships with allies, peers, mentors, and followers; and
 4. facilitating the development of skills, practices, and knowledge related to the fulfillment of my vision and purpose in others.
 
-To Do
+# Process
+
+I believe in freedom.
+I believe in community.
+I believe in seeing things as they really are.
+I believe in positionlessness.
+I believe in compassion.
+I believe in simplicity.
+
+Through writing inspired by walking, I want to elevate everyday subjective human experiences and help others access depth and meaning from them.
+
+I craft words and images that help others experience true freedom safeguarded by a universal community.
+
+I craft words and images that invite people to think deeply about human freedom, community, and nature.
+
+I craft walk-inspired words and images that invite people to think and experience deeply what freedom and community mean in the context of nature.
+
+
+# To Do
+
 - Update

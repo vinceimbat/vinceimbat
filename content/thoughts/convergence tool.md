@@ -11,7 +11,7 @@ sr-ease: 230
 ---
 A convergence tool facilitates the convergence of divergent concepts and other mental contents so an overarching relationship forms among them.
 
-Convergence tools define boundaries of action. They help one focus and prioritize, which involves rejecting opportunities that don’t align with a convergence tool. Examples of convergence tools are [[thoughts/purpose]], [[thoughts/vision statement]], and [[thoughts/mission statement]], components of a [[thoughts/life management system]]'s [[00 - A/Sky level]].
+Convergence tools define boundaries of action. They help one focus and prioritize, which involves rejecting opportunities that don’t align with a convergence tool. Examples of convergence tools are [[thoughts/purpose]], [[thoughts/vision statement]], and [[mission statement]], components of a [[thoughts/life management system]]'s [[00 - A/Sky level]].
 
 A convergence tool is so precious because it takes a long time to arrive at it and even if you feel like you've arrived, you later learn you were wrong. Whenever you commit and feel hell yeah, that is your biggest win because it took you a long time and a lot of trial and error to arrive at commitment. This is esp true if you are minimalist in your beliefs and you don't easily trust people or ideas.
 

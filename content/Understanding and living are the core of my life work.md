@@ -11,7 +11,7 @@ sr-ease: 275
 
 The [[Five areas of my life work]] are further categorized between [[Inner work vs. outer work]]. My inner work consists of [[thoughts/understanding]] and [[thoughts/living]]. These two are the core of my life work.
 
-Understanding, the practice of the mind, allows the emergence and articulation of my [[my vision statement|vision]]. This vision, in turn, inspires everything I do, including my [[poetry]], [[thoughts/photography]], and [[writing]]. Everything becomes easier when understanding is nurtured and I nurture it through [[thoughts/philosophy]].
+Understanding, the practice of the mind, allows the emergence and articulation of my [[my vision statement|vision]]. This vision, in turn, inspires everything I do, including my [[poetry]], [[photography]], and [[writing]]. Everything becomes easier when understanding is nurtured and I nurture it through [[thoughts/philosophy]].
 
 Meanwhile, living helps counterbalance and check understanding. It is the arena where experimentation becomes possible. [[thoughts/understanding mainly informs action]]—to act appropriately moment to moment (see [[Pragmatism]]; [[Understanding leads to compassion]]).
 

@@ -1,14 +1,12 @@
 ---
-title: 2024-04-12 seeds
-date: 2024-04-12
+title: Dokdok
+date: 2024-05-01
 aliases: 
 draft: false
 tags:
-  - thoughts
-  - seeds
+  - poems
+  - seedlings
 ---
-- [[dokdok]]
-
 Agko nasalambit so labay kon ibaga
 Dokdokdoken ko ray salita
 Singa panodokdok ko'd sarayan bukel

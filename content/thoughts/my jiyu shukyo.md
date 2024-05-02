@@ -9,6 +9,6 @@ tags:
 This page tracks my personal expression of [[jiyu shukyo|jiyu shukyo]]. My free religion combines the following media of expression:
 - [[walking|walking]]
 - [[writing|writing]]
-- [[thoughts/photography|photography]]
+- [[photography|photography]]
 - [[thoughts/facilitating|facilitating]]
 

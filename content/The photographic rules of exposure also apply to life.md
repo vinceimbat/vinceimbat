@@ -12,6 +12,6 @@ tags:
 
 ## Related
 
-- [[thoughts/photography]]
+- [[photography]]
 
 # References

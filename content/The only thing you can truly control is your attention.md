@@ -18,7 +18,7 @@ Because this is the only thing we can control, we could conclude that everything
 
 While most things in your physical and mental environments are beyond our control, we can control what we pay attention to and when and how we direct attention.
 
-We can also develop this skill of controlling our attention. We can develop it through [[thoughts/meditation]], [[thoughts/photography]] ([[Photography is mindfulness training]]), walking, and managing distractions. In therapy, [[Cognitive Behavioral Therapy]] works wonders.
+We can also develop this skill of controlling our attention. We can develop it through [[thoughts/meditation]], [[photography]] ([[Photography is mindfulness training]]), walking, and managing distractions. In therapy, [[Cognitive Behavioral Therapy]] works wonders.
 
 Related
 

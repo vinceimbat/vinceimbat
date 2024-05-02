@@ -1,16 +1,12 @@
 ---
-title: 2024-04-09 seeds
-date: 2024-04-09
+title: Say Dilak
+date: 2024-05-01
 aliases: 
 draft: false
 tags:
-  - thoughts
-  - seeds
+  - poems
+  - seedlings
 ---
-- [[say dilak]]
-
-Say Dilak
-
 Et sankatlo
 diya'd utel to et Pangasinan
 on my mouth is English
