@@ -8,11 +8,14 @@ tags:
   - thoughts
   - seedlings
 ---
-Integrate here:
-- [[thoughts/my daily routine]]
-- [[thoughts/my daily walking routine]]
+# Current
+
+Date: [[2024-05-02]]
+
+My mission is to use my gifts as best I can to help honest, earnest, free-spirited, and loving seekers practice faith and love in themselves, their neighbors, their community, life, and nature.
 
 ***
+# Old
 
 I am committed to living a life filled with Ginhawa by developing [[mindfulness]] and [[thoughts/understanding]], so I can always perform the right and compassionate [[thoughts/action]] in [[thoughts/my life areas]].
 

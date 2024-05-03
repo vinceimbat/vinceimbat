@@ -9,6 +9,14 @@ tags:
   - thoughts
   - seedlings
 ---
+# Current
+
+Date: [[2024-05-02]]
+
+My purpose is to use each moment as an opportunity to practice faith on the underlying goodness in the unity of life and nature, responding lovingly toward what each moment asks.
+
+# Old
+
 My purpose is to live deliberately.
 
 This entails the following:
