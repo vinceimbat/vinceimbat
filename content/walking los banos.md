@@ -3,6 +3,7 @@ title: Walking Los Baños
 date: 2024-01-26
 aliases:
   - thoughts/walking-los-baños
+  - walking-los-ba%C3%B1os
 draft: false
 tags:
   - thoughts

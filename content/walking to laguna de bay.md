@@ -41,7 +41,7 @@ I went back to the lake today—tempted to call it dagat as people do here. I’
 
 # Related
 
-- [[walking los baños]]
+- [[walking los banos]]
 
 ## References
 

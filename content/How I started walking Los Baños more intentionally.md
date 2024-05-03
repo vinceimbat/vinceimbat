@@ -12,7 +12,7 @@ I was astounded after seeing that Mt. Makiling and UP already took about half of
 
 # Related
 
-- [[walking los baños]]
+- [[walking los banos]]
 - [[walking to laguna de bay]]
 
 ## References
