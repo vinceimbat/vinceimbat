@@ -15,7 +15,7 @@ Thinking about Imaoka put me back to my quest and framing my life into a ministr
 
 So, I began considering how I could transform writing into a ministry. I considered the methods of the [[thoughts/transcendentalism|American Transcendentalists]] through the book [[literature/literary transcendentalism buell|Literary Transcendentalism]] by Lawrence Buell and learned that they were primarily preoccupied with how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
 
-I then encountered [[Pat Schneider]] whose writing method detailed in her book  [[writing alone and with others schneider|Writing Alone and with Others]] was used to transform writing into a method for spiritual and social change.
+I then encountered [[pat schneider]] whose writing method detailed in her book  [[writing alone and with others schneider|Writing Alone and with Others]] was used to transform writing into a method for spiritual and social change.
 ***
 # Studies
 
@@ -76,7 +76,7 @@ I then encountered [[Pat Schneider]] whose writing method detailed in her book  
 ## Writing Ministry
 
 - I realized that although I still want a ministry, I'm not sure if I want to be a pastor again. Realization: Since I've dabbled with writing for almost half my life, I am considering living a ministry with writing at the center. Although working directly with people is something I would also love to have.
-- Writing as a ministry: Enter [[Pat Schneider]]. I discovered her through her spiritual writing book How the Light Gets In. But I started studying here AWA method through her book [[writing alone and with others schneider|Writing Alone and with Others]].
+- Writing as a ministry: Enter [[pat schneider]]. I discovered her through her spiritual writing book How the Light Gets In. But I started studying here AWA method through her book [[writing alone and with others schneider|Writing Alone and with Others]].
 	- I wrote on [[2023-11-23]]: "Whilst I adhere to free religion, I don't think being a pastor is really for me. I am not close to the possibility. But I am currently so in love with writing that it is what's calling me strongest right now. The only difference now is that aside from a personal writing practice, I intend to write with others together. I see writing is a vehicle to fulfill my ministry as a serious writer and a writing teacher following the tradition of the writing process movement."
 - Did the first exercise: Beginning at Your Own Beginning.
 
