@@ -40,3 +40,7 @@ Okada didn't have an organization
 # References
 
 Brown, A. J. (2024, January 19). Basic Information & Weekly Zoom Meetings on Thursdays. _Caute_. [https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html](https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html)
+
+Nakura, Miki. _Fundamentals of Seiza, Sitting-in-Stillness: A Simple Sitting and Breathing Method Established by Okada Torajiro_.
+
+>Keep the lumbar vertebrae upright and stable whether sitting, standing, or walking. Neither slump nor clench. Keep the lower back erect and buoyant all the time, not allowing it to bend under the weight of the upper body. Maintain this positive carriage consistently, everywhere, all the time, and in any situation.
