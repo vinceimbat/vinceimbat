@@ -8,4 +8,4 @@ tags:
   - thoughts
   - seedlings
 ---
-- [[thoughts/journaling is sacred|journaling is sacred]]
+- [[journaling is sacred|journaling is sacred]]

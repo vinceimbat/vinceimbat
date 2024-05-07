@@ -11,14 +11,14 @@ sr-interval: 99
 sr-ease: 216
 ---
 
-If I don't have to work on a project during the writing block of the uninterrupted morning block of [[thoughts/my daily routine]], I jump right into the core of my creative practice: writing inside [[thoughts/forest garden of the mind]].
+If I don't have to work on a project during the writing block of the uninterrupted morning block of [[my daily routine]], I jump right into the core of my creative practice: writing inside [[thoughts/forest garden of the mind]].
 
 I do my writing in the morning to take the most advantage of the clarity and focus and usually have after a good sleep.
 
 There are several types of [[thoughts/seeds]] and [[thoughts/seedlings]] in my forest garden, but I prioritize developing [[templates/essay]] and [[thoughts/poems]]. I scout my [[writing inbox]] for any unfinished essay or poem and work on them.
 
 If I am running out of essays or poems to work on, this means my writing prompts are running out and I need to generate more prompts through the following:
-1. I review and process at least two previous [[Diary]] entries and see if I could generate new prompts from them.
+1. I review and process at least two previous [[diary]] entries and see if I could generate new prompts from them.
 2. I review and process [[thoughts/seeds]] (snippets taken during a walk). I begin with yesterday then move my way backwards.
 3. I review insight notes.
 4. I review literature notes.

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 267
 ---
 
-As I read this entry and recall my readings of [[thoughts/edward mooney]]'s blog and books, I notice a similarity. This [[thoughts/lyrical philosophy]] is writing beautifully about things these philosophers are reading—books, ideas written by their heroes. [[henry david thoreau]] would be apalled! (See [[Words written outdoors vs indoors]].) But why can't we do both—a philosophical life that consists of reading a lot and writing about what onne reads and writing outdoors to open oneself to direct revelation?
+As I read this entry and recall my readings of [[thoughts/edward mooney]]'s blog and books, I notice a similarity. This [[lyrical philosophy]] is writing beautifully about things these philosophers are reading—books, ideas written by their heroes. [[henry david thoreau]] would be apalled! (See [[Words written outdoors vs indoors]].) But why can't we do both—a philosophical life that consists of reading a lot and writing about what onne reads and writing outdoors to open oneself to direct revelation?
 
 In this entry, [[thoughts/henry bugbee]] directly responds to [[Gabriel Marcel]]. He returns to the subject of [[faith]].[^1] He begins by stating that faith (i.e., openness or trustingness) is as important in ethical reflection as in action. Philosophical truth, he claims, arrives to the present from the past via reflection. But this arrival requires faith on the possibility of realization because philosophical truth, the meaning of one's past experiences, comes involuntarily like insight ([[thoughts/insight cannot be predetermined]]). We do not control its arrival artificially. We can only wait and trust (i.e., have faith) that it will arrive.
 

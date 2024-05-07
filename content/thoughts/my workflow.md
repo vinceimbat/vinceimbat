@@ -14,7 +14,7 @@ sr-ease: 207
 
 # Daily
 
-Every day, I strive to follow [[thoughts/my daily routine]]. My morning are spent primarily for writing, thinking, and reading. My goal is to use mornings to connect and listen to myself through writing and to produce good work.
+Every day, I strive to follow [[my daily routine]]. My morning are spent primarily for writing, thinking, and reading. My goal is to use mornings to connect and listen to myself through writing and to produce good work.
 
 In the afternoon, I usually do sustenance and admin work. After this, to complement heavily intellectual mornings, I do field works in the late afternoon to evening because [[walking accomplishes multiple goals]]. These fieldworks generate [[thoughts/seeds]] that I could then work on the following day.
 

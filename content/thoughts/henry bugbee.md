@@ -14,7 +14,7 @@ sr-ease: 230
 
 Henry Bugbee is perhaps the closest to [[henry david thoreau|henry david thoreau]] that I have encountered in my readings in terms of resonance. I see and feel Thoreau in him without him even trying to copy Thoreau's writing (unlike what [[annie dillard]] did). His life is what is most Thoreauvian.
 
-He was committed to a philosophical-spiritual life. [[thoughts/philosophy]] for him was an exploration of his life in the context of other lives in nature. Living philosophically was more important to him than professional prominence. While he didn't write exactly like Thoreau, his writings were lyrical. He was an active participant in his writings ([[thoughts/lyrical philosophy]]). In some ways, he even overtaked Thoreau, particularly in the contest of who wrote lesser.
+He was committed to a philosophical-spiritual life. [[thoughts/philosophy]] for him was an exploration of his life in the context of other lives in nature. Living philosophically was more important to him than professional prominence. While he didn't write exactly like Thoreau, his writings were lyrical. He was an active participant in his writings ([[lyrical philosophy]]). In some ways, he even overtaked Thoreau, particularly in the contest of who wrote lesser.
 
 ## Bugbee wrote little because his life was his masterpiece
 

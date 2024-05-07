@@ -11,7 +11,7 @@ sr-ease: 229
 
 ## Friday, August 29, 1952
 
-I am starting to fear that the more I immerse myself into [[thoughts/henry bugbee]]'s philosophy, the more I need to embrace irrationality and related concepts. I hope not. It seems that this is inevitatable as I set myself to study a different brand of [[thoughts/philosophy]]—one that isn't analytical but lyrical ([[thoughts/lyrical philosophy]]).
+I am starting to fear that the more I immerse myself into [[thoughts/henry bugbee]]'s philosophy, the more I need to embrace irrationality and related concepts. I hope not. It seems that this is inevitatable as I set myself to study a different brand of [[thoughts/philosophy]]—one that isn't analytical but lyrical ([[lyrical philosophy]]).
 
 In August 29, Bugbee shifts his discussion from [[thoughts/certainty]] to [[thoughts/wonder]] (later, he returns to certainty). He agrees with [[Aristotle]] and [[Plato]] that "wonder marks the inception of philosphy." However, he felt like Aristotle, in particular, failed to elaborate this notion in a manner it deserves. Bugbee seems to propose that wonder and [[Curiosity]] are opposites, which I think makes sense. When you wonder, you may continue to question but you become contented with basking in those questions. When you are curious, you are propelled to answer the question; you believe that there is an answer and you don't stop until you get it.
 

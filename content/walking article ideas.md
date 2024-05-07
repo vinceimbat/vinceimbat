@@ -1,11 +1,9 @@
 ---
-title: "walking article ideas"
-date: "2023-01-02"
+title: walking article ideas
+date: 2023-01-02
 tags:
-- "seedlings"
-sr-due: 2023-01-06
-sr-interval: 4
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
 
 - Write an article on walking on grass and barefoot walking.

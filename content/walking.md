@@ -117,3 +117,4 @@ Resources that have shaped how I think about walking.
 - [[walking experiments]]
 - [[walking as writing methodology]]
 - [[walking resources]]
+- [[walk projects]]

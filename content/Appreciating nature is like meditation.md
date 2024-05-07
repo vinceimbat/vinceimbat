@@ -13,7 +13,7 @@ This is why walking is meditation—a mindfulness practice of being present to t
 
 # Related
 
-- [[thoughts/meditation]]
+- [[meditation]]
 - [[Deep thinking is meditation]]
 
 # References

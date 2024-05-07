@@ -14,7 +14,7 @@ Walking prompts thinking in two ways:
 
 It is particularly effective in deciphering connections and generating inklings. While it might not be the best way to fully develop inklings (this is best done at home in front of a laptop; see [[Use your phone to collect materials not read them]]), one can take stops and write down cohesive threads of thought.
 
-[[walking]] is an integral part of my [[thoughts/my daily routine]] because [[walking accomplishes multiple goals]].
+[[walking]] is an integral part of my [[my daily routine]] because [[walking accomplishes multiple goals]].
 
 Despite its many benefits in intellectual work, I also notice some cons
 

@@ -15,7 +15,7 @@ The presence that exudes wonder then makes us realize that our minds are natural
 
 Bugbee calls this inclination of our minds to wander a manifestation of its homeless nature. We are exiles. We can deny this nature or we can embrace it and patiently wait for "that which can make us at home in this condition."
 
-Is wonder that thing which makes us experience it, that which makes us at home? I believe so. As he said in [[The Inward Morning Commentary 1952-08-29]], an "ultimate occasion for incorrigible wonder" begins when explanation becomes irrelevant, as is the case with Aristotle's [[unmoved mover]]. Therefore, wonder is what makes the mind rest. In some way, it does what [[thoughts/meditation]] does but in a more natural and spontaneous manner, unlike meditation that requires discipline.
+Is wonder that thing which makes us experience it, that which makes us at home? I believe so. As he said in [[The Inward Morning Commentary 1952-08-29]], an "ultimate occasion for incorrigible wonder" begins when explanation becomes irrelevant, as is the case with Aristotle's [[unmoved mover]]. Therefore, wonder is what makes the mind rest. In some way, it does what [[meditation]] does but in a more natural and spontaneous manner, unlike meditation that requires discipline.
 
 Bugbee ends his entry by connecting wonder with what he calls the "openness on the part of a person in his entirety." He says that if wonder should be treated not just a prompt for reflection but also as a source of fundamental truth, a notion he introduced in [[The Inward Morning Commentary 1952-08-29]], it has to involve this openness.
 

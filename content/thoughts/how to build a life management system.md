@@ -113,7 +113,7 @@ My workflow involves working on small projects that are documented then shared.
 5. Apply plan.
 6. Report results via blog and newsetter.
 
-[[thoughts/my daily routine]]
+[[my daily routine]]
 
 # Talahardin
 

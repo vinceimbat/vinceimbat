@@ -56,3 +56,28 @@ tags:
       - [ ] Start a small group mastermind.
       - [ ] Start a one-on-one mastermind.
 
+
+***
+
+Find your tribe.
+Read your heroes (philosophical, nature)
+Serve your tribe.
+
+You only have around 2 weeks of free time every month.
+
+Your priority for those 2 weeks is to be close as possible to your tribe.
+
+1. Reading the works of your tribe.
+2. Writing for your tribe (them and yourself).
+3. Connecting with my tribe one on one in a deeper level.
+
+Conduct walks
+
+Topics
+- doubts
+
+How are you going to create a gateway for someone like you?
+
+Process to share.
+
+1. Return to your voice. Your authenticity.

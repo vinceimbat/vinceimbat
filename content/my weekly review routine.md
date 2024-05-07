@@ -12,13 +12,12 @@ tags:
 Schedule: Monday, afternoon
 
 - Clear Email.
-- Open Cleanfox and unsubscribe from unwanted email lists.
 - Review Calendar (two weeks backwards and four weeks forward).
 - Clear Google Drive Inbox.
 - Delete or archive articles in Instapaper.
 - Clear Desktop and Downloads.
 - Process Drafts.
-- Process audio recordings.
+- Process audio recordings. 
 - Clear physical inbox.
 - Refine projects list.
    - In Things 3, mark completed projects as Completed.

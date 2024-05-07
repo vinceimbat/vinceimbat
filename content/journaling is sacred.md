@@ -3,11 +3,10 @@ title: Journaling is sacred
 date: 2023-06-01
 aliases:
   - Journaling-is-sacred
+  - thoughts/journaling-is-sacred
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-10-22
-sr-interval: 88
-sr-ease: 270
 ---
 Somehow, I see writing in my journal as something sacred, reverent, and venerable. And perhaps it is. For many years it has helped me go through a lot of things. It has brought me to many places. The words that started here has become notes on my garden, which in turn become posts on my blog and newsletter.
 

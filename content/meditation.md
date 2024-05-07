@@ -1,11 +1,11 @@
 ---
-title: "Meditation"
-date: "2021-03-27"
+title: Meditation
+date: 2021-03-27
+aliases:
+  - thoughts/meditation
 tags:
-- "seedlings"
-sr-due: 2025-03-16
-sr-interval: 593
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
 
 - [[Meditation does not require silence or nonthinking]]

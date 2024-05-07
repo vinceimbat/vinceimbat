@@ -1,12 +1,17 @@
 ---
-title: "Book projects"
-date: "2022-06-24"
+title: Book projects
+date: 2022-06-24
+aliases:
+  - Book-projects
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
 ---
+I want to create books that can help people build spiritual lives.
 
-Yapak: Isang Kasaysayan ng Paglalakad
+Here are some book project ideas that might do just that:
 
-
-# References
+- Yapak: Isang Kasaysayan ng Paglalakad
+- Calendar of Wisdom
+- Collection of translations from Thoreau's journals
+- Book about LB

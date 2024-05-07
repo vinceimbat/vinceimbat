@@ -14,7 +14,7 @@ tags:
 
 I find it amazing how encountering a certain work of art could change how I [[seeing the world clearly|see the world]] almost instantly. This is what I love about reading [books](/tags/hero-books/), watching films, visiting galleries, and listening to [[my 2019 musical diaries|music]]. When the art and the person behind it are the right ones, this internal world reorganization happens easily.
 
-Since practicing [[thoughts/meditation|meditation]] and visiting Nature almost every day, I realized that if I cultivate a daily mindful state, I would feel more at home. I am naturally [[seven lessons i learned since my depression in 2011|melancholic]]. This tendency has always been within me. However, I discovered that through mindfulness, I am able to transform this melancholia into an existential feeling where every single thing I see around me, and every single moment, bursts into a supernova of awe and deep appreciation.
+Since practicing [[meditation|meditation]] and visiting Nature almost every day, I realized that if I cultivate a daily mindful state, I would feel more at home. I am naturally [[seven lessons i learned since my depression in 2011|melancholic]]. This tendency has always been within me. However, I discovered that through mindfulness, I am able to transform this melancholia into an existential feeling where every single thing I see around me, and every single moment, bursts into a supernova of awe and deep appreciation.
 
 There’s one caveat though—I need a trigger for this to happen. And that trigger is usually a unique and excellent work of art.
 

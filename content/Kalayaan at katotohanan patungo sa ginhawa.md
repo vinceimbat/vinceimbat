@@ -21,7 +21,7 @@ Ang katotohanan ay nagpapaginhawa
 
 Pero minsan,
 
-Ang kalayaan at katotohanan ay hindi nagdudulot ng [[Ginhawa]]
+Ang kalayaan at katotohanan ay hindi nagdudulot ng [[ginhawa]]
 
 Kaya minsan, handang ibigay ng tao ang kaniyang kalayaan
 

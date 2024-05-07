@@ -3,8 +3,9 @@ title: My daily routine
 date: 2021-01-06
 aliases:
   - My-daily-routine
-  - my daily routine
+  - thoughts/my-daily-routine
 tags:
+  - thoughts
   - evergreens
 ---
 My daily objective is to nurture all [[thoughts/my life areas|my life areas]] but doing something for each. I assign each life area to a time block.

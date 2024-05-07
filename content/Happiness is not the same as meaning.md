@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 275
 ---
 
-[[Ginhawa]] which defines a state of well-being, often akin to or leading to [[thoughts/happiness]], is not the same as living a meaningful life. Sometimes, to live a life of [[thoughts/meaning]] necessitates accepting a measure of discomfort. This means that [[Happiness is not the ultimate value]] and, therefore, [[Hedonism]] is wrong.
+[[ginhawa]] which defines a state of well-being, often akin to or leading to [[thoughts/happiness]], is not the same as living a meaningful life. Sometimes, to live a life of [[thoughts/meaning]] necessitates accepting a measure of discomfort. This means that [[Happiness is not the ultimate value]] and, therefore, [[Hedonism]] is wrong.
 
 Humans do not desire happiness alone. Humans also aspire for meaning, sometimes even more than happiness. The lives of the greatest exemplars of human kindness and compassion prove this.
 

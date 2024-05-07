@@ -28,7 +28,7 @@ Another way of articulating the kind of writing I want to do is writing about th
 
 # Update this with new insights
 
-I am committing to writing [[thoughts/lyric essay|lyric essays]] that are philosophical in nature, specifically [[thoughts/existentialism|existential]] in nature (i.e., [[thoughts/lyrical philosophy|lyrical philosophy]]), which are generated through walking.
+I am committing to writing [[thoughts/lyric essay|lyric essays]] that are philosophical in nature, specifically [[thoughts/existentialism|existential]] in nature (i.e., [[lyrical philosophy|lyrical philosophy]]), which are generated through walking.
 
 This commitment should focus my reading.
 

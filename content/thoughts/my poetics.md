@@ -66,7 +66,7 @@ I have done some work defining:
 
 All of these are people I want my work to have an effect on.
 
-At present, I think the field I will best thrive is the arts, specifically creative writing ([[A life in letters]]). Although, I am not completely ruling out philosophy, specifically [[thoughts/lyrical philosophy]].
+At present, I think the field I will best thrive is the arts, specifically creative writing ([[A life in letters]]). Although, I am not completely ruling out philosophy, specifically [[lyrical philosophy]].
 
 Being Filipino, my audience will primarily be Filipino. But I still want to converse with an international audience because walking, philosophy, and most other subjects I'm interested in are universal topics.
 
@@ -151,7 +151,7 @@ My work has some pastoral elements in it. My calling, my gift, is to remind peop
 
 My creative life is an extension of my life. The main reason why I create is because I want to understand the world and live well. My life is my most important artwork. Therefore, my creative life begins within. I am my first audience. Whatever creative work I do in private is my most important work. I believe that creation is first an act of renewal. This inner work is the most fundamental part of creative life. I could do away with all the other but not this.
 
-This is why the most important parts of [[thoughts/my daily routine]] are those that involve [[thoughts/meditation]], [[thoughts/contemplation]], [[walking]], and [[thoughts/journaling is sacred|journaling]]. When I am busy with sustenance work, I could let go of other projects except these.
+This is why the most important parts of [[my daily routine]] are those that involve [[meditation]], [[thoughts/contemplation]], [[walking]], and [[journaling is sacred|journaling]]. When I am busy with sustenance work, I could let go of other projects except these.
 
 (Note: Connect here discussion in [[Understanding and living are the core of my life work]])
 

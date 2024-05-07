@@ -28,7 +28,7 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 4. [[thoughts/life goals|Life goals]]: Add new goals and corresponding projects in your [[my life goals master list|my life goals master list]]. Refer to [[thoughts/how to set goals|how to set goals]].
 4. [[personal narrative vision|Personal narrative vision]]: Review last year’s personal narrative vision and write next year’s.
 5. Routines and reviews: Review last year’s routines and update them if necessary. Re-evaluate the following:
-	- [[thoughts/my daily routine|my daily routine]]
+	- [[my daily routine|my daily routine]]
 	- [[thoughts/review|review]]
 7. Share the results of your annual review to the people who are important to you: your partner, family, friends, and colleagues.
 

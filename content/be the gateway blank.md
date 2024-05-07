@@ -706,6 +706,10 @@ understanding the connection between what you create, why you create it, and how
 
 it is about showing up each day to do the work. It is about building a habit that is practical and accessible.
 
+# Related
+
+- [[be the gateway todos]]
+
 # References
 
 Blank, Dan. _Be the Gateway: A Practical Guide to Sharing Your Creative Work and Engaging an Audience_. WeGrowMedia, 2017.

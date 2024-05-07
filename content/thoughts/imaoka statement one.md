@@ -18,7 +18,7 @@ In affirming this, I ought to ask the following questions:
 - How do I listen to myself?
 - How do I keep an open heart and mind to that part of me which springs out thoughts and emotions, ever-changes, and sometimes direct my life?
 
-Contemplative practices like [[seiza|seiza]], [[walking|walking]], [[thoughts/journaling is sacred|journaling]], and tending a [[talahardin|Talahardin]] helps me listen to myself, a feat that could be really difficult sometimes.
+Contemplative practices like [[seiza|seiza]], [[walking|walking]], [[journaling is sacred|journaling]], and tending a [[talahardin|Talahardin]] helps me listen to myself, a feat that could be really difficult sometimes.
 
 Although I may have had some considerable progress in listening to myself, I'm unsure whether I've trusted myself enough. What does trusting oneself look like? Does it involve establishing my boundaries and protecting them? Or is witnessing the coming and going of my thoughts and emotions without judgment enough?
 

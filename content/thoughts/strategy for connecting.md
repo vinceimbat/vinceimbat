@@ -8,7 +8,7 @@ sr-due: 2024-01-06
 sr-interval: 2
 sr-ease: 249
 ---
-I reach out to my scenius every day as part of [[thoughts/my daily routine]]. I do this in the afternoon after [[thoughts/my morning writing practice]] in the morning. At the start, I should do audience research according to the advice of [[thoughts/dan blank]]. Once I start being connected with ideal followers in social media, I could start sharing my processes on social media.
+I reach out to my scenius every day as part of [[my daily routine]]. I do this in the afternoon after [[thoughts/my morning writing practice]] in the morning. At the start, I should do audience research according to the advice of [[thoughts/dan blank]]. Once I start being connected with ideal followers in social media, I could start sharing my processes on social media.
 
 ---
 
@@ -19,7 +19,7 @@ The following is the process and principles I follow when [[thoughts/connecting]
 1. I will put up a system for connecting.
    - I will be using social media to connect with people. I will pe picking just one. The platform should be something that me and my audience enjoy using.
    - These social media efforts are designed to get everyone into my email list.
-1. I will pursue reaching out as a daily habit embedded in [[thoughts/my daily routine]].
+1. I will pursue reaching out as a daily habit embedded in [[my daily routine]].
 2. I will look for influencers I resonate with, reach out to them and build a relationship with them.
 3. I will check who they are interacting with in their comments.
 4. I will reach out to people in their audience I resonate with and start conversing with them.

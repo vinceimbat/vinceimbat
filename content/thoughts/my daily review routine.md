@@ -28,7 +28,7 @@ For writing, I simply write what I read and wrote that day that is connected to 
 
 For projects, I just ask one question for each: What did I do to move this project closer to completion? For others, I would usually log new things, places, or media I explored.
 
-I conduct this daily review the morning after the day as part of [[thoughts/my daily routine|my daily routine]] and write them in a [[templates/daily note|daily note]]. These reports will be useful when I conduct my [[monthly review|monthly review]].
+I conduct this daily review the morning after the day as part of [[my daily routine|my daily routine]] and write them in a [[templates/daily note|daily note]]. These reports will be useful when I conduct my [[monthly review|monthly review]].
 
 # References
 

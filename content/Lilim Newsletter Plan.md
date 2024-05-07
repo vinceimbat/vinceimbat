@@ -49,7 +49,7 @@ Publish long essays on your most important topivs when you are ready.
 
 # Workflow
 
-From Monday to Friday, I perform [[thoughts/my daily routine]], which is made up primarily of contemplating, journaling, reading, processing notes, and walking.
+From Monday to Friday, I perform [[my daily routine]], which is made up primarily of contemplating, journaling, reading, processing notes, and walking.
 
 I will dedicate at least one day in the weekend (either Saturday or Sunday) to:
 

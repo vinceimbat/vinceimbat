@@ -1,14 +1,12 @@
 ---
-title: "Ginhawa"
-date: "2021-02-11"
+title: Ginhawa
+date: 2021-02-11
+aliases:
+  - Ginhawa
 tags:
-
-- "seedlings"
-sr-due: 2025-05-06
-sr-interval: 849
-sr-ease: 272
+  - thoughts
+  - seedlings
 ---
-
 Tagalog (kaginhawahan), Ikokano (gin-awa), Kapampangan (masalese), Naga Bikol and Sorsogon (kasangyangan), Sebwano and Surigawnon, ayahay, Waray (maupay).
 
 Well-being is measured by material things, achieved with help from the spirit world and by social interaction within the community, and guided or maintained by nature or the environment.

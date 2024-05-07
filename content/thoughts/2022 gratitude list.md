@@ -64,7 +64,7 @@ I am grateful for:
 55. **Ordering, unboxing, and reading Kissa by Kissa.**
 56. Learning more things about Thoreau: the romantic excursion, his quest, and his philosophical stance.
 57. **Writing [[thoughts/my quest]] after reading Thoreau's quest.**
-58. [[thoughts/lyrical philosophy|lyrical philosophy]] specifically that studied by [[thoughts/edward mooney|edward mooney]].
+58. [[lyrical philosophy|lyrical philosophy]] specifically that studied by [[thoughts/edward mooney|edward mooney]].
 59. [[thoughts/henry bugbee|henry bugbee]] and his work [[thoughts/the inward morning by bugbee|The Inward Morning]], which I have written commentaries about (see [[thoughts/my commentaries on the inward morning by bugbee|My commentaries on The Inward Morning by Bugbee]]).
 60. [[Ordinary language philosophy|Ordinary language philosophy]], particularly the work of [[thoughts/ludwig wittgenstein|ludwig wittgenstein]].
 61. **Clarified the kind of writing I want to master: artifacts of writing around universal subject matters, which are place-based and use the romantic excursion as their device.**
@@ -118,5 +118,5 @@ I am grateful for:
 110. The [[cablong to banaoang walk|Cablong to Banaoang walk]].
 111. Prototyping a life management system program for Lea.
 112. Seeing Bev's and Embi's new home and having some company during the dead week.
-113. Revamping [[thoughts/my daily routine]], transferring office, and including pomodoro in morning routine.
+113. Revamping [[my daily routine]], transferring office, and including pomodoro in morning routine.
 114. Spending a quiet Christmas and New Year just with Lea.

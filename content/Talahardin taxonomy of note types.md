@@ -15,7 +15,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/e
 
 ## Ladder
 
-- Entries in my [[Diary]]. [[A diary should be used as an inbox]] where a single diary entry could be a source of several [[Fleeting notes]].
+- Entries in my [[diary]]. [[A diary should be used as an inbox]] where a single diary entry could be a source of several [[Fleeting notes]].
 - [[Fleeting notes]] (i.e., prompts and incomplete notes) in my [[writing inbox]]. These notes accumulate over time but are drained through a [[thoughts/spaced repetition writing system]]. Well-developed fleeting notes leave the writing inbox as [[thoughts/evergreens]].
 - [[thoughts/evergreens]]. While these notes leave the writing inbox in better quality, they can still be developed further. There are different kinds of permanent notes:
    - Stubs that don’t have a content of their own but gain meaning through backlinks. An example of this is the note [[Unfruitful]]. I actually gave a short description of the stub, but its meaning makes more sense because of the backlinks under it. It is a place to hold unfruitful writing prompts in my writing inbox that needs to be reviewed in a later date.
@@ -32,7 +32,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/e
 - Proper noun notes. These notes are not concept-oriented so they cannot be used to build permanent notes.
    - [[literature notes]]. These notes are where I collect fleeting notes from what I read. After I convert these fleeting notes into permanent notes ([[how to convert literature notes to permanent notes]]) thus emptying them, they serve as nodes for backlinks to permanent notes. Literature notes are like outline notes of other people's ideas. For example: [[_notes/02 Talahardin/How to Take Smart Notes - Ahrens]]
    - [[Person notes]] (e.g., [[thoughts/rem tanauan]]) or entity notes.
-   - Log notes. These notes contain ephemeral observations about a specific practice, system, or project over time. Unlike the [[Diary]], which is sliced by date, log notes are sliced by a topic of interest, e.g., [[nature journal]].
+   - Log notes. These notes contain ephemeral observations about a specific practice, system, or project over time. Unlike the [[diary]], which is sliced by date, log notes are sliced by a topic of interest, e.g., [[nature journal]].
 
 TODO
 

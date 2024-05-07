@@ -23,7 +23,7 @@ Two of my main goals in my work are:
 
 My approach to developing knowledge in these three areas can be characterized as non-sectarian, scientific, but holistic as it integrates practices from different traditions without subscribing to their metaphysical claims and beliefs.
 
-Through my work, I would like to contribute in nurturing a space and a community for careful, cautious, honest, and self-directed thinkers to pursue personal growth and development so they can maximize [[Ginhawa]]. This space and community is something I also need myself.
+Through my work, I would like to contribute in nurturing a space and a community for careful, cautious, honest, and self-directed thinkers to pursue personal growth and development so they can maximize [[ginhawa]]. This space and community is something I also need myself.
 
 All kinds of people, from different beliefs, could join, as long as they are willing to leave those identities behind when they sit.
 

@@ -26,7 +26,7 @@ Listened to problems about Patreon: https://www.youtube.com/watch?v=7hRHnavoKmM
 ## Writing
 
 Notes:
-- [[thoughts/journaling is sacred]]
+- [[journaling is sacred]]
 - [[The artist's achilles heel]]
 - [[Decisive moment per Cartier-Bresson]]
 

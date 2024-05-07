@@ -24,4 +24,4 @@ Rest when necessary or pause to write inklings.
 
 Engage with people when there is an opportunity but prioritize thinking and listening to yourself.
 
-In the following day, during your [[thoughts/my daily routine]].
+In the following day, during your [[my daily routine]].

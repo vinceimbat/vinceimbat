@@ -14,7 +14,7 @@ For example, I can't analyze myself to loving someone or feeling in awe and amaz
 
 Although I think establishing a metaphysical basis to Mooney's claim will be difficult, we cannot dismiss the claim that whatever we call "I" has two tendencies: to analyze and to just be moved.
 
-[[thoughts/lyrical philosophy|Lyrical philosophy]] is the discipline that prioritizes being moved over analysis.
+[[lyrical philosophy|Lyrical philosophy]] is the discipline that prioritizes being moved over analysis.
 
 # Related
 

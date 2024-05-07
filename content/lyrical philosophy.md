@@ -1,19 +1,18 @@
 ---
-title: "Lyrical philosophy"
-date: "2022-07-24"
+title: Lyrical philosophy
+date: 2022-07-24
 aliases:
-- "Lyrical-philosophy"
+  - Lyrical-philosophy
+  - thoughts/lyrical-philosophy
 tags:
-- "seedlings"
-sr-due: 2022-10-16
-sr-interval: 10
-sr-ease: 230
+  - thoughts
+  - seedlings
 ---
-**Lyrical or lyric philosophy vs analytical philosophy**
+# Lyrical or lyric philosophy vs analytical philosophy
 
 Analytical philosophy, which is the kind of philosophy that dominates the world now and which sprung out of the West makes use of argumentation. Meanwhile, according to Ed Mooney, lyrical philosophy does not respond to true-false questions. But I think this idea is something I don't totally agree to just yet.
 
-**Lyrical philosophy is revisited**
+# Lyrical philosophy is revisited
 
 Lyrical philosophy is something one returns to again and again because of its affective quality.
 

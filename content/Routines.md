@@ -13,4 +13,4 @@ Routines make it easier to perform, track, and build on [[Habit]]s.
 
 - [[my annual review routine]]
 - [[my monthly review routine]]
-- [[thoughts/my daily routine]]
+- [[my daily routine]]

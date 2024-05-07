@@ -12,4 +12,4 @@ You can't be authentic if you don't know how to control your attention. Authenti
 
 [[thoughts/austin kleon|Austin Kleon]] and [[thoughts/billy collins|Billy Collins]] did say that [[thoughts/listen to others to hear your voice|listen to others to hear your voice]]. However, some artistic craft, like research, benefit more from listening to oneself because [[thoughts/thinking must produce insight|thinking must produce insight]]. Now, [[thoughts/insight cannot be predetermined|insight cannot be predetermined]] that it is difficult to catch it when one is too caught up listening to someone else's thoughts.
 
-This extends to finding your voice. There has to be a time, a space in a day, where you are not consuming, and you are just listening to youself. This mindset borrows its energy from [[thoughts/meditation|meditation]] This is [[transcend without media|transcend without media]].
+This extends to finding your voice. There has to be a time, a space in a day, where you are not consuming, and you are just listening to youself. This mindset borrows its energy from [[meditation|meditation]] This is [[transcend without media|transcend without media]].
