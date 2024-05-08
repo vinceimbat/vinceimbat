@@ -31,7 +31,7 @@ Casborran - daan ya ngaran na Alaminos nen say inmonan baley et wala ni'd gilig 
 
 # D
 
-Danaya - limgas ba kaumaan o kaalogan
+Danaya - limgas na kaumaan o kaalogan
 Dangoan
 
 # E
@@ -80,8 +80,8 @@ Nangis
 
 # O
 
-Odiem - storm?
-Ogagep
+Odiem - dim, dark (light, weather); become dark (esp. of clouds or natural light) (on-)
+Ogagep - ambition, hope, purpose; towish (man-)
 Ompaniring
 Otel - depth
 
