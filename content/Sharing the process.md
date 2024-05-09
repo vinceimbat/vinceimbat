@@ -19,6 +19,6 @@ I need to insert a very obvious element of autobiography in my essays. I shouldn
 
 Ideas on how to do this and what to share are in the following notes:
 
-- [[thoughts/work with the garage door up]]
+- [[work with the garage door up]]
 - [[A list of process artifacts I could share]]
 

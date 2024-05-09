@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-If acquiring a skill, you have to practice it directly. When learning knowledge, you have to use it in a context of use ([[Directness is connected with context of use]]). Learning through passively consuming is never enough. You have to overcome procrastination by passive consumption and the fear of just starting, so you can finally practice. You can even practice in public ([[thoughts/work with the garage door up]]).
+If acquiring a skill, you have to practice it directly. When learning knowledge, you have to use it in a context of use ([[Directness is connected with context of use]]). Learning through passively consuming is never enough. You have to overcome procrastination by passive consumption and the fear of just starting, so you can finally practice. You can even practice in public ([[work with the garage door up]]).
 
 # References
 

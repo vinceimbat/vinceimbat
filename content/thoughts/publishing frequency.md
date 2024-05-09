@@ -24,7 +24,7 @@ This is the strategy I see applied by people whose main publishable artifact are
 
 This strategy is heavy on private research.
 
-People who use this strategy are often active in social media primarily Twitter. They use it as a micro-blogging platform where people are reminded that they exist. Another way of solving the problem of people forgetting them is to [[thoughts/work with the garage door up]]. Andy does this with his working notes.
+People who use this strategy are often active in social media primarily Twitter. They use it as a micro-blogging platform where people are reminded that they exist. Another way of solving the problem of people forgetting them is to [[work with the garage door up]]. Andy does this with his working notes.
 
 Perhaps, pop-up newsletters also fall into this category.
 

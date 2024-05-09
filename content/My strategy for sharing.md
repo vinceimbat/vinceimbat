@@ -33,7 +33,7 @@ Every first week of January, I perform [[my annual review routine]]. Using a tem
 
 # As it happens
 
-In line with the philosophy of to [[thoughts/work with the garage door up]], changes in my Talahardin notes or website pages go live whenever they are published. Those who use an RSS feed to follow my website will receive notifications automatically when a page is published or gets updated. However, I am not compelled to share these in other venues. They are meant to be explored by the curious.
+In line with the philosophy of to [[work with the garage door up]], changes in my Talahardin notes or website pages go live whenever they are published. Those who use an RSS feed to follow my website will receive notifications automatically when a page is published or gets updated. However, I am not compelled to share these in other venues. They are meant to be explored by the curious.
 
 That said, [[My note-writing process]] scheduled every morning should allow me to do incremental writing progress related to my individual projects. Each project has to be documented and reported slowly through notes that later on evolve into publishable reports that make up the pages of the website.
 

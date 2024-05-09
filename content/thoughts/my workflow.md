@@ -22,7 +22,7 @@ In the afternoon, I usually do sustenance and admin work. After this, to complem
 
 Every Sunday morning I ask myself: Is there something in my forest garden that is worth-sharing? This could be either a poem, an essay, or an insight that is fully developed ([[thoughts/evergreens]]) and, therefore, can be shared. If, yes, I send a newsletter. If none, I don't force it.
 
-I know that regularity is important ([[thoughts/speak your truth frequently]]) as well as deliberate practice. But things worth-sharing takes time, so I don't share something just to share. Also, I [[thoughts/work with the garage door up]] so people can see what I'm working on anyways through following [[thoughts/forest garden of the mind]].
+I know that regularity is important ([[thoughts/speak your truth frequently]]) as well as deliberate practice. But things worth-sharing takes time, so I don't share something just to share. Also, I [[work with the garage door up]] so people can see what I'm working on anyways through following [[thoughts/forest garden of the mind]].
 
 # Monthly
 

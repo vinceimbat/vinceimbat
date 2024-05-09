@@ -4,11 +4,10 @@ date: 2021-02-05
 aliases:
   - Work-with-the-garage-door-up
   - thoughts/garage-door-up
+  - thoughts/work-with-the-garage-door-up
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-07-28
-sr-interval: 3
-sr-ease: 252
 ---
 This phrases refers to the process of [[Sharing]] one’s journey as it happens (i.e., [[Sharing the process]]). For [[thoughts/dan blank]], this is part of how to [[Be a gateway]] for other people. But it only happens when you prioritize [[thoughts/process over product]].
 

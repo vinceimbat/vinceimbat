@@ -9,7 +9,7 @@ sr-due: 2023-01-16
 sr-interval: 106
 sr-ease: 270
 ---
-Digital gardens are intentionally less performative than traditional blogs. They share works that are "under construction" ([[thoughts/work with the garage door up]]).
+Digital gardens are intentionally less performative than traditional blogs. They share works that are "under construction" ([[work with the garage door up]]).
 
 I see some parallelism between [[thoughts/henry bugbee]]'s ethic and the values inherent in digital gardening. A work of writing is decisively done at any given moment even if it is unfinished once it is shared. Once you provided the public with a peek of it, it is done. Inauthenticity happens when you force yourself to declare "finish" what isn't finish, when you declare "sure" what is unsure. Declare. Share me when you are. But don't fake it. I want to know the truth.
 
