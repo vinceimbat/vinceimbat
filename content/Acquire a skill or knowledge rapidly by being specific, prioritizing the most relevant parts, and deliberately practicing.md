@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-This is unlike [[Ultralearning, after Young]], which seems to suggest doing more work. [[Josh Kaufman]]'s approach also uses rapid skill acquisition but encourages lesser time investment through the following steps:
+This is unlike [[ultralearning]], which seems to suggest doing more work. [[Josh Kaufman]]'s approach also uses rapid skill acquisition but encourages lesser time investment through the following steps:
 
 1. Break down your learning project or skill into smaller projects or parts.
 2. Identify which of those parts are most relevant and important to you.

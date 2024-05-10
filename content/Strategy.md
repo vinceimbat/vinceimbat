@@ -1,12 +1,11 @@
 ---
-title: "Strategy"
-date: "2022-06-19"
+title: Strategy
+date: 2022-06-19
+aliases:
+  - Strategy
 tags:
-
-- "seedlings"
-sr-due: 2022-06-22
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
 
 

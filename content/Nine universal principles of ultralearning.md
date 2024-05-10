@@ -1,17 +1,15 @@
 ---
-title: "Nine universal principles of ultralearning"
-date: "2022-06-17"
+title: Nine universal principles of ultralearning
+date: 2022-06-17
+aliases:
+  - Nine-universal-principles-of-ultralearning
 tags:
-
-- "seedlings"
-sr-due: 2022-06-27
-sr-interval: 8
-sr-ease: 268
+  - thoughts
+  - seedlings
 ---
+[[ultralearning|Ultralearning]] has the following nine universal principles:
 
-[[Ultralearning, after Young]] has the folllowing nine universal principles:
-
-1. [[thoughts/metalearning]]
+1. [[metalearning]]
 2. Focus
 3. Directness
 4. Drill

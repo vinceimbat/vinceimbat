@@ -1,15 +1,10 @@
 ---
-title: "Scott Young"
-date: "2021-11-05"
+title: Scott Young
+date: 2021-11-05
+aliases:
+  - Scott-Young
 tags:
-
-- "seedlings"
-sr-due: 2022-09-17
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
-
-
-# References
-
+Author of *[[ultralearning young|Ultralearning]]*.

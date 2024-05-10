@@ -3,22 +3,21 @@ title: Ultralearning by Scott Young
 date: 2022-06-17
 aliases:
   - Ultralearning — Young
+  - literature/ultralearning-young
 tags:
+  - literature
   - seedlings
-sr-due: 2027-08-20
-sr-interval: 1427
-sr-ease: 273
 ---
-- [[How James Clear used ultralearning to improve his writing]]
-- [[Ultralearning, after Young]]
-- [[thoughts/self-directed learning]]
-- [[Nine universal principles of ultralearning]]
-- [[thoughts/metalearning]]
-- [[Do metalearning by asking why, what, and how]]
-- [[Articulate your motivation for learning to help you focus on what matters]]
-- [[Use expert interviews to identify best ways to learn a subject or skill]]
-- [[Identify concepts, facts, and procedures to understand the knowledge structure of a subject]]
-- [[Analyze concepts, facts, and procedures to identify bottlenecks in your learning project]]
+- [[james clear used ultralearning to improve his writing]]
+- [[ultralearning]]
+- [[self-directed learning]]
+- [[nine universal principles of ultralearning]]
+- [[metalearning]]
+- [[do metalearning by asking why what and how]]
+- [[articulate your motivation to focus your learning]]
+- [[use expert interviews to identify best ways to learn a subject or skill]]
+- [[understand the knowledge structure of a subject]]
+- [[identify bottlenecks in your learning project]]
 - [[Apply benchmarking and emphasizing-excluding to know how to learn effectively]]
 - [[Use the law of diminishing returns and the 10 percent rule to approximate how long a metalearning project should be]]
 

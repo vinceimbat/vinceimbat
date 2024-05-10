@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-Contra [[Ultralearning, after Young]], you can [[Acquire a skill or knowledge rapidly by being specific, prioritizing the most relevant parts, and deliberately practicing]]. Rapid skill or knowledge acquisition is possible by only learning "just enough" knowledge that can allow you to practice deliberately and evaluate yourself for improvement every after practice. Intentionally limiting yourself to learning the minimum viable knowledge you need to be able to practice avoids procrastination and allows you to practice in context (see [[Directness is connected with context of use]]).
+Contra [[ultralearning]], you can [[Acquire a skill or knowledge rapidly by being specific, prioritizing the most relevant parts, and deliberately practicing]]. Rapid skill or knowledge acquisition is possible by only learning "just enough" knowledge that can allow you to practice deliberately and evaluate yourself for improvement every after practice. Intentionally limiting yourself to learning the minimum viable knowledge you need to be able to practice avoids procrastination and allows you to practice in context (see [[Directness is connected with context of use]]).
 
 # References
 

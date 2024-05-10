@@ -3,11 +3,10 @@ title: Self-directed learning
 date: 2021-02-11
 aliases:
   - Self-directed learning
+  - thoughts/self-directed-learning
 tags:
+  - thoughts
   - seedlings
-sr-due: 2029-02-17
-sr-interval: 1895
-sr-ease: 270
 ---
 Self-directed learning
 

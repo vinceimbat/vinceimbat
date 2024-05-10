@@ -2,12 +2,10 @@
 title: Convergence tool
 date: 2022-03-17
 aliases:
-  - convergence tool
+  - thoughts/convergence-tool
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-01-09
-sr-interval: 4
-sr-ease: 230
 ---
 A convergence tool facilitates the convergence of divergent concepts and other mental contents so an overarching relationship forms among them.
 

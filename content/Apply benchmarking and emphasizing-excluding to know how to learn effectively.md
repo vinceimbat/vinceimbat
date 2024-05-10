@@ -9,7 +9,7 @@ sr-interval: 11
 sr-ease: 270
 ---
 
-When [[thoughts/metalearning]] a certain skill or subject, spend time looking for existing learning plans. For academic subjects, retrieve curriculum or syllabus. For nonacademic subjects or skills, [[Use expert interviews to identify best ways to learn a subject or skill]]. Or you can simply search how people learned the subject or skill. This is called benchmarking.
+When [[metalearning]] a certain skill or subject, spend time looking for existing learning plans. For academic subjects, retrieve curriculum or syllabus. For nonacademic subjects or skills, [[use expert interviews to identify best ways to learn a subject or skill]]. Or you can simply search how people learned the subject or skill. This is called benchmarking.
 
 After retrieving existing plans and choosing one (or creating your own by combining different plans), look closer and remove or postpone elements that don't support your learning objectives. This is called emphasizing-excluding. If you are a complete beginner, avoid emphasizing-excluding until you have learned enough of the subject to make informed decisions.
 

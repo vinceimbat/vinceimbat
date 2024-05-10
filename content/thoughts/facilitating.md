@@ -24,7 +24,7 @@ Societal application of my methods and systems will be tricky. But I can explore
 
 As listed in [[thoughts/living]], I can facilitate the application of methods and systems relating to the following:
 
-- Learning through [[thoughts/self-directed learning]]
+- Learning through [[self-directed learning]]
 - Designing a ground-level productivity system
 - Reconnecting with one’s [[thoughts/true self]]
 - Designing a system that aligns one’s actions with one’s true self

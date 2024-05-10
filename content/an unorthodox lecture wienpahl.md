@@ -13,6 +13,11 @@ they are connected by the thread of the life of a man.
 * Highlight, page 1
 Then, too, I have grown tired of thinking and the rational. This is not to say that thinking and the rational can be found to be unimportant. It is rather to say that something else slips in. I feel the need for control, and, hence, for the rational and reasonable, as strongly as ever. But from investigation I have gone to reflection,—from the river to the pool, from the clear and clean to the turgid and opaque. The way is not easy and perhaps I should not have selected it for myself.
 
+==The aspiration is to become both an intellectual and a mystic, with an inclination toward the latter, a direct connection with reality.
+- This implies studying the work of those who showed both a dedication to intellect and direct knowledge.
+- Continuing an exploration of photography as direct knowing.
+- Deepening my meditation practice.
+
 * Highlight, page 1
 I do not believe that philosophy and science are the same thing, or that philosophy is a science, or that there is only one way of knowing.
 
@@ -24,6 +29,8 @@ one can speak of the spiritual without being mystical or other-worldly.
 
 * Highlight, page 1
 Writing can be and living is a creative act. Seeing them this way helps to see that neither can be forced. They come into being, and grow out of themselves. But this does not mean that they must be formless. It means only, I think, that the form which they have must develop within them. It can not be impressed from without. Nor, on the other hand, does it seem to me now that creative writing and living can be without some sort of conscious direction. For, if they were, they would lack form.
+
+Wienpahl argued that writing and living cannot be forced. Their form must develop from within. They also require conscious direction to have form. This is philosophizing on the nature of creativity and therefore living itself. He proposes that while art has spontaneity (it comes from within and the arrival of ideas cannot be forced) it is guided by a conscious direction.
 
 * Highlight, page 2
 If this were not true (that creativity contains some conscious direction), why should sustained creative acts be so difficult? Of course, they do seem, just to "come." And it may be this element of the spontaneous about them which leads us to suppose that there is no direction about them. No work involved. But it is a different kind of work from physical work which is present. Creative action is the sort of action which Spinoza called "actions as opposed to passions," actions in which the source of the action is within rather than without.
