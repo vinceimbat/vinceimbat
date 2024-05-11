@@ -3,8 +3,10 @@ title: Overseeing
 date: 2022-11-13
 aliases:
   - Overseeing
+  - thoughts/overseeing
 tags:
-  - evergreens
+  - thoughts
+  - seedlings
 ---
 This [[thoughts/life area|life area]] involves establishing and maintaining a [[thoughts/life management system|life management system]].
 

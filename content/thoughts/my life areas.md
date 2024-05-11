@@ -10,7 +10,7 @@ sr-interval: 20
 sr-ease: 215
 ---
 I have six [[thoughts/life area|life areas]]:
-1. [[thoughts/overseeing|Overseeing]]
+1. [[overseeing|Overseeing]]
 2. [[thoughts/understanding|Understanding]]
 3. [[thoughts/restoring|Restoring]]
 4. [[thoughts/connecting|Connecting]]
