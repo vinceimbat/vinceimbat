@@ -8,4 +8,9 @@ tags:
   - seedlings
 ---
 
-- How real the loneliness is
+# TLW
+
+- A Walking Liturgy - Sunday walk experiment with Lea.
+- Project Jiyu Shukyo - Announcement to my commitment of self-studying jiyu shukyo, with a specific goal to develop a way to express it in the Filipino context through walking and writing.
+	- Gathering of sources
+	- Curriculum
