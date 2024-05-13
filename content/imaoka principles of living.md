@@ -1,8 +1,9 @@
 ---
-title: Imaoka's Creed of Life
+title: Imaoka's Principles of Living
 date: 2023-12-02
 aliases:
   - thoughts/imaoka-creed-of-life
+  - imaoka-creed-of-life
 draft: false
 tags:
   - thoughts
@@ -120,6 +121,40 @@ Faith in free religion.
 - What does this "universal and ultimate truth mean"?
 - Some people are against the use of this word. That nothing is universal. That having something as universal means that it relies on a rule-giver such as God or a predominant ideology such as patriarchy.
 - I sincerely wonder what Imaoka means here?
+
+# Change from "Creed of Life" to "Principles of Living"
+
+From George and Andrew:
+
+A couple of days ago, George wrote to me (in part) saying:
+
+The arrangement of “the essentials” on Free Religion in one place is fantastic!  Prof. Wakimoto’s interview is amazing.  He was just a junior professor at Univ. of Tokyo’s sociology of religion department when Imaoka sensei sent me there to interview two professors who had studied a Seisoku Academy when he was principal.  He also sent me to each of the groups mentioned in Wakimoto’s interview that makes me think that he saw my tiny booklet, LRRJ, and the work that was happening there in gathering up Imaoka sensei’s essays after those interviews.  
+  
+On a different note, I am stumbling over the term “creed.”  Imaoka sensei always spoke of his “tentative statement of faith.”  Perhaps, my poor oral Japanese did not catch the possible meaning of “creed.”  But “creed” in any Western sense or usage is wrong, I think.  Please help me with this.  What are the Japanese word or words used?  Is there an evolution of terms from the 1973 document to any later materials and my conversations in the 1980s?  Isn’t “creed" a non-free religious term?
+  
+To this second paragraph, I replied:  
+  
+_Good to hear from you.  
+  
+Not wanting to add any more aches to your head, I'll just make here a quick note about the title “Creed of Life.” I think you are right about this. So, here's a breakdown of the title of that first piece 私の生活信条（訂)  
+  
+私 (わたし, watashi) means “I” or “me.” It’s apparently somewhat formal and is gender-neutral.  
+  
+の (no) is a possessive particle that can be translated as “of.”  
+  
+生活 (せいかつ, seikatsu) means  “Life” or “living,” referring to a person’s daily life or lifestyle.  
+  
+信条 (しんじょう, shinjou) means “creed” (in the sense of the Latin, "credo") or “belief” and refers to a principle or belief/faith that guides a person’s actions. It’s made up of two characters: 信, meaning “trust” or “faith,” and 条, which can mean “article,” “clause,” or “condition.”    
+  
+訂 (てい, tei) — the character in parentheses, means “correction,” “revision.”  
+  
+So, one possible way of translating the title that avoids “creed” would be “My Principles of Living (revised).”  
+  
+What do you think? It feels better and, on reflection, I'm puzzled about why I went for “Creed of Life.” It certainly resonates better with Imaoka-sensei's basic stance. Thanks for this important prod!!!!
+
+# Unsorted
+
+According to [[andrew j brown|Andrew James Brown]], these principles of living "are not the kind of restrictive belief statements one finds in the usual kinds of creed but, instead, statements of faith about how one IS in the world." He added that "[t]hey aren’t there to restrict a person but to free them."
 
 # Related
 

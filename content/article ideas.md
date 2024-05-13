@@ -1,16 +1,25 @@
 ---
-title: Article ideas
-date: 2024-05-07
-aliases: 
-draft: false
-tags:
-  - thoughts
-  - seedlings
+
+kanban-plugin: basic
+
 ---
 
-# TLW
+## Article Ideas
 
-- A Walking Liturgy - Sunday walk experiment with Lea.
-- Project Jiyu Shukyo - Announcement to my commitment of self-studying jiyu shukyo, with a specific goal to develop a way to express it in the Filipino context through walking and writing.
-	- Gathering of sources
-	- Curriculum
+- [ ] Project Jiyu Shukyo<br><br>Announcement to my commitment of self-studying jiyu shukyo, with a specific goal to develop a way to express it in the Filipino context through walking and writing.<br><br>Gathering sources<br>Curriculum
+- [ ] Kensho in Jiyu Shukyo
+
+
+## Published
+
+**Complete**
+- [x] A Sunday Walk<br><br>Sunday walk experiment with Lea
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%

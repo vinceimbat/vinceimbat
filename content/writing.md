@@ -32,7 +32,12 @@ Remember that it is the practice which is important.
 This is the main project: pieces of writing that achieves an intimate and close relationship with my reader. To listen to myself constantly as frequent as I can to wait for words, to bring forth. And to create with great craft work that achieves my goal.
 
 ***
-You holding back from descriptions is a sign that you want to get to the point. It is impatience, an unwillingness to slow down. Your experience of providing more details to a scene is revelatory. Slow down
+You holding back from descriptions is a sign that you want to get to the point. It is impatience, an unwillingness to slow down. Your experience of providing more details to a scene is revelatory. Slow down.
+
+***
+[[journaling|Journaling]] and note-writing in my [[talahardin]] are the forms of writing I want to master and spend most of my time in; not creative or performative writing. If they become performative, so be it. I'll still learn craft, of course. But it will take a lesser role. My priority is how I can make my writing practice as authentic as possible, how it could reflect the meanderings of my life in as an honest way possible.
+
+It should also feel good and fun. It should eventually help my tribe in their own journey. This is writing as ministry.
 
 # Related
 

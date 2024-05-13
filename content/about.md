@@ -78,7 +78,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
 
 Jiyū shūkyō (自由宗教), often translated as "free-religion," could also mean "a free and creative spirituality." It is what the Japanese visionary of progressive and liberal religion [[shinichiro imaoka|Imaoka Shin’ichirō-sensei (1881-1988)]] envisioned as his ideal foundation for a way of being in the world. The more contemporary works of George M. Williams, [[andrew j brown|Andrew James Brown]], and a small community called [[kiitsu kyokai|Kiitsu Kyōkai]] (of which I'm a part of) are among the few things that breathe life to this long since overlooked religious and spiritual viewpoint.
 
-Current interpretations of jiyū shūkyō take inspiration from the few writings that Imaoka Shin'ichirō-sensei left, particularly his personal [[imaoka creed of life|Creed of Life]], a short document made of eight affirmations, which practitioners are encouraged to customize for their own unique spiritual expression.
+Current interpretations of jiyū shūkyō take inspiration from the few writings that Imaoka Shin'ichirō-sensei left, particularly his personal [[imaoka principles of living|Creed of Life]], a short document made of eight affirmations, which practitioners are encouraged to customize for their own unique spiritual expression.
 
 This cultivation of one's individual unique, creative, and autonomous spiritual expression while recognizing that such autonomy could only be possible through embracing one's interconnection with others—one's neighbors whether human or non-human—is, I think, what is at the core of jiyū shūkyō.
 
