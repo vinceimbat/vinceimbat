@@ -8,6 +8,19 @@ tags:
   - thoughts
   - seedlings
 ---
+# Definition
+
+Jiyū shūkyō (自由宗教) is made up of two Japanese words, each with two Japanese characters. Each character has a distinct meaning.
+
+Ji (自) means oneself.
+Yū (由) means reason, which is the free element in jiyū
+Shū (宗) means religion, sect, or denomination
+Kyō (教) means teaching or doctrine
+
+Jiyū shūkyō was historically translated as "free religion," which implies that what binds us is also what frees us. But [[andrew j brown|Andrew James Brown's]] community likes to use the translation "a free, creative spirituality."
+
+# My own thoughts
+
 Free religion is a dance between [[thoughts/doubt|doubt]] and [[faith|faith]]. We try to have faith, to trust, to commit, to devote, but our intention is for us to be truly free—to change, listen, and be who we really are. Because we are unique individuals with a measure of freedom bounded by our relationships with our neighbors, society, and the natural world. Our intention is to maximize the amount of freedom given to us without destroying the balance. We flow mindfully. We change mindfully. Our goal is to live in a world where everyone is free to change and listen to their truest self, which allows others to do and preserving the world where all these is possible.
 
 # How to begin studying and practicing jiyū shūkyō

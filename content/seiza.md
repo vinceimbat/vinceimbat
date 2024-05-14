@@ -37,6 +37,10 @@ Okada didn't have an organization
 - Hara: The Vital Center of Man (book)
 - Recommendations for Doing Seiza book (available in: https://archive.org/details/okadashikiseizan0000unse)
 
+# Unsorted
+
+Each breath is like a shaping of the new self.
+
 # References
 
 Brown, A. J. (2024, January 19). Basic Information & Weekly Zoom Meetings on Thursdays. _Caute_. [https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html](https://kiitsukyokai.blogspot.com/2023/05/weekly-zoom-meetings-and-basic.html)

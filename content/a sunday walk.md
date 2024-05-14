@@ -62,12 +62,12 @@ We were both surprised that reading Tolstoy's entry in the context of a walk wou
 
 The structure (dare I say, liturgy) that we came up with on our little Sunday walk is as follows:
 
-~ 30 mins. walk
-5 mins. meditation
-5 mins. reading of prompt
-10 mins. journaling session
-10 mins. sharing of entries
-~ 30 mins. free conversation + walk
+- ~ 30 mins. walk
+- 5 mins. meditation
+- 5 mins. reading of prompt
+- 10 mins. journaling session
+- 10 mins. sharing of entries
+- ~ 30 mins. free conversation + walk
 
 Lea and I hope to continue this practice together in the coming weeks and iterate the structure to adapt to our changing needs. For example, we could lengthen the meditation sometime or alternate responsibilities in choosing a prompt to use for journaling.
 
