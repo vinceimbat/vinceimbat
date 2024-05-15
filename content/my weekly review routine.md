@@ -17,7 +17,7 @@ Schedule: Monday, afternoon
 - Delete or archive articles in Instapaper.
 - Clear Desktop and Downloads.
 - Process Drafts.
-- Process audio recordings. 
+- Process audio recordings.
 - Clear physical inbox.
 - Refine projects list.
    - In Things 3, mark completed projects as Completed.

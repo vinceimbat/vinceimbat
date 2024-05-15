@@ -1,12 +1,9 @@
 ---
-title: "Naglalakad nakatango"
-date: "2022-06-30"
+title: Naglalakad nakatango
+date: 2022-06-30
 tags:
-- "filipino"
-- "seedlings"
-sr-due: 2024-12-20
-sr-interval: 504
-sr-ease: 250
+  - filipino
+  - seedlings
 ---
 Tinuruan ako minsan ng isang matalinong ginoo na maglakad ng marahan habang nakatingin sa lupa. Ngayon, nageksperimento ako at naglakad naman akong nakatingin sa itaas.
 

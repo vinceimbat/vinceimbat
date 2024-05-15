@@ -23,3 +23,9 @@ But also the same.
 We are One.
 We are human.
 Interdependence.
+
+***
+
+Interviewer: In a literal sense, you're writing for white people. Are you aware of that?
+
+Baldwin: I'm writing for people, baby. I don't believe in white people. I don't believe in Black people either, for that matter. But I know the difference between being Black and white at this time.  It means that I cannot fool myself about some things that I could fool myself about, if I were white.

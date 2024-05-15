@@ -7,9 +7,6 @@ location:
 tags:
   - seedlings
   - filipino
-sr-due: 2023-08-07
-sr-interval: 3
-sr-ease: 250
 ---
 Sa gitna ng ilang oras  
 na pagkakakulong  

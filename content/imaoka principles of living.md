@@ -159,5 +159,6 @@ According to [[andrew j brown|Andrew James Brown]], these principles of living "
 # Related
 
 - [[Imaoka creed of life meditations]]
+- [[imaoka mga simulain ko sa pamumuhay]]
 
 # References

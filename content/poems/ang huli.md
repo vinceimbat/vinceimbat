@@ -16,7 +16,7 @@ ng bintanang nagdadala
 sa mga alikabok  
 sa kanilang huling hantungan,  
 sinasayawan  
-ng pulang-pulang kurtina  
+ng pulang-pulang kortina  
 ang sisidlang pinakikislap  
 ng silahis—  
 kislap na humahalik  

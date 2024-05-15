@@ -25,7 +25,7 @@ Sabi ko baka tunog ng
 kinakalawang na ferris wheel.  
 
 Pero lahat ay naging malinaw  
-nang minsa'y napadaan sa Plli Drive  
+nang minsa'y napadaan sa Pili Drive  
 at dumating ang treng umuungol  
 tulad ng tunog na akala ko noong una'y  
 sirang tubo,  

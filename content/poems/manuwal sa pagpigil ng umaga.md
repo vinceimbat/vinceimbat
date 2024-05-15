@@ -7,9 +7,6 @@ location:
 tags:
   - filipino
   - seedlings
-sr-due: 2023-08-06
-sr-interval: 1
-sr-ease: 230
 ---
 Paano ko ba pipigilan ang mabilis na daloy nitong umaga? At bakit ko pipigilan? Hahayaan ko nalang bang lamunin ng alas nwebe y media ang alas nwebe? Bakit ako titigil? Ano ang meron sa pagtigil na wala sa pagpapatuloy? Hindi ba't ang buong mundo'y masasaklot lamang sa pamamagitan ng pagpapatuloy? Dito? Anong meron dito? Ako? Ang paghinga? Ang pagsiyap ng mga maya? Ito lang ba? Kung ito lang, bakit ako mananatili?
 
