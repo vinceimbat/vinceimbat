@@ -9,7 +9,7 @@ sr-due: 2025-05-14
 sr-interval: 531
 sr-ease: 250
 ---
-Lyric philosophy seems to be a more accepted term in the academe compared to [[lyrical philosophy]], which [[thoughts/edward mooney]] uses. The central work behind the concept of lyric philosophy is [[Jan Zwicky]]'s 600-page book of the same title. Like lyrical philosophy, lyric philosophy is a reaction to the dominance of [[Analytic philosophy]].
+Lyric philosophy seems to be a more accepted term in the academe compared to [[lyrical philosophy]], which [[edward mooney]] uses. The central work behind the concept of lyric philosophy is [[Jan Zwicky]]'s 600-page book of the same title. Like lyrical philosophy, lyric philosophy is a reaction to the dominance of [[Analytic philosophy]].
 
 Zwicky's main thesis is that there are certain questions that can only be answered by gestures and resonance, not analysis. In such instances, a different kind of philosophy should be employed. That said, Zwicky does not completely reject philosophical analysis. It is still important and necessary. However, she wants to extend the range of what can be included in the discipline of philosophy.
 

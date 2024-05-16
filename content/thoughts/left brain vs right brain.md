@@ -10,7 +10,7 @@ sr-ease: 250
 
 The soul vs the self is a way to talk about the right brain left brain.
 
-See [[thoughts/edward mooney|Edward Mooney]] on this.
+See [[edward mooney|Edward Mooney]] on this.
 
 My stand is that the self and the soul complement each other. There is no need to get pit them against each other. That said, there is indeed a danger of letting one mode dominate the other. That is why they shouldn't be pitted. Focus on making them work together.
 

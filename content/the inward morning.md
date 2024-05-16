@@ -100,7 +100,7 @@ As if I needed more walking, my partner and I walked in the evening, under a bri
 
 ## October 14, Friday
 
-In the previous issue, I shared that I am currently reading the book ***[[thoughts/living philosophy by edward mooney|Living Philosphy in Kierkegaard, Melville, and Others]]*** by [[thoughts/edward mooney]]. Mooney is a student of Henry Bugbee, and I am currently reading him as the focal point from where I shall trace my philosophical family tree.
+In the previous issue, I shared that I am currently reading the book ***[[thoughts/living philosophy by edward mooney|Living Philosphy in Kierkegaard, Melville, and Others]]*** by [[edward mooney]]. Mooney is a student of Henry Bugbee, and I am currently reading him as the focal point from where I shall trace my philosophical family tree.
 
 The book is a delightful collection of essays, relatively short in length, poetically delivered, and yet philosophical in the subject. I love this word Mooney uses—living philosophy. Here's how he defines it:
 

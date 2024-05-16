@@ -20,7 +20,7 @@ I then encountered [[pat schneider]] whose writing method detailed in her book  
 # Studies
 
 - Notes
-	- [[thoughts/my ministry|my ministry]]
+	- [[my ministry|my ministry]]
 	- [[thoughts/coincidence not synchronicity|coincidence not synchronicity]]
 	- [[thoughts/spiritual writing|spiritual writing]]
 	- [[thoughts/unitarianism|unitarianism]]

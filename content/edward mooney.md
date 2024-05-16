@@ -1,13 +1,12 @@
 ---
-title: "Edward Mooney"
-date: "2022-09-03"
+title: Edward Mooney
+date: 2022-09-03
+aliases:
+  - thoughts/edward-mooney
 tags:
-- "seedlings"
-sr-due: 2023-06-08
-sr-interval: 156
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
 Edward Mooney has an outdated blog: [Mists on the Rivers](https://edmooneyblog.wordpress.com/). In the about page, he describes what the blog contains:
 >*I would write here and now in praise of Thoreau, Wittgenstein, Kierkegaard, Basho, and endless others not as a critic or scholar only (I have venues for that), but as someone delighted and moved and pained by their words so aptly  addressed my way. I would write as one who recalls them at dusk and finds them again as day begins.*
 

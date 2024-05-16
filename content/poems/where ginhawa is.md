@@ -3,9 +3,6 @@ title: "Where Ginhawa Is"
 date: "2018-08-08"
 tags:
 - "seedlings"
-sr-due: 2024-05-16
-sr-interval: 286
-sr-ease: 270
 ---
 Where there is rest I am there  
 Where the breath is welcome I am there  

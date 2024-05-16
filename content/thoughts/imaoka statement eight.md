@@ -20,6 +20,6 @@ Here enters the platonic realm. While we have relative experiences of love, we c
 
 I am indeed open to free religion. I am listening to it and starting to have faith in it. I couldn't imagine myself returning to a stringent way of life in a large institution or church. And yet I know that I desire the sublime. I desire a reverential approach to life. I am deeply existential. I desire peak experiences as well as feeling good even in ordinary moments. I desire a pluralistic world where mutual respect and tolerance is possible in a larger context of love.
 
-I have very strong religious and spiritual sensibilities that doesn't fit both traditional religion and atheistic alternatives. There is a gap to fill, which means there is a ministry for me no matter how small ([[thoughts/my ministry|my ministry]]). I do have faith in [[jiyu shukyo|jiyu shukyo]].
+I have very strong religious and spiritual sensibilities that doesn't fit both traditional religion and atheistic alternatives. There is a gap to fill, which means there is a ministry for me no matter how small ([[my ministry|my ministry]]). I do have faith in [[jiyu shukyo|jiyu shukyo]].
 
 # References
