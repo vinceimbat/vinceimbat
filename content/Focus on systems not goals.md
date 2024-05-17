@@ -15,6 +15,6 @@ To experience happiness, one needs to focus on cultivating the habits that raise
 
 The same can be said with spiritual experiences. We shouldn't look for spiritual experiences. We can never predict when they will come. What we can do is to do our practice religiously. This is where the difference between religion and spirituality comes in ([[Religion vs spirituality]]).
 
-The same can be said with insights. [[thoughts/insight cannot be predetermined]]. What we can do is to establish a writing or study habit that increases the probability for us to capture insight.
+The same can be said with insights. [[insight cannot be predetermined]]. What we can do is to establish a writing or study habit that increases the probability for us to capture insight.
 
 # References

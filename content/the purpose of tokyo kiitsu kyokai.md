@@ -13,7 +13,7 @@ tags:
 - [[free religion is faithful to genuine personal needs]]
 - [[plurality is critical to the success of a kiitsu kyokai]]
 - [[kiitsu kyokai is democratic]]
-- [[kiitsu kyokai nurtures a free religion that inspires compassion]]
+- [[kiitsu kyokai inspires compassion]]
 
 # Notes
 
@@ -24,14 +24,14 @@ Kiitsu is often translated as "unity."
 ***
 ## kiitsu kyokai continues unitarian universalism
 
-According to [[shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[thoughts/unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
+According to [[shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[unitarian-universalism|unitarian-universalism]]).
 
 ***
 ## kiitsu kyokai transforms unitarianism
 
-[[shinichiro imaoka|Shinichiro Imaoka]] initially wanted to revive the [[thoughts/unitarianism|Unitarian]] Church through[[ kiitsu kyokai]] but he realized that what is needed is a continuation of the church through a significant transformation. What are these transformations?
+[[shinichiro imaoka|Shinichiro Imaoka]] initially wanted to revive the [[unitarianism|Unitarian]] Church through[[ kiitsu kyokai]] but he realized that what is needed is a continuation of the church through a significant transformation. What are these transformations?
 
-- Imaoka wanted kiitsu kyokai to go beyond Christianity (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
+- Imaoka wanted kiitsu kyokai to go beyond Christianity (i.e. [[unitarian-universalism|unitarian-universalism]]).
 - He wanted it to be a [[jiyu shukyo]].
 - He wanted it to be non-sectarian.
 - He wanted it to be transdenominational (i.e., not being overly attached to established religions).
@@ -56,7 +56,7 @@ Individuals with personal and autonomous religions (i.e. [[jiyu shukyo|jiyu shuk
 ***
 ## kiitsu kyokai nurtures a free religion that inspires compassion
 
-In congruence with its [[thoughts/unitarianism|Unitarian]]  roots, the [[kiitsu kyokai]] advocates supporting social causes. According to [[shinichiro imaoka|Shinichiro Imaoka]], "salvation is both personal and social" and "individual salvation and societal salvation are two sides of the same coin." Therefore, the kiitsu kyokai, like the Unitarian movement, is an enlightenment project that aims to influence not just religion but society in general. Among the objectives of an enlightenment project according to Imaoka are harmonizing science and religion and promoting culture and peace.
+In congruence with its [[unitarianism|Unitarian]]  roots, the [[kiitsu kyokai]] advocates supporting social causes. According to [[shinichiro imaoka|Shinichiro Imaoka]], "salvation is both personal and social" and "individual salvation and societal salvation are two sides of the same coin." Therefore, the kiitsu kyokai, like the Unitarian movement, is an enlightenment project that aims to influence not just religion but society in general. Among the objectives of an enlightenment project according to Imaoka are harmonizing science and religion and promoting culture and peace.
 
 The kiitsu kyokai as an organization nurtures [[jiyu shukyo]], which becomes the foundation for all efforts to address societal issues. Although it is an enlightenment project, it is also a religious organization, which means it isn't only for intellectual engagement. Imaoka aspires the kiitsu kyokai to be a practice ground for the ideal society, where all kinds of people from different walks of life could come together in unity.
 

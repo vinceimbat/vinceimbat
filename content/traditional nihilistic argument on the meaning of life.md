@@ -12,7 +12,7 @@ sr-ease: 230
 The traditional nihilistic argument on the meaning of life follows the following line of thought:
 
 1. God and a soul are necessary for meaning in life ([[Extreme supernaturalism]]).
-2. Neither God nor a soul exists ([[thoughts/atheism]]).
+2. Neither God nor a soul exists ([[atheism]]).
 3. Since God or the soul does not exist, life is inherently meaningless.
 
 This position is now slowly replaced by newer arguments like [[error-theory-based nihilistic arguments on the meaning of life]].

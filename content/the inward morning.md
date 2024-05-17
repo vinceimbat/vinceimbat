@@ -43,7 +43,7 @@ For the past two months or so, I have been reading _**The Inward Morning**_ in
 
 In his entry, dated September 27, 1952 (the entry I read on this day), Bugbee meditated on the role of faith in philosophical reflection. Here is a sample of my commentary on this entry:
 
->*In this entry, Henry Bugbee directly responds to [[Gabriel Marcel]]. He returns to the subject of [[faith]]. He begins by stating that faith (i.e., openness or trustingness) is as important in ethical reflection as in action. Philosophical truth, he claims, arrives to the present from the past via reflection. But this arrival requires faith on the possibility of realization because philosophical truth, the meaning of one's past experiences, comes involuntarily like insight ([[thoughts/insight cannot be predetermined]]). We do not control its arrival artificially. We can only wait and trust (i.e., have faith) that it will arrive.*
+>*In this entry, Henry Bugbee directly responds to [[Gabriel Marcel]]. He returns to the subject of [[faith]]. He begins by stating that faith (i.e., openness or trustingness) is as important in ethical reflection as in action. Philosophical truth, he claims, arrives to the present from the past via reflection. But this arrival requires faith on the possibility of realization because philosophical truth, the meaning of one's past experiences, comes involuntarily like insight ([[insight cannot be predetermined]]). We do not control its arrival artificially. We can only wait and trust (i.e., have faith) that it will arrive.*
 
 [[The Inward Morning Commentary 1952-09-27|Read the entire entry here]].
 

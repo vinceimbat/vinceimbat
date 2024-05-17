@@ -2,14 +2,12 @@
 title: Insight cannot be predetermined
 date: 2021-07-05
 aliases:
-  - Insight cannot be predetermined
+  - thoughts/insight-cannot-be-predetermined
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-09-27
-sr-interval: 347
-sr-ease: 230
 ---
-[[thoughts/thinking must produce insight]], but insights come at weird times that they can almost feel mystical sometimes. We cannot force insisght to come. What we can do is to do our best to think. After doing our best to think and nothing else happens, we should then let probability and the power of our mind bring out insights and answers that we need.
+[[thinking must produce insight|Thinking must produce insight]], but insights come at weird times that they can almost feel mystical sometimes. We cannot force insight to come. What we can do is to do our best to think. After doing our best to think and nothing else happens, we should then let probability and the power of our mind bring out insights and answers that we need.
 
 Because insights cannot be predetermined, [[Writing that aims at insight must be organized in a flexible system]].
 

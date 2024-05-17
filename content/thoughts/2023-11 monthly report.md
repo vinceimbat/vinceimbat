@@ -23,14 +23,14 @@ I then encountered [[pat schneider]] whose writing method detailed in her book  
 	- [[my ministry|my ministry]]
 	- [[thoughts/coincidence not synchronicity|coincidence not synchronicity]]
 	- [[thoughts/spiritual writing|spiritual writing]]
-	- [[thoughts/unitarianism|unitarianism]]
+	- [[unitarianism|unitarianism]]
 	- [[thoughts/subsistent spirituality|subsistent spirituality]]
 	- [[thoughts/writing is coding|writing is coding]]
 	- [[thoughts/how to approach complex social issues|how to approach complex social issues]]
 	- [[spirituality|spirituality]]
 	- [[an aesthetic of faith and play]]
-	- [[thoughts/my conversion process|my conversion process]]
-	- [[thoughts/doubt|doubt]]
+	- [[my conversion process|my conversion process]]
+	- [[doubt|doubt]]
 
 # Writing
 

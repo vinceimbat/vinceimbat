@@ -1,13 +1,13 @@
 ---
-title: "Unitarianism"
-date: "2022-08-29"
+title: Unitarianism
+date: 2022-08-29
+aliases:
+  - thoughts/unitarianism
 tags:
-- "seedlings"
-sr-due: 2024-08-03
-sr-interval: 365
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
-Unitarianism should be understood vis a vis [[thoughts/unitarian-universalism]]. While Unitarianism is still attached to Christianity, Unitarian-Universalism positions itself as a new religion that is detached from its Christian roots.
+Unitarianism should be understood vis a vis [[unitarian-universalism]]. While Unitarianism is still attached to Christianity, Unitarian-Universalism positions itself as a new religion that is detached from its Christian roots.
 
 Unitarianism is primarily an openness to a plural world, a diverse world, and a genuine curiosity to all beliefs and perspectives. A unitian's commitment to a certain belief is not more than his commitment to the possibility of a plural, free society.
 

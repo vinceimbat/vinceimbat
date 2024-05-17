@@ -9,7 +9,7 @@ sr-due: 2024-08-23
 sr-interval: 285
 sr-ease: 230
 ---
-An offshoot of [[thoughts/unitarianism|unitarianism]] founded by [[thoughts/ralph waldo emerson|Ralph Waldo Emerson]].
+An offshoot of [[unitarianism|unitarianism]] founded by [[thoughts/ralph waldo emerson|Ralph Waldo Emerson]].
 
 Per [[andrew j brown|Andrew J. Brown]], [[thoughts/james martineau|James Martineau's]] Rationale of Religious Enquiry had a profound influence to the development of transcendentalism. According to Brown, most contemporary unitarian ministers "see themselves primarily as descendants of this Transcendentalist movement." And since [[shinichiro imaoka|Shinichiro Imaoka]] has explicitly mentioned the influence Emerson had on him, it will also be an inspiration of his [[jiyu shukyo|jiyu shukyo]].
 

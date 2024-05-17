@@ -31,23 +31,3 @@ This matches the patterns Phil Smith saw in the walking arts.
 
 ## Walking on Large Rocks Across a Creek
 
-For writing to become a subsistent spiritual practice it has two do two things for me:
-1. It has to help me get through with life.
-2. It has to help me satisfy my need to be seen and to help others get through with life.
-
-Writing for myself
-- fragmented
-- Writing as archive
-- Writing as therapy
-
-Writing for others
-- requires craft
-- tends to be more whole
-
-How to use writing as a spiritual practice?
-- Use it to practice faith: trust the images that come forth
-- Use it to practice care: writing as archiving (taking care of the words)
-- Use it to go deep within yourself
-- Use it to practice faith on others
-
-Natalie Goldberg's zen teacher once ask her, why do you need meditation if you have writing?

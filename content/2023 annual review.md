@@ -43,7 +43,7 @@ Second:
 
 This, of course, is not a secret. Almost all sound career advice books or articles will say this, and it is true. Looking for new clients through people who don't know and trust you is tough. The day after receiving the severance email, I jumped into applying at other editing agencies. I did this for the entire month of January 2023. None of it worked.
 
-What saved me was a positive response to an email inquiry I sent to a previous boss. That kind human being offered me two editing projects that got me through the first three months of the year. When that ended, a research writing project referred by a friend, which I closed with some luck and hard work, got me going for another month. And when that ended, two friends with small businesses hired me to design and develop [their](https://ililikhaan.com/) [websites]() (https://candent.ph/). These two projects sustained me for more than half of the year.
+What saved me was a positive response to an email inquiry I sent to a previous boss. That kind human being offered me two editing projects that got me through the first three months of the year. When that ended, a research writing project referred by a friend, which I closed with some luck and hard work, got me going for another month. And when that ended, two friends with small businesses hired me to design and develop [their](https://ililikhaan.com/) [websites](https://candent.ph/). These two projects sustained me for more than half of the year.
 
 These gigs kept me afloat until I started receiving a consistent flow of editing projects from my previous boss in the last quarter of the year. This financial stability allowed me to return to my studies, creative projects, and grief.
 
@@ -66,7 +66,7 @@ Since AILAP requires work that uses a theory, I looked for something in the lite
 
 One evening, while walking around the buildings of the Department of Forestry in the University of the Philippines Los Baños (UPLB) and thinking about the outline of the essay I'll write, I caught myself using the word "faith" to describe what I'm doing. To pursue a creative project due in ten days after three weeks of working for money at a time when my financial security is still questionable, I told myself, is an act of faith. "Faith" is one of several words (including God, spiritual, and religious) that I've tried to avoid since leaving the Jehovah's Witnesses in 2012. Now, like my religious past, I'm forced to confront this word, question my aversion to it, and think of the possibility of reintegrating it into my daily language.
 
-On April 1, with much faith, I managed to put together [[essays/traversing liminality through walking|a five-thousand-word entry], which I happily sent to AILAP. About three weeks later, I received an email from AILAP telling me that my entry landed me a seat as a fellow at the ANWW20, where I was joined by seven other young writers from different parts of the Philippines in three days of intense workshop.
+On April 1, with much faith, I managed to put together [[traversing liminality through walking|a five-thousand-word entry]], which I happily sent to AILAP. About three weeks later, I received an email from AILAP telling me that my entry landed me a seat as a fellow at the ANWW20, where I was joined by seven other young writers from different parts of the Philippines in three days of intense workshop.
 
 ![Participants at the ANWW20](anww20-all.jpg)
 

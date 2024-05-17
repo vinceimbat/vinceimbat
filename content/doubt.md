@@ -1,7 +1,10 @@
 ---
 title: Doubt
 date: 2023-12-01
+aliases:
+  - thoughts/doubt
 tags:
+  - thoughts
   - seedlings
 draft: false
 ---

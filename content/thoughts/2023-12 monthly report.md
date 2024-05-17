@@ -29,7 +29,7 @@ Lastly, I traveled with friends to visit Maui and Yano at San Pascual, to walk a
 # Studies
 
 Notes
-- [[thoughts/doubt|doubt]]
+- [[doubt|doubt]]
 - [[thoughts/some rules on sharing the road with others|some rules on sharing the road with others]]
 
 # Writing

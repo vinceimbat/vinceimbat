@@ -97,5 +97,5 @@ Jane Bennett
 
 # Related
 
-- [[thoughts/unitarianism|unitarianism]]
+- [[unitarianism|unitarianism]]
 - [[kensho|kensho]]

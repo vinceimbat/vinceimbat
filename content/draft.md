@@ -12,6 +12,10 @@ Draft is a category of a wide variety of materials that are unified by not being
 
 Draft can also be treated as a quality of a work of art (i.e., draft-like). Certain techniques in writing, such as [[thoughts/streams of consciousness|streams of consciousness]] that happen during [[walking|walking]] (see [[thoughts/walk poem|walk poem]]), can be considered draft-like.
 
+# Related
+
+- [[draft is the literature of spirituality]]
+
 # References
 
 Scandura, Jani. “The Matter of Drafts.” _Oxford Research Encyclopedia of Literature_, edited by Paula Rabinowitz, Oxford University Press, 2020. _DOI.org (Crossref)_, https://doi.org/10.1093/acrefore/9780190201098.013.205

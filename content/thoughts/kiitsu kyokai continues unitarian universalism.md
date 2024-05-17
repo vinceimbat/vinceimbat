@@ -8,4 +8,4 @@ sr-due: 2024-02-12
 sr-interval: 2
 sr-ease: 248
 ---
-According to [[shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[thoughts/unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[thoughts/unitarian-universalism|unitarian-universalism]]).
+According to [[shinichiro imaoka|Shinichiro Imaoka]], using the word kiitsu in "[[kiitsu kyokai]]" recognizes the Unitarian roots of the church. However, it attaches itself not to the old meaning of the word [[unitarianism|Unitarian]] as a Christian denomination opposed to Trinitarian but to the newer Unitarian Church that aspires to go beyond Christianity and integrate other religious traditions around the world (i.e. [[unitarian-universalism|unitarian-universalism]]).

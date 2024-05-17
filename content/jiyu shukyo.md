@@ -21,7 +21,7 @@ Jiyū shūkyō was historically translated as "free religion," which implies tha
 
 # My own thoughts
 
-Free religion is a dance between [[thoughts/doubt|doubt]] and [[faith|faith]]. We try to have faith, to trust, to commit, to devote, but our intention is for us to be truly free—to change, listen, and be who we really are. Because we are unique individuals with a measure of freedom bounded by our relationships with our neighbors, society, and the natural world. Our intention is to maximize the amount of freedom given to us without destroying the balance. We flow mindfully. We change mindfully. Our goal is to live in a world where everyone is free to change and listen to their truest self, which allows others to do and preserving the world where all these is possible.
+Free religion is a dance between [[doubt|doubt]] and [[faith|faith]]. We try to have faith, to trust, to commit, to devote, but our intention is for us to be truly free—to change, listen, and be who we really are. Because we are unique individuals with a measure of freedom bounded by our relationships with our neighbors, society, and the natural world. Our intention is to maximize the amount of freedom given to us without destroying the balance. We flow mindfully. We change mindfully. Our goal is to live in a world where everyone is free to change and listen to their truest self, which allows others to do and preserving the world where all these is possible.
 
 # How to begin studying and practicing jiyū shūkyō
 
