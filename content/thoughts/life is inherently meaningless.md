@@ -13,7 +13,7 @@ One argument that supports this conclusion is our eventual non-existence. If we 
 
 To save yourself from this meaninglessness, you can [[Find meaning in life by attaching yourself to something bigger than you]]. There has to be an entity (or entities) that hold a property that is ultimately meaningful (i.e., it is meaningful by itself, it is not an instrument to meaning).
 
-However, only a [[thoughts/god]] fits this description and [[God does not exist]]. In addition, [[Error theory]] suggests that [[There is no objective meaning]], which implies there is no absolute ultimate value.
+However, only a [[god]] fits this description and [[God does not exist]]. In addition, [[Error theory]] suggests that [[There is no objective meaning]], which implies there is no absolute ultimate value.
 
 Related
 - [[thoughts/nihilism]]

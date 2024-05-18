@@ -65,7 +65,7 @@ I am grateful for:
 56. Learning more things about Thoreau: the romantic excursion, his quest, and his philosophical stance.
 57. **Writing [[thoughts/my quest]] after reading Thoreau's quest.**
 58. [[lyrical philosophy|lyrical philosophy]] specifically that studied by [[edward mooney|edward mooney]].
-59. [[thoughts/henry bugbee|henry bugbee]] and his work [[thoughts/the inward morning by bugbee|The Inward Morning]], which I have written commentaries about (see [[thoughts/my commentaries on the inward morning by bugbee|My commentaries on The Inward Morning by Bugbee]]).
+59. [[henry bugbee|henry bugbee]] and his work [[the inward morning bugbee|The Inward Morning]], which I have written commentaries about (see [[thoughts/my commentaries on the inward morning by bugbee|My commentaries on The Inward Morning by Bugbee]]).
 60. [[Ordinary language philosophy|Ordinary language philosophy]], particularly the work of [[thoughts/ludwig wittgenstein|ludwig wittgenstein]].
 61. **Clarified the kind of writing I want to master: artifacts of writing around universal subject matters, which are place-based and use the romantic excursion as their device.**
 62. Creating a photography learning roadmap that I would follow once I am ready to return to photography.

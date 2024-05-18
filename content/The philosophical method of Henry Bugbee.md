@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-In the Preface of [[thoughts/the inward morning by bugbee]], Henry Bugbee presents his method. Here are some interesting points.
+In the Preface of [[the inward morning bugbee]], Henry Bugbee presents his method. Here are some interesting points.
 
 - He prefers to use the journal form to present his philosophical exploration to maintain emotion in his work. This intention confirms that his work is an example of [[lyrical philosophy]]. The journal form allows the presentation of the history of the ideas as they arrived to the subject, which is what poetry and narrative does ([[Poetry and narrative trace their history so readers can re-enact them]]).
 - He describes the arrival of his ideas as [[meditation]]. When they come throughout "the very rhythm of daily life," he allows them to come and direct where they wanted to go. He lets them flow. He does not prevent them from departing, and does not make more of them as they presently are. (To do: Thoreau has a similar approach. Include that here.)

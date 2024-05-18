@@ -24,7 +24,7 @@ These species will grow in number as I see fit.
 
 Species are further classified depending on level of development: [[thoughts/seeds|seeds]], [[thoughts/seedlings|seedlings]], and [[thoughts/evergreens|evergreens]].
 
-[Seeds](tags/seeds.md) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[henry david thoreau|Henry David Thoreau]] and [[thoughts/henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
+[Seeds](tags/seeds.md) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[henry david thoreau|Henry David Thoreau]] and [[henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
 
 [Seedlings](tags/seedlings.md) are planted seeds that will be revisited and changed in a constant basis and edited intermittently until they reach a more permanent form: evergreens.
 

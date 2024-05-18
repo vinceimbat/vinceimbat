@@ -30,7 +30,7 @@ To do
 - Explore how forests are used as a metaphor.
 
 Related
-- [[thoughts/henry bugbee]] uses the word "tilling" to refer to research, which he seems to differentiate from just letting seeds grow by themselves and not getting involve too much ( See [[thoughts/my commentaries on the inward morning by bugbee]] August 26, 1952).
+- [[henry bugbee]] uses the word "tilling" to refer to research, which he seems to differentiate from just letting seeds grow by themselves and not getting involve too much ( See [[thoughts/my commentaries on the inward morning by bugbee]] August 26, 1952).
 
 # References
 

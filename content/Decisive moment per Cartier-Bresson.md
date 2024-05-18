@@ -9,6 +9,6 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-With Henri Cartier-Bresson's "decisive moment" in photography, I am reminded of decisiveness as philosophized by [[thoughts/henry bugbee]]. We philosophize, contemplate, purify our hearts so that when the right moment comes, we are decisive.
+With Henri Cartier-Bresson's "decisive moment" in photography, I am reminded of decisiveness as philosophized by [[henry bugbee]]. We philosophize, contemplate, purify our hearts so that when the right moment comes, we are decisive.
 
 ## References

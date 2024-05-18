@@ -14,7 +14,7 @@ A life can be lived in a spectrum. At both ends are the following:
 
 In the middle of this spectrum is a new way, a middle way, "the way of faith."
 
-Per [[thoughts/henry bugbee|Henry Bugbee]], faith is like fishing. Faith is actively waiting (i.e., constantly open) to whatever comes. Faith is being committed to what the river may bestow. It is also a recognition that we can't control when the fish comes.
+Per [[henry bugbee|Henry Bugbee]], faith is like fishing. Faith is actively waiting (i.e., constantly open) to whatever comes. Faith is being committed to what the river may bestow. It is also a recognition that we can't control when the fish comes.
 
 The way of faith is not concerned about the availability and durability of peak experiences. Peak experiences are only here to affirm the holiness of the world, the worthiness of things, and the worthiness of our life around things no matter the circumstance.
 

@@ -11,7 +11,7 @@ Based on [[andrew j brown|Andrew J. Brown's]] explanation, faith (shinzuru) is a
 
 >the most important thing is always to keep listening with an as open-mind and open-heart as possible...to what's going on in our own head and heart/body.
 
-Listening here is what "true-entrusting" entails. This reminded me of [[thoughts/henry bugbee|Henry Bugbee]] who said that wherever one's thoughts came from should be trusted.
+Listening here is what "true-entrusting" entails. This reminded me of [[henry bugbee|Henry Bugbee]] who said that wherever one's thoughts came from should be trusted.
 
 In affirming this, I ought to ask the following questions:
 - How do I trust myself?

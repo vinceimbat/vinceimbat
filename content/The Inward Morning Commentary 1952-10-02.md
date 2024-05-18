@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 266
 ---
 
-On October 2, [[thoughts/henry bugbee]] began an intellectual excursion on [[Socrates]], which continued until October 10, 1952. Bugbee begins by the claim that focusing on Socrates' contributions on induction could cloud the real force of his thought. According to Bugbee, Socrates was primarily concerned with an "examined life." In this examination, man was the focus and self-knowledge was the goal. A pursuit of knowledge outside of man should serve the pursuit of understanding oneself. Socrates was never after a system of thought. Bugbee argues that Socrates' questions and themes led us back to ourselves and our capacity for reflection. His own life was the testimony to all these.
+On October 2, [[henry bugbee]] began an intellectual excursion on [[Socrates]], which continued until October 10, 1952. Bugbee begins by the claim that focusing on Socrates' contributions on induction could cloud the real force of his thought. According to Bugbee, Socrates was primarily concerned with an "examined life." In this examination, man was the focus and self-knowledge was the goal. A pursuit of knowledge outside of man should serve the pursuit of understanding oneself. Socrates was never after a system of thought. Bugbee argues that Socrates' questions and themes led us back to ourselves and our capacity for reflection. His own life was the testimony to all these.
 
 Bugbee then shifts by thinking about one of the themes that Socrates brought up: the examined life and is value. Any man, whether his vocation is intellectual or manual, should claim that a life worth living involves his vocation. A life worth living must include a vocation no matter what it is.
 

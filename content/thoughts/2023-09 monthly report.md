@@ -7,7 +7,7 @@ draft: true
 ---
 # Summary
 
-After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[thoughts/henry bugbee|Henry Bugbee's]] philosophy, while walking one night at Ela Ave., I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation. Indeed, [[thoughts/faith generates contentment|faith generates contentment]].
+After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[henry bugbee|Henry Bugbee's]] philosophy, while walking one night at Ela Ave., I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation. Indeed, [[thoughts/faith generates contentment|faith generates contentment]].
 
 In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]]. I noticed that starting a dream log seems to make me have more dreams and remember them.
 

@@ -9,6 +9,6 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-[[thoughts/henry bugbee]]'s mentor.
+[[henry bugbee]]'s mentor.
 
 # References

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 267
 ---
 
-[[thoughts/henry bugbee]] turns to the question of what is essential in a person's life. In his entry just two days ago,[^1] he mentioned this in his discussion of faith. He mentioned there that the realization of what is essential to us comes unexpectedly in the middle of our normal routines.
+[[henry bugbee]] turns to the question of what is essential in a person's life. In his entry just two days ago,[^1] he mentioned this in his discussion of faith. He mentioned there that the realization of what is essential to us comes unexpectedly in the middle of our normal routines.
 
 Bugbee extends his discussion of this concept by saying that we cannot determine what its most essential to our lives without facing a few other problems. The most important of these problems is universality. Bugbee makes the case that what is essential for one human being may not be what is essential to another.
 

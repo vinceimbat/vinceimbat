@@ -13,7 +13,7 @@ The first was discovering the power of [[thoughts/presence is the foundation|pre
 
 The second thing that helped me navigate uncertainty was falling in love with [[thoughts/philosophy|philosophy]]. [[thoughts/purpose|Purpose]] is a big thing to me. Because I was suicidal. And when we are suicidal, it is purpose that saves us. Now, although I have a love-hate relationship with [[thoughts/metaphysics|metaphysics]] because it fosters hatred among people, it was seminal in finding a way out of despair.
 
-I was constantly asking myself, what is my purpose? Or more specifically, what is the reason for me not to kill myself? Now, for many, the existence of [[thoughts/god|God]] is necessary to answer the question. I empathize with them. It is a popular and easy option, which is also logical. But it also means that there is a predetermined purpose for me.
+I was constantly asking myself, what is my purpose? Or more specifically, what is the reason for me not to kill myself? Now, for many, the existence of [[god|God]] is necessary to answer the question. I empathize with them. It is a popular and easy option, which is also logical. But it also means that there is a predetermined purpose for me.
 
 The alternative, I discovered, is existentialism, which might seem bleak at first: [[thoughts/life is inherently meaningless|life is inherently meaningless]]. Meaning does not arise from outside of us but inside of us. There is no large purpose behind the universe but that is okay. [[thoughts/meaningful living is possible despite meaninglessness|Meaningful living is possible despite meaninglessness]]. We can get by with the little meaning we are capable of creating. We can get going.
 

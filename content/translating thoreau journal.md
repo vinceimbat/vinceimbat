@@ -1,15 +1,13 @@
 ---
-title: "Translating my favorite Thoreau journal entries"
-date: "2021-01-29"
+title: Translating my favorite Thoreau journal entries
+date: 2021-01-29
+aliases:
+  - Translating-my-favorite-Thoreau-journal-entries
 tags:
-
-- "seedlings"
-sr-due: 2022-07-14
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
-This is the process I follow in translating [[henry david thoreau]]'s journal entries from English to Filipino:
+This is the process I follow in translating [[henry david thoreau|Henry David Thoreau]]'s journal entries from English to Filipino:
 
 1. I read all his journal entries for the given day. I use the one by Searls and Stilgoe. See references below.
 2. I then choose the best entry to translate and share. Some days, there will be multiple entries that are good for translation. I note all of these other entries as todos in Things. They will be translated on days when there is nothing to translate.

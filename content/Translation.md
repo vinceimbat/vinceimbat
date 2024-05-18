@@ -10,7 +10,7 @@ sr-ease: 275
 ---
 
 - [[Translation facilitates understanding]]
-- [[Translating my favorite Thoreau journal entries]]
+- [[translating thoreau journal]]
 - [[A translator needs a personal word bank]]
 - [[Translators should aspire to ask how the person they are translating used the words]]
 - [[thoughts/noelle de jesus translation process]]

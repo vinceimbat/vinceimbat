@@ -1,13 +1,12 @@
 ---
-title: "Philosophy"
-date: "2021-02-13"
+title: Philosophy
+date: 2021-02-13
+aliases:
+  - thoughts/philosophy
 tags:
-- "seedlings"
-sr-due: 2025-10-11
-sr-interval: 802
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
-
 I read hard philo texts but it doesnt mean that I want to write similar texts. I admire how steve writes but i dont think i will enjoy my work enough if I am going to write in a similar way.
 
 The main reason I am studying philosophy is because I want to know how to live.

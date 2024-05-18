@@ -11,7 +11,7 @@ sr-ease: 289
 ---
 # Tuesday, August 26, 1952
 
-[[thoughts/henry bugbee|Henry Bugbee]] says "philosophy is in the end an approximation of the poem," a statement which, of course, reminds me of "[[lyrical philosophy|lyrical philosophy]]." Before he wrote these words, he mentioned that [[thoughts/williams carlos williams|Williams Carlos Williams]] said that writing a poem involves moving between one perception to another instantly. This should be philosophy then, according to Bugbee.
+[[henry bugbee|Henry Bugbee]] says "philosophy is in the end an approximation of the poem," a statement which, of course, reminds me of "[[lyrical philosophy|lyrical philosophy]]." Before he wrote these words, he mentioned that [[thoughts/williams carlos williams|Williams Carlos Williams]] said that writing a poem involves moving between one perception to another instantly. This should be philosophy then, according to Bugbee.
 
 He differentiates this from usual "research," which involves a lot of ''tilling.'' This "tilling" may actually bury that which wants to come out.[^1] What wants to come out is insight and insight comes out suddenly ([[insight cannot be predetermined]]). Bugbee speaks of insight as having a life of its own. It has to be allowed to grow organically. When one moulds it into theory or makes it public, one starts to lose it.
 

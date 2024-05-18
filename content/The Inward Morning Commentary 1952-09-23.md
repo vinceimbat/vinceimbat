@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 267
 ---
 
-In his September 23 entry, [[thoughts/henry bugbee]] begins his explanation of the two concepts her claimed to have illustrated in his previous entry[^1]: immersion and commitment. Bugbee defines immersion as "living in the present with complete absorption." This absorption he says is not the "congeal attention," wich one might experience in zen meditation, where one focuses on one's breathing.
+In his September 23 entry, [[henry bugbee]] begins his explanation of the two concepts her claimed to have illustrated in his previous entry[^1]: immersion and commitment. Bugbee defines immersion as "living in the present with complete absorption." This absorption he says is not the "congeal attention," wich one might experience in zen meditation, where one focuses on one's breathing.
 
 The "present" where absorption happens is not "a discrete moment in a series"; it expands "extensively into temporal and spatial distances." This is definitely not the present that I have been familiar with in zen. It is not the "here, now" if it transcends it. Does Bugbee mean that the mind is absorbed into wandering? Into mental excursions? Into walks? And that the time and space covered by such mental walks is what he refers to as "present"?
 

@@ -21,3 +21,4 @@ Below are links to indexes of all the diaries I have. This list is incomplete as
 - [[2022-10 to 2023-03 diary]]
 - [[thoughts/2023-03 to 2023-10 diary|2023-03 to 2023-10 diary]]
 - [[2023-10 to 2024-05 diary|2023-10 to 2024-05 diary]]
+- [[2024-05 to 2024 diary]]

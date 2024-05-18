@@ -3,11 +3,10 @@ title: The Inward Morning by Henry Bugbee
 date: 2022-07-26
 aliases:
   - The-Inward-Morning-Bugbee
+  - thoughts/the-inward-morning-by-bugbee
 tags:
+  - literature
   - seedlings
-sr-due: 2025-11-29
-sr-interval: 951
-sr-ease: 270
 ---
 - [[thoughts/my commentaries on the inward morning by bugbee]]
 
