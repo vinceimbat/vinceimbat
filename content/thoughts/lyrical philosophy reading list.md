@@ -16,7 +16,7 @@ sr-ease: 230
 - [[thoughts/herman melville]]
 - [[thoughts/ludwig wittgenstein]]
 - [[thoughts/michel de montaigne]]
-- [[thoughts/søren kierkegaard]]
+- [[soren kierkegaard]]
 - [[thoughts/stanley cavell]]
 - David Rothenberg
 - Henry James

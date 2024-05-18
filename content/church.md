@@ -28,3 +28,4 @@ You need to make your own kyokai (he can't practice that in other places). It do
 - Connect here the non-church movement in Japan.
 - Connect here discussion on the problems of translating kyōkai into English.
 - Add here reflections from how church was used by [[shinichiro imaoka|Imaoka]] in his [[imaoka principles of living|Principles of Living]].
+- Connect here Andrew's blog post "Garden Congregationalism."

@@ -8,6 +8,6 @@ tags:
 
 "Life is Not a Problem to be Solved, But a Reality to be Experienced"
 
-~ [[thoughts/søren kierkegaard|Søren Kierkegaard]]
+~ [[soren kierkegaard|Søren Kierkegaard]]
 
 ## References
