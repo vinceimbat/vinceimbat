@@ -27,3 +27,23 @@ My ability to be compassionate, loving, kind, etc. does not rely on the existenc
 - My ideas of what is good or bad depend on my personal preference. They can be different from the preference of others.
 - The existence of a God means he sets value for both physics and ethics. For me, the rules I follow in actions are those I develop within my mind and heart through deliberate practice and habits.
 - This translates to my position ? ? issue that seems "moralistic". Instead of relying solely on laws, rules, and punishment, we should focus on building environments where the habits necessary for the world we want to exist in could be started, maintained, or optimized.
+
+***
+
+# Alternative outline
+
+Bathala Wala (Part 1)
+
+My concept of God growing up
+My concept of God as an adolescent
+How I Lost Belief in a God
+Falling into Apathetic Agnosticism
+Returning to the Subject
+Possibilities
+1. Recognizing that which is beyond me
+2. Using God but reconceptualizing it
+3. Letting go of the word entirely, embracing non-theism, and using a different word for that which is beyond me
+
+Project
+
+Walking + Philosophical reading + writing and photography
