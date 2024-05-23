@@ -1,13 +1,14 @@
 ---
-title: "Kung ang Mga Sasakyang Ito ay Naglalakad na Mga Tao"
-date: "2022-07-08"
-location: [16.064351,120.450314]
+title: Kung ang Mga Sasakyang Ito ay Naglalakad na Mga Tao
+date: 2022-07-08
+location:
+  - 16.064351
+  - 120.450314
+aliases:
+  - translations/kung-ang-mga-sasakyang-ito-ay-naglalakad-na-mga-tao
 tags:
-- "filipino"
-- "seedlings"
-sr-due: 2024-05-23
-sr-interval: 367
-sr-ease: 230
+  - filipino
+  - seedlings
 ---
 Tanaw ang kalsada mula rito  
 Dinig ang maiingay na ungol ng mga makina  

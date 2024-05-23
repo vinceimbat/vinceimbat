@@ -28,4 +28,4 @@ Tan amin da et manbabanuan tan maniistoryaan
 anggad isabi dad sampot na dalan
 
 ***
-Impatalos ed Filipino: [[translations/kung ang mga sasakyang ito ay naglalakad na mga tao|Kung ang Mga Sasakyang Ito ay Naglalakad na Mga Tao]]
+Impatalos ed Filipino: [[kung ang mga sasakyang ito ay naglalakad na mga tao|Kung ang Mga Sasakyang Ito ay Naglalakad na Mga Tao]]
