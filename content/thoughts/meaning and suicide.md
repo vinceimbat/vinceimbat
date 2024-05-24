@@ -21,6 +21,6 @@ Taken at face value, the grave is the goal and killing myself is the most logica
 
 To avoid this, I must create meaning.
 
-To choose to live even if suicide is an alternative is courageous. To keep on standing is to believe on something we didn't even choose for ourselves ([[We did not choose to exist]]), something that is hard and can be harder, but sill valuable. Life is just a big acceptance project. We accept that we are alive and accept everything that life throws at us.
+To choose to live even if suicide is an alternative is courageous. To keep on standing is to believe on something we didn't even choose for ourselves ([[we did not choose to exist]]), something that is hard and can be harder, but sill valuable. Life is just a big acceptance project. We accept that we are alive and accept everything that life throws at us.
 
 Creating our own meaning and purpose is the next step after acceptance.

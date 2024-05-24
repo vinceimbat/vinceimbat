@@ -22,7 +22,7 @@ My quest is articulated here as fiction, but really is a metaphor. It is made up
 In short, my quest is heavily inspired by [[thoughts/my worldview]]. Since my worldview could grow and change in time, so will my quest.
 
 The beliefs about reality within my worldview that is most relevant to my quest are as follows:
-1. [[We did not choose to exist]].
+1. [[we did not choose to exist]].
 2. [[thoughts/life is inherently meaningless]].
 3. [[thoughts/meaningful living is possible despite meaninglessness]].
 4. Believing on a God can be convenient, but [[God does not exist]].

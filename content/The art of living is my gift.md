@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 232
 ---
 
-[[We did not choose to exist]]. We seem to be thrown here. But we can [[thoughts/our thrownness is a gift]]. The life that I am living is the ultimate gift I have ever received. Therefore, I am called to treat living as my ultimate art. This is the very reason why [[thoughts/my work is religious in nature]]. Its religious nature is an attempt to live it intentionally.
+[[we did not choose to exist]]. We seem to be thrown here. But we can [[thoughts/our thrownness is a gift]]. The life that I am living is the ultimate gift I have ever received. Therefore, I am called to treat living as my ultimate art. This is the very reason why [[thoughts/my work is religious in nature]]. Its religious nature is an attempt to live it intentionally.
 
 There are many collectives of people who, by example, have shown the way to do this. There are traditions. But I don't think I can choose one tradition to follow religiously. I need to create my own tradition by piecing together different influences.
 

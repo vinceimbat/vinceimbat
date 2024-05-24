@@ -14,7 +14,7 @@ Aristotle's most basic argument is that everything that is in motion is moved by
 
 This ultimate cause of motion shouldn't be moved. Otherwise, it was also caused by something else. It isn't made of physical matter. Otherwise, it will change and, therefore, move. It also necessarily lacks [[Potentiality]]. Therefore, it is simply [[Actuality]].
 
-The implications of the existence of an unmoved mover is profound. First, it simply means I did not come in this life by my own accord ([[We did not choose to exist]]). I was brought here by someone or something that is way more powerful than myself. And the nature of this thing or person is filled with mystery. The answers about its nature are not intuitive. They have to be pondered about. But answers don't have to be clear or final. The awe that the mystery produces is enough to move us to embrace [[thoughts/intentional living]] (i.e., appreciate everything and every moment we are alive and let that appreciation guide us to do the most important action).
+The implications of the existence of an unmoved mover is profound. First, it simply means I did not come in this life by my own accord ([[we did not choose to exist]]). I was brought here by someone or something that is way more powerful than myself. And the nature of this thing or person is filled with mystery. The answers about its nature are not intuitive. They have to be pondered about. But answers don't have to be clear or final. The awe that the mystery produces is enough to move us to embrace [[thoughts/intentional living]] (i.e., appreciate everything and every moment we are alive and let that appreciation guide us to do the most important action).
 
 # References
 
