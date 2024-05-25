@@ -2,12 +2,11 @@
 title: Steve Patterson
 date: 2021-02-17
 aliases:
-  - Steve Patterson
+  - Steve-Patterson
+  - thoughts/steve-patterson
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-01-03
-sr-interval: 3
-sr-ease: 250
 ---
 Steve writes, creates videos, and podcasts. His goal is “to create the most accurate worldview possible and communicate it clearly.”
 

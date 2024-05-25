@@ -14,7 +14,7 @@ Mind and body are different ontological categories. How do they interact?
 - substance dualism
 - substance pluralism - doesn't restrict the amount of ontological categories to only two
 
-In this theory created by [[thoughts/steve patterson|Steve Patterson]], mind and body do not directly interact. They simply effectively interact. The state of one affects the state of the other.
+In this theory created by [[steve patterson|Steve Patterson]], mind and body do not directly interact. They simply effectively interact. The state of one affects the state of the other.
 
 State is the condition of A at any given time.
 

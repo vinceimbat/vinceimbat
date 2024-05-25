@@ -24,7 +24,7 @@ Others
 - [[thoughts/rem tanauan]]
 - [[Roman Krznaric]]
 - [[Samo Burja]]
-- [[thoughts/steve patterson]]
+- [[steve patterson]]
 - [[Theodore Zeldin]]
 - [[thoughts/thich nhat hanh]]
 

@@ -9,6 +9,10 @@ tags:
 ---
 Here is [[wieman minimalist definition of god|Wieman's minimalist definition of God]].
 
+Here is [[dewey concept of god|Dewey's concept of God]].
+
+The [[kiitsu kyokai]] meeting dated [[2024-05-23 kiitsu kyokai|2024-05-23]] was greatly helpful in showing me where to look.
+
 ***
 
 Does God need to be worshipped?
