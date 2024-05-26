@@ -13,7 +13,7 @@ sr-ease: 277
 
 Yes, [[thoughts/metaphysics]] can be the source of barbaric debates and hatred. But it can also be the thing that nudges us towards a better direction. [[thoughts/amoralism]] demonstrates this.
 
-We still need metaphysics and [[thoughts/epistemology]] to correct our biases and to see people as they really are. But because metaphysics and epistemology can be very divisive ([[thoughts/we agree about what we want and disagree about metaphysics and epistemology]]), we need to learn [[How to navigate divisive topics]].
+We still need metaphysics and [[thoughts/epistemology]] to correct our biases and to see people as they really are. But because metaphysics and epistemology can be very divisive ([[we agree about what we want and disagree about metaphysics and epistemology]]), we need to learn [[How to navigate divisive topics]].
 
 # To Do
 

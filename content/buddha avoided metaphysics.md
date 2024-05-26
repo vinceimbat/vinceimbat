@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-The Buddha actually avoided talking about doctrines of metaphysics because he knows that [[thoughts/we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]], and this disagreement could clouds his main goal—to teach how people can be kind to others and lessen the suffering in the world.
+The Buddha actually avoided talking about doctrines of metaphysics because he knows that [[we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]], and this disagreement could clouds his main goal—to teach how people can be kind to others and lessen the suffering in the world.
 
 One of the metaphysical teachings he introduced but avoided expounding was the doctrine of the [[Non-self]].
 

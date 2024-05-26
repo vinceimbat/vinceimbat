@@ -27,6 +27,10 @@ Is being worshipped connected with the concept of God.
 
 # Reading List
 
-- Dewey
-- Schellenberg
-- Caputo
+Dewey
+
+
+Schellenberg
+- Divine Hiddenness and Human Reason (1993)
+
+Caputo

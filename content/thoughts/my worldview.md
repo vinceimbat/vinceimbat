@@ -36,7 +36,7 @@ I am persuaded with the following conclusions:
 - [[Minds are unique to each human being]]. Therefore, [[thoughts/subjective experiences are unique to each human being]].
 - [[The interaction between the external objective physical world and the mind creates subjective experience]]. This interaction is explained by the [[Indirect interaction theory per Patterson]] of minds.
 
-Metaphysics is a difficult topic to navigate because [[thoughts/we agree about what we want and disagree about metaphysics and epistemology]]. This is why [[buddha avoided metaphysics]]. But [[thoughts/metaphysics and epistemology can help us be kinder]].
+Metaphysics is a difficult topic to navigate because [[we agree about what we want and disagree about metaphysics and epistemology]]. This is why [[buddha avoided metaphysics]]. But [[thoughts/metaphysics and epistemology can help us be kinder]].
 
 Others
 - [[God does not exist]].

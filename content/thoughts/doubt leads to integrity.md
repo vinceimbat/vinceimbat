@@ -16,6 +16,6 @@ When you doubt your political stand, you start to pay attention to other politic
 
 When you doubt your current job, you will start looking for other places that can make better use of your talents and enthusiasm. Possibilities are opened. You become more connected to yourself and those you are meant to serve.
 
-Doubt is an important part of a rich life because it is a space where we finally meet our true selves and those of others. This is especially true because [[thoughts/we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]]
+Doubt is an important part of a rich life because it is a space where we finally meet our true selves and those of others. This is especially true because [[we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]]
 
 [[thoughts/doubt allows freedom|Doubt allows freedom]], and [[thoughts/freedom leads to ginhawa|freedom leads to ginhawa]].

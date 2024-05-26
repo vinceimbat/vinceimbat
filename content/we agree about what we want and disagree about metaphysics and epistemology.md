@@ -2,12 +2,11 @@
 title: We agree about what we want and disagree about metaphysics and epistemology
 date: 2021-01-05
 aliases:
-  - We agree about what we want and disagree about metaphysics and epistemology
+  - We-agree-about-what-we-want-and-disagree-about-metaphysics-and-epistemology
+  - thoughts/we-agree-about-what-we-want-and-disagree-about-metaphysics-and-epistemology
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-10-02
-sr-interval: 384
-sr-ease: 250
 ---
 We have roughly the same needs and wants. We want peace, well-being, love, and prosperity. Many have similar ideas about what is “bad” or “good.”
 
