@@ -10,12 +10,14 @@ kanban-plugin: basic
 - [ ] Kensho in Jiyu Shukyo
 - [ ] Seiza Meditation and the Body as a Church
 - [ ] Doubt
+- [ ] Reincorporating Prayer
 
 
 ## Published
 
 **Complete**
-- [x] A Sunday Walk<br><br>Sunday walk experiment with Lea
+- [x] [[a sunday walk]]<br><br>Sunday walk experiment with Lea
+- [x] [[never finished never arrived]]<br><br>On journaling
 
 
 

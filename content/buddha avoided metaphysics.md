@@ -2,12 +2,11 @@
 title: The Buddha avoided metaphysics
 date: 2021-08-17
 aliases:
-  - The Buddha avoided metaphysics
+  - The-Buddha-avoided-metaphysics
+  - thoughts/buddha-avoided-metaphysics
 tags:
+  - thoughts
   - seedlings
-sr-due: 2027-07-27
-sr-interval: 1412
-sr-ease: 270
 ---
 The Buddha actually avoided talking about doctrines of metaphysics because he knows that [[thoughts/we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]], and this disagreement could clouds his main goal—to teach how people can be kind to others and lessen the suffering in the world.
 
@@ -31,5 +30,5 @@ But I believe that all human beings are capable of loving others outside of them
 
 # References
 
-Smith, D. (2018, February 12). *The Buddha on Self and Non-Self—YouTube*. [https://www.youtube.com/](https://www.youtube.com/)
+Smith, D. (2018, February 12). *The Buddha on Self and Non-Self*. https://www.youtube.com/watch?v=gSZjKKuvHEQ
 

@@ -1,14 +1,13 @@
 ---
-title: "Living"
-date: "2021-02-11"
-aliases: "Living"
+title: Living
+date: 2021-02-11
+aliases:
+  - Living
+  - thoughts/living
 tags:
-- "seedlings"
-sr-due: 2032-12-20
-sr-interval: 3429
-sr-ease: 273
+  - thoughts
+  - seedlings
 ---
-
 This is the second among the [[Five areas of my life work]].
 
 [[Living is the most important category of action]]. The purpose of living is to apply clear [[thoughts/understanding]] to take the right and most compassionate action in every day life.

@@ -83,7 +83,7 @@ After setting up a system to organize your actions and a system to organize your
    - Here is [[my weekly review routine]].
 1. Use a [[thoughts/daily review]].
    - The purpose of the daily review is to choose and perform actions  for the day from all the options you have articulated.
-   - Here is [[thoughts/my daily review routine]].
+   - Here is [[my daily review routine]].
 
 ## Project management
 

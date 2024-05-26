@@ -24,7 +24,7 @@ One important purpose of my life work is to cultivate a particular state of mind
 
 The other half of my work is intellectual. Yes, I want a life that is mentally stable and can be filled with happiness and rich inner experiences. However, a prerequisite to that is that I train myself in intellectual work.
 
-This could sound counterintuitive. After all, sages have always warned about the dangers of intellectualization—that it lessens compassion and causes suffering, which is anti-happiness ([[thoughts/buddha avoided metaphysics]]). I can see their point. I don't necessarily enjoy intellectual work sometimes, and people who are too caught up in intellectual work can become too self-righteous and hard on their beliefs and ideologies. But to completely reject intellectual work, I think is an extreme position, especially because of how fundamental truth and reason are in the pursuit of the good life.
+This could sound counterintuitive. After all, sages have always warned about the dangers of intellectualization—that it lessens compassion and causes suffering, which is anti-happiness ([[buddha avoided metaphysics]]). I can see their point. I don't necessarily enjoy intellectual work sometimes, and people who are too caught up in intellectual work can become too self-righteous and hard on their beliefs and ideologies. But to completely reject intellectual work, I think is an extreme position, especially because of how fundamental truth and reason are in the pursuit of the good life.
 
 Why?
 

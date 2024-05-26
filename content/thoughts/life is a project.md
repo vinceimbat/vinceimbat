@@ -18,7 +18,7 @@ The actions that fulfill one's goals in life are restricted by rules—the rules
 
 What we call life is simply a collection of individual actions from birth to death.
 
-Since an [[thoughts/action]] requires conscious movement, one can say that living starts when a child starts being more conscious of its actions.
+Since an [[action]] requires conscious movement, one can say that living starts when a child starts being more conscious of its actions.
 
 However, life seems to start way before a child becomes conscious. At this time, the child is already "alive" but is not yet "living" or "acting" as both suggests action, and action requires consciousness.
 

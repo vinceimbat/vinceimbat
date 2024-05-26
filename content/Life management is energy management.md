@@ -9,7 +9,7 @@ sr-interval: 98
 sr-ease: 250
 ---
 
-An [[thoughts/action]] becomes possible through a trifecta:
+An [[action]] becomes possible through a trifecta:
 1. Consciousness ([[Purpose separates action from non-action]])
 2. Time
 3. Energy

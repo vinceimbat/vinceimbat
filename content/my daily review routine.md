@@ -2,12 +2,11 @@
 title: My daily review routine
 date: 2021-12-10
 aliases:
-  - My daily review routine
+  - My-daily-review-routine
+  - thoughts/my-daily-review-routine
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-05-25
-sr-interval: 514
-sr-ease: 252
 ---
 There are few things I need to review every day:
 

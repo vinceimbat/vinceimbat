@@ -12,7 +12,7 @@ sr-ease: 255
 There are five categories of actions in the work that I do. These categories are:
 
 1. [[thoughts/understanding]]
-2. [[thoughts/living]]
+2. [[living]]
 3. [[Sharing]]
 4. [[thoughts/connecting]]
 5. [[thoughts/facilitating]]

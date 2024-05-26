@@ -1,12 +1,12 @@
 ---
-title: "Action"
-date: "2022-04-30"
-aliases: "Action"
+title: Action
+date: 2022-04-30
+aliases:
+  - Action
+  - thoughts/action
 tags:
-- "seedlings"
-sr-due: 2055-10-21
-sr-interval: 11769
-sr-ease: 294
+  - thoughts
+  - seedlings
 ---
 The word action is a concept, a mental model used to describe a phenomena that occurs in the real world. The phenomena is this: Action is behavior with intention that intervenes in one’s status quo and results in an end state that may or may not approximate one’s original goal. It is the employment of means to attain a [[desire]].
 
@@ -43,7 +43,7 @@ There are two kinds of action:
 1. Thinking about what action to take
 2. Doing the specific action
 
-The first occurs in the [[thoughts/sky level]] of the [[thoughts/life management system]], while the latter occurs at the [[thoughts/ground level]]. [[thoughts/living]] is about going back and forth between these two kinds of action. This back and forth makes sure that one is doing the right thing and doing it as present and mindful as possible.
+The first occurs in the [[thoughts/sky level]] of the [[thoughts/life management system]], while the latter occurs at the [[thoughts/ground level]]. [[living]] is about going back and forth between these two kinds of action. This back and forth makes sure that one is doing the right thing and doing it as present and mindful as possible.
 
 ---
 A study of action involves an understanding of both mental and physical states because an action also contains a mental state. However, it happens at a very specific point in time. It does not include the mental states before and after its performance. Action occurs in between these mental states. Understanding action also involves a study of the rational calculations that man use to arrive at particular choices of action.

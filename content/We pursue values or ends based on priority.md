@@ -20,4 +20,4 @@ Logically, smaller action units that bring about a desired mental state is very 
 
 This is why, if we want to begin our journey toward Ginhawa, we must ground ourselves in these tiny investments becayse they put use in the position of Ginhawa alread while cultivating it more.
 
-Ask yourself: what is the tiniest [[thoughts/action]] I can take that will make me feel good? Do that and do more of that until you are ready to take on bigger projects.
+Ask yourself: what is the tiniest [[action]] I can take that will make me feel good? Do that and do more of that until you are ready to take on bigger projects.

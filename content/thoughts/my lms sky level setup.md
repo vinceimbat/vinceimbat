@@ -13,7 +13,7 @@ Everything begins with [[thoughts/purpose]]. [[my purpose is to live deliberatel
 
 To imagine what fulfilling my purpose looks like, I wrote [[my vision statement]].
 
-To imagine how my vision could translate into action and allow myself to track my progress, I have created [[thoughts/my life areas]].
+To imagine how my vision could translate into action and allow myself to track my progress, I have created [[my life areas]].
 
 Within my life areas are goals that I track in [[my life goals master list]].
 

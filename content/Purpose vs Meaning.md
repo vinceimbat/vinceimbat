@@ -8,7 +8,7 @@ tags:
 
 [[Purpose is a statement that articulates the reason behind an action]]. It simply answers the question "Why will you do what you will do?"
 
-[[thoughts/meaning]], on the other hand, is the interpretation of an object, concept, event, or human life. [[Purpose is articulated before an action or a project is performed]]. If you articulate it after the fact, you are giving meaning, not purpose, to the [[thoughts/action]].
+[[thoughts/meaning]], on the other hand, is the interpretation of an object, concept, event, or human life. [[Purpose is articulated before an action or a project is performed]]. If you articulate it after the fact, you are giving meaning, not purpose, to the [[action]].
 
 When life is said to be “meaningful” it simply means, we can “say more” about it because it means more to people and that is possible because more significant things happened in that life.
 

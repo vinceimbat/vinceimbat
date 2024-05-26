@@ -32,7 +32,7 @@ Species are further classified depending on level of development: [[thoughts/see
 
 A walk in the forest garden of the mind refers to my daily visits to this collection. My walks involve planting, replanting, pruning, or nurturing of existing species in the garden. Therefore, different species form interconnections that you could access through the mind trails and the topography of thoughts present under each note.
 
-[[my purpose is to live deliberately|My purpose is to live deliberately]]. Therefore, my main motivation for walking in the world and in this digital garden is to transform seeds of thoughts and experiences into decisive [[thoughts/action|actions]] leading to [[thoughts/intentional living|intentional living]]. Thus, I recognize that [[thoughts/my work is religious in nature|my work is religious in nature]].
+[[my purpose is to live deliberately|My purpose is to live deliberately]]. Therefore, my main motivation for walking in the world and in this digital garden is to transform seeds of thoughts and experiences into decisive [[action|actions]] leading to [[thoughts/intentional living|intentional living]]. Thus, I recognize that [[thoughts/my work is religious in nature|my work is religious in nature]].
 
 For some context, see: [[thoughts/my quest|my quest]].
 

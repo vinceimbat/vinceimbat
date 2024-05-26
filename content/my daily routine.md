@@ -8,7 +8,7 @@ tags:
   - thoughts
   - evergreens
 ---
-My daily objective is to nurture all [[thoughts/my life areas|my life areas]] but doing something for each. I assign each life area to a time block.
+My daily objective is to nurture all [[my life areas|my life areas]] but doing something for each. I assign each life area to a time block.
 
 | Morning       | Afternoon and Evening |
 | ------------- | --------------------- |
@@ -60,7 +60,7 @@ Details here are allowed to change depending on my projects and their status.
 
 About an hour or 30 minutes before lunch break, I spend some time doing the following.
 
-- Write daily review report (See [[thoughts/my daily review routine|my daily review routine]]).
+- Write daily review report (See [[my daily review routine|my daily review routine]]).
 - Process yesterday's seeds.
 - Process at least one Talahardin note. 
 - Process at least one previous diary entry.

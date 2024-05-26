@@ -11,7 +11,7 @@ sr-ease: 230
 
 ## Thursday, August 28, 1952
 
-[[henry bugbee]] expands his conception of "[[thoughts/certainty]]." He repeats that certainty is a "basis for [[thoughts/action]]." Therefore, it is the trigger to a beginning rather than a landmark for arrival. Certainty is not the closure of an endeavor. It is the beginning of action.
+[[henry bugbee]] expands his conception of "[[thoughts/certainty]]." He repeats that certainty is a "basis for [[action]]." Therefore, it is the trigger to a beginning rather than a landmark for arrival. Certainty is not the closure of an endeavor. It is the beginning of action.
 
 Every situation is absolute. This moment is itself. It will never change. According to Bugbee, when we realize this absolute nature of every moment, when we become sensitive to it, we start interpreting each moment, each action deeply—we start to live in "the depth of our experience."
 

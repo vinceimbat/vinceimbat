@@ -15,7 +15,7 @@ In my strategy, a period of reviewing will usually be followed by a period of sh
 
 # Daily
 
-Every morning, I perform [[thoughts/my daily review routine]]. If I find something from my recent process that I think is worth-sharing then I post on social media. If it's an update, I share a short post and a related photo. If it’s a question, I just ask the question. I share via Instagram and Facebook. But I want to explore sharing via Mastodon.
+Every morning, I perform [[my daily review routine]]. If I find something from my recent process that I think is worth-sharing then I post on social media. If it's an update, I share a short post and a related photo. If it’s a question, I just ask the question. I share via Instagram and Facebook. But I want to explore sharing via Mastodon.
 
 Having said that, I don’t want to pressure myself with sharing daily. If there is nothing good to share, I don’t have to share.
 

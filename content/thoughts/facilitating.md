@@ -22,7 +22,7 @@ Eventually, I would like to explore how my methods and systems can be applied to
 
 Societal application of my methods and systems will be tricky. But I can explore these theoretically. For example, I would like to explore how we can facilitate amoralism and anarchic principles in a broader context.
 
-As listed in [[thoughts/living]], I can facilitate the application of methods and systems relating to the following:
+As listed in [[living]], I can facilitate the application of methods and systems relating to the following:
 
 - Learning through [[self-directed learning]]
 - Designing a ground-level productivity system

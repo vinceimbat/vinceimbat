@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-Project is a set of [[thoughts/action]]s.
+Project is a set of [[action]]s.
 
 A project has one overarching intention, which requires multiple actions under it. Each of these actions have their individual intentions.
 

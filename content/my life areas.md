@@ -2,12 +2,11 @@
 title: My life areas
 date: 2021-01-06
 aliases:
-  - My life areas
+  - My-life-areas
+  - thoughts/my-life-areas
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-05-13
-sr-interval: 20
-sr-ease: 215
 ---
 I have six [[thoughts/life area|life areas]]:
 1. [[overseeing|Overseeing]]

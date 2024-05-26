@@ -25,3 +25,8 @@ Is being worshipped connected with the concept of God.
 - [[Three questions to ask about God]]
 - [[God does not exist]]
 
+# Reading List
+
+- Dewey
+- Schellenberg
+- Caputo

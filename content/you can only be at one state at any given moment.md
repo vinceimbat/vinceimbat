@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 240
 ---
 
-[[thoughts/james clear]]'s adoption of a single list of goals (i.e., the [[thoughts/warren buffet list|Warren Buffet list]]) matches the insight from [[austrian economics|Austrian economics]] that we can only be at one state at every given moment, therefore, we can only do one [[thoughts/action]] or pursue one [[Goal]] at a time.
+[[thoughts/james clear]]'s adoption of a single list of goals (i.e., the [[thoughts/warren buffet list|Warren Buffet list]]) matches the insight from [[austrian economics|Austrian economics]] that we can only be at one state at every given moment, therefore, we can only do one [[action]] or pursue one [[Goal]] at a time.
 
 To do
 - Include a reference for the Austrian economics finding.

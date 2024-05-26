@@ -15,5 +15,5 @@ Where we often disagree is on the level of [[thoughts/metaphysics]]: on what exi
 
 Disagreement in metaphysics is also highly connected with disagreement in [[thoughts/epistemology]]. For example, a person who believes in God is more likely to believe in the divine inspiration of sacred scriptures. An atheist will, in turn, find it difficult to believe on divine inspiration by virtue of their disbelief in a divine author.
 
-Because it can be divisive and prevent people from being kind to each other, the [[thoughts/buddha avoided metaphysics]]. This problem actually forced me to ask whether I do philosophy to live a good life or to prove that I am right ([[thoughts/philosophize to live deliberately]]).
+Because it can be divisive and prevent people from being kind to each other, the [[buddha avoided metaphysics]]. This problem actually forced me to ask whether I do philosophy to live a good life or to prove that I am right ([[thoughts/philosophize to live deliberately]]).
 
