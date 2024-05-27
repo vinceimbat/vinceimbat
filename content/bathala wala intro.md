@@ -1,5 +1,5 @@
 ---
-title: '"Bathala Wala" (Part One): Confronting the Concept of "God"'
+title: '"Bathala Wala" (Part One): Confronting "God" on the Mt. Makiling Trail'
 date: 2024-05-25
 aliases: 
 draft: false
