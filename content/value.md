@@ -3,11 +3,10 @@ title: Value
 date: 2023-01-04
 aliases:
   - Value
+  - thoughts/value
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-01-07
-sr-interval: 3
-sr-ease: 250
 ---
 Value is a word. And a word can mean different things to people. And if we have different meanings attributed to one word, it's impossible for us to get into an agreement when we're using that word.
 

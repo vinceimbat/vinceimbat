@@ -7,6 +7,34 @@ tags:
   - literature
   - seedlings
 ---
+People from different religions (or identities) can have a dialogue because there is something that somehow unifies them.
+
+Imaoka describes this unifier as "universal, super-logical, and creative." In other words, it could not be contained by one tradition or belief system alone. The unifier exists on top of the tradition, worldview, or identity.
+
+Imaoka adds that this unifier is the essence and goal of religious and spiritual traditions. It is immanent in them, so it cannot be a new religion or the unification of religions.
+
+A member of any religious organization becomes a free religionist (jiyū shūkyōjin) when they recognize this unifier.
+
+While we can never completely capture this unifier, we could at least attempt to describe it.
+
+For example, I wrote last year that I think at its very core, this unifier is simply an accessible and innate trait among humans to care deeply about something so as to sometimes treat it as sacred. I differentiated it from the attitude of apathy from where other feelings sprout: hate, separation, greed, etc. For me, Imaoka's principles of living are expressions of this unifier.
+
+Because it is simple, accessible, and natural, it can be discovered not only in spiritual and religious activities but in ALL human activities. All human activities are a reflection of care. Otherwise we wouldn't get out of bed and work.
+
+As someone who went through depression, I could say that I started caring when I decided to get out of the house and do stuff again.
+
+Imaoka believed that all human activities is religious, because they are all concerned with how one becomes a true human being.
+
+Unifier = Deeply caring = Being a true human being
+
+Imaoka also described the unifier as a "universal and creative human nature."
+
+A question that could be raised here is, of course, who gets to say what a true human being is?
+
+Imaoka describes his definition as "dry and commonplace." He says, "Free religion is always common like wind and plain like water."
+
+Imaoka adds that a desire that comes out of free religion is to exist in "an ideal world community."
+
 # Highlights
 
 unity in variety

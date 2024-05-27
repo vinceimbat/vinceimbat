@@ -1,15 +1,13 @@
 ---
-title: "Your core values could be the same as your core desired mental states"
-date: "2022-08-18"
+title: Core values could be core desired mental states
+date: 2022-08-18
+aliases:
+  - Your-core-values-could-be-the-same-as-your-core-desired-mental-states
 tags:
-
-- "seedlings"
-sr-due: 2024-05-27
-sr-interval: 362
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
-What do we mean when we say [[thoughts/value]]? Is value physical or conceptual? Does it have a different metaphysical status?
+What do we mean when we say [[value]]? Is value physical or conceptual? Does it have a different metaphysical status?
 
 When I say, I value my phone, there seems to be several things being referred to here:
 
@@ -17,7 +15,7 @@ When I say, I value my phone, there seems to be several things being referred to
 - Me, the value-giver.
 - The value, a conceptual thing I attach to a physical object.
 
-[[Values are conceptual]] because they require minds to exist. Without a value-giver, there would be no value. Value works like meaning.
+[[values are conceptual|Values are conceptual]] because they require minds to exist. Without a value-giver, there would be no value. Value works like meaning.
 
 Are values mental states? I think so. They exist in the mind.
 
@@ -27,6 +25,6 @@ Mental states could replace the phone. If I say, I value happiness, I may seem t
 
 Therefore, a [[core desired mental state]] could be a core desired value as well.
 
-Also, since values are conceptual, [[A single area or project could satisfy all your values]].
+Also, since values are conceptual, [[a single area or project could satisfy all your values]].
 
 Could values be relationships?

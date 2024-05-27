@@ -24,5 +24,5 @@ These five are the basic components. As additional resources, you can also compi
 - A list of activities you can do to improve introspection and getting in touch with what you want
 - A plan on how to execute these activities
 - A list of your [[core desired mental state]]s
-- A list of your top [[thoughts/value]]s
+- A list of your top [[value]]s
 - A list of your top five character strengths
