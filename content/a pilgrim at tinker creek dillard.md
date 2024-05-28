@@ -123,6 +123,22 @@ Is it possible to channel this sense of wonder? Everyday? Is it possible to be a
 32. Calls herself a stalker or instrument of the hunt -> talks about Indians
 33. Conclusion: heavy symbolisms of air
 
+## Seeing
+
+1. Penny hiding
+2. Penny = natural wonders in January
+3. Thesis: Simple living makes you more appreciative of pennies.
+4. Images: Seeing insects, birds, etc.
+5. Thesis: nature = now you see it now you don't
+6. Images: fish, deer, oriole
+7. Scene: hundreds of birds hiding under an Osage tree
+8. Thesis: keeping eyes open
+9. Child line drawings
+10. Thesis: Specialists find anything
+11. Images: Caterpillars, field mice
+12. Thesis: continue open your eyes even if you cant see the minutiae
+13. Images: antlion, monarch pupa
+
 # References
 
 Dillard, A. (2013). _Pilgrim at Tinker Creek_. Harper Perennial Modern Classics.

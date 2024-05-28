@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-For an introduction on what *Lilim* is, see [[thoughts/lilim]].
+For an introduction on what *Lilim* is, see [[lilim]].
 
 [[lilim intro]]
 

@@ -50,7 +50,7 @@ I am grateful for:
 41. **Learning how to incorporate all kinds of writing I do into my note-writing system, including [[poetry]] and narratives.**
 42. Reading [[thoughts/diy mfa by pereira|DIY MFA]] and finding a simple framework to follow to build a writing life and career.
 43. Narrativizing [[uman 2022-04]].
-44. Relaunching [[thoughts/lilim|lilim]] after intentionally lengthening my afternoon walks and realizing I have so much to share about [[walking]].
+44. Relaunching [[lilim|lilim]] after intentionally lengthening my afternoon walks and realizing I have so much to share about [[walking]].
 45. Discovering the story of the UPLB internment camp ang retracing its boundaries during an afternoon walk (see [[in search of the internment camp in los baños|In search of the internment camp in Los Baños]]). 
 46. The many poems and poetry drafts that came to me this year.
 47. My walk at Lopez Quezon, around town ([[vignettes/a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[walking lopez 2]]), and at Santino's Farmville.

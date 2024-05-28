@@ -1,13 +1,13 @@
 ---
-title: "Lilim"
-date: "2022-06-22"
+title: Lilim
+date: 2022-06-22
+aliases:
+  - thoughts/lilim
+draft: false
 tags:
-- "seedlings"
-sr-due: 2024-05-28
-sr-interval: 511
-sr-ease: 248
+  - thoughts
+  - seedlings
 ---
-
 # Etymology and Meaning
 
 _Lilim_ is a Tagalog word that, with weird serendipity, captures everything I look forward to in a walk or a bicycle ride outdoors.
