@@ -56,4 +56,47 @@ Php: 20,080.26
 89
 Amount: $360
 Issued: 2024-02-23
+Paid: 2024-03-08
+Php: 20,078.53
+
+90
+Amount: $180
+Issued: 2024-03-04
+Paid: 2024-03-28
+Php: 10,126.12
+
+91
+Amount: $450
+Issued: 2024-03-23
+Paid: 2024-04-12
+Php: 25420.14
+
+92
+Amount: $540
+Issued: 2024-04-11
+Paid: 2024-04-26
+Php: 31,213.08
+
+93
+Amount: $360
+Issued: 2024-04-24
+Paid: 2024-05-15
+Php: 20,798.03
+
+94
+Amount: $450
+Issued: 2024-05-07
+Paid: 2024-05-28
+Php: 26,166.51
+
+95
+Amount: $90
+Issued: 2024-05-22
 Paid: 
+Php: 
+
+96
+Amount: $270
+Issued: 2024-04-22
+Paid: 
+Php: 

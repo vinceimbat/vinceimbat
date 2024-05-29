@@ -1,12 +1,12 @@
 ---
 title: Ang Mapakinggan Mo
 date: 2022-12-28
+aliases:
+  - poems/ang-mapakinggan-mo
 tags:
+  - poems
   - filipino
   - seedlings
-sr-due: 2024-05-29
-sr-interval: 300
-sr-ease: 270
 ---
 Ang mapakinggan mo ako  
 ay biyaya.  
