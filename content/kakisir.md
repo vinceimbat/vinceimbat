@@ -1,12 +1,12 @@
 ---
 title: kakisir
 date: 2022-12-07
+aliases:
+  - poems/kakisir
 tags:
+  - poems
   - pangasinan
   - seedlings
-sr-due: 2024-05-31
-sr-interval: 302
-sr-ease: 250
 ---
 Agay met la 'yan  
 kakisir na dalan ed  
