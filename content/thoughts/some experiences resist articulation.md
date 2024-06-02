@@ -19,4 +19,4 @@ Although I think establishing a metaphysical basis to Mooney's claim will be dif
 # Related
 
 - [[thoughts/subjective experiences are unique to each human being|subjective experiences are unique to each human being]]
-- [[thoughts/poetry merges the wordless with words|poetry merges the wordless with words]]
+- [[poetry merges the wordless with words|poetry merges the wordless with words]]
