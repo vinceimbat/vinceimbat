@@ -1,11 +1,12 @@
 ---
-title: "A Voice Behind the Bushes"
-date: "2023-06-01"
+title: A Voice Behind the Bushes
+date: 2023-06-01
+aliases:
+  - poems/a-voice-behind-the-bushes
+draft: false
 tags:
-- "seedlings"
-sr-due: 2024-06-03
-sr-interval: 206
-sr-ease: 250
+  - poems
+  - seedlings
 ---
 Light touches dust and you arise  
 A voice hidden behind the bushes  
