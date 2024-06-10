@@ -11,7 +11,7 @@ sr-ease: 233
 ---
 How do we get around an everyday wilderness?
 
-Hocking cultivated a philosophical space between Roye's [[Idealism]] and James's [[Pragmatism]]. Marcel was influenced by Hocking. Bugbee's Inward Morning was inspired by Marcel's Being and Having.
+Hocking cultivated a philosophical space between Roye's [[idealism]] and James's [[Pragmatism]]. Marcel was influenced by Hocking. Bugbee's Inward Morning was inspired by Marcel's Being and Having.
 
 Hocking, Marcel, and Bugbee introduced a non-absolutist version of idealism in the 20th century. Other contributors were Benedetto Croce, R. G. Collingwood, José Ortega y Gasset, and John William Miller.
 

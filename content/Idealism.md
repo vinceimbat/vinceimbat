@@ -1,13 +1,10 @@
 ---
-title: "Idealism"
-date: "2022-07-22"
+title: Idealism
+date: 2022-07-22
+aliases:
+  - Idealism
 tags:
-
-- "seedlings"
-sr-due: 2024-06-09
-sr-interval: 384
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
 
-
-# References
