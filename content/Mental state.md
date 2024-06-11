@@ -1,14 +1,12 @@
 ---
-title: "Mental state"
-date: "2021-01-28"
+title: Mental state
+date: 2021-01-28
+aliases:
+  - Mental-state
 tags:
-
-- "seedlings"
-sr-due: 2023-08-12
-sr-interval: 179
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
-
 What is the mental state? Is it what the watcher is doing or is it the object of the watcher’s action? Or is it the combination of what the watcher is doing and the object of its action?
 
 A mental state is a real-time condition of the mind. It is created primarily through the interaction of the material and the immaterial (see [[Indirect interaction theory per Patterson]]).

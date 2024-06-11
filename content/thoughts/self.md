@@ -19,7 +19,7 @@ I am a perspective of awareness that is constant
 
 Or is the self snapshots? If the I are snapshots and they are relational, then it makes sense that the I is collective.
 
-Is the [[thoughts/mind|mind]] the same as the self?
+Is the [[mind|mind]] the same as the self?
 
 The person that is able to act is an aggregate of matter. If I am only a mind, a soul, then it is possible to think but not to act. Action involves the mind "intra-acting" with the body.
 

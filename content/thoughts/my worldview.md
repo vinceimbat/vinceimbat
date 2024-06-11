@@ -31,7 +31,7 @@ I am persuaded with the following conclusions:
 
 - [[an external objective physical world exists]].
 - [[The external physical world is made up of countless individual units of matter]].
-- Apart from these countless individual units of matter, [[Minds exists]].
+- Apart from these countless individual units of matter, [[minds exists]].
 - [[Minds make sense of the external objective physical world]].
 - [[Minds are unique to each human being]]. Therefore, [[thoughts/subjective experiences are unique to each human being]].
 - [[The interaction between the external objective physical world and the mind creates subjective experience]]. This interaction is explained by the [[Indirect interaction theory per Patterson]] of minds.

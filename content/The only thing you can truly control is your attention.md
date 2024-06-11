@@ -8,7 +8,7 @@ tags:
 
 [[Meditation makes us realize we do not control the influx of our thoughts]]. This is the very first thing one might realize just after a few minutes of meditation.
 
-[[The majority of thoughts are automatic]]. The contents of our [[thoughts/mind]] seem to come and go. [[Information]] enters our mind. Multiple information then triggers the insights. The information we allow into our mind is obviously not from us. The insight triggered by these information doesn’t feel like something we worked for. [[insight cannot be predetermined]]. Are we then at the mercy of our mind and the outside world of information? Is there something in our mental space we can actually control?
+[[The majority of thoughts are automatic]]. The contents of our [[mind]] seem to come and go. [[Information]] enters our mind. Multiple information then triggers the insights. The information we allow into our mind is obviously not from us. The insight triggered by these information doesn’t feel like something we worked for. [[insight cannot be predetermined]]. Are we then at the mercy of our mind and the outside world of information? Is there something in our mental space we can actually control?
 
 What does feel like “us” is this watcher that pays attention to the contents that come and go inside our heads. This is what we can control.
 

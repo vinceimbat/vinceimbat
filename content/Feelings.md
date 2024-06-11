@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-A feeling is a [[Mental state]] that requires two things:
+A feeling is a [[mental state]] that requires two things:
 - It has to be experienced consciously.
 - It has to have a bodily or somatic dimension.
 

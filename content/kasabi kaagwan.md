@@ -9,7 +9,7 @@ tags:
 ---
 Koleksyon na an-anlong ko ed Pangasinan.
 
-- [[poems/say pikakaaro na umaanlong ed bilunget tan liwawa|say pikakaaro na umaanlong ed bilunget tan liwawa]]
+- [[say pikakaaro na umaanlong ed bilunget tan liwawa|say pikakaaro na umaanlong ed bilunget tan liwawa]]
 - [[poems/obong|obong]]
 - [[kakisir]]
 - [[amayo]]

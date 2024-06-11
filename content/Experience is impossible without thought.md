@@ -11,7 +11,7 @@ sr-ease: 252
 
 Buddhists make a mistake when they posit that it is possible to have an experience without thinking. It is impossible to experience something without thought. The moment you experience something, you have also thought about it. You *know* that you experienced it because you were thinking when the experience happened. Otherwise, you won't *know* that you experienced something.
 
-Everything happens in the [[thoughts/mind]].
+Everything happens in the [[mind]].
 
 [[We learn from experience because of thought]], and we are able to give meaning to experience because we are thinking while it was happening.
 

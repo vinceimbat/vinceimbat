@@ -10,5 +10,5 @@ tags:
 
 # References
 
-A [[Mental state]] that one views as something to keep on revisiting.
+A [[mental state]] that one views as something to keep on revisiting.
 
