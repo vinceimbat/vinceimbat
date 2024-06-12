@@ -4,12 +4,12 @@ date: 2023-01-10
 location:
   - 14.166778186315714
   - 121.23771860837516
+aliases:
+  - poems/ang-huli
 tags:
+  - poems
   - filipino
   - seedlings
-sr-due: 2024-05-07
-sr-interval: 362
-sr-ease: 270
 ---
 Sa bungad  
 ng bintanang nagdadala  

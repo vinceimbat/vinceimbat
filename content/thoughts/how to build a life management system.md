@@ -41,7 +41,7 @@ Tools require time and effort to learn. The same can be said with getting used t
 
 The [[thoughts/ground level]] captures and organizes [[Loose ends]]. Per [[thoughts/getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
 
-Here is [[thoughts/my lms ground level setup]].
+Here is [[my lms ground level setup]].
 
 ## Sky level: Get clear about what you want
 

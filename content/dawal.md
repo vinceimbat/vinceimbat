@@ -4,12 +4,12 @@ date: 2023-01-15
 location:
   - 14.161886651979716
   - 121.24073551090994
+aliases:
+  - poems/dawal
 tags:
+  - poems
   - filipino
   - seedlings
-sr-due: 2024-05-04
-sr-interval: 275
-sr-ease: 270
 ---
 Nang mabasa ko ang paliwanag  
 sa orihinal na kahulughan  

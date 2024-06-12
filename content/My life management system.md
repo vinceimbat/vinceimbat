@@ -8,6 +8,6 @@ tags:
 
 Here is my current [[thoughts/life management system]]:
 
-- [[thoughts/my lms ground level setup]]
+- [[my lms ground level setup]]
 - [[thoughts/my lms sky level setup]]
 - [[My LMS reviews setup]]

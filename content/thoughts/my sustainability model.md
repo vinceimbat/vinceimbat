@@ -19,7 +19,7 @@ There are only two ideal sustainability models I can pursue in order to do what 
 
 Entrepreneurship is not very attractive to me right now because it requires an amount of focus and attention that robs me of the time and energy I need to dedicate to what I want to do: insight-generation. Entrepreneurship can work if I perform the duties of an owner rather than a hands-on startup founder.
 
-Right now, I am using the [[thoughts/day job model]] to sustain my research activities. I could use my day job to pivot to [[thoughts/financial independence]], which frees me up to pursue insight-generation without the need to grow profit.
+Right now, I am using the [[thoughts/day job model]] to sustain my research activities. I could use my day job to pivot to [[financial independence]], which frees me up to pursue insight-generation without the need to grow profit.
 
 A middle way from the Day Job model to financial independence is the [[thoughts/patronage model]], which attracts me. [[thoughts/a patronage model is best for an independent creative]] mainly because it helps the researcher focus on his main goal: to produce insights and test them through prototypes, not really to earn profit.
 

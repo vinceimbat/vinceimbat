@@ -18,7 +18,7 @@ By 40 years old, I am retired. Earlier than this will be a bonus. The plan is as
 
 # Related
 
-- [[thoughts/financial independence]]
+- [[financial independence]]
 - [[thoughts/financial management system|financial management system]]
 
 # References

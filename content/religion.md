@@ -3,11 +3,10 @@ title: Religion
 date: 2022-08-29
 aliases:
   - Religion
+  - thoughts/religion
 tags:
+  - thoughts
   - seedlings
-sr-due: 2027-01-28
-sr-interval: 1238
-sr-ease: 254
 ---
 - [[Religion is commonly used as a social genus]]
 - [[thoughts/religion etymology]]

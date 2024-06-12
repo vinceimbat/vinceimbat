@@ -1,12 +1,12 @@
 ---
-title: "Sampung Tanaga Para Kay JV"
-date: "2023-01-11"
+title: Sampung Tanaga Para Kay JV
+date: 2023-01-11
+aliases:
+  - poems/sampung-tanaga-para-kay-jv
 tags:
-- "seedlings"
-- "filipino"
-sr-due: 2024-05-12
-sr-interval: 282
-sr-ease: 270
+  - poems
+  - filipino
+  - seedlings
 ---
 Tingin ko sa'yo  
 Nung high school mayabang.  

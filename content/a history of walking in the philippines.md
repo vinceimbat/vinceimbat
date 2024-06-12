@@ -1,15 +1,12 @@
 ---
-title: "A History of Walking in the Philippines"
-date: "2023-07-30"
-aliases: "thoughts/history-of-walking-philippines"
+title: A History of Walking in the Philippines
+date: 2023-07-30
+aliases:
+  - thoughts/history-of-walking-philippines
 tags:
-
-- "seedlings"
-sr-due: 2023-08-03
-sr-interval: 4
-sr-ease: 270
+  - thoughts
+  - seedlings
 ---
-
 Precolonial
 Sources
 - Epics
@@ -23,6 +20,7 @@ Colonial
 
 Postcolonial
 - Protest
+- March to Gugu Dike (Pampanga)
 
 The first goal is to collect resources.
 

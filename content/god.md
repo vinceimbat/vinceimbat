@@ -29,7 +29,6 @@ Is being worshipped connected with the concept of God.
 
 Dewey
 
-
 Schellenberg
 - Divine Hiddenness and Human Reason (1993)
 
