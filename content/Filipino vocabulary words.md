@@ -11,9 +11,12 @@ tags:
 Aba - ituring na mababà at hamak ang kapuwa o sarili; dukha (pinakaaba sa aba)
 Abaloryo - maliit at bilóg na kristal, bató, at katulad na may bútas sa gitna, karaniwang tinutuhog upang gawing palamuti, galáng, o kuwintas; bead
 Agunyas - tugtog ng kampana para sa namatáy.
+Alihan - pangingibabaw ng damdamin
 Alo - aliw para sa táong nalulungkot, nababagabag, o may suliranin
 Alpas - kumawala o umalis sa pagkakahawak, pagkakatali, o pagkakakulóng
+Alupihan - alinman sa arthropod (class _Chilopodo,_ genus _Scolopendra_ ) na may pahabâ at sapád na katawang nahahati sa bahagi na may tig-iisang pares ng paa; centipede
 Amba - nagbabanta at poot na kilos ng kamay
+Asahar - bulaklak ng kahél; artipisyal na bulaklak ng kahél, karaniwang inilalagay sa ulo ng babaeng ikakasal o ng flower girl, sa ibabaw ng bélo.
 
 # B
 
@@ -37,6 +40,7 @@ Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
 Danga - [ST] paglukso
 Dawag - damo at baging (madawag, dawagan)
 Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kamay; sukat ng haba nito
+Diwara - [ST] pagiging lubhang maingat at labis na sinusuri ang kaliit-liitang detalye; busisi
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
 
 # G
@@ -51,9 +55,11 @@ Hagip - sunggab o pagsunggab; pagkuha ng isang bagay na gumagalaw sa tubig; pagd
 Halinghing - huni ng kabayo; daing ng tao na nahihirapan sa karamdaman o naliligayahan sa sex
 Hantik - red ants
 hapis - pighati; matinding sakít na na-daramá ng isip at katawan; habag sa sarili; pain
+Hilahod - pagkilos nang nanghihinà o tinatamad; pagkapilay
 Hilahil - dusa; distress; matinding ligalig ng isip o matinding kirot
 Hilakbot - pakiramdam na pagtinghas ng balahibo dahil sa sindak
 Himaymay - fiber; tíla sinulid na estruktura na bumubuo sa tisyu ng hayop o haláman; anumang materyal na maihihiwa-hiwalay na tíla sinulid at magagamit sa paghahabi
+Hingutuhan - [noun] act of picking lice from one another's hair
 Hinihinulihan (mula sa hinuli) - to clean someone's ears
 Hinihinukuhan (mula sa hinuko) -  to cut someone's nails
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
@@ -71,6 +77,7 @@ Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
 Igkas - galaw ng anumang bagay na bumalik sa dáting ayos matapos hilahin o bitawan
 Ingit - mahinàng iyak ng isang batà o hayop
 Impit - pagpapaliit ng isang bagay sa anumang paraan; pagpigil sa tawa, iyak, o sigaw; pinigil sa isang kalagayan upang hindi makawala o maibulalas
+Indulto - noong panahon ng Español, buwis na ipinapataw sa galeon
 Iwarang - Batangueñong salita; tabinge, hindi pantay (paiwa-iwarang)
 
 # K
@@ -83,10 +90,12 @@ Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang h
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
 Kasi - [ST] pagsanib ng espiritu o pagpasok sa kalooban; "kasihan mo ako ng tapang"
+Kata - táyong dalawa; ikaw at ako; tayo
 Kawag - igalaw ang mga bisig at paa, lalo na sa paglangoy o kung nalulunod; paggalaw ng pakpak, buntot, at iba pa; alingawngaw ng boses.
 Kililing - varyant ng kuliling; maliit na batingaw; tunog na nalilikha nito
 Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na bisig, at tagiliran
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
+Kiti - bulâ na nalilikha sa rabaw ng anumang likido bago kumulo
 Korto - shorts
 Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nitó at nag-sisilbing palapag
 Kunwa - varyant ng kunwari
@@ -108,6 +117,7 @@ Liya - napakaliit at tíla kaliskis na halámang tubig (Lemna paucicostata ) na 
 Lukayo - lakayo; payaso
 Lukong - rabaw o bagay na nakakurba paloob, gaya ng panloob na bahagi ng bílog (saluhin ng pinalukong kong palad)
 Lunoy - lumakad sa tubigán nang hindi naghuhubad ng damit; dumaan sa makipot na bahagi ng isang ilog (paglulunuyan, lumunoy, maglunoy)
+Luwat [ST] - tagal ng panahon o oras
 
 # M
 
@@ -136,6 +146,7 @@ Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina 
 Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _var_ panim-dímin
 Pañuelo - dress
 Pelus - velvet
+Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
@@ -152,12 +163,14 @@ ratay - variant ng datay; pamamalagi nang matagal sa pagkakahiga dahil sa karamd
 # S
 
 Sakong - heel; likurang bahagi ng paa sa ibabâ ng búkong-búkong; bahagi ng sapatos o bota na sumusuporta dito; [ST] naatasan at napipilitan dahil sa dami ng dapat gawin.
+Salat - hipo
 Salta - lundag; pasok
 Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo; 
 Sambulat - pagkalat at pagtilapon sa maraming piraso
 Santing - papatinding ínit ng araw o gámit na de-koryente
 Sasa - magtamasa ng anumang kasaganaan
 Sasandali - in a moment (alam nilang sasandali pa'y may mga papalit na sa kanila)
+Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.

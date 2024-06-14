@@ -32,6 +32,7 @@ tags:
 # Landscape
 
 - As I watch, it arches its back, and each layer of landscape bristles
+- tigdasing parang
 
 # Light
 
