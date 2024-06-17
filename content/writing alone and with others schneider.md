@@ -435,6 +435,8 @@ I will not need to ask whether the form should be story or poem or novel or play
 - [[poems/well|well]]
 - Clustering and Mapping: see Diary dated [[2024-02-04]]
 
+[[writing exercises]]
+
 # Topics to check
 
 - Writing process movement
