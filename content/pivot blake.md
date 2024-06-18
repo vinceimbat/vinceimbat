@@ -1,13 +1,12 @@
 ---
 title: Pivot by Jenny Blake
 date: 2017-01-09
-tags:
-  - seedlings
 aliases:
-  - Pivot by Jenny Blake
-sr-due: 2024-06-17
-sr-interval: 287
-sr-ease: 250
+  - Pivot-by-Jenny-Blake
+  - literature/pivot-by-blake
+tags:
+  - literature
+  - seedlings
 ---
 # Introduction - Pivot is the New Normal
 

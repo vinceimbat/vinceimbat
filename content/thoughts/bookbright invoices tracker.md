@@ -94,9 +94,16 @@ Amount: $90
 Issued: 2024-05-22
 Paid: 
 Php: 
+*See 96
 
 96
 Amount: $270
-Issued: 2024-04-22
-Paid: 
-Php: 
+Issued: 2024-05-22
+Paid: 2024-06-12
+Php: 21,136.54
+
+97
+Amount: $450
+Issued: 2024-06-01
+Paid: 2024-06-18
+Php: 26,400.83
