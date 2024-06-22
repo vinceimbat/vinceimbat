@@ -28,4 +28,4 @@ After discussing this, Bugbee returns yet again to the subject of [[faith]].[^2]
 # References
 
 [^1]: [[The Inward Morning Commentary 1952-09-27]]
-[^2]: [[The Inward Morning Commentary 1952-08-27]]
+[^2]: [[the inward morning commentary 1952-08-27]]

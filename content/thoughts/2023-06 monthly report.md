@@ -138,7 +138,7 @@ Notes:
 
 - Read [[literature/read this if you want to take great photos by carroll]].
 - Continued to read [[On Writing Well by Zinsser]].
-- Started reading [[thoughts/wanderlust by rebecca solnit]]
+- Started reading [[wanderlust solnit]]
 - Read [[literature/the collapse of what separates us by vincenz serrano]].
 
 ### Articles

@@ -7,7 +7,7 @@ tags:
   - evergreens
 ---
 - [[thoughts/the inward morning commentary 1952-08-26]]
-- [[The Inward Morning Commentary 1952-08-27]]
+- [[the inward morning commentary 1952-08-27]]
 - [[The Inward Morning Commentary 1952-08-28]]
 - [[The Inward Morning Commentary 1952-08-29]]
 - [[The Inward Morning Commentary 1952-08-30]]

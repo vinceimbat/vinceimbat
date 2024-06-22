@@ -3,11 +3,10 @@ title: Certainty
 date: 2022-08-24
 aliases:
   - Certainty
+  - thoughts/certainty
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-08-26
-sr-interval: 1
-sr-ease: 233
 ---
 How do we get around an everyday wilderness?
 

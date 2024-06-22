@@ -159,7 +159,7 @@ Essays
 - [[thoughts/overlap by sean mccabe|Overlap by Sean McCabe]]
 - [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 - [[thoughts/the songlines by bruce chatwin|The Songlines by Bruce Chatwin]] - unfinished
-- [[thoughts/wanderlust by rebecca solnit|Wanderlust by Rebecca Solnit]] - unfinished
+- [[wanderlust solnit|Wanderlust by Rebecca Solnit]] - unfinished
 - [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read
 - [[thoughts/wilderness and the heart by edward mooney|Wilderness and the Heart by Edward Mooney]] - unfinished
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] - unfinished

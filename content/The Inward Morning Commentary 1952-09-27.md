@@ -17,5 +17,5 @@ We become more open to its arrival if we keep ourselves in our "true mode of bei
 
 # References
 
-[^1]: [[The Inward Morning Commentary 1952-08-27]]
+[^1]: [[the inward morning commentary 1952-08-27]]
 [^2]: [[The Inward Morning Commentary 1952-08-28]]

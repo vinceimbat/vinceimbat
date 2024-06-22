@@ -34,7 +34,7 @@ Busilak - immaculate; pure; immaculate whiteness (busilak sa kaputian; lalong bu
 # D
 
 Dagat-dagatan
-Dagim - dark clouds that bring rain
+Dagim - dark clouds that bring rain; nimbus
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
 Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
 Danga - [ST] paglukso
@@ -148,6 +148,7 @@ Pañuelo - dress
 Pelus - velvet
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
+Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
