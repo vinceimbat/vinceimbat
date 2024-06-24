@@ -1,12 +1,12 @@
 ---
-title: "Sa Dilim"
-date: "2022-12-11"
+title: Sa Dilim
+date: 2022-12-11
+aliases:
+  - poems/sa-dilim
 tags:
-- "filipino"
-- "seedlings"
-sr-due: 2024-06-23
-sr-interval: 324
-sr-ease: 270
+  - poems
+  - filipino
+  - seedlings
 ---
 Bakit kaya kapag  
 pinapatay ang ilaw sa gabi  
