@@ -23,10 +23,13 @@ Asahar - bulaklak ng kahél; artipisyal na bulaklak ng kahél, karaniwang inilal
 
 Bahaw - kung sa tinig, paos o malat (basag)
 Bakokang - súgat na matagal gumalíng at nag-iiwan ng malaki at malalim na peklat sa balát
+Balana - pagbago ng isang gawain; pagpapanumbalik ng init at sigla.
 Banaag - bahagyang pagkakilála sa anumang bagay na nakikíta dahil sa kalabuan ng matá
 Balasik - bagsik; anyong nakahihindik
+Bandeha - malanday at malapad na kasang-kapang yari sa losa, tabla, plastik, o metal na ginagamit sa pagdadalá ng mga baso at katulad
 Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
+Berlina - karwaheng may pintuan.
 Bubot - bud
 Bulalas - pagpapakita o paglalabas kung ano ang nása loob; táo na mahilig maglustay; biglang pagsasalita dahil sa matinding damdamin, pagkagulat, pagtutol, at katulad; pagsigaw o pagsasalita nang malakas o mariin
 Bulsikot - purse; maliit na bag, pouch, o kaha na lalagyan ng salapi
@@ -54,10 +57,12 @@ Gulantang - nagulat; biglang nagising
 
 # H
 
+Hagibis - tunog o pakiramdam ng mabilis na pagdaan ng mga sasakyan, tao, o hangin; harurot
 Hagip - sunggab o pagsunggab; pagkuha ng isang bagay na gumagalaw sa tubig; pagdagil, pagbundol, o pagkasagi; pagtama sa inaasinta.
 Halinghing - huni ng kabayo; daing ng tao na nahihirapan sa karamdaman o naliligayahan sa sex
 Hantik - red ants
 hapis - pighati; matinding sakít na na-daramá ng isip at katawan; habag sa sarili; pain
+Hara - nakaharang sa daan ng ibang nása harap
 Hilahod - pagkilos nang nanghihinà o tinatamad; pagkapilay
 Hilahil - dusa; distress; matinding ligalig ng isip o matinding kirot
 Hilakbot - pakiramdam na pagtinghas ng balahibo dahil sa sindak
@@ -101,6 +106,7 @@ Kililing - varyant ng kuliling; maliit na batingaw; tunog na nalilikha nito
 Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na bisig, at tagiliran
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
 Kiti - bulâ na nalilikha sa rabaw ng anumang likido bago kumulo
+Klarete - alak na kulay pulá at nagmula sa katas ng ubas.
 Korto - shorts
 Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nitó at nag-sisilbing palapag
 Kunwa - varyant ng kunwari
@@ -116,10 +122,12 @@ Lambong - shawl; cloak; maitim na pantakip o pantábing sa uluhan ng isang tao o
 Lapirot - paglukot at pagdúrog sa pamamagitan ng dulo ng mga daliri
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
+Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
 Linga - haláman (_Sesamun_ _indicum_ ) na may bilóg na butó na nakakain at nagdudulot ng langis; tumingin sa paligid na tíla naghahanap.
 Litid - ligament, tendon; matibay na himaymay na naghuhugpong sa mga butó ng tao
 Liwasan - pook na malawak at karaniwang nása likás na kalagayan para paglibangan ng madla; ginamit ito ni Rofel para tukuyin ang safari
 Liya - napakaliit at tíla kaliskis na halámang tubig (Lemna paucicostata ) na sapád ang dahon at karaniwang tumutubò sa mga paliguan.
+Losa - porselana
 Lukayo - lakayo; payaso
 Lukong - rabaw o bagay na nakakurba paloob, gaya ng panloob na bahagi ng bílog (saluhin ng pinalukong kong palad)
 Lunoy - lumakad sa tubigán nang hindi naghuhubad ng damit; dumaan sa makipot na bahagi ng isang ilog (paglulunuyan, lumunoy, maglunoy)
@@ -144,8 +152,14 @@ Ngisi - grin; pag-ngiti nang banát ang labì at nakalan-tad ang mga ngipin
 Ngisngis - pagngiti o pagtawa nang nakikíta ang mga ngipin
 Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
 
+# O
+
+Olandes - baybay sa Tagalog ng Holandes.
+
 # P
 
+Paboreal -   
+ibon (_Pavo_ _cristatus_ ) na malakí at may mahabàng buntot na tíla may mga matá; peacock
 Pagal - panghihina dahil sa pagod
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit; 
@@ -165,7 +179,10 @@ Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon,
 Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing;   
 pag-antig o pagpapagunita sa isang nakalilimot
 Punebre - tugtog para sa patay o paglilibing.
+Punglo -  bagay na ginagamit para ipantudla ng target sa pagbaril, karaniwang yarì sa metal at may la-máng pulbura
+Puntas - pínong pi-raso ng tela na binuo sa pamama-gitan ng pagborda at ginagamit bílang pandekorasyon sa gilid ng damit, kortina, at katulad; lace
 Pusali - pook na pina-mamahayan o dinadaluyan ng maru-mi at maitim na likido o tubig
+Puswelo - tasa
 
 # R
 
@@ -178,7 +195,9 @@ Salat - hipo
 Salta - lundag; pasok
 Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo; 
 Sambulat - pagkalat at pagtilapon sa maraming piraso
+Sanggi - sagi
 Santing - papatinding ínit ng araw o gámit na de-koryente
+Sapo - pag-apaw ng tubig sa daan o sa taniman.
 Sasa - magtamasa ng anumang kasaganaan
 Sasandali - in a moment (alam nilang sasandali pa'y may mga papalit na sa kanila)
 Serbilyeta - napkin
@@ -186,6 +205,7 @@ Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·s
 Siglaw - glimpse
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
+Sisne - swan
 Siwang - bahag-yang bukás, kung sa pinto, bintana, at katulad
 Sulingan - refuge
 Sungaw - pierce
