@@ -7,6 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-- Wanderlust by Rebecca Solnit
-- Reveries of a Solitary Walker by Jean Jacques Rousseau
+"The Mind at Three Miles an Hour" in Wanderlust: A History of Walking by Rebecca Solnit
+- *The Peripatetic* (1793) by John Thelwall
+- *Reveries of a Solitary Walker* (1782) by Jean Jacques Rousseau
 - "The World of the Living Present and the Constitution of the Surrounding World External to the Organism" (1931) by Edmund Husserl
