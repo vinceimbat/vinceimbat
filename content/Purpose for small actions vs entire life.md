@@ -9,7 +9,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-It is easy to articulate your [[thoughts/purpose]] for small actions because [[Individual actions use fewer knowlege]]. It is difficult to articulate your purpose for an entire life because [[thoughts/life is a project]] and [[Projects require more complex information than individual actions]]. Accumulating necessary information this takes time. You need to [[thoughts/find your purpose through divergence–convergence]], which could take years.
+It is easy to articulate your [[purpose]] for small actions because [[Individual actions use fewer knowlege]]. It is difficult to articulate your purpose for an entire life because [[thoughts/life is a project]] and [[Projects require more complex information than individual actions]]. Accumulating necessary information this takes time. You need to [[thoughts/find your purpose through divergence–convergence]], which could take years.
 
 To make things more challenging, none of the things that you articulate as the purpose for your small actions or even projects, could ever explain the point of your life as a whole.
 

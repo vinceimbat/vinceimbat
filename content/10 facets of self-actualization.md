@@ -12,7 +12,7 @@ The 10 facets of [[thoughts/self-actualization]] measured by the [[Characteristi
 2. Acceptance
 3. Authenticity
 4. Equanimity
-5. [[thoughts/purpose]]
+5. [[purpose]]
 6. Truth seeking
 7. Humanitarianism
 8. [[Peak experiences]]

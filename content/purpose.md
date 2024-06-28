@@ -1,8 +1,11 @@
 ---
-title: "Purpose"
-date: "2022-08-18"
+title: Purpose
+date: 2022-08-18
+aliases:
+  - thoughts/purpose
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 ---
 
 - [[Purpose is a statement that articulates the reason behind an action]]
@@ -25,3 +28,9 @@ Avoid imposing a predetermined purpose early in a project
 - Connect here Steve Jobs' quote (stolen by AK) about connecting by looking backwards.
 - Connect divergence-convergence and why we diverge first then converge at the last minute when we know everything already.
 - Related too: skepticism, not hasty to committing.
+
+***
+
+
+
+***

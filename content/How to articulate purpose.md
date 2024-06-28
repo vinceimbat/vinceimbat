@@ -9,7 +9,7 @@ sr-interval: 430
 sr-ease: 224
 ---
 
-There are [[Benefits of articulating your purpose]], but how a [[thoughts/purpose]] is articulated determines how it is pursued and acted upon.
+There are [[Benefits of articulating your purpose]], but how a [[purpose]] is articulated determines how it is pursued and acted upon.
 
 There are two ways of articulating purpose:
 1. [[End state]]

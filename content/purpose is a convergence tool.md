@@ -9,7 +9,7 @@ tags:
   - tlw
   - evergreens
 ---
-Here's a bottom-up approach to discovering your [[thoughts/purpose|purpose]].
+Here's a bottom-up approach to discovering your [[purpose|purpose]].
 
 I am partial to the idea that when we were born, we didn't have a given purpose ([[thoughts/there is no destiny|there is no destiny]]). Even if there was one, we were not aware of it. My intuition tells me that it was tiny decisions I made along the way from childhood to adulthood that determined what we I am interested about at the current moment. We try different things out and take note of what resonated to us and what didn't ([[convergence–divergence model of creativity]]).
 

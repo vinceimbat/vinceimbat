@@ -9,7 +9,7 @@ sr-due: 2026-07-29
 sr-interval: 1303
 sr-ease: 288
 ---
-Everything begins with [[thoughts/purpose]]. [[my purpose is to live deliberately]].
+Everything begins with [[purpose]]. [[my purpose is to live deliberately]].
 
 To imagine what fulfilling my purpose looks like, I wrote [[my vision statement]].
 

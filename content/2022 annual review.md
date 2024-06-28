@@ -76,7 +76,7 @@ Relationships-wise, I celebrated my birthday with a small group of friends, went
 
 # March
 
-I spent most of March thinking about the question, “What motivates us humans?” This question was in line with my research on [[thoughts/purpose]] and how I can better articulate it.
+I spent most of March thinking about the question, “What motivates us humans?” This question was in line with my research on [[purpose]] and how I can better articulate it.
 
 I was interested in the conscious or unconscious reasons behind our actions. Psychology holds most of the answers to this question, so I stayed there for most of the month. However, I also reviewed philosophical answers. Specifically, I read and thought about the meaning of life. After combining insights from my readings in psychology and philosophy, I decided that, at the time being, my minimum viable purpose will be to self-actualize and transcend (i.e., to fulfill all my needs for security so that I could grow as a person and live my life in the service of humanity). This could change as I deepen my understanding of purpose and human motivation.
 

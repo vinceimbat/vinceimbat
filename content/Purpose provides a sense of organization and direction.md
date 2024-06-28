@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-[[thoughts/purpose]] seems to serve as a psychological tool that soothes one by giving one a sense of organization and direction. As a convergence tool, it is, therefore, also a convenience tool. It is an answer to the question "Why do you live?” One can even make the case that it is simply a deterrent to suicide.
+[[purpose]] seems to serve as a psychological tool that soothes one by giving one a sense of organization and direction. As a convergence tool, it is, therefore, also a convenience tool. It is an answer to the question "Why do you live?” One can even make the case that it is simply a deterrent to suicide.
 
 Purpose might just be a deeply personal narrative that we tell ourselves to fill a psychological need to matter.
 

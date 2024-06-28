@@ -12,7 +12,7 @@ tags:
 
 When life is said to be “meaningful” it simply means, we can “say more” about it because it means more to people and that is possible because more significant things happened in that life.
 
-Both [[thoughts/purpose]] and [[thoughts/meaning]] are mind-dependent ([[Purpose is conscious]], [[Meaning is a mental construction]]). Both are contents and creations of the mind, but they are differentiated because they serve different objectives.
+Both [[purpose]] and [[thoughts/meaning]] are mind-dependent ([[Purpose is conscious]], [[Meaning is a mental construction]]). Both are contents and creations of the mind, but they are differentiated because they serve different objectives.
 
 One way of describing the relationship of the two is that by living with purpose (i.e., being very intentional about your actions and life in general), you create a more meaningful life.
 

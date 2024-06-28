@@ -17,115 +17,105 @@ In the book, at least where I am right now, Rebecca criticizes Thoreau (who intr
 
 # Chapter 1
 
-Page 8
+## Sources for a history of walking
 
-The most obvious and the most obscure thing in the world, this walking that wanders so readily into religion, philosophy, landscape, urban policy, anatomy, allegory, and heartbreak.
+>**The history of walking is an unwritten, secret history whose fragments can be found in a thousand unemphatic passages** in books, as well as in songs, streets, and almost everyone’s adventures. The bodily history of walking is that of bipedal evolution and human anatomy.
 
-**The history of walking is an unwritten, secret history whose fragments can be found in a thousand unemphatic passages** in books, as well as in songs, streets, and almost everyone’s adventures. The bodily history of walking is that of bipedal evolution and human anatomy.
+## Walking is usually practical
 
-**Most of the time walking is merely practical, the unconsidered locomotive means between two sites.**
+>**Most of the time walking is merely practical, the unconsidered locomotive means between two sites.**
 
-To make walking into an investigation, a ritual, a meditation, is a special subset of walking
+## Things we consider when writing about walking
 
-**the subject of walking is, in some sense, about how we invest universal acts with particular meanings.**
+>**the subject of walking is, in some sense, about how we invest universal acts with particular meanings.**
 
-history of the imagination and the culture, of **what kind of pleasure, freedom, and meaning are pursued at different times by different kinds of walks and walkers.**
+>history of the imagination and the culture, of **what kind of pleasure, freedom, and meaning are pursued at different times by different kinds of walks and walkers.**
 
-That **imagination has both shaped and been shaped by the spaces it passes through on two feet.**
+>That **imagination has both shaped and been shaped by the spaces it passes through on two feet.**
 
-Walking has created paths, roads, trade routes; generated local and cross-continental senses of place; shaped cities, parks; generated maps, guidebooks, gear, and, further afield, a vast library of walking stories and poems, of pilgrimages, mountaineering expeditions, meanders, and summer picnics.
+## The subject of walking trespasses to other fields
 
-The landscapes, urban and rural, gestate the stories, and the stories bring us back to the sites of this history.
+>it trespasses through everybody else’s field—through anatomy, anthropology, architecture, gardening, geography, political and cultural history, literature, sexuality, religious studies—and doesn’t stop in any of them on its long route. For if a field of expertise can be imagined as a real field—a nice rectangular confine carefully tilled and yielding a specific crop—then **the subject of walking resembles walking itself in its lack of confines.**
 
-This history of walking is an amateur history, just as walking is an amateur act.
+## A history of walking can only be partial
 
-it trespasses through everybody else’s field—through anatomy, anthropology, architecture, gardening, geography, political and cultural history, literature, sexuality, religious studies—and doesn’t stop in any of them on its long route. For if a field of expertise can be imagined as a real field—a nice rectangular confine carefully tilled and yielding a specific crop—then **the subject of walking resembles walking itself in its lack of confines.**
+>though the history of walking is, as part of all these fields and everyone’s experience, virtually infinite, **this history of walking I am writing can only be partial, an idiosyncratic path traced through them by one walker**, with much doubling back and looking around.
 
-though the history of walking is, as part of all these fields and everyone’s experience, virtually infinite, **this history of walking I am writing can only be partial, an idiosyncratic path traced through them by one walker**, with much doubling back and looking around.
+>The history of walking is everyone’s history, and any written version can only hope to indicate some of the more well-trodden paths in the author’s vicinity—which is to say, **the paths I trace are not the only paths.**
 
-The history of walking is everyone’s history, and any written version can only hope to indicate some of the more well-trodden paths in the author’s vicinity—which is to say, **the paths I trace are not the only paths.**
+## Walk outside to think on a large scale
 
-I sat down one spring day to write about walking and stood up again, because **a desk is no place to think on the large scale.**
+>I sat down one spring day to write about walking and stood up again, because **a desk is no place to think on the large scale.**
 
-thinking is generally thought of as doing nothing in a production-oriented culture, and doing nothing is hard to do. It’s best done by disguising it as doing something, and **the something closest to doing nothing is walking**.
+## Walking is being and doing simultaneously
 
-**Walking itself is the intentional act closest to the unwilled rhythms of the body, to breathing and the beating of the heart.**
+>thinking is generally thought of as doing nothing in a production-oriented culture, and doing nothing is hard to do. It’s best done by disguising it as doing something, and **the something closest to doing nothing is walking**.
 
-It strikes a delicate balance between working and idling, being and doing. It is a bodily labor that produces nothing but thoughts, experiences, arrivals.
+>It strikes a delicate balance between working and idling, being and doing. It is a bodily labor that produces nothing but thoughts, experiences, arrivals.
 
-Page 9
+## Walking is an intentional rhythmic act
 
-**Walking, ideally, is a state in which the mind, the body, and the world are aligned**, as though they were three characters finally in conversation together, three notes suddenly making a chord. Walking allows us to be in our bodies and in the world without being made busy by them. It leaves us free to think without being wholly lost in our thoughts.
+>**Walking itself is the intentional act closest to the unwilled rhythms of the body, to breathing and the beating of the heart.**
 
-**Moving on foot seems to make it easier to move in time; the mind wanders from plans to recollections to observations.**
+## Walking aligns the mind, body, and world
 
-**The rhythm of walking generates a kind of rhythm of thinking, and the passage through a landscape echoes or stimulates the passage through a series of thoughts. This creates an odd consonance between internal and external passage, one that suggests that the mind is also a landscape of sorts and that walking is one way to traverse it.**
+>**Walking, ideally, is a state in which the mind, the body, and the world are aligned**, as though they were three characters finally in conversation together, three notes suddenly making a chord. Walking allows us to be in our bodies and in the world without being made busy by them. It leaves us free to think without being wholly lost in our thoughts.
 
-A new thought often seems like a feature of the landscape that was there all along, as though thinking were traveling rather than making.
+## The mind mimics the feet when walking
 
-one aspect of the history of walking is the history of thinking made concrete—for the motions of the mind cannot be traced, but those of the feet can.
+>**Moving on foot seems to make it easier to move in time; the mind wanders from plans to recollections to observations.**
 
-**Walking can also be imagined as a visual activity, every walk a tour leisurely enough both to see and to think over the sights, to assimilate the new into the known.** Perhaps this is where walking’s peculiar utility for thinkers comes from.
+>**The rhythm of walking generates a kind of rhythm of thinking, and the passage through a landscape echoes or stimulates the passage through a series of thoughts. This creates an odd consonance between internal and external passage, one that suggests that the mind is also a landscape of sorts and that walking is one way to traverse it.**
 
-The surprises, liberations, and clarifications of travel can sometimes be garnered by going around the block as well as going around the world, and walking travels both near and far.
+## Walking is a visual activity
 
-**perhaps walking should be called movement, not travel, for one can walk in circles or travel around the world immobilized in a seat**, and a certain kind of wanderlust can only be assuaged by the acts of the body itself in motion
+>**Walking can also be imagined as a visual activity, every walk a tour leisurely enough both to see and to think over the sights, to assimilate the new into the known.** Perhaps this is where walking’s peculiar utility for thinkers comes from.
 
-**It is the movement as well as the sights going by that seems to make things happen in the mind**, and this is what makes walking ambiguous and endlessly fertile: it is both means and end, travel and destination.
+## Walking is movement not travel
 
-people like me who are heirs to the cultural tradition of walking in the landscape for pleasure.
+>**perhaps walking should be called movement, not travel, for one can walk in circles or travel around the world immobilized in a seat**, and a certain kind of wanderlust can only be assuaged by the acts of the body itself in motion
 
-The form our demonstrations took was walking: what was on the public-land side of the fence a ceremonious procession became, on the off-limits side, an act of trespass resulting in arrest. We were engaging, on an unprecedentedly grand scale, in civil disobedience or civil resistance, an American tradition first articulated by Thoreau.
+## Walking and seeing generate thoughts
 
-Page 10
+>**It is the movement as well as the sights going by that seems to make things happen in the mind**, and this is what makes walking ambiguous and endlessly fertile: it is both means and end, travel and destination.
 
-Thoreau himself was both a poet of nature and a critic of society.
+>**When you give yourself to places, they give you yourself back; the more one comes to know them, the more one seeds them with the invisible crop of memories and associations that will be waiting for you when you come back, while new places offer up new thoughts, new possibilities.**
 
-In our actions at the test site the poetry of nature and criticism of society were united in this camping, walking, and trespassing, as though we had figured out how a berrying party could be a revolutionary cadre. It was a revelation to me, the way this act of walking through a desert and across a cattle guard into the forbidden zone could articulate political meaning.
+## Walking can articulate political meaning
 
-I began to discover other western landscapes beyond my coastal region and to explore those landscapes and the histories that had brought me to them—the history not only of the development of the West but of the Romantic taste for walking and landscape, the democratic tradition of resistance and revolution, the more ancient history of pilgrimage and walking to achieve spiritual goals. **I found my voice as a writer in describing all the layers of history that shaped my experiences at the test site.** And I began to think and to write about walking in the course of writing about places and their histories.
+>In our actions at the test site the poetry of nature and criticism of society were united in this camping, walking, and trespassing, as though we had figured out how a berrying party could be a revolutionary cadre. It was a revelation to me, the way this act of walking through a desert and across a cattle guard into the forbidden zone **could articulate political meaning.**
 
-Of course walking, as any reader of Thoreau’s essay “Walking” knows, inevitably leads into other subjects. Walking is a subject that is always straying.
+## To write about walking write about places and their histories
 
-Although I came to think about walking, I couldn’t stop thinking about everything else
+>I began to discover other western landscapes beyond my coastal region and to explore those landscapes and the histories that had brought me to them—the history not only of the development of the West but of the Romantic taste for walking and landscape, the democratic tradition of resistance and revolution, the more ancient history of pilgrimage and walking to achieve spiritual goals. **I found my voice as a writer in describing all the layers of history that shaped my experiences at the test site.** And **I began to think and to write about walking in the course of writing about places and their histories.**
 
-There was a joy, she said, to finding that her body was adequate to get her where she was going, and it was a gift to develop a more tangible, concrete relationship to her neighborhood and its residents. We talked about the more stately sense of time one has afoot and on public transit, where things must be planned and scheduled beforehand, rather than rushed through at the last minute, and about the sense of place that can only be gained on foot.
+## Walking connects us to everyone and everything
 
-**On foot everything stays connected, for while walking one occupies the spaces between those interiors in the same way one occupies those interiors. One lives in the whole world rather than in interiors built up against it.**
+>**On foot everything stays connected, for while walking one occupies the spaces between those interiors in the same way one occupies those interiors. One lives in the whole world rather than in interiors built up against it.**
 
-wandering in a book or a computer takes place within more constricted and less sensual parameters.
+## Look for what surprises you during walks
 
-**It’s the unpredictable incidents between official events that add up to a life, the incalculable that gives it value.**
+>**It’s the unpredictable incidents between official events that add up to a life, the incalculable that gives it value.**
 
-Both rural and urban walking have for two centuries been prime ways of exploring the unpredictable and the incalculable, but they are now under assault on many fronts.
+>**The random, the unscreened, allows you to find what you don’t know you are looking for, and you don’t know a place until it surprises you.**
 
-I like walking because it is slow, and I suspect that the mind, like the feet, works at about three miles an hour. If this is so, then modern life is moving faster than the speed of thought, or thoughtfulness.
+## Walking is a protest against the loss of public space
 
-**Walking is about being outside, in public space, and public space is also being abandoned and eroded in older cities, eclipsed by technologies and services that don’t require leaving home, and shadowed by fear in many places (and strange places are always more frightening than known ones, so the less one wanders the city the more alarming it seems, while the fewer the wanderers the more lonely and dangerous it really becomes).**
+>**Walking is about being outside, in public space, and public space is also being abandoned and eroded in older cities, eclipsed by technologies and services that don’t require leaving home, and shadowed by fear in many places (and strange places are always more frightening than known ones, so the less one wanders the city the more alarming it seems, while the fewer the wanderers the more lonely and dangerous it really becomes).**
 
-**in many new places, public space isn’t even in the design: what was once public space is designed to accommodate the privacy of automobiles; malls replace main streets; streets have no sidewalks; buildings are entered through their garages; city halls have no plazas; and everything has walls, bars, gates. Fear has created a whole style of architecture and urban design**
+>**in many new places, public space isn’t even in the design: what was once public space is designed to accommodate the privacy of automobiles; malls replace main streets; streets have no sidewalks; buildings are entered through their garages; city halls have no plazas; and everything has walls, bars, gates. Fear has created a whole style of architecture and urban design**
 
-**to be a pedestrian is to be under suspicion in many of the subdivisions and gated “communities.”**
+>**to be a pedestrian is to be under suspicion in many of the subdivisions and gated “communities.”**
 
-rural land and the once-inviting peripheries of towns are being swallowed up in car-commuter subdivisions and otherwise sequestered.
+>**In some places it is no longer possible to be out in public, a crisis both for the private epiphanies of the solitary stroller and for public space’s democratic functions.**
 
-In some places it is no longer possible to be out in public, a crisis both for the private epiphanies of the solitary stroller and for public space’s democratic functions.
+## Walking is a protest against the disappearance of the body and liesure
 
-Page 11
+>**when public space disappears, so does the body**
 
-**when public space disappears, so does the body**
+>**Walking is one way of maintaining a bulwark against this erosion of the mind, the body, the landscape, and the city, and every walker is a guard on patrol to protect the ineffable.**
 
-**The random, the unscreened, allows you to find what you don’t know you are looking for, and you don’t know a place until it surprises you.**
-
-**Walking is one way of maintaining a bulwark against this erosion of the mind, the body, the landscape, and the city, and every walker is a guard on patrol to protect the ineffable.**
-
-**If there is a history of walking, then it too has come to a place where the road falls off, a place where there is no public space and the landscape is being paved over, where leisure is shrinking and being crushed under the anxiety to produce, where bodies are not in the world but only indoors in cars and buildings, and an apotheosis of speed makes those bodies seem anachronistic or feeble. In this context, walking is a subversive detour, the scenic route through a half-abandoned landscape of ideas and experiences.**
-
-My circuit was almost finished, and at the end of it I knew what my subject was and how to address it in a way I had not six miles before. It had come to me not in a sudden epiphany but with a gradual sureness, a sense of meaning like a sense of place.
-
-**When you give yourself to places, they give you yourself back; the more one comes to know them, the more one seeds them with the invisible crop of memories and associations that will be waiting for you when you come back, while new places offer up new thoughts, new possibilities.**
-
-Exploring the world is one of the best ways of exploring the mind, and walking travels both terrains.
+>**If there is a history of walking, then it too has come to a place where the road falls off, a place where there is no public space and the landscape is being paved over, where leisure is shrinking and being crushed under the anxiety to produce, where bodies are not in the world but only indoors in cars and buildings, and an apotheosis of speed makes those bodies seem anachronistic or feeble. In this context, walking is a subversive detour, the scenic route through a half-abandoned landscape of ideas and experiences.**
 
 # Chapter 2
 

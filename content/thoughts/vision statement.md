@@ -11,7 +11,7 @@ sr-ease: 250
 ---
 A vision statement is an articulation of one's vision.
 
-Vision precedes [[thoughts/purpose]] and mission. It describes what you want to see happen.
+Vision precedes [[purpose]] and mission. It describes what you want to see happen.
 
 I like to write a vision statement in the present tense and integrate how I want [[my life areas]] to look like once all their standards have been established and maintained.
 
