@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 254
 ---
 
-This is [[Gian de Jesus]]'s [[thoughts/Ikigai]] template I can use to improve how articulate [[my life plan]].
+This is [[Gian de Jesus]]'s [[ikigai]] template I can use to improve how articulate [[my life plan]].
 
 # Questions
 

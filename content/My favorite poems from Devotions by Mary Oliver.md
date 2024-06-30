@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-Here are my favorite poems from [[thoughts/mary oliver]]'s book of poems, *Devotions*.
+Here are my favorite poems from [[mary oliver]]'s book of poems, *Devotions*.
 
  - How would you live then?
 - The Arrowhead

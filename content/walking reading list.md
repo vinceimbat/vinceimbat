@@ -14,3 +14,13 @@ tags:
 
 "Introduction" in The Flaneur by Keith Tester
 - "The Painter of Modern Life" (1863) by Charles Baudelaire
+- *Life: A User's Manual* (1987) by George Perec
+
+*No Lease on Life* by Lynne Tillman
+
+*Open City* by Teju Cole
+- The walks range from short to longer, but they exist less in discrete pieces, and more as parts of a larger aggregated arc. Taken together, the book itself is one long walk with the protagonist Julius.
+
+*Rings of Saturn* by W. G. Sebald
+
+*The Old Ways* by Robert MacFarlane

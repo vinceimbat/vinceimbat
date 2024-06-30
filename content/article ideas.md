@@ -1,29 +1,42 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
 ## Article Ideas
 
-- [ ] Project Jiyu Shukyo<br><br>Announcement to my commitment of self-studying jiyu shukyo, with a specific goal to develop a way to express it in the Filipino context through walking and writing.<br><br>Gathering sources<br>Curriculum
+- [ ] Project Jiyu Shukyo
+	
+	Announcement to my commitment of self-studying jiyu shukyo, with a specific goal to develop a way to express it in the Filipino context through walking and writing.
+	
+	Gathering sources
+	Curriculum
 - [ ] Kensho in Jiyu Shukyo
 - [ ] Seiza Meditation and the Body as a Church
 - [ ] Doubt
 - [ ] Reincorporating Prayer
+- [ ] Short Walks
+- [ ] Kung Paano Maglakad Sa Pilipinas
+	
+	Discuss different possible approaches and choose one.
 
 
 ## Published
 
 **Complete**
-- [x] [[a sunday walk]]<br><br>Sunday walk experiment with Lea
-- [x] [[never finished never arrived]]<br><br>On journaling
+- [x] [[a sunday walk]]
+	
+	Sunday walk experiment with Lea
+- [x] [[never finished never arrived]]
+	
+	On journaling
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

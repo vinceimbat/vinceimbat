@@ -7,6 +7,8 @@ tags:
   - thoughts
   - seedlings
 ---
+The first goal is to collect resources.
+
 Precolonial
 Sources
 - Epics
@@ -22,7 +24,9 @@ Postcolonial
 - Protest
 - March to Gugu Dike (Pampanga)
 
-The first goal is to collect resources.
+# Why do Filipinos walk today?
+
+- Livelihood. Some Filipinos sell their goods while walking: street vendors (bottled water, cigarettes, candies), furniture sellers, broom sellers, food (taho, balut, puto, vegetables). Some skip from one bus to another to sell food for bus passengers.
 
 # Useful highlights from Wanderlust
 

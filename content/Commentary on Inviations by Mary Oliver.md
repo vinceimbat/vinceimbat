@@ -58,7 +58,7 @@ You must change your life.
 
 Mary Oliver's poem *Invitations* will be one of my favorites. I love the specific storytelling poems she writes but occassionally she writes these "preachy" poems and one of them is this, *Invitations*. It is a poem about doing things for the sake of doing them—not doing them for others, not doing them for money, but doing them entirely for oneself and one's own pleasure.
 
-[[thoughts/mary oliver]] thinks this is a principle of living—a full-blown strategy that could change lives. Whether or not one approaches life in this fashion determines the quality of his life. I share this belief with her, [[Charles Eisenstein]], [[Lewis Hyde]], and [[thoughts/austin kleon]].
+[[mary oliver]] thinks this is a principle of living—a full-blown strategy that could change lives. Whether or not one approaches life in this fashion determines the quality of his life. I share this belief with her, [[Charles Eisenstein]], [[Lewis Hyde]], and [[thoughts/austin kleon]].
 
 Doing things for the sake of doing them, living in the gift, doing nothing, having full creative freedom, not thinking about pleasing people, or an audience, not showing oneself as an unchanging brand.
 

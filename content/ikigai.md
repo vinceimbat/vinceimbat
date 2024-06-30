@@ -1,12 +1,12 @@
 ---
 title: Ikigai
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - thoughts/Ikigai
 draft: false
-sr-due: 2023-11-11
-sr-interval: 4
-sr-ease: 270
+tags:
+  - thoughts
+  - seedlings
 ---
 Ikigai is interesting because it attempts to combine almost all needs in [[Maslow’s heirarchy of needs]] into a single project or activity.
 

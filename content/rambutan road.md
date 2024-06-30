@@ -1,11 +1,11 @@
 ---
-title: "Rambutan Road"
-date: "2023-05-02"
+title: Rambutan Road
+date: 2023-05-02
+aliases:
+  - poems/rambutan-road
 tags:
-- "seedlings"
-sr-due: 2024-06-29
-sr-interval: 330
-sr-ease: 270
+  - poems
+  - seedlings
 ---
 The moon  
 three-fourths lit  

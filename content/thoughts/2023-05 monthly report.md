@@ -37,7 +37,7 @@ Really enjoyed this quote: [[The daily routine of a Danish aristocrat - Dillard]
 ## Writing
 
 ### Poetry
-- [[poems/rambutan road]]
+- [[rambutan road]]
 - [[poems/on an afternoon walk i saw fireflies]]
 - [[poems/obong]]
 - [[poems/fog]]
