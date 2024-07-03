@@ -15,6 +15,10 @@ I need a word that captures as much of existence as possible. A word that is fre
 
 It's like philosophy but a way of life.
 
+***
+
+My niche is walking as a spiritual practice. But I need a clear understanding of what the word spiritual means before I could continue with my project
+
 # Related
 
 - [[Why people shun spirituality?]]

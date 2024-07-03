@@ -7,6 +7,9 @@ tags:
   - literature
   - seedlings
 ---
+# To do
+
+- Also, check out the prose poems of Baudelaire.
 
 # References
 

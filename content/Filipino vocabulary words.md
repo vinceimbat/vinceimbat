@@ -18,6 +18,7 @@ Alupihan - alinman sa arthropod (class _Chilopodo,_ genus _Scolopendra_ ) na
 Amba - nagbabanta at poot na kilos ng kamay
 Ampat - apula; pagpigil sa daloy o tulo ng dugo, tubig, at katulad; pagsawata, o pag-awat sa mga nagkakagalit; pagsugpo o pag-alis sa bisyo
 Asahar - bulaklak ng kahél; artipisyal na bulaklak ng kahél, karaniwang inilalagay sa ulo ng babaeng ikakasal o ng flower girl, sa ibabaw ng bélo.
+Asilo - asylum
 
 # B
 
@@ -148,6 +149,7 @@ Mutawi - tapat na pagbigkas ng mga salitâ; diin ng pagbigkas ng salitâ
 
 Naknak - paglalâ ng súgat, karaniwang maraming nanà
 Nasisino - recognize
+Nawnaw - simula ng pagdamá (nawnawin ang ulat sa palad mong kapos)
 Ngisi - grin; pag-ngiti nang banát ang labì at nakalan-tad ang mga ngipin
 Ngisngis - pagngiti o pagtawa nang nakikíta ang mga ngipin
 Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
@@ -162,7 +164,8 @@ Paboreal -
 ibon (_Pavo_ _cristatus_ ) na malakí at may mahabàng buntot na tíla may mga matá; peacock
 Pagal - panghihina dahil sa pagod
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
-Paknit - strip; nabakbak mula sa labis na pagkakadikit; 
+Paknit - strip; nabakbak mula sa labis na pagkakadikit
+Palo-tsina - palo china planks
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
 Palanas - malawak na kapatagan; pook na maaliwalas; baybayin ng ilog na mabato.
 Pandaw - [ST] dumalaw sa pa-ngisdaan o bitag para tingnan kung may húli at kuhanin ito; dumalaw sandali at hindi inaasahan sa kasin-tahan.
@@ -203,6 +206,7 @@ Sasandali - in a moment (alam nilang sasandali pa'y may mga papalit na sa kanila
 Serbilyeta - napkin
 Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
+Silat - siwang sa pagitan ng mga kawayang sahig
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
 Sisne - swan
