@@ -39,7 +39,7 @@ Really enjoyed this quote: [[The daily routine of a Danish aristocrat - Dillard]
 ### Poetry
 - [[rambutan road]]
 - [[poems/on an afternoon walk i saw fireflies]]
-- [[poems/obong]]
+- [[obong]]
 - [[poems/fog]]
 - [[a midsummer rain in lb]]
 

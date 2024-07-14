@@ -7,6 +7,154 @@ tags:
   - thoughts
   - seedlings
 ---
+# Lecture sa Tula
+
+Lecturer: RMA
+
+Mastery of form is not the only goal of poetry.
+
+Writing is a weapon.
+
+Things that a writer needs to learn:
+- history of literature
+- history of form
+- issues in literature
+- reader research
+- publication
+- distribution
+- social issues
+
+Poetry is a long-term practice.
+
+Now, study indigenous poetic forms.
+
+Bugtong: look closer at an image
+
+Salawikain, tanaga, and even regional forms are heavy in images.
+
+Stop didactism. Focus on imagism.
+
+Nasabi mo na, bakit mo sasabihin ulit? Try not to repeat. Be economical with words and images.
+
+Why didn't we embrace our imagistic roots?
+- We were Western and colonial.
+- We should've looked first at our own forms.
+- We should've looked for essence, not just forms.
+
+Modernism
+- late 19th century, WWI, industrial revolution
+- experimenting with new techniques
+- imagism by Pound
+	- Bagay poets
+	- Don't use words unnecessarily.
+	- Musical phase.
+- Image not idea
+- Modernism is based on Asian forms (i.e., Japanese and Chinese).
+	- clarity
+	- precision
+	- economy of language
+- Check out Bien Lumbera.
+- Avoid concepts and abstractions.
+- Go for the ordinary, which is stronger and easier to understand.
+- The indigenous is often ordinary.
+
+Spoken-word
+- is a method, not poetry itself
+- narrative is maligoy
+- e.g., balagtasan is not a poem but a way of doing poetry
+- created by construction workers.
+
+Tulang malalim vs. tulang lumalim
+
+Kung malumanay ang tula, alisin mo na muna ang hindi malumanay.
+
+Ilarawan mo lang. Wag mong iinterpret.
+
+Poetry is the best words at the best time.
+
+# Feedback on Obong
+
+## Amanda
+
+- ==Explore ang parallelism ng mais at ilaw.
+- Explore ang parallelism ng balat ng mais at bintana.
+- ~~Explore ang pagkawala ng identity, lunan, at kabuhayan.
+- Explore ang pag-iral at bakas.
+- ==Ang strength ng tula ay nasa pagtatahi nito sa dulo.
+
+## Je
+
+- ==Curious kung bakit nawala ang mga tao.
+
+## M
+
+- ==Maiksi ang time.
+
+## Emman B.
+
+- ==Pwede itransfer sa film.
+- ==Mangingitlog ang gamu-gamo sa mais (swakto)
+- ==Better ending: alisin ang ilaw. Nakatiwangwang lang yung bahay. Eco crit.: nature won.
+- ==Ang strength ng tulang ito ay pagtitimpi (descriptive)
+
+## Joey
+
+- ==Sta. Maria = place as mother
+- ==gamugamo, naghahanap ng bagong pugad = people left
+- =="nangangati ang paa" = lalayas?
+- ==persistence of scene
+	- sa likod ng bahay = back of my messy pugad
+
+## Jim
+
+- ==Walang ibig sabihin (WIS) pero tula pa rin ito.
+- ==Pwedeng kahit saan pwede siya.
+- ==You don't know where it will bring you.
+
+## RMA
+
+- shorten lines
+- =="Noon sa Sta. Maria" -> Ibig sabihin, wala na sa Sta. Maria yung writer.
+- ==Reminds him of Sta. Filomena and another poem about a beloved kalabaw.
+- ==The translation could improve the original.
+
+## Others
+
+==Great title. It tells what the poem is.
+
+>kapag bumukas na ang mga bunga ng mais
+- ==When? Clear temporality. Is this something you can see in the night?
+- ==Instead of "bumubukas," try "namamalat" or look for a better Tagalog word for it. Translate the language of the farmers.
+
+>at masisilip na ang mga dilaw na butil nito
+>lumalapit na rin ang mga gamugamo.
+- ==Hindi parallel: gawing both visual. Halimbawa, sa halip na lumalapit, nagpapakita.
+
+>pagkakamot
+- ==You jumped. Bugaw muna.
+
+>at aantaying dalawin kami ng antok.
+- cliche
+
+>lumang kulambo
+- ==enrich imagery (butas, tinapalan, ipakitang gamit na gamit na)
+
+>kinumotan
+- spelling: kinumutan
+
+>de pulbos na mga pakpak
+- ==may ibang hindi pamilyar dito
+
+>kakamotin
+- spelling: kakamutin
+
+Suggestions
+- ~~Put translation side by side.
+- ==Explore the image of emptiness in the end.
+- ==Put mother at first stanza?
+- ~~Make someone else translate.
+- ==Enigmatic. Add more info.
+ 
 # PRS Response to Critique
 
 ## Poem

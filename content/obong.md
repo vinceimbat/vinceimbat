@@ -3,12 +3,11 @@ title: Obong
 date: 2023-05-13
 aliases:
   - poems/mais
+  - poems/obong
 tags:
+  - poems
   - pangasinan
   - seedlings
-sr-due: 2023-11-06
-sr-interval: 95
-sr-ease: 230
 ---
 Nen saman diya'd Sta. Maria  
 sano onlukas la 'ray bungay mais,  
