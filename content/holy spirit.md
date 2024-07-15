@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Here is a radical interpretation of the holy spirit or what [[andrew j brown|Andrew J. Brown]] calls "the Spirit of Life." According to Andrew, the Spirit of Life is what "makes any single event or person possible." It is plural as it comes in all directions simultaneously and spreads like wind. If I am right that Andrew is interpreting the holy spirit this way, then his interpretation is a radical and beautiful way of looking at it.
+Here is a radical interpretation of the holy spirit or what [[andrew j brown|Andrew J. Brown]] calls "the Spirit of Life." According to Andrew, the [[spirit of life|Spirit of Life]] is what "makes any single event or person possible." It is plural as it comes in all directions simultaneously and spreads like wind. If I am right that Andrew is interpreting the holy spirit this way, then his interpretation is a radical and beautiful way of looking at it.
 
 Life, indeed, behaves this way. It arises from places we wouldn't think it will come from. I and everyone I loved and I meet in this universe at this point in time was here because of this Spirit of Life and that is nothing short of a miracle.
 
