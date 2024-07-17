@@ -19,7 +19,7 @@ Why would anyone doing important and creative work share it? If the healthiest m
 
 # What to share
 
-Because I also see my work as a form of [[thoughts/use-inspired basic research]], I would be sharing:
+Because I also see my work as a form of [[use-inspired basic research]], I would be sharing:
 
 1. Theories - What I learned from studying and reflecting
 2. Methods - What I learned from applying what I studied and reflected on

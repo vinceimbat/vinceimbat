@@ -10,7 +10,7 @@ sr-ease: 250
 
 Author of [[literature/refusing heaven by jack gilbert|Refusing Heaven]].
 
-Reading Jack Gilbert's poems is giving me permission to write the way I write. I do not have to totally get out of who I have been as a poet. I just have to trust who I am. The way [[thoughts/rem tanauan|Rem Tanauan]] and [[thoughts/rofel brion|Rofel Brion]] trusts themselves.
+Reading Jack Gilbert's poems is giving me permission to write the way I write. I do not have to totally get out of who I have been as a poet. I just have to trust who I am. The way [[thoughts/rem tanauan|Rem Tanauan]] and [[rofel brion|Rofel Brion]] trusts themselves.
 
 There is some semblance between Gilbert and Rofel. I can understand both. But Gilbert is also experimental and playful in some of his poems. In the poems that make sense, he delivers them like a photograph of moments. But what makes him distinct from everyone I read is his choice of moments. They are very existential.
 

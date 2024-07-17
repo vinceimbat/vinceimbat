@@ -10,7 +10,7 @@ sr-interval: 591
 sr-ease: 250
 ---
 
-[[thoughts/intentional living]] follows the following process:
+[[intentional living]] follows the following process:
 
 1. Set a [[Goal]]. The goal is a desired [[End state]]. Since it hasn't happened yet, it is simply a [[concepts]].
 2. Lay out the steps toward the goal (simple goals involve a few [[action]]s; complicated goals require a combination of [[Project]]s, [[Habit]]s, and actions).

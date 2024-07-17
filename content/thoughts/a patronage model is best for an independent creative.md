@@ -9,7 +9,7 @@ sr-due: 2027-05-28
 sr-interval: 1240
 sr-ease: 271
 ---
-My ideal income-generating model is a [[thoughts/patronage model]], where I don’t need to do a lot of entrepreneurial stuff. I am simply paid to do what I do. In modern times, it is even possible to be paid for my marginal production, not big production. The reason why I say this is because, [[The entrepreneur and the intellectual have different goals]].
+My ideal income-generating model is a [[patronage model]], where I don’t need to do a lot of entrepreneurial stuff. I am simply paid to do what I do. In modern times, it is even possible to be paid for my marginal production, not big production. The reason why I say this is because, [[The entrepreneur and the intellectual have different goals]].
 
 I am an intellectual first before an entrepreneur. My primary goal is to produce insights. Insights come slower. On the other hand, entrepreneurs need growth faster. That is why I don’t want to start an entrepreneurial venture immediately.
 

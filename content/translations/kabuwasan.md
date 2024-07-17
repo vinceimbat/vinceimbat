@@ -44,4 +44,4 @@ sinuba day dayat, linmetsab
 intilak da ak ya akanganga  
 sali-salik labat so abasa.
 
-Note: Ang orihinal ay tula ni [[thoughts/rofel brion|Rofel Brion]].
+Note: Ang orihinal ay tula ni [[rofel brion|Rofel Brion]].

@@ -14,7 +14,7 @@ Because insights cannot be predetermined, [[Writing that aims at insight must be
 Related
 - Because this is insight's nature, some people find it difficult to take ownership of the children's of their mind, owing it to a muse or a deity, and they only channels of that source.
 
-Some insights only arrive after years of returning to the same problem or after performing certain practices. In these instances, an insight becomes a [[convergence tool]] that unifies all thinking and experiencing that happened before it. Because it is rare and takes time to occur, insights are precious and, therefore, should be captured immediately ([[thoughts/rofel brion|rofel brion]] disagrees; he thinks what he is currently doing is more important than insight so he is willing to let go of it if it disrupts his main focus).
+Some insights only arrive after years of returning to the same problem or after performing certain practices. In these instances, an insight becomes a [[convergence tool]] that unifies all thinking and experiencing that happened before it. Because it is rare and takes time to occur, insights are precious and, therefore, should be captured immediately ([[rofel brion|rofel brion]] disagrees; he thinks what he is currently doing is more important than insight so he is willing to let go of it if it disrupts his main focus).
 
 When insight performs the duty of a convergence tool, it helps us commit, respond, and act.
 

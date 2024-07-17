@@ -21,7 +21,7 @@ I revisit what were planted rhythmically to tend to them, re-walking once verdan
 
 One day, I will be surrounded by [[thoughts/my forest garden of the mind|a forest garden of the mind]], and everything will finally make sense.
 
-I walk only to find answers to one question: [[thoughts/how to live|how to live?]]
+I walk only to find answers to one question: [[how to live|how to live?]]
 
 I write these words and share them here if only I can make this thrown existence more meaningful.
 

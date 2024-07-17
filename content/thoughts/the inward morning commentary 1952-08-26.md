@@ -17,7 +17,7 @@ He differentiates this from usual "research," which involves a lot of ''tilling.
 
 Therefore, Bugbee's admonition is just to write everything down. When they come, write them down without thinking about how they will add up. Just flow. Like a poem, move from one perception to another. And this reminds me a lot of [[henry david thoreau|Henry David Thoreau]]. This is also how he saw insights and perhaps why he valued his journal because it is there where the first development or capture of insight comes from. 
 
-This makes me think about the [[thoughts/seeds]] (i.e., field notes I take while walking and fleeting notes I take when reading). I need to publish and share them too, but I don't want to share my daily notes. So what I might try to do is to create separate notes for them. Connect them in the daily note but separate them. These will be the seeds collected on a specific tag.
+This makes me think about the [[seeds]] (i.e., field notes I take while walking and fleeting notes I take when reading). I need to publish and share them too, but I don't want to share my daily notes. So what I might try to do is to create separate notes for them. Connect them in the daily note but separate them. These will be the seeds collected on a specific tag.
 
 [^1]: This reminds me of the metaphor I am using for my entire philosophical journey: [[thoughts/my forest garden of the mind|my forest garden of the mind]].
 

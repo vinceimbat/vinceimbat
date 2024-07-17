@@ -68,7 +68,7 @@ I then encountered [[pat schneider]] whose writing method detailed in her book  
 
 - I read [[thoughts/imaoka creed of life meditations|Imaoka's Creed of Life]] and wrote reflections on each of his statements.
 - Received a reply from Toby expressing his interest in free religion.
-- Researched Unitarian writers and discovered the connection between Transcendentalism and Unitarianism and concluding that the free religion advocated by [[shinichiro imaoka|Shinichiro Imaoka]] was very much influenced by [[thoughts/ralph waldo emerson|Ralph Waldo Emerson]].
+- Researched Unitarian writers and discovered the connection between Transcendentalism and Unitarianism and concluding that the free religion advocated by [[shinichiro imaoka|Shinichiro Imaoka]] was very much influenced by [[ralph waldo emerson|Ralph Waldo Emerson]].
 - Seiza
 	- Joined Miki Nakura's seiza groups twice.
 	- Met Andrew Brown.

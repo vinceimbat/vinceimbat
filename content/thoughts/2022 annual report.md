@@ -96,7 +96,7 @@ I was also able to help Lea build her comfort fund and get health insurance.
 
 # December
 
-This month was largely spent reflecting on what kind of livelihood to choose next. After applying at different agencies didn't work out, I got back to writing podcast shownotes and Lea asked me to assist her in building her LMS and OBMS, a project that occupied the last week of the year.  I also received work from Bookbright. These new (temporary?) sources of income provided the sense of security that allowed me to stay calm and think better about my new situation. The best thing that came out of this process was designing [[My livelihood system]] that is both resilient and encourages my transition toward more satisfying work.
+This month was largely spent reflecting on what kind of livelihood to choose next. After applying at different agencies didn't work out, I got back to writing podcast shownotes and Lea asked me to assist her in building her LMS and OBMS, a project that occupied the last week of the year.  I also received work from Bookbright. These new (temporary?) sources of income provided the sense of security that allowed me to stay calm and think better about my new situation. The best thing that came out of this process was designing [[my livelihood system]] that is both resilient and encourages my transition toward more satisfying work.
 
 While working on Lea's LMS, I also took the opportunity to improve my own LMS. I redesigned my daily routine to accomodate better sleeping habits and incorporated the pomodoro app Forest into my morning routine. I also exchanged rooms with Lea so I could have better sunlight in the morning.
 

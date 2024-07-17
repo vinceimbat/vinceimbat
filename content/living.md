@@ -10,11 +10,11 @@ tags:
 ---
 This is the second among the [[Five areas of my life work]].
 
-[[Living is the most important category of action]]. The purpose of living is to apply clear [[thoughts/understanding]] to take the right and most compassionate action in every day life.
+[[Living is the most important category of action]]. The purpose of living is to apply clear [[understanding]] to take the right and most compassionate action in every day life.
 
 ***
 
-Although I don't consider myself a researcher and I like to communicate my thoughts through artistic personal narratives, it can be useful to see my work as a form of research. Specifically, it is a [[thoughts/use-inspired basic research]]. This is because, I seek a fundamental [[thoughts/understanding]] of nature so that I could solve practical and immediate problems. Since [[thoughts/intentional living]], and [[thoughts/life is a project]], [[My immediate problems involve deciding what actions to take]].
+Although I don't consider myself a researcher and I like to communicate my thoughts through artistic personal narratives, it can be useful to see my work as a form of research. Specifically, it is a [[use-inspired basic research]]. This is because, I seek a fundamental [[understanding]] of nature so that I could solve practical and immediate problems. Since [[intentional living]], and [[thoughts/life is a project]], [[My immediate problems involve deciding what actions to take]].
 
 Because my research is use-inspired basic research, I need to design testable prototypes using the knowledge and insights I learn and produce. In my work, these prototypes will be in the form of practices, methods, and systems, which I apply in my own life. The prototypes are personal so they can only be used by individuals (i.e., does not consider organizational or societal application).
 

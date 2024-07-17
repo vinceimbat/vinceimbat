@@ -58,7 +58,7 @@ Tried deploying jekyll blog on cloudflare. It worked. But then I realized how li
 - Wrote copy for the homepage of my site.
 - Wrote links to new terms of art I used in the homepage copy:
 	- [[thoughts/forest garden of the mind]]
-	- [[thoughts/seeds]]
+	- [[seeds]]
 	- [[thoughts/mental wilderness]]
 	- [[thoughts/geographical wilderness]]
 	- [[wilderness]]

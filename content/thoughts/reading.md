@@ -12,7 +12,7 @@ sr-ease: 248
 
 Note: Don't stress too much about what to read next. Let your curiosity and needs dictate that. As long as there's at least 1 prose book and 1 poetry book on your plate you'll be fine. Focus more on making good use of the information you get from your reading.
 
-Reading is such an important part of my [[thoughts/understanding]] process, specifically, the [[thoughts/my studying process]].
+Reading is such an important part of my [[understanding]] process, specifically, the [[thoughts/my studying process]].
 
 My reading process follows classic [[thoughts/getting things done]] method:
 

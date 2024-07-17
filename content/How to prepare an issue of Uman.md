@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-To prepare an issue of [[thoughts/uman]], follow these procedures:
+To prepare an issue of [[uman]], follow these procedures:
 1. Review daily notes for the entire month.
 2. Extract the highlights of the month and put them in the [[templates/monthly report]].
 3. Rearrange the extracts in such a way that they reveal what the common thread of the piece is. Focus on this common thread.

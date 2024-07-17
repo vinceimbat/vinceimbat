@@ -59,7 +59,7 @@ Published TLW
 - [[approach life with humor|Approach life with humor]]
 
 Poetry
-- [[poems/di ako marunong tumula|Di ako marunong tumula]]
+- [[di ako marunong tumula|Di ako marunong tumula]]
 - [[poems/ako|Ako]]
 - [[poems/nais kitang ipagdiwang|Nais Kitang Ipagdiwang]]
 

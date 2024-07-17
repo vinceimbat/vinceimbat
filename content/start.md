@@ -22,7 +22,7 @@ The forest garden is made up of different "species" of thought:
 
 These species will grow in number as I see fit.
 
-Species are further classified depending on level of development: [[thoughts/seeds|seeds]], [[thoughts/seedlings|seedlings]], and [[thoughts/evergreens|evergreens]].
+Species are further classified depending on level of development: [[seeds|seeds]], [[seedlings|seedlings]], and [[evergreens|evergreens]].
 
 [Seeds](tags/seeds.md) are random ephemeral thoughts that come to me during walks or throughout the day. Seeds are kept as is based on the perspective of [[henry david thoreau|Henry David Thoreau]] and [[henry bugbee|Henry Bugbee]] that insights as pure as they are have relevance and their purity needs to be maintained.
 
@@ -32,9 +32,9 @@ Species are further classified depending on level of development: [[thoughts/see
 
 A walk in the forest garden of the mind refers to my daily visits to this collection. My walks involve planting, replanting, pruning, or nurturing of existing species in the garden. Therefore, different species form interconnections that you could access through the mind trails and the topography of thoughts present under each note.
 
-[[my purpose is to live deliberately|My purpose is to live deliberately]]. Therefore, my main motivation for walking in the world and in this digital garden is to transform seeds of thoughts and experiences into decisive [[action|actions]] leading to [[thoughts/intentional living|intentional living]]. Thus, I recognize that [[thoughts/my work is religious in nature|my work is religious in nature]].
+[[my purpose is to live deliberately|My purpose is to live deliberately]]. Therefore, my main motivation for walking in the world and in this digital garden is to transform seeds of thoughts and experiences into decisive [[action|actions]] leading to [[intentional living|intentional living]]. Thus, I recognize that [[thoughts/my work is religious in nature|my work is religious in nature]].
 
-For some context, see: [[thoughts/my quest|my quest]].
+For some context, see: [[my quest|my quest]].
 
 For a longer narrative of how I got here, see my essay [[a never-ending walk|A Never-ending Walk]].
 
@@ -42,8 +42,8 @@ You can start exploring the digital garden by clicking on the following points o
 
 - [[thoughts/life management system|Life management system]]
 - [[thoughts/my forest garden of the mind|My forest garden of the mind]]
-- [[thoughts/my worldview|My worldview]]
-- [[thoughts/my poetics|My poetics]]
+- [[my worldview|My worldview]]
+- [[my poetics|My poetics]]
 - [[walking|Walking]]
 - [[newsletters|Newsletters]]
 - [[poetry|Poetry]]

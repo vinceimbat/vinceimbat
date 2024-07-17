@@ -8,7 +8,7 @@ sr-due: 2023-09-17
 sr-interval: 1
 sr-ease: 234
 ---
-Since the [[talahardin|talahardin]] is an [[thoughts/archive|archive]], writing using it is archival work. Archival work involves an attempt to create coherence by looking for interconnections among  fragments (i.e., [[thoughts/seeds|seeds]], [[thoughts/seedlings|seedlings]], and [[thoughts/evergreens|evergreens]]).
+Since the [[talahardin|talahardin]] is an [[thoughts/archive|archive]], writing using it is archival work. Archival work involves an attempt to create coherence by looking for interconnections among  fragments (i.e., [[seeds|seeds]], [[seedlings|seedlings]], and [[evergreens|evergreens]]).
 
 At the earliest stages of writing using the talahardin, the work is fragmentary, partial, and incomplete. We can say that the liminal nature of the talahardin and its contents is transferred to the work it produces, which is to say, a work created through the talahardin is both a draft and an archive at the same time. Eventually, the connections between notes become clearer and a sense of linearity and continuity takes shape. Nevertheless, this coherence achieved while working through the talahardin is illusory as it does not signify finality: [[thoughts/art is never finished|art is never finished]].
 

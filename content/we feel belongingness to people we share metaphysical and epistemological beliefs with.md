@@ -13,6 +13,6 @@ sr-ease: 270
 
 For example, I want to clarify my metaphysical and epistemological beliefs because I first need to create a place of belonging within myself. I first need to feel at home in my body. I want to feel really safe and autonomous and to protect that safe space as much as I can. And from there, expand my sense of belonging. The challenge is of course compassion—to love people outside that circle of belonging that we are ever so interested in building and preserving.
 
-This is the reason why building my worldview through [[thoughts/understanding]] is so important to me and why my immediate environment is so important to me and why I want to be careful and intentional in my relationships.
+This is the reason why building my worldview through [[understanding]] is so important to me and why my immediate environment is so important to me and why I want to be careful and intentional in my relationships.
 
 ![[files/Life circles.jpeg]]

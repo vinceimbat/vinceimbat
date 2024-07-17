@@ -8,8 +8,8 @@ tags:
 
 As of 2021, here are my top five character strengths based on the [[VIA Character Strenghts Survey]].
 
-1. [[Appreciation of beauty and excellence ]] ([[transcendence]])
-2. [[Curiosity]] ([[thoughts/wisdom]])
+1. [[appreciation of beauty and excellence]] ([[transcendence]])
+2. [[Curiosity]] ([[wisdom]])
 3. [[Gratitude ]] (Transcendence)
 4. [[Perspective ]] (Wisdom)
 5. [[Love of Learning ]] (Wisdom)

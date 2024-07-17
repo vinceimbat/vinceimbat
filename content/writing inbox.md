@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 253
 ---
 
-I learned this idea first from [[Andy Matuschak]]. According to Andy, before notes become [[thoughts/evergreens]], or as he likes to call them [[Evergreen notes]], they are [[Fleeting notes]]. Because most permanent notes start this way, to [[Use a note-writing system]] effectively, there has to be a mechanism to:
+I learned this idea first from [[Andy Matuschak]]. According to Andy, before notes become [[evergreens]], or as he likes to call them [[Evergreen notes]], they are [[Fleeting notes]]. Because most permanent notes start this way, to [[Use a note-writing system]] effectively, there has to be a mechanism to:
 
 1. Quickly capture fleeting notes ([[Inboxes to capture fleeting notes]]).
 2. Isolate them from permanent notes.

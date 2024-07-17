@@ -16,7 +16,7 @@ When we walk,
 - we get the psychological benefits of being in nature,
 - we can be exposed to misfortune, which could test mental fortitude and emotional stability ([[Stoicism]]).
 
-Walking favors [[thoughts/process over product]] and is [[Circular over linear]] ([[Austin Kleon - The creative life is not linear]]).
+Walking favors [[process over product]] and is [[Circular over linear]] ([[Austin Kleon - The creative life is not linear]]).
 
 I have always incorporated walking (or biking) in [[my daily routine]]. I also tried following [[The fieldwork routine of Thoreau]]. However, I find it too time-consuming, which shows the mental investment that [[henry david thoreau]] gave to his process. He really loved nature. It was his workplace.
 

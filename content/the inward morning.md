@@ -110,7 +110,7 @@ I am realizing these days that, while I think analytic philosophy is extremely i
 
 ## October 15, Saturday
 
-This entire day, I did a mind walk on the life and works of the poet [[thoughts/rofel brion]].
+This entire day, I did a mind walk on the life and works of the poet [[rofel brion]].
 
 In the Philippines, poetry that _feels good_, the kind that primarily speaks to that speechless, inarticulate part of us, is very rare. It has almost no advocates in the academe, and that is why we are so lucky to have someone alive and still kicking to serve as a beacon of this way of writing poetry who is as embedded in the academe as he is outside.
 

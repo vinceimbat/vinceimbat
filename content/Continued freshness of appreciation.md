@@ -1,14 +1,9 @@
 ---
-title: "Continued freshness of appreciation"
-date: "2022-04-30"
+title: Continued freshness of appreciation
+date: 2022-04-30
+aliases:
+  - Continued-freshness-of-appreciation
 tags:
-
-- "seedlings"
-sr-due: 2022-05-03
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
-
-
-# References

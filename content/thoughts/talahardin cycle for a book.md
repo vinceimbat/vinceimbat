@@ -10,7 +10,7 @@ sr-interval: 752
 sr-ease: 272
 ---
 Assuming that you have chosen a good book, you can apply the [[thoughts/my studying process]] to produce two kinds of artifacts:
-1. [[thoughts/evergreens]]
+1. [[evergreens]]
 2. Product-oriented notes like [[Structure notes]], [[Outline notes]], or drafts.
 
 To arrive at these artifacts, follow the following steps:

@@ -11,17 +11,17 @@ sr-ease: 255
 
 I am adopting [[Andy Matuschak]]'s taxonomy in his [[Evergreen note-taking system]] with several changes, of course.
 
-When I [[Use a note-writing system]], the ultimate goal is to write [[thoughts/evergreens]]. Thus, the most important notes in my system go up a ladder to evolve into permanent notes. However, to maintain organization, several notes that don't go up this ladder are also necessary. I divide my taxonomy of notes between notes that go up the ladder and those that don’t.
+When I [[Use a note-writing system]], the ultimate goal is to write [[evergreens]]. Thus, the most important notes in my system go up a ladder to evolve into permanent notes. However, to maintain organization, several notes that don't go up this ladder are also necessary. I divide my taxonomy of notes between notes that go up the ladder and those that don’t.
 
 ## Ladder
 
 - Entries in my [[diary]]. [[A diary should be used as an inbox]] where a single diary entry could be a source of several [[Fleeting notes]].
-- [[Fleeting notes]] (i.e., prompts and incomplete notes) in my [[writing inbox]]. These notes accumulate over time but are drained through a [[thoughts/spaced repetition writing system]]. Well-developed fleeting notes leave the writing inbox as [[thoughts/evergreens]].
-- [[thoughts/evergreens]]. While these notes leave the writing inbox in better quality, they can still be developed further. There are different kinds of permanent notes:
+- [[Fleeting notes]] (i.e., prompts and incomplete notes) in my [[writing inbox]]. These notes accumulate over time but are drained through a [[thoughts/spaced repetition writing system]]. Well-developed fleeting notes leave the writing inbox as [[evergreens]].
+- [[evergreens]]. While these notes leave the writing inbox in better quality, they can still be developed further. There are different kinds of permanent notes:
    - Stubs that don’t have a content of their own but gain meaning through backlinks. An example of this is the note [[Unfruitful]]. I actually gave a short description of the stub, but its meaning makes more sense because of the backlinks under it. It is a place to hold unfruitful writing prompts in my writing inbox that needs to be reviewed in a later date.
    - Simple definitions for other people’s terms of art
       - Under this category are also bridge notes, which are meant to connect the relationship between my own terms of art and the terminology of others ([[Create your own terms of art]]; [[Use bridge notes to connect your terms of art with existing ones]]).
-   - Notes with precise declarative or imperative phrases with strong claims, e.g., [[Use a note-writing system]]. If I have no strong claim, I frame these notes as questions, e.g. [[thoughts/i want my audience to feel existential]] These atomic notes are the cream of the crop.
+   - Notes with precise declarative or imperative phrases with strong claims, e.g., [[Use a note-writing system]]. If I have no strong claim, I frame these notes as questions, e.g. [[i want my audience to feel existential]] These atomic notes are the cream of the crop.
    - Higher-level permanent notes
       - Notes that abstract from multiple notes
       - My own terms of art, e.g. [[talahardin]]

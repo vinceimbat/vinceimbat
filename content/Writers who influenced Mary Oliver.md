@@ -10,7 +10,7 @@ tags:
 - [[henry david thoreau]]
 - [[Rumi]]
 - Hafez
-- [[thoughts/ralph waldo emerson]]
+- [[ralph waldo emerson]]
 - Percy Bysshe Shelley
 - John Keats
 

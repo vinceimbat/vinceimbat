@@ -97,7 +97,7 @@ In between all of these activities, I spent time getting more clarity on what so
 - I applied at Proofreading Pal.
 - I started watching a Skillshare course on proofreading by one Nitay.
 - Lea paid me 20k for the laptop, which funds a big portion of my expenses for February.
-- I continued improving [[My livelihood system]] by creating a hierarchy of income streams to pursue chronologically.
+- I continued improving [[my livelihood system]] by creating a hierarchy of income streams to pursue chronologically.
 - I took the [MyPlan :: Assessment :: Values Assessment](https://www.myplan.com/assess/values.php?sid=272ebce82d314f06e1012cf7849dd44d). Through it, I learned that the nearest skill that I have that matched my values is really poetry and creative writing.
 - I sold some books and earned Php 980.
 - I started fixing the Acer laptop.

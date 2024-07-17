@@ -64,7 +64,7 @@ Since it is the beginning of the year, I also conducted my [[thoughts/annual rev
 
 # February
 
-I started my birth month by publishing the first issue of [[thoughts/uman]], my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence ([[Understanding leads to compassion]]) and his distaste for ideologies.
+I started my birth month by publishing the first issue of [[uman]], my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence ([[Understanding leads to compassion]]) and his distaste for ideologies.
 
 I also started re-reading *[[Transcend — Kaufman|Transcend]]* by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through *Transcend*, I learned that [[My top three sources of self-actualization]] were continued freshness of appreciation, truth-seeking, and purpose.
 
@@ -135,7 +135,7 @@ Another highlight of June was ordering, unboxing, and reading *[[kissa by kissa 
 
 # July
 
-This month, I spent a huge amount of time thinking about Thoreau. I studied his medium (the romantic excursion) and his quest to live his unique version of [[thoughts/transcendentalism]]. More importantly, I studied his philosophical stance, which showed how different he is from me. Reading about Thoreau's quest inspired me to think about [[thoughts/my quest|my own quest]]. A huge part of this quest is the work that does not involve others, just myself. [[The writing I do in private is my most important writing]]. This writing is philosophical as it is meant to help me make sense of and understand my life and the world.
+This month, I spent a huge amount of time thinking about Thoreau. I studied his medium (the romantic excursion) and his quest to live his unique version of [[thoughts/transcendentalism]]. More importantly, I studied his philosophical stance, which showed how different he is from me. Reading about Thoreau's quest inspired me to think about [[my quest|my own quest]]. A huge part of this quest is the work that does not involve others, just myself. [[The writing I do in private is my most important writing]]. This writing is philosophical as it is meant to help me make sense of and understand my life and the world.
 
 I spent more time thinking about the kind of philosophy that I want to practice, and this led me to [[lyrical philosophy]] per [[edward mooney]]. This research on lyrical philosophy introduced me to [[henry bugbee]] and, later on, [[Ordinary language philosophy]], specifically the work of [[thoughts/ludwig wittgenstein]]. My research on philosophy sharpened the kind of writing I want to produce. I want to create artifacts of writing around universal subject matters, which are place-based and use the [[romantic excursion]] as their device.
 
@@ -147,11 +147,11 @@ Lastly, I modified how I prioritized goals. I created a comprehensive list of li
 
 # August
 
-In August, I went deeper into understanding how to incorporate lyrical philosophy into my writing by studying Henry Bugbee and his work, particularly *[[the inward morning bugbee|The Inward Morning]]*, which I wrote [[thoughts/my commentaries on the inward morning by bugbee|commentaries]] about. Responding to his epistemology, I began valuing my fieldnotes better and giving them a specific category in my notes garden ("[[thoughts/seeds]]"). I also explored the work of [[andrew j brown|Andrew J. Brown]]. Through these readings and explorations, I began looking closer at the religious nature of my work, and I faced head-on something that I was unconsciously avoiding: accepting that I am still engaged in religious activity and my past religious life has several things to teach me about living my current life.
+In August, I went deeper into understanding how to incorporate lyrical philosophy into my writing by studying Henry Bugbee and his work, particularly *[[the inward morning bugbee|The Inward Morning]]*, which I wrote [[thoughts/my commentaries on the inward morning by bugbee|commentaries]] about. Responding to his epistemology, I began valuing my fieldnotes better and giving them a specific category in my notes garden ("[[seeds]]"). I also explored the work of [[andrew j brown|Andrew J. Brown]]. Through these readings and explorations, I began looking closer at the religious nature of my work, and I faced head-on something that I was unconsciously avoiding: accepting that I am still engaged in religious activity and my past religious life has several things to teach me about living my current life.
 
 In writing, I published one Lilim issue and several walk vignettes in draft form. I also received good news from [TLDTD](https://tldtd.org/) that my poem Gawat and its translation Tagsalat will be published in their Issue No. 5.
 
-The main project that occupied me this month was transitioning my website into a digital garden using [Quartz](https://quartz.jzhao.xyz/) and combining all my notes and blog posts into a single ecosystem where writings grow from seeds to [[thoughts/seedlings]] and eventually [[thoughts/evergreens]].
+The main project that occupied me this month was transitioning my website into a digital garden using [Quartz](https://quartz.jzhao.xyz/) and combining all my notes and blog posts into a single ecosystem where writings grow from seeds to [[seedlings]] and eventually [[evergreens]].
 
 # September
 
@@ -165,7 +165,7 @@ In other news, I went on two dates with friends: one in Pagsanjan and another at
 
 # October
 
-I started October intending to do a creative reset. After re-reading *Steal Like an Artist,* I decided to publish [The Long Walk (TLW)](https://vinceimbat.substack.com/) on Substack. The [[a philosophical family tree|first issue]] was released on October 9, 2022, and it shared the highlights of my mental and physical walks. I was able to publish two more issues on [[the inward morning|16]] and [[our invisible walden|23]]. The issues contained highlights of my reading of *The Inward Morning*, the foreword of *[[Kapag Natagpuan Kita = Once I Find You — Rofel Brion|Kapag Natagpuan Kita]]*, and *[[thoughts/living philosophy by edward mooney|Living Philosophy]]*. The issues showed how I started building my philosophical family tree. It also presented my deepening appreciation and integration of poetry into my philosophical practice, culminating in the book launch of *Saglit*, where I met [[thoughts/rofel brion]] at Casa San Pablo.
+I started October intending to do a creative reset. After re-reading *Steal Like an Artist,* I decided to publish [The Long Walk (TLW)](https://vinceimbat.substack.com/) on Substack. The [[a philosophical family tree|first issue]] was released on October 9, 2022, and it shared the highlights of my mental and physical walks. I was able to publish two more issues on [[the inward morning|16]] and [[our invisible walden|23]]. The issues contained highlights of my reading of *The Inward Morning*, the foreword of *[[Kapag Natagpuan Kita = Once I Find You — Rofel Brion|Kapag Natagpuan Kita]]*, and *[[thoughts/living philosophy by edward mooney|Living Philosophy]]*. The issues showed how I started building my philosophical family tree. It also presented my deepening appreciation and integration of poetry into my philosophical practice, culminating in the book launch of *Saglit*, where I met [[rofel brion]] at Casa San Pablo.
 
 Meanwhile, Carillon came into our lives, Benjie and I started a photography project together, and Lea and I went home to Pangasinan to spend two days at the beach.
 

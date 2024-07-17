@@ -17,7 +17,7 @@ The more I can self-actualize, the easier it is for me to appreciate nature - be
 
 # Why did Thoreau write lenghty narratives of his walks?
 
-He practiced paying attention, seeing what is outdoors. Living in one place for most of his life just made his seeing more potent. He was a perfect example of how [[Continued freshness of appreciation]] is practiced.
+He practiced paying attention, seeing what is outdoors. Living in one place for most of his life just made his seeing more potent. He was a perfect example of how [[continued freshness of appreciation]] is practiced.
 
 [[Learn to live by reading and being]].
 

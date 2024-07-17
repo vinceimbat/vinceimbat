@@ -8,7 +8,7 @@ draft: true
 ---
 # Summary
 
-After my afternoon walk on [[2023-07-12]], I was convinced that I shouldn't let my current financial situation affect my writing life, at the very least my morning writing routine. This led me to review my writing life in general, including my systems and routines and evaluate them against my creative goals. I was intent in checking whether my current writing system is leading me towards my goals. The result of this process was a better articulation of [[thoughts/my poetics|my poetics]]. This process reminded me that what I truly wanted to write is [[lyrical philosophy|lyrical philosophy]]—words that combine the beauty of the poem and the depth of philosophical inquiry. Thus, I articulated [[thoughts/how to practice and write lyrical philosophy|how to practice and write lyrical philosophy]].
+After my afternoon walk on [[2023-07-12]], I was convinced that I shouldn't let my current financial situation affect my writing life, at the very least my morning writing routine. This led me to review my writing life in general, including my systems and routines and evaluate them against my creative goals. I was intent in checking whether my current writing system is leading me towards my goals. The result of this process was a better articulation of [[my poetics|my poetics]]. This process reminded me that what I truly wanted to write is [[lyrical philosophy|lyrical philosophy]]—words that combine the beauty of the poem and the depth of philosophical inquiry. Thus, I articulated [[thoughts/how to practice and write lyrical philosophy|how to practice and write lyrical philosophy]].
 
 This process got me back to writing. While I made significant progress in my sustenance projects for Candent and Ili Likhaan (both websites are ready to launch), I was also able to get back to writing.
 
@@ -38,8 +38,8 @@ An essay I really loved reading this month was [[melt the snowflake at once by d
 # Studies
 
 - Checked Quartz 4.
-- Journaled about how my creative life is connected with [[thoughts/my worldview|my worldview]] and [[thoughts/my quest|my quest]].
-- Created [[thoughts/my poetics|my poetics]].
+- Journaled about how my creative life is connected with [[my worldview|my worldview]] and [[my quest|my quest]].
+- Created [[my poetics|my poetics]].
 - Reviewed notes from [[be the gateway blank|Be the Gateway by Dan Blank]].
 
 Best notes
@@ -161,7 +161,7 @@ Essays
 - [[thoughts/the songlines by bruce chatwin|The Songlines by Bruce Chatwin]] - unfinished
 - [[wanderlust solnit|Wanderlust by Rebecca Solnit]] - unfinished
 - [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read
-- [[thoughts/wilderness and the heart by edward mooney|Wilderness and the Heart by Edward Mooney]] - unfinished
+- [[wilderness and the heart mooney|Wilderness and the Heart by Edward Mooney]] - unfinished
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] - unfinished
 - [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] - unfinished
 

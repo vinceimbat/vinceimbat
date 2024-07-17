@@ -8,7 +8,7 @@ tags:
 
 The 10 facets of [[thoughts/self-actualization]] measured by the [[Characteristics of Self-Actualization Scale]] are:
 
-1. [[Continued freshness of appreciation]]
+1. [[continued freshness of appreciation]]
 2. Acceptance
 3. Authenticity
 4. Equanimity

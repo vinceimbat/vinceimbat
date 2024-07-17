@@ -16,7 +16,7 @@ I am grateful for:
 7. The book [[Transcend — Kaufman|Transcend by Scott Barry Kaufman]] .
 8. Improving [[thoughts/my lms sky level setup|my LMS sky level setup]].
 9. Learning about the differences between [[rationalism vs empiricism]].
-10. **Launching [[thoughts/uman]] and publishing eight issues in 2022.**
+10. **Launching [[uman]] and publishing eight issues in 2022.**
 11. Learning how to use a custom domain for my notes and [[henry david thoreau]] journal translations when they were still in [[craft|Craft]].
 12. Successfully migrating my main website ([vinceimbat.com](https://vinceimbat.com/)) from Wordpress to Hugo using [Congo](https://jpanther.github.io/congo/)  (see [[How to migrate Wordpress to Hugo]]).
 13.  Attending what is perhaps the best wedding I have ever witnessed: Beth and JA's wedding.
@@ -63,7 +63,7 @@ I am grateful for:
 54. Improving my photography skills particularly taking photos and editing using Light Room mobile.
 55. **Ordering, unboxing, and reading Kissa by Kissa.**
 56. Learning more things about Thoreau: the romantic excursion, his quest, and his philosophical stance.
-57. **Writing [[thoughts/my quest]] after reading Thoreau's quest.**
+57. **Writing [[my quest]] after reading Thoreau's quest.**
 58. [[lyrical philosophy|lyrical philosophy]] specifically that studied by [[edward mooney|edward mooney]].
 59. [[henry bugbee|henry bugbee]] and his work [[the inward morning bugbee|The Inward Morning]], which I have written commentaries about (see [[thoughts/my commentaries on the inward morning by bugbee|My commentaries on The Inward Morning by Bugbee]]).
 60. [[Ordinary language philosophy|Ordinary language philosophy]], particularly the work of [[thoughts/ludwig wittgenstein|ludwig wittgenstein]].
@@ -73,7 +73,7 @@ I am grateful for:
 64. Walking with Mama and Papa.
 65. Being reunited with Tita Sabel.
 66. Modifying how I prioritize goals. I created [[my life goals master list]] and divided it into two: a list of five primary focus goals and a large list of what is left called "avoid-at-all-cost list."
-67. Learning from Bugbee to value insights as they come and so categorizing them as [[thoughts/seeds]] in my note-writing system.
+67. Learning from Bugbee to value insights as they come and so categorizing them as [[seeds]] in my note-writing system.
 68. [[andrew j brown|Andrew J. Brown]] and his writings and podcast, which have been my go-to resource on thinking about religion.
 69. **Facing head-on my fear of religion and accepting that my current work has a religious nature.**
 70. **Preparing and getting a poem and its translation published in TLDTD (see [[poems/gawat|Gawat]]).**
@@ -94,7 +94,7 @@ I am grateful for:
 86. Re-reading [[steal like an artist - kleon|Steal Like an Artist by Austin Kleon]].
 87. Launching The Long Walk and learning how to use Substack along the way.
 88. Building [[my philosophical genealogy]].
-89. Meeting [[thoughts/rofel brion|rofel brion]] in person on his book launch of Saglit at Casa San Pablo, talking with him in person, and getting my books signed. This was also my last date with Rem.
+89. Meeting [[rofel brion|rofel brion]] in person on his book launch of Saglit at Casa San Pablo, talking with him in person, and getting my books signed. This was also my last date with Rem.
 90. The LBLP photography project I have with Benjie.
 91. The two days at Bonuan beach I spent with Lea.
 92. **Experiencing the power of community and camaraderie during Rem's wake and after.**

@@ -10,7 +10,7 @@ sr-ease: 250
 
 I like how Jack Gilbert does it. His poems are almost vignettes. And they could easily be vignettes seen outdoors.
 
-Methodology learned from reading his poems (connect this to [[thoughts/my poetics|my poetics]]).
+Methodology learned from reading his poems (connect this to [[my poetics|my poetics]]).
 1. Sharpen your grasp of existentialism
 2. Sharpen your knowledge of ways to execute existential language
 3. Sharpen your observation skills and mindfulness

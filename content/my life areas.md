@@ -10,7 +10,7 @@ tags:
 ---
 I have six [[thoughts/life area|life areas]]:
 1. [[overseeing|Overseeing]]
-2. [[thoughts/understanding|Understanding]]
+2. [[understanding|Understanding]]
 3. [[thoughts/restoring|Restoring]]
 4. [[thoughts/connecting|Connecting]]
 5. [[thoughts/sustaining|Sustaining]]

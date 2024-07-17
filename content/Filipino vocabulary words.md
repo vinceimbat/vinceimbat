@@ -50,6 +50,10 @@ Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kam
 Diwara - [ST] pagiging lubhang maingat at labis na sinusuri ang kaliit-liitang detalye; busisi
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
 
+# E
+
+Edad medya - Middle Ages
+
 # G
 
 Ginsa - bigla (nang di-kaginsa-ginsa'y)
@@ -95,7 +99,9 @@ Iwarang - Batangueñong salita; tabinge, hindi pantay (paiwa-iwarang)
 Kabyaw - pag-ilo o pag-katas ng tubó; pagikot ng paa sa bisikleta
 Kaibuturan - kaloob-looban o kalagitnaan; "aking kaibuturan" = soul
 Kakanyahan - kaakuhan; natatanging aspekto ng katauhan ng isang tao; identidad; ang gayon ding pagkakakilanlan ng isang pangkat o bansa bílang tatak ng pagkakaisa
+Kalabusaw - mabilis at hindi kontroladong pagkampay ng bisig at pagpadyak ng sinumang nag-aaral lumangoy; tunog ng nila-busaw na tubig.
 Kalamkam - kiliti (pero ginamit ni Tinio para ilarawan ang radyo)
+Kaligkig - panginginig ng katawan dahil sa ginaw na dulot ng lagnat
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
@@ -103,6 +109,7 @@ Karsel - bilangguan; karsil
 Kasi - [ST] pagsanib ng espiritu o pagpasok sa kalooban; "kasihan mo ako ng tapang"
 Kata - táyong dalawa; ikaw at ako; tayo
 Kawag - igalaw ang mga bisig at paa, lalo na sa paglangoy o kung nalulunod; paggalaw ng pakpak, buntot, at iba pa; alingawngaw ng boses.
+Kibot - mahinàng pintig; halos hindi mapansing galaw
 Kililing - varyant ng kuliling; maliit na batingaw; tunog na nalilikha nito
 Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na bisig, at tagiliran
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
@@ -121,7 +128,9 @@ Lagaslas - hagalhal; malakas na tunog ng tubig na bumabagsak mula sa mataas na p
 Lagutok - maikli ngunit buong tunog ng butóng binabaltak o inuunat, o ng tabla o kahoy na humaginit, o ng apoy kapag sinusunog nitó ang bagay na hungkag
 Lambong - shawl; cloak; maitim na pantakip o pantábing sa uluhan ng isang tao o pook; saplot na itim, pantakip sa ulo at mukha, at karaniwang ginagamit sa pagluluksa
 Lapirot - paglukot at pagdúrog sa pamamagitan ng dulo ng mga daliri
+Latak - anumang dumi na naiiwan sa ilalim ng sisidlan ng likido
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
+Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
 Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
 Linga - haláman (_Sesamun_ _indicum_ ) na may bilóg na butó na nakakain at nagdudulot ng langis; tumingin sa paligid na tíla naghahanap.
@@ -163,6 +172,7 @@ Olandes - baybay sa Tagalog ng Holandes.
 Paboreal -   
 ibon (_Pavo_ _cristatus_ ) na malakí at may mahabàng buntot na tíla may mga matá; peacock
 Pagal - panghihina dahil sa pagod
+Paisano - kababayan
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit
 Palo-tsina - palo china planks
@@ -194,7 +204,9 @@ ratay - variant ng datay; pamamalagi nang matagal sa pagkakahiga dahil sa karamd
 # S
 
 Sakong - heel; likurang bahagi ng paa sa ibabâ ng búkong-búkong; bahagi ng sapatos o bota na sumusuporta dito; [ST] naatasan at napipilitan dahil sa dami ng dapat gawin.
+Salabid - pagsabit, pagkapulupot, o pagkapátid ng paa, gaya sa lubid o alambre
 Salat - hipo
+Salimbay - palutang na paglipad nang hindi ikinakampay ang mga pakpak.
 Salta - lundag; pasok
 Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo; 
 Sambulat - pagkalat at pagtilapon sa maraming piraso
@@ -207,11 +219,13 @@ Serbilyeta - napkin
 Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
 Silat - siwang sa pagitan ng mga kawayang sahig
+Silo - bitag (nagpapabitag)
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
 Sisne - swan
 Siwang - bahag-yang bukás, kung sa pinto, bintana, at katulad
 Sulingan - refuge
+Sulsi - pagtahi sa sirà ng damit, sako, lambat, at katulad
 Sungaw - pierce
 Suyod - suklay na may ngiping masinsin; kasang-kapang pansáka na ginagamit na pandurog at pampino ng lupa sa li-náng; masuyod = masinsin
 
@@ -240,6 +254,7 @@ Tulot - allow
 Tuluyan - prose; nakasulat o binibigkas na wika sa karaniwang anyo nitó at walang tugma at sukat, karaniwang tumutukoy sa katha
 Tunghay - pagtataas ng mukha
 Tunghay - pagtataas 
+Tuod - malakíng ugat ng punò, ngipin, at iba pa
 Tutop - natatakpan o natatabunan ng kamay o buntot; sa pananahi, ang lupi o lilip sa mga dulo o layláyan ng damit; nahúli sa akto
 Tuwad - nakahilig pababâ sa harap na ang puwit ay higit na mataas kaysa ulo
 

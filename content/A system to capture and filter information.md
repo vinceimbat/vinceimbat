@@ -22,7 +22,7 @@ The processing of these information will follow this diagram:
 
 ![Information Flow.jpeg](https://res.craft.do/user/full/63534923-d6b9-bddc-93d1-c854ccf112a8/doc/99579F4C-6510-483C-B831-3A7E1CBE479B/F9C21A44-92FA-498B-9F4B-05A9D5189C90_2)
 
-To limit the amount of information that enters this system, I [[Only consume information that is relevant to your purpose]]. Following this system allows me to emphasize [[thoughts/process over product]] in my workflow, which results to more peace of mind.
+To limit the amount of information that enters this system, I [[Only consume information that is relevant to your purpose]]. Following this system allows me to emphasize [[process over product]] in my workflow, which results to more peace of mind.
 
 TO DO
 

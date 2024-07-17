@@ -13,7 +13,7 @@ Writing is not the end goal in [[my life plan]]. Writing is simply a tool I use 
 
 Therefore, the most important writing I do is journaling, note-writing in my [[talahardin]], and other writings I do in private. These kinds of writing are not performative. They are deeply personal and functional.
 
-An excemption is perhaps [[thoughts/uman]], which, although public, serves a very important purpose: to help me [[thoughts/review]] my actions and, therefore, check whether my end results match my intentions ([[thoughts/an action succeeds if its end state approximates its intention]]).
+An excemption is perhaps [[uman]], which, although public, serves a very important purpose: to help me [[thoughts/review]] my actions and, therefore, check whether my end results match my intentions ([[thoughts/an action succeeds if its end state approximates its intention]]).
 
 This also shows that my strengths as a writer is not in skilfull narrative or even poetry but still in philosophy ([[Thoreau prioritized content over style in his writing]]). Writing helps me think better and make philosophy a personal project.
 

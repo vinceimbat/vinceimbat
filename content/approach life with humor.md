@@ -11,7 +11,7 @@ tags:
 ---
 If life is ultimately meaningless (i.e., [[thoughts/nihilism|nihilism]]), then it is ridiculous to take yourself too seriously. The best way to approach life is through a comic rather than a tragic mode.
 
-You shouldn’t aspire to change the world. You should, instead, take things easy—take yourself easy. [[thoughts/aspire for mild not wild success|Aspire for mild not wild success]], prioritize [[thoughts/process over product|process over product]] (i.e., live in the present moment), live day by day with humor, and recognize that [[thoughts/meaningful living is possible despite meaninglessness|meaningful living is possible despite meaninglessness]].
+You shouldn’t aspire to change the world. You should, instead, take things easy—take yourself easy. [[thoughts/aspire for mild not wild success|Aspire for mild not wild success]], prioritize [[process over product|process over product]] (i.e., live in the present moment), live day by day with humor, and recognize that [[thoughts/meaningful living is possible despite meaninglessness|meaningful living is possible despite meaninglessness]].
 
 People who feel like they need to change the world—to bend it to their own liking—could not live with the idea that their life is ultimately pointless. They believe that they exist for a reason, and they will do whatever it takes to fulfill that reason. They approach life in tragic mode where they are always struggling for something, fighting someone. This often results to catastrophe.
 

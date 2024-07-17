@@ -8,7 +8,7 @@ sr-interval: 8
 sr-ease: 259
 ---
 
-As mentioned in [[thoughts/understanding]], I need to gain three levels of understanding to practice [[thoughts/intentional living]]:
+As mentioned in [[understanding]], I need to gain three levels of understanding to practice [[intentional living]]:
 
 1. An understanding of my true self
 2. An understanding of how I can identify and set my intentions

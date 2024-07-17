@@ -10,7 +10,7 @@ tags:
 ---
 # Emerson's influence
 
-Imaoka was called the [[thoughts/ralph waldo emerson|Emerson]] of Japan as he championed the [[jiyu shukyo]] idea that Emerson espoused. Unlike Emerson, however, Imaoka didn't write that much and was never really the poet-philosopher that Emerson was.
+Imaoka was called the [[ralph waldo emerson|Emerson]] of Japan as he championed the [[jiyu shukyo]] idea that Emerson espoused. Unlike Emerson, however, Imaoka didn't write that much and was never really the poet-philosopher that Emerson was.
 
 From Imaoka's own words:
 

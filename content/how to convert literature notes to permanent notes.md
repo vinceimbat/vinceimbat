@@ -11,7 +11,7 @@ sr-ease: 272
 
 Before you being, remember that you don’t have to follow the book’s structure or even its concepts. You can create your own concepts and structures based on your individual mental models.
 
-To convert [[literature notes]] into [[thoughts/evergreens]], do the following:
+To convert [[literature notes]] into [[evergreens]], do the following:
 
 1. Since writing permanent notes out of literature notes can take a lot of time that you might need to spread out in multiple work sessions, you could start everything in a single digital note first. Title this one note with the title of a book.
 2. Begin to cluster highlights and annotations ([[Fleeting notes]]) you've taken while reading around single big concepts. Think about this process of creating clusters as creating an index for a book. For definitions, collect usage examples in the text and definitions themselves to get a clear picture of the term’s meaning.

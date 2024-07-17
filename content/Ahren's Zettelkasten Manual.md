@@ -11,7 +11,7 @@ sr-ease: 258
 
 Here are the steps that make up the [[thoughts/zettelkasten]] workflow presented by [[thoughts/sonke ahrens]] in his book [[_notes/02 Talahardin/How to Take Smart Notes - Ahrens]].
 
-1. **Write fleeting notes.** You can also write [[thoughts/evergreens]] directly to the Zettelkasten.
+1. **Write fleeting notes.** You can also write [[evergreens]] directly to the Zettelkasten.
 2. **Write literature notes.** When reading, take notes about what can help you write original permanent notes. Be short and selective, particularly with quotes. Keep literature notes with their bibliographic details in your [[Reference system]].
 3. **Write permanent notes.** Once a day, review your [[Fleeting notes]] and [[literature notes]]. Think about how these relate to your own thinking. Use the following questions:
    - Does the new information contradict, correct, support, or add to what you have in your Zettelkasten?

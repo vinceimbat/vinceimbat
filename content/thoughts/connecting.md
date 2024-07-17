@@ -37,7 +37,7 @@ I have maintained a peaceful, understanding, and loving relationship with my nei
 
 ***
 
-Connecting involves engaging with a [[thoughts/scenius|scenius]], which is composed of a [[thoughts/mentor|mentor]] and peers from a [[thoughts/community of practice|community of practice]] ([[thoughts/my ideal mentors and peers|my ideal mentors and peers]]).
+Connecting involves engaging with a [[thoughts/scenius|scenius]], which is composed of a [[thoughts/mentor|mentor]] and peers from a [[thoughts/community of practice|community of practice]] ([[my ideal mentors and peers|my ideal mentors and peers]]).
 
 I need to invest time and energy to establish long-lasting relationships in real life or online.
 
@@ -52,6 +52,6 @@ To make this possible, I need to seek the following relationships:
 2. Possible peers
 3. Possible fans
 
-Fans will be my patrons, they would support me in adopting a [[thoughts/patronage model|patronage model]], which is my choice of sustainability model ([[thoughts/a patronage model is best for an independent creative|a patronage model is best for an independent creative]]). Mentors and peers could be patrons too, but their main role is to sharpen my theories and methods.
+Fans will be my patrons, they would support me in adopting a [[patronage model|patronage model]], which is my choice of sustainability model ([[thoughts/a patronage model is best for an independent creative|a patronage model is best for an independent creative]]). Mentors and peers could be patrons too, but their main role is to sharpen my theories and methods.
 
 To connect effectively, I follow a [[thoughts/strategy for connecting|strategy for connecting]] (see also [[thoughts/slow connecting for introverts|slow connecting for introverts]]).

@@ -15,15 +15,15 @@ If I don't have to work on a project during the writing block of the uninterrupt
 
 I do my writing in the morning to take the most advantage of the clarity and focus and usually have after a good sleep.
 
-There are several types of [[thoughts/seeds]] and [[thoughts/seedlings]] in my forest garden, but I prioritize developing [[templates/essay]] and [[thoughts/poems]]. I scout my [[writing inbox]] for any unfinished essay or poem and work on them.
+There are several types of [[seeds]] and [[seedlings]] in my forest garden, but I prioritize developing [[templates/essay]] and [[thoughts/poems]]. I scout my [[writing inbox]] for any unfinished essay or poem and work on them.
 
 If I am running out of essays or poems to work on, this means my writing prompts are running out and I need to generate more prompts through the following:
 1. I review and process at least two previous [[diary]] entries and see if I could generate new prompts from them.
-2. I review and process [[thoughts/seeds]] (snippets taken during a walk). I begin with yesterday then move my way backwards.
+2. I review and process [[seeds]] (snippets taken during a walk). I begin with yesterday then move my way backwards.
 3. I review insight notes.
 4. I review literature notes.
 
-Throughout this process, my main goal is to move seeds and seedlings to [[thoughts/evergreens]]. Evergreen poems and essays are important so I have something to share in a regular basis. But evergreen thought notes are also important because they determine evergreen essay production and, more importantly, inform my project for [[thoughts/intentional living]]. I strive to process at least one note every day.
+Throughout this process, my main goal is to move seeds and seedlings to [[evergreens]]. Evergreen poems and essays are important so I have something to share in a regular basis. But evergreen thought notes are also important because they determine evergreen essay production and, more importantly, inform my project for [[intentional living]]. I strive to process at least one note every day.
 
 By the end of my session, I push changes in my forest garden to its public version powered by [[thoughts/quartz]] and Github.
 

@@ -15,4 +15,4 @@ My writer persona is:
 - Looks at ordinary objects and scenes
 
 # Related
-- [[thoughts/my poetics|my poetics]]
+- [[my poetics|my poetics]]

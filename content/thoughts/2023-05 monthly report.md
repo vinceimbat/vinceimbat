@@ -23,7 +23,7 @@ Although not as vibrant as last month, I still spent good times with friends and
 
 Wrote the following notes:
 - [[The artist's achilles heel]]
-- [[A life in letters]]
+- [[a life in letters]]
 - [[Articulate your purpose as self-transformation]]
 - [[When your family does not cheer your art]]
 - [[The poet's state of mind]]

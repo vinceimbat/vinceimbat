@@ -11,7 +11,7 @@ sr-ease: 250
 ---
 The thrownness that the existentialist experienced can actually be reinterpreted, rephrased as the gift experience. We didn't chose this life but someone (chance, the universe, the laws of the universe) gifted it. This life is a gift experience. It might feel like a thrown experience at first, but once we interpret life as befriending existence, we might also start interpreting it as a gift, unwanted but given. And so everything that flows from this state of giftedness can be said to come from a gift or has an element of gift.
 
-When we shift our mindset into seeing our thrownness as a gift, we become more appreciative and grateful for the little things. This mindset of sentimentality, that things are transient and so sacred, these are all emanating from the nature of things as gifts. Perhaps this explains the first of [[My top five character strengths]]: [[Appreciation of beauty and excellence]].
+When we shift our mindset into seeing our thrownness as a gift, we become more appreciative and grateful for the little things. This mindset of sentimentality, that things are transient and so sacred, these are all emanating from the nature of things as gifts. Perhaps this explains the first of [[My top five character strengths]]: [[appreciation of beauty and excellence]].
 
 Example from [[2022-12-23 seeds]]:
 

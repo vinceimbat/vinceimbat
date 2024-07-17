@@ -8,7 +8,7 @@ sr-interval: 3
 sr-ease: 255
 ---
 
-- [[thoughts/rofel brion|Rofel Brion]]
+- [[rofel brion|Rofel Brion]]
 - [[thoughts/billy collins|Billy Collins]]
 - [[vincenz serrano|Vincenz Serrano]]
 - [[thoughts/walt whitman|Walt Whitman]]

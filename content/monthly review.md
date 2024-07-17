@@ -12,7 +12,7 @@ While the [[weekly review|weekly review]] is designed to maintain my [[thoughts/
 
 Another key difference between a weekly review and a monthly review is that a weekly review can be mostly tactical because the monthly review has already been strategic. If the weekly review helps me get things done, the monthly review ensures that I get the “right” things done. A monthly review assures that I maintain focus on my intentions ([[thoughts/focus is the force you exert to stay in line with your intentions|focus is the force you exert to stay in line with your intentions]]). Furthermore, it reminds me of my progress.
 
-There are two artifacts produced by a monthly review: the [[monthly reports|monthly reports]] and [[thoughts/uman|Uman]].
+There are two artifacts produced by a monthly review: the [[monthly reports|monthly reports]] and [[uman|Uman]].
 
 # References
 

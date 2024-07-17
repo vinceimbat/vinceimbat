@@ -18,7 +18,7 @@ The metaphor is inspired by [[thoughts/digital gardening]], which involves a sen
 
 My forest garden of the mind has a variety of species in it: [essays](tags/essays), [poems](tags/poems), [vignettes](tags/vignettes), and [[photography|photographs]].
 
-Walking (i.e., thinking) in the garden starts by collecting [[thoughts/seeds]] and continues with planting them, tending them until they become [[thoughts/seedlings]] and eventually [[thoughts/evergreens]]
+Walking (i.e., thinking) in the garden starts by collecting [[seeds]] and continues with planting them, tending them until they become [[seedlings]] and eventually [[evergreens]]
 
 Walking leads to the blazing of [[Trails]] between plants, which eventually makes creating a topography or map possible.
 

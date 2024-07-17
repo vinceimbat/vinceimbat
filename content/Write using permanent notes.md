@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 
-Writing using [[thoughts/evergreens]] from a [[talahardin]] is taking individual insights from their original linear contexts and mixing them up into a new linear context.
+Writing using [[evergreens]] from a [[talahardin]] is taking individual insights from their original linear contexts and mixing them up into a new linear context.
 
 The general process is simple:
 

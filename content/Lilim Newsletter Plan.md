@@ -17,7 +17,7 @@ sr-ease: 252
 
 The purpose of this weekly newsletter is to become a reportage of what is currently happening in my “personal development” path, which encompasses my intellectual life, my artistic life, my finances, health, relationships, etc.
 
-Ideally, what I should be able create through Lilim is a feedback loop where [[thoughts/understanding]] informs [[living]], which informs [[Sharing]], which hopefully improves [[living]].
+Ideally, what I should be able create through Lilim is a feedback loop where [[understanding]] informs [[living]], which informs [[Sharing]], which hopefully improves [[living]].
 
 Since the newsletter is also published in the blog, it reinforces the [[VinceImbat.com Meta-Plan]].
 

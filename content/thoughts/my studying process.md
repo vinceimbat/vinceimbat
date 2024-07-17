@@ -14,7 +14,7 @@ The [[talahardin]] cycle refers to the holistic process of using the system in e
 
 1. [[metalearning]]
 2. [[thoughts/reading]], highlighting, and taking [[literature notes]]
-3. Reading highlights and writing [[thoughts/evergreens]]
+3. Reading highlights and writing [[evergreens]]
 4. Developing [[Structure notes]], [[Outline notes]], or drafts
 5. Reflecting ([[my daily review routine]])
 

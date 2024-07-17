@@ -8,7 +8,7 @@ tags:
 
 A principle that works well with writing and in life in general is the principle that the structural should always inform the individual and vice versa.
 
-In writing, you could write an essay through flow, then extract individual ideas to convert into [[thoughts/evergreens]] in your [[talahardin]]. While working directly on the Talahardin, you could write a long structural-shaped note in one sitting then go back to the note to extract individual notes from it. You can also do it the other way: start writing individual atomic notes ([[Aspire to write atomic notes but not to the expense of understandability and utility]]), which you combine to write a [[Structure notes]] or an essay.
+In writing, you could write an essay through flow, then extract individual ideas to convert into [[evergreens]] in your [[talahardin]]. While working directly on the Talahardin, you could write a long structural-shaped note in one sitting then go back to the note to extract individual notes from it. You can also do it the other way: start writing individual atomic notes ([[Aspire to write atomic notes but not to the expense of understandability and utility]]), which you combine to write a [[Structure notes]] or an essay.
 
 An application of this in life is when the [[thoughts/sky level]] communicates with the [[thoughts/ground level]] in a [[thoughts/life management system]]. At first, organizing your ground level helps you gain the mental space to think about your sky level. What is currently happening in your daily life could also show you what goals to pursue. Once these goals are articulated, your day-to-day processes change to accomodate these goals.
 

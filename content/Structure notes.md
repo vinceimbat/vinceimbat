@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-While the strength of [[talahardin]] lies in its non-heirarchical top-down design, hierarchical structures can still be very useful particularly when getting a bird's eyeview of the relationships among your [[thoughts/evergreens]]. This is where structure notes can be helpful.
+While the strength of [[talahardin]] lies in its non-heirarchical top-down design, hierarchical structures can still be very useful particularly when getting a bird's eyeview of the relationships among your [[evergreens]]. This is where structure notes can be helpful.
 
 [[Sascha Fast]] calls structure notes “meta-notes" as they are permanent notes about other permanent notes. They are similar (probably a digital version) of [[thoughts/niklas luhmann]]'s [[Hub notes]].
 

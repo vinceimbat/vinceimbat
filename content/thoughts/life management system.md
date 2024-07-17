@@ -9,11 +9,11 @@ sr-interval: 1225
 sr-ease: 270
 ---
 
-A life management system is a consolidation of conceptual and physical structures that help an individual embrace [[thoughts/intentional living]]. The structures of a life management system are primarily conceptual (i.e., they exist first in the mind). However, since [[Action occurs in an external objective physical world]], physical structures are needed to extend and realize the conceptual structures.
+A life management system is a consolidation of conceptual and physical structures that help an individual embrace [[intentional living]]. The structures of a life management system are primarily conceptual (i.e., they exist first in the mind). However, since [[Action occurs in an external objective physical world]], physical structures are needed to extend and realize the conceptual structures.
 
 Although these structures can easily become complex, their sole purpose is simply to accomplish [[thoughts/the core process of intentional living]]. To live intentionally, one needs to set intentions, effectively manage one's actions, and make sure that one’s actions are aligned with one’s intentions. These requirements are fulfilled by a life management system.
 
-[[Every human being has a life management system]] whether they are aware of it or not. But [[thoughts/intentional living]] requires that one's life management system is more consciously maintained and optimized. While optimization is desirable, a life management system shouldn't be too complex that it can no longer do the two most important things it should do:
+[[Every human being has a life management system]] whether they are aware of it or not. But [[intentional living]] requires that one's life management system is more consciously maintained and optimized. While optimization is desirable, a life management system shouldn't be too complex that it can no longer do the two most important things it should do:
 
 - [[A life management system should free your mind]]
 - [[Build a life management system that helps you take intentional action]]

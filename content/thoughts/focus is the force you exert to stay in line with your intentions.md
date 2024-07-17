@@ -10,7 +10,7 @@ sr-ease: 257
 ---
 Instead of thinking of focus as a skill you bring to something, look at it as a force you exert to maintain alignment. This definition of focus is what a [[monthly review]] does to a [[thoughts/life management system]]: it makes sure that [[00 - A/Sky level]] values and intentions align with [[thoughts/ground level]] actions. This kind of focus is needed because it is easy to be too action-oriented that we forget about the bigger picture.
 
-This is how [[thoughts/intentional living]] is realized.
+This is how [[intentional living]] is realized.
 
 Focus is doing things with a clear intention and making sure that all your decisions match your intention.
 

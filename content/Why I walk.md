@@ -1,19 +1,16 @@
 ---
-title: "Why I walk"
-date: "2022-06-16"
-slug: "why-i-walk"
-aliases: "Why-do-I-walk"
+title: Why I walk
+date: 2022-06-16
+aliases:
+  - Why-do-I-walk
+  - Why-I-walk
 tags:
-
-- "seedlings"
-sr-due: 2022-09-16
-sr-interval: 53
-sr-ease: 250
+  - thoughts
+  - seedlings
 ---
-
 Living is living. The mundane. What I was hoping to get from my walks is thus connection with the mundane and yet also meaning-making (to elevate what I saw and transform it beyond mere survival). I create that meaning through writing. First narrating the walk, highlighting sources that I could then interpret. And then interpreting those resources.
 
-I also create meaning through photography. Here it is less clear. It is difficult to be intentional with the images I capture while separating fact from meaning. All my photographs moving forward that I want to share shall have meaning. Shall be meaningful. Or perhaps I should just let myself free and try to flow. But at the same time always strengthen my philosophical tendencies so that it tranports into how I see things.
+I also create meaning through photography. Here it is less clear. It is difficult to be intentional with the images I capture while separating fact from meaning. All my photographs moving forward that I want to share shall have meaning. Shall be meaningful. Or perhaps I should just let myself free and try to flow. But at the same time always strengthen my philosophical tendencies so that it transports into how I see things.
 
 Philosophy -> Walking -> Photos + Narratives
 
