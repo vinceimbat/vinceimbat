@@ -169,7 +169,7 @@ I started October intending to do a creative reset. After re-reading *Steal Like
 
 Meanwhile, Carillon came into our lives, Benjie and I started a photography project together, and Lea and I went home to Pangasinan to spend two days at the beach.
 
-Things were going well until we were all struck by the sudden death of my best friend, [[thoughts/rem tanauan]]. Rem's death forced me to look at my life and work and has reoriented my priorities into helping the people that Rem left move on. I am also called to protect Rem's private and public writings and get to know him more through this. I am also finally committing to mastering poetry.
+Things were going well until we were all struck by the sudden death of my best friend, [[rem tanauan]]. Rem's death forced me to look at my life and work and has reoriented my priorities into helping the people that Rem left move on. I am also called to protect Rem's private and public writings and get to know him more through this. I am also finally committing to mastering poetry.
 
 ![[files/Tanay-mountains.jpg]]
 

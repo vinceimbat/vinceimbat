@@ -70,7 +70,7 @@ In between all of these activities, I spent time getting more clarity on what so
 - I reviewed my life areas and standards and updated them.
 - I also finished filling up my life goals masterlist.
 - I wrote the [[2022 annual review]].
-- I created a [[House and pet care system]].
+- I created a [[house and pet care system]].
 - I validated [[my top values]]: wisdom, freedom, spirituality, inner harmony, health
 
 ### Restoring

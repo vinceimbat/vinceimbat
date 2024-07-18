@@ -1,15 +1,13 @@
 ---
-title: "Reading"
-date: "2022-06-15"
+title: Reading
+date: 2022-06-15
 aliases:
-- Reading
+  - Reading
+  - thoughts/reading
 tags:
-- "seedlings"
-sr-due: 2022-06-17
-sr-interval: 2
-sr-ease: 248
+  - thoughts
+  - seedlings
 ---
-
 Note: Don't stress too much about what to read next. Let your curiosity and needs dictate that. As long as there's at least 1 prose book and 1 poetry book on your plate you'll be fine. Focus more on making good use of the information you get from your reading.
 
 Reading is such an important part of my [[understanding]] process, specifically, the [[thoughts/my studying process]].

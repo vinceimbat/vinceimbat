@@ -16,7 +16,7 @@ Thus, a brand is necessary, but just a bare minimum of it especially at the begi
 
 It is better to avoid creating one’s cage and allow the organic process of creating to lead the way to one’s true identity.
 
-This is related to [[thoughts/tiago forte]]’s admotion to delay commiting to something until the last minute.
+This is related to [[tiago forte]]’s admotion to delay commiting to something until the last minute.
 
 Here is [[My minimum viable brand]].
 

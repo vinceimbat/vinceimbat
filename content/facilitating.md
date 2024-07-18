@@ -3,11 +3,10 @@ title: Facilitating
 date: 2021-02-11
 aliases:
   - Facilitating
+  - thoughts/facilitating
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-09-13
-sr-interval: 286
-sr-ease: 251
 ---
 This is the fourth among the [[Five areas of my life work]].
 

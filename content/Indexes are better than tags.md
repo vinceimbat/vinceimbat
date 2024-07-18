@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-Indexes are better than tags because they do not include every relevant page number for a given term. To the contrary, tags list all items, which make them difficult to process. [[thoughts/tiago forte]] was against the excessive use of tagging because they could easily be misspelled in note-taking apps.
+Indexes are better than tags because they do not include every relevant page number for a given term. To the contrary, tags list all items, which make them difficult to process. [[tiago forte]] was against the excessive use of tagging because they could easily be misspelled in note-taking apps.
 
 ## References
 

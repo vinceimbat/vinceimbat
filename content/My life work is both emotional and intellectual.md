@@ -1,14 +1,12 @@
 ---
-title: "My life work is both emotional and intellectual"
-date: "2022-01-28"
+title: My life work is both emotional and intellectual
+date: 2022-01-28
+aliases:
+  - My-life-work-is-both-emotional-and-intellectual
 tags:
-
-- "seedlings"
-sr-due: 2022-07-17
-sr-interval: 3
-sr-ease: 252
+  - thoughts
+  - seedlings
 ---
-
 Intuitively, it felt like happiness was the end goal of my life work. It is clear now that there are two equally important goals of my life work:
 
 1. To enrich meaning in my life.
@@ -19,6 +17,8 @@ To develop emotional stability, I need to work on my inner emotional life. To en
 # Emotional
 
 One important purpose of my life work is to cultivate a particular state of mind. One of my tasks is to design a life that maximized mental stability and positive emotions. In this project, I must architecture behavior, information, environment, and thoughts to feel better, live better, and construct a better world. For someone, who was suicidal at least twice in his life, it should be expected that feeling good is a priority for me—to never want to leave the world again, to never have to feel lonely and sad and be out of control again.
+
+The emotional work involves [[walking]], [[poetry]], and [[photography]], which provide a rest to intellectual work or facilitates and even guides the former.
 
 # Intellectual
 
@@ -38,6 +38,6 @@ There is another fundamental reason why I embrace the intellectual in my life. W
 
 If feeling good is my ultimate goal, then that makes me a hedonist. But as the [[Experience machine]] shows, there are other motivations to aspire to other than happiness. Meaning and truth are things that don't necessarily contribute to our general happiness, they are ends of their own, but both seem to have a big role to play in the good life. And their pursuit requires reason and intellectual work.
 
-In conclusion, I seem to need both the ability to feel good and to create meaning, which involves activities that don’t necessarily make me feel good always.
+ The intellectual work involves [[reading]], [[writing]], and thinking (i.e., [[philosophy]], which is also my main craft). 
 
-# References
+In conclusion, I seem to need both the ability to feel good and to create meaning, which involves activities that don’t necessarily make me feel good always.

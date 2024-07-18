@@ -17,16 +17,16 @@ There are four parts to my [[monthly review|monthly review]]:
 
 # Part I: Write the monthly report.
 
-1. Determine my general progress in projects and areas by reviewing all [[thoughts/daily review|daily review]] reports for the past month to create a monthly report ([[monthly reports|monthly reports]]). Use the [[templates/monthly report|monthly report]] template.
-2. Still in your monthly report, list other noteworthy things like events, movies, TV series, and music you listened to during the month.
-3. While writing the monthly report, do the following whenever necessary:
+1. Determine my general progress in projects and areas by reviewing all [[thoughts/daily review|daily review]] reports for the past month to create a [[monthly reports|monthly report]]. Use the [[templates/monthly report|monthly report]] template.
+2. While writing the monthly report, do the following whenever necessary:
    - Transfer emergent tasks to Things 3.
    - Transfer emergent projects to Things 3.
    - Adjust list of areas across Obsidian, Finder, Google Drive, and Things 3 as needed.
+3. Write an issue of [[uman|Uman]]. But this could be done later after the rest of the monthly review is done.
 
 # Part II: Review my sky level
 
-1. Review [[my purpose is to live deliberately|my purpose is to live deliberately]].
+1. Review [[my purpose is to live deliberately|my purpose]].
 2. Review [[my mission statement]].
 3. Review my [[personal narrative vision|personal narrative vision]] for the year.
    - Bold parts that could be addressed with new projects.

@@ -5,7 +5,7 @@ aliases:
 draft: false
 tags:
   - essays
-  - evergreens
+  - seedlings
 ---
 I do want to believe that truth is simple, that the simplest explanation is always the right one. But this isn't always the case. Sometimes, we really need to work hard to get to the bottom of things.
 

@@ -52,7 +52,7 @@ This issue is related with questions like [[Why does one opt to live in public?]
 
 Usually, a short monthly newsletters to share some highlights. It can be embedded with a monthly review
 
-Examples: [[Hundred Rabbits]], [[thoughts/blake boles]]
+Examples: [[hundred rabbits]], [[thoughts/blake boles]]
 
 # A potential sharing routine
 

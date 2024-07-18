@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-For [[thoughts/rem tanauan]], [[Love]] (with a capital letter) can be learned, taught, lived and shared. It is "a set of highly learnable skills." At the same time, it "is in the core of all"—it is human nature. And yet, Rem says, we often misunderstand it.
+For [[rem tanauan]], [[Love]] (with a capital letter) can be learned, taught, lived and shared. It is "a set of highly learnable skills." At the same time, it "is in the core of all"—it is human nature. And yet, Rem says, we often misunderstand it.
 
 The website aims to help readers rethink what Love is and discover different ways of using it in practical matters. But Pathfinder's Commune (PC) is more than just a website. It is a "radical learning pathway" that combines "classroom learning, support group, informal discussions, get-together, and spiritual retreat" all in the aim of understanding Love's essence.
 

@@ -8,6 +8,12 @@ tags:
   - thoughts
   - seedlings
 ---
+Right now, I use the [[day job model]] to sustain my work. But I am hoping to transition into a [[patronage model]]. However, the patronage model is difficult to pull off at this stage. So here are [[business ideas adjacent to my interests]].
+
+***
+
+Edit the below.
+
 There are only two ideal sustainability models I can pursue in order to do what I want to do effectively.
 
 1. I live of support from patrons.

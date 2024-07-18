@@ -11,7 +11,7 @@ sr-ease: 230
 
 I know I wanted to do [[thoughts/digital gardening]], to nurture [[thoughts/forest garden of the mind]], but  I also want to build an audience around that garden, to share my work there to others who could find it useful. How do other digital gardeners share their work and build a following?
 
-[[Hundred Rabbits]]
+[[hundred rabbits]]
 - They publish a monthly newsletter via TinyLetter. The newsletter is just a short one to two-paragraph piece that contains links to changes in their software and new page addditions to their digital garden website.
 
 [[Maggie Appleton]]

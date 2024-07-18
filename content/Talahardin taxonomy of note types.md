@@ -31,7 +31,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[evergreens
 
 - Proper noun notes. These notes are not concept-oriented so they cannot be used to build permanent notes.
    - [[literature notes]]. These notes are where I collect fleeting notes from what I read. After I convert these fleeting notes into permanent notes ([[how to convert literature notes to permanent notes]]) thus emptying them, they serve as nodes for backlinks to permanent notes. Literature notes are like outline notes of other people's ideas. For example: [[_notes/02 Talahardin/How to Take Smart Notes - Ahrens]]
-   - [[Person notes]] (e.g., [[thoughts/rem tanauan]]) or entity notes.
+   - [[Person notes]] (e.g., [[rem tanauan]]) or entity notes.
    - Log notes. These notes contain ephemeral observations about a specific practice, system, or project over time. Unlike the [[diary]], which is sliced by date, log notes are sliced by a topic of interest, e.g., [[nature journal]].
 
 TODO

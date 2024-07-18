@@ -39,5 +39,5 @@ That said, [[My note-writing process]] scheduled every morning should allow me t
 
 # Inspiration
 
-This strategy was inspired by [[Hundred Rabbits]]’ [logs](https://100r.co/site/log.html) and [[Andy Matuschak]]'s [working notes](https://notes.andymatuschak.org/About_these_notes).
+This strategy was inspired by [[hundred rabbits]]’ [logs](https://100r.co/site/log.html) and [[Andy Matuschak]]'s [working notes](https://notes.andymatuschak.org/About_these_notes).
 

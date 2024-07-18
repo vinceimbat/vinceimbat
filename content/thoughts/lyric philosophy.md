@@ -15,7 +15,7 @@ Zwicky's main thesis is that there are certain questions that can only be answer
 
 Edward Mooney and Jan Zwicky have a common ancestor: [[thoughts/ludwig wittgenstein]].
 
-Jan's work as it currently looks to me is concerned more on the form (i.e., [[Sharing]]) rather than what is more important to me: [[Understanding and living are the core of my life work]]. This made me decide not to use her as the focal point of [[my philosophical genealogy]].
+Jan's work as it currently looks to me is concerned more on the form (i.e., [[Sharing]]) rather than what is more important to me: [[understanding and living are the core of my life work]]. This made me decide not to use her as the focal point of [[my philosophical genealogy]].
 
 # References
 

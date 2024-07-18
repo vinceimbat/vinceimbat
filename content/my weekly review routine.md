@@ -40,4 +40,4 @@ Schedule: Monday, afternoon
 - Reconcile Vince's fund.
 - Reconcile YNAB couple fund.
 
-After I do my weekly review, I jump right into my weekly tasks under [[House and pet care system]]. This involves vacuuming and mopping the house.
+After I do my weekly review, I jump right into my weekly tasks under [[house and pet care system]]. This involves vacuuming and mopping the house.

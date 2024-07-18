@@ -5,7 +5,7 @@ aliases:
 draft: false
 tags:
   - essays
-  - evergreens
+  - seedlings
 ---
 Tolstoy quotes a lot of sayings that use the word [[god|God]]. I'm going to focus on this because it is my current process. Ever since I started doing these walks with you, I've opened up myself to returning to metaphysical issues (problems that concern what exists)—issues that I placed on the wayside in favor of ethical issues (issues about how to live).
 

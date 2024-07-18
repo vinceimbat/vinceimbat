@@ -15,7 +15,7 @@ My first duty as an artist and a general human being is to be authentic. In fact
 
 Being authentic already takes a lot of time. I no longer have time to be more intentional about being more popular. I need to [[thoughts/focus on what brings Ginhawa]]. I am not sure I want the spotlight. I don't enjoy it. If I can surround myself with wonderful people, engage in meaningful work, and maintain a healthy body, I am okay with a low profile.
 
-This is [[thoughts/tiago forte]]'s advice too. Instead of broadcasting on a public that won't listen to you, find a niche, a community that you can contribute to and do what you can to contribute in that community.
+This is [[tiago forte]]'s advice too. Instead of broadcasting on a public that won't listen to you, find a niche, a community that you can contribute to and do what you can to contribute in that community.
 
 [[Aspire for mild success instead of wild success.]]
 

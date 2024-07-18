@@ -15,7 +15,7 @@ When applied to reading, we invest more time and energy on “safe” investment
 1. Simply reading the text and marking what seems relevant and useful.
 2. Going back to the highlights and writing zettels on them.
 
-The Barbell Method of reading described by Sascha Fast has similarities with the [[Progressive summarization]] of [[thoughts/tiago forte]]. However, it is simpler and doesn't require a summary like progressive summarization does. I designed a process that combines the best of the two: [[Combine progressive summarization with Talahardin]].
+The Barbell Method of reading described by Sascha Fast has similarities with the [[Progressive summarization]] of [[tiago forte]]. However, it is simpler and doesn't require a summary like progressive summarization does. I designed a process that combines the best of the two: [[Combine progressive summarization with Talahardin]].
 
 # References
 

@@ -15,7 +15,7 @@ There are five categories of actions in the work that I do. These categories are
 2. [[living]]
 3. [[Sharing]]
 4. [[thoughts/connecting]]
-5. [[thoughts/facilitating]]
+5. [[facilitating]]
 
 The first four categories are sequential: one comes before the other. However, the fifth category (Connecting) is a meta-category that happens across all the steps.
 

@@ -12,4 +12,4 @@ This page tracks my personal expression of [[jiyu shukyo|jiyu shukyo]]. My free 
 - [[walking|walking]]
 - [[writing|writing]]
 - [[photography|photography]]
-- [[thoughts/facilitating|facilitating]]
+- [[facilitating|facilitating]]

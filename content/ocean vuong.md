@@ -17,7 +17,7 @@ tags:
 
 Reading Ocean Vuong feels freeing. For poetry's possibilities to be truly reached, I need to open myself to everything. There are no rules. This is better a principle than "Ginhawa nawa."
 
-Why do I remember [[thoughts/rem tanauan]] while reading Ocean Vuong? Because even if Rem wants poems he can easily understand, poems that make him feel good, he also like cryptic poems as long as they make him feel good.
+Why do I remember [[rem tanauan]] while reading Ocean Vuong? Because even if Rem wants poems he can easily understand, poems that make him feel good, he also like cryptic poems as long as they make him feel good.
 
 I see sparks of images one after another in Ocean's poems. The relationship between images are sometimes clear, sometimes not. But there are almost no concepts. No explanations. No telling. All showing. But the showing is playful and not really as clear as it could've been.
 
