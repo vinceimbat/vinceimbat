@@ -1,13 +1,15 @@
 ---
-title: "Subjective experiences are unique to each human being"
-date: "2021-04-18"
+title: Subjective experiences are unique to each human being
+date: 2021-04-18
+aliases:
+  - thoughts/subjective-experiences-are-unique-to-each-human-being
 tags:
-- "seedlings"
-sr-due: 2023-07-31
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2025-10-19
+sr-interval: 454
 sr-ease: 250
 ---
-
 Subjective experiences are experienced only by the person who has it. No one else could. A person who has a subjective experience could try to express it through [[Language]], but he will never transmit the experience no matter how good he communicates it. The exact knowledge he had through the subjective experience is his and his alone. [[Knowledge cannot be transmitted]]. Language can only trigger existing patterns in someone else's brain.
 
 To understand this theory easily, think of this scenario.

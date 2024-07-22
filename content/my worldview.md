@@ -22,7 +22,7 @@ I’m tempted to say, “Life is ALL about subjective experiences,” but I feel
 
 # Metaphysics
 
-The subject of [[thoughts/metaphysics]] is at the core of any philosophical inquiry. Religious or spiritual inquiries are also philosophical so they can never escape metaphysical questions.
+The subject of [[metaphysics]] is at the core of any philosophical inquiry. Religious or spiritual inquiries are also philosophical so they can never escape metaphysical questions.
 
 Obviously, there are lots and lots of metaphysical theories. But all of them try to answer a single question: “What exists?”
 
@@ -32,14 +32,14 @@ I am persuaded with the following conclusions:
 - [[The external physical world is made up of countless individual units of matter]].
 - Apart from these countless individual units of matter, [[minds exists]].
 - [[Minds make sense of the external objective physical world]].
-- [[Minds are unique to each human being]]. Therefore, [[thoughts/subjective experiences are unique to each human being]].
+- [[Minds are unique to each human being]]. Therefore, [[subjective experiences are unique to each human being]].
 - [[The interaction between the external objective physical world and the mind creates subjective experience]]. This interaction is explained by the [[Indirect interaction theory per Patterson]] of minds.
 
 Metaphysics is a difficult topic to navigate because [[we agree about what we want and disagree about metaphysics and epistemology]]. This is why [[buddha avoided metaphysics]]. But [[thoughts/metaphysics and epistemology can help us be kinder]].
 
 Others
 - [[God does not exist]].
-- [[thoughts/there is no single purpose everyone must follow]].
+- [[there is no single purpose everyone must follow]].
 
 # Epistemology
 

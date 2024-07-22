@@ -30,7 +30,7 @@ Why?
 
 “Feeling better” is a [[mental state]]. Sometimes we arrive at this mental state through a single action or a short series of actions ([[Experiencing a desired emotion is the point of taking action]]). However, to continuously feel better, to sustain positive experiences, and give ourselves more chances of feeling better, we need to curate our environment ([[Enhance the experience of a mental state by modifying the environment]]). Curating one's environment involves complicated projects that require massive amounts of information. This is the fact of life. To engage with this information, one needs to perform intellectual work.  It is inevitable to use one's intellectual skills to design an environment that not only makes positive emotions possible but sustains them as well.
 
-One way to curate one’s environment is to construct one’s worldview or way of life. This is especially necessary for someone who realizes that we are not bestowed a ready-made purpose in life ([[thoughts/there is no destiny]]; [[thoughts/there is no single purpose everyone must follow]]).
+One way to curate one’s environment is to construct one’s worldview or way of life. This is especially necessary for someone who realizes that we are not bestowed a ready-made purpose in life ([[there is no destiny]]; [[there is no single purpose everyone must follow]]).
 
 If this is one’s position, then one has no choice but to DIY the creation of one’s purpose and the creation of one’s worldview. This can only be possible through the power of one’s mind—through reason. We can only act on something we understand.
 

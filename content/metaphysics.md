@@ -1,13 +1,15 @@
 ---
-title: "Metaphysics"
-date: "2021-04-15"
+title: Metaphysics
+date: 2021-04-15
+aliases:
+  - thoughts/metaphysics
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2024-12-23
 sr-interval: 510
 sr-ease: 250
 ---
-
 The central question that metaphysis sets to answer is “What exists?”
 
 This is [[My metaphysical position]].

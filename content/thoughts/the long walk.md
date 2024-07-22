@@ -18,4 +18,4 @@ The long walk is life itself.
 
 psychology provides you with answers to what you want
 
-[[thoughts/praxeology|praxeology]] will tell you the best route towards what you want
+[[praxeology|praxeology]] will tell you the best route towards what you want

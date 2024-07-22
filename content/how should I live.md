@@ -12,7 +12,7 @@ This is an "ethical" question (i.e., a question about how one ought to act based
 
 When you ask this question, you are interested about uncovering or even building a process, system, or practice that you presecribe to yourself. This system inspires [[action]] and provides justification for them.
 
-The first step in answering this question is to know what you are looking for. To find this, you need to find a way to know what you are looking for ([[philosophy]]). Discovering what you are looking for involves asking yourself how you know what you know ([[thoughts/epistemology]]) and what exists ([[thoughts/metaphysics]]).
+The first step in answering this question is to know what you are looking for. To find this, you need to find a way to know what you are looking for ([[philosophy]]). Discovering what you are looking for involves asking yourself how you know what you know ([[epistemology]]) and what exists ([[metaphysics]]).
 
 Here are some thoughts that represent [[My answer to how should I live]].
 

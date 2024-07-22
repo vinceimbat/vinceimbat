@@ -1,15 +1,12 @@
 ---
-title: "Free will"
-date: "2021-09-02"
+title: Free will
+date: 2021-09-02
+aliases:
+  - Free-will
 tags:
-
-- "seedlings"
-sr-due: 2022-09-26
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2026-11-07
+sr-interval: 838
 sr-ease: 250
 ---
-
-
-
-# References
-

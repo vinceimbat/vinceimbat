@@ -9,7 +9,7 @@ sr-interval: 2
 sr-ease: 248
 ---
 
-[[The universe has a beginning]]. It exists, so it cannot come from infinity ([[Infinity cannot exist]]). [[thoughts/there is no single purpose everyone must follow]] and [[thoughts/there is no destiny|there is no destiny]].
+[[The universe has a beginning]]. It exists, so it cannot come from infinity ([[Infinity cannot exist]]). [[there is no single purpose everyone must follow]] and [[there is no destiny|there is no destiny]].
 
 [[thoughts/life is inherently meaningless|Life is inherently meaningless]]. [[There is no objective meaning]]. We derive meaning not from out there—from the physical universe—but in here, within ourselves. Only human minds can create meaning because [[Meaning is a mental construction]].
 

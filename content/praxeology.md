@@ -3,10 +3,12 @@ title: Praxeology
 date: 2021-04-15
 aliases:
   - praxeology
+  - thoughts/praxeology
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-12-02
-sr-interval: 4
+sr-due: 2026-10-18
+sr-interval: 818
 sr-ease: 270
 ---
 - [[thoughts/praxeology is about choosing means]]

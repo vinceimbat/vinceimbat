@@ -16,7 +16,7 @@ Actions has several parts:
 
 1. [[thoughts/intention]]
 2. [[Means]] 
-3. [[End state]]
+3. [[end state]]
 4. [[thoughts/review]]
 
 ---

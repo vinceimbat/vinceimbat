@@ -11,9 +11,9 @@ sr-ease: 277
 ---
 [[thoughts/suffering is avoided by seeing things as they are]]. For example, knowing the truth and seeing the world as it really is could point to large-scale faulty policies that hurt people on a large scale.
 
-Yes, [[thoughts/metaphysics]] can be the source of barbaric debates and hatred. But it can also be the thing that nudges us towards a better direction. [[thoughts/amoralism]] demonstrates this.
+Yes, [[metaphysics]] can be the source of barbaric debates and hatred. But it can also be the thing that nudges us towards a better direction. [[thoughts/amoralism]] demonstrates this.
 
-We still need metaphysics and [[thoughts/epistemology]] to correct our biases and to see people as they really are. But because metaphysics and epistemology can be very divisive ([[we agree about what we want and disagree about metaphysics and epistemology]]), we need to learn [[How to navigate divisive topics]].
+We still need metaphysics and [[epistemology]] to correct our biases and to see people as they really are. But because metaphysics and epistemology can be very divisive ([[we agree about what we want and disagree about metaphysics and epistemology]]), we need to learn [[How to navigate divisive topics]].
 
 # To Do
 

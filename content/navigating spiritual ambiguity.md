@@ -11,7 +11,7 @@ One of my friends asked me after reading my essay [[traversing liminality throug
 
 The first was discovering the power of [[thoughts/presence is the foundation|presence]] and [[meditation|meditation]]. These two things made me aware of what happens between my ears. They helped me realize that what I think is out of my control but it is what I pay attention to that I can control. Meditation gave me the tool to distance myself from my thoughts and, therefore, find peace. From this silence comes contemplation and all sorts of possibilities. I discovered that the more I stayed in the present moment, the less pain I feel.
 
-The second thing that helped me navigate uncertainty was falling in love with [[philosophy|philosophy]]. [[purpose|Purpose]] is a big thing to me. Because I was suicidal. And when we are suicidal, it is purpose that saves us. Now, although I have a love-hate relationship with [[thoughts/metaphysics|metaphysics]] because it fosters hatred among people, it was seminal in finding a way out of despair.
+The second thing that helped me navigate uncertainty was falling in love with [[philosophy|philosophy]]. [[purpose|Purpose]] is a big thing to me. Because I was suicidal. And when we are suicidal, it is purpose that saves us. Now, although I have a love-hate relationship with [[metaphysics|metaphysics]] because it fosters hatred among people, it was seminal in finding a way out of despair.
 
 I was constantly asking myself, what is my purpose? Or more specifically, what is the reason for me not to kill myself? Now, for many, the existence of [[god|God]] is necessary to answer the question. I empathize with them. It is a popular and easy option, which is also logical. But it also means that there is a predetermined purpose for me.
 

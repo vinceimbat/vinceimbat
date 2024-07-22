@@ -15,8 +15,8 @@ I am an existent who ultimately doesn't know where he came from. I came to a spa
 # Explanation
 
 My quest is articulated here as fiction, but really is a metaphor. It is made up of two things:
-1. An articulation of my picture of reality (i.e., [[thoughts/metaphysics]] and [[thoughts/epistemology]])
-2. An articulation of how I respond to this reality (i.e., [[thoughts/ethics]], [[thoughts/praxeology]], and [[poetics]])
+1. An articulation of my picture of reality (i.e., [[metaphysics]] and [[epistemology]])
+2. An articulation of how I respond to this reality (i.e., [[thoughts/ethics]], [[praxeology]], and [[poetics]])
 
 In short, my quest is heavily inspired by [[my worldview]]. Since my worldview could grow and change in time, so will my quest.
 
@@ -25,7 +25,7 @@ The beliefs about reality within my worldview that is most relevant to my quest 
 2. [[thoughts/life is inherently meaningless]].
 3. [[thoughts/meaningful living is possible despite meaninglessness]].
 4. Believing on a God can be convenient, but [[God does not exist]].
-5. Since God does not exist and [[thoughts/there is no single purpose everyone must follow]], I am left to DIY how to live.
+5. Since God does not exist and [[there is no single purpose everyone must follow]], I am left to DIY how to live.
 
 The beliefs about responding to reality within my worldview most relevant to my quest are as follows:
 1. The formula for living is simply this: [[To live well simply means to set your own intentions and live according to them]].

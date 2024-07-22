@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 280
 ---
 
-According to [[thoughts/praxeology]], [[there is a single list of values]] and we arrange this list of [[value]] or [[ends]] based on priority. If ends are [[mental state|mental states]], then we could also arrange our mental states in a hierarchy.
+According to [[praxeology]], [[there is a single list of values]] and we arrange this list of [[value]] or [[ends]] based on priority. If ends are [[mental state|mental states]], then we could also arrange our mental states in a hierarchy.
 
 There could be one ultimate end or mental state, which is generated through other ends or mental states. All these subordinate ends could be incorporated into big projects with small individual units of actions. These projects and individual actions need to be prioritized at any given time because they compet for capitals. These capitals are:
 1. Time

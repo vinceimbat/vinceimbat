@@ -1,15 +1,17 @@
 ---
-title: "Narrative"
-date: "2019-03-08"
+title: Narrative
+date: 2019-03-08
+aliases:
+  - Narrative
 tags:
-
-- "seedlings"
-sr-due: 2024-07-20
-sr-interval: 373
-sr-ease: 270
+  - thoughts
+  - seedlings
+sr-due: 2025-07-08
+sr-interval: 353
+sr-ease: 250
 ---
-
 How does narrative do this?
+
 - To do: Check James Klagge's resources on philosophy and biography.
 
 # References

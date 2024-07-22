@@ -15,7 +15,7 @@ One of the metaphysical teachings he introduced but avoided expounding was the d
 Maybe, avoiding metaphysics is a sign of reverence and respect to questions that elude answers. Since I couldn't grasp my head around all of it, I bow to wonder and enjoy it. I focus on making the most out of the joy of what I know.
 
 ***
-The question of [[how to live|how to live]] definitely cannot escape [[thoughts/metaphysics|metaphysics]] and [[thoughts/epistemology|epistemology]]. The question to be tackled is: Why should I care about others?
+The question of [[how to live|how to live]] definitely cannot escape [[metaphysics|metaphysics]] and [[epistemology|epistemology]]. The question to be tackled is: Why should I care about others?
 
 The concept of a bigger [[thoughts/self|self]], one that includes others, society, and even nature (see [[thoughts/imaoka creed of life meditations|Imaoka's Creed of Life meditations]]) answers this question this way: You need to care about others because they are part of yourself, and when you hurt others, you hurt yourself.
 

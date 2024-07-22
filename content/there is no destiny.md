@@ -1,18 +1,21 @@
 ---
-title: "There is no destiny"
-date: "2021-09-02"
-aliases: "The-universe-has-no-predetermined-destiny-for-each-of-us"
+title: There is no destiny
+date: 2021-09-02
+aliases:
+  - The-universe-has-no-predetermined-destiny-for-each-of-us
+  - thoughts/there-is-no-destiny
 tags:
-- "seedlings"
-sr-due: 2022-11-25
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2026-08-31
+sr-interval: 770
 sr-ease: 252
 ---
-The reason why there is no destiny is because, we seem to have [[Free will]]—that is, the ability to determine our own actions.
+The reason why there is no destiny is because, we seem to have [[free will]]—that is, the ability to determine our own actions.
 
 For me, the thought that there is no universal, absolute, natural purpose arising from the universe with which I "ought" to comply with is liberating.
 
-That means [[thoughts/we create our individual purpose]]. I don't have to follow a set of rules written on unearthed decaying papyrus.
+That means [[we create our individual purpose]]. I don't have to follow a set of rules written on unearthed decaying papyrus.
 
 I make my own rules.
 
@@ -20,7 +23,7 @@ Something happens to us and then we create a story out of it. It is randomness m
 
 # Related
 
-[[The perception of free will is undeniable]]
+- [[the perception of free will is undeniable]]
 
 # To Do
 

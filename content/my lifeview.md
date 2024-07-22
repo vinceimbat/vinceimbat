@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-[[thoughts/there is no destiny|There is no destiny]]. [[thoughts/purpose does not arise from the objective physical world|Purpose does not arise from the objective physical world]] and [[thoughts/there is no single purpose everyone must follow|there is no single purpose everyone must follow]]. We were thrown in this world and [[thoughts/life is inherently meaningless|life is inherently meaningless]]. But this is actually a good thing because it means [[thoughts/we create our individual purpose|we create our individual purpose]]. [[thoughts/meaningful living is possible despite meaninglessness|Meaningful living is possible despite meaninglessness]].
+[[there is no destiny|There is no destiny]]. [[thoughts/purpose does not arise from the objective physical world|Purpose does not arise from the objective physical world]] and [[there is no single purpose everyone must follow|there is no single purpose everyone must follow]]. We were thrown in this world and [[thoughts/life is inherently meaningless|life is inherently meaningless]]. But this is actually a good thing because it means [[we create our individual purpose|we create our individual purpose]]. [[thoughts/meaningful living is possible despite meaninglessness|Meaningful living is possible despite meaninglessness]].
 
 We bring meaning into our lives through work that sustains our spiritual and material needs and work that makes good use of our talents and gifts so that we can help those who need them. In addition, we create more meaning in our lives by nurturing relationships with as many people as we can and practicing compassion to every stranger no matter who they are.
 

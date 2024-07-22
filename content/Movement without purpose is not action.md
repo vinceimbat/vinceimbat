@@ -5,7 +5,7 @@ tags:
 - "evergreens"
 ---
 
-Without [[purpose]], an [[action]] or a [[Project]] cannot occur. What only occurs is an unintentional, unconscious movement or set of movements. This purposeless movement or set of movements do still lead to an [[End state]] ([[All movements have an end state but not all have a purpose]]). When a movement or set of movements are done with a purpose (i.e., [[Purpose is conscious]]), they are actions ([[Everything that a human chooses to do consciously is an action]]).
+Without [[purpose]], an [[action]] or a [[Project]] cannot occur. What only occurs is an unintentional, unconscious movement or set of movements. This purposeless movement or set of movements do still lead to an [[end state]] ([[All movements have an end state but not all have a purpose]]). When a movement or set of movements are done with a purpose (i.e., [[Purpose is conscious]]), they are actions ([[Everything that a human chooses to do consciously is an action]]).
 
 # References
 

@@ -1,15 +1,12 @@
 ---
-title: "end state"
-date: "2021-01-26"
+title: end state
+date: 2021-01-26
+aliases:
+  - End-state
 tags:
-
-- "seedlings"
-sr-due: 2022-12-29
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2026-07-13
+sr-interval: 721
 sr-ease: 250
 ---
-
-
-
-# References
-
