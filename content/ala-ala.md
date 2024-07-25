@@ -5,7 +5,10 @@ aliases:
 draft: false
 tags:
   - essays
-  - evergreens
+  - seedlings
+sr-due: 2024-07-27
+sr-interval: 3
+sr-ease: 260
 ---
 Madalas talagang sumusulpot ang ala-ala. Minsan, hindi ko alam kung kaibigan ito o kaaway. May mga bagay na gustong-gusto kong maalala at ayaw kong makalimutan. Pero napakarami rin namang ala-alang gusto ko na sanang ibaon sa limot. Ang sabi ng mga nagaaral ng utak, mga bagong ala-ala lamang daw ang makapapalit sa mga lumang ala-ala. Kaya, upang makalimot, kailangan natin lumabas sa kuwarto, gumawa ng mga bagay, sumama sa mga mahal natin sa buhay at makipagkaibigan sa mundo.
 

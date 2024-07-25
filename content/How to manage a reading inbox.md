@@ -9,11 +9,11 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-The purpose of a [[Reading inbox]] is to capture potentially useful reading materials while filtering out the noise. It can only fulfill this purpose if reading materials do not accumulate indiscriminately and if you are, in fact, encouraged to read the best materials.
+The purpose of a [[reading inbox]] is to capture potentially useful reading materials while filtering out the noise. It can only fulfill this purpose if reading materials do not accumulate indiscriminately and if you are, in fact, encouraged to read the best materials.
 
 To do this, you need to assure that [[Efficient inboxes are reliably drained]] by following these guidelines:
 
-1. Selectively choose the information streams (i.e. newsletters, books, social media feed, etc.) you allow into your life. To do this, make sure that the information you consume are aligned with your current projects and purpose ([[Purpose organizes your life]]).
+1. Selectively choose the information streams (i.e. newsletters, books, social media feed, etc.) you allow into your life. To do this, make sure that the information you consume are aligned with your current projects and purpose ([[purpose organizes your life]]).
 2. Regularly review these information streams to identify potentially useful reading materials. Skim through each stream, usually newsletters, and choose materials based on [[Guidelines on what to add to your reading inbox]]. When you have made a choice, [[Add reading materials to your reading inbox manually]].
 3. At least once a week, during your [[weekly review]], go through [[My reading inbox]] and decide what to do with each item. Either delete a material or keep it. The decision-making process is inuitive, based on the material's relevance to your current interests. If the material has been in your inbox for more than a month, delete it. Also, remember, never arrange your reading inbox in any structure.
 4. Whenever you are in a position to read, [[Decide whether to read for fun or for learning]]. Your purpose for reading determines how you read.

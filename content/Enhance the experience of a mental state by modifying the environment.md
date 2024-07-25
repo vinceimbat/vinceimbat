@@ -11,7 +11,7 @@ sr-ease: 270
 
 Modifying one's environment is one of some [[Actions to take to experience an emotion intentionally]]. In my case, it could involve modifying my immediate environment as well as the bigger environment where I am located (geographical and sociopolitical location). People are part of that environment, so influencing them to change their behavior in a way that enhances my personal experience of a [[mental state]] like [[ginhawa]] is part of this process.
 
-[[People usually think that modifying their environment is their ultimate purpose]] But the truth is that [[What we ultimately want is to be in a particular mental state]]. Therefore, even if [[a purpose is not always a core desired mental state]], [[thoughts/align purpose with a core desired mental state]].
+[[People usually think that modifying their environment is their ultimate purpose]] But the truth is that [[What we ultimately want is to be in a particular mental state]]. Therefore, even if [[a purpose is not always a core desired mental state]], [[align purpose with a core desired mental state]].
 
 While modifying one’s environment is only secondary to experiencing a core desired mental state directly, it is nevertheless still important, as context has a profound effect on our mental states. In my case, pursuing Ginhawa means embracing a goal [[To help create a world filled with Ginhawa]].
 

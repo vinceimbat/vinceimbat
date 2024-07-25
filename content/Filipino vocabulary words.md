@@ -31,12 +31,14 @@ Bandeha - malanday at malapad na kasang-kapang yari sa losa, tabla, plastik, o m
 Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
 Berlina - karwaheng may pintuan.
-Bubot - bud
+Bubot - bud; hindi hinog, karaniwan sa bungangkahoy gaya ng bubót na bayabas, at bubót na sinigwelas
+Bulahaw - [ST] malakas ang tinig, idinadaan ang lahat sa lakas ng sigaw; paggulo sa katahimikan
 Bulalas - pagpapakita o paglalabas kung ano ang nása loob; táo na mahilig maglustay; biglang pagsasalita dahil sa matinding damdamin, pagkagulat, pagtutol, at katulad; pagsigaw o pagsasalita nang malakas o mariin
 Bulsikot - purse; maliit na bag, pouch, o kaha na lalagyan ng salapi
 Bulugan - [ST] laláking baboy o kabayo na ginagamit sa pagpapalahi; barako
 Burak - uri ng pútik na mabahò at malansa gaya ng putik sa pusalì at estero
 Busilak - immaculate; pure; immaculate whiteness (busilak sa kaputian; lalong bubusilak)
+Butlig - maliit at namumuláng umbok sa balát
 
 # D
 
@@ -44,10 +46,12 @@ Dagat-dagatan
 Dagim - dark clouds that bring rain; nimbus
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
 Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
+Damortis - kamatsile; pendant na hugis tainga.
 Danga - [ST] paglukso
 Dawag - damo at baging (madawag, dawagan)
 Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kamay; sukat ng haba nito
 Diwara - [ST] pagiging lubhang maingat at labis na sinusuri ang kaliit-liitang detalye; busisi
+Donselya - dalaga; birhen
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
 
 # E
@@ -105,6 +109,7 @@ Kaligkig - panginginig ng katawan dahil sa ginaw na dulot ng lagnat
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
+Kapara - parang tulad
 Karsel - bilangguan; karsil
 Kasi - [ST] pagsanib ng espiritu o pagpasok sa kalooban; "kasihan mo ako ng tapang"
 Kata - táyong dalawa; ikaw at ako; tayo
@@ -116,6 +121,7 @@ Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na h
 Kiti - bulâ na nalilikha sa rabaw ng anumang likido bago kumulo
 Klarete - alak na kulay pulá at nagmula sa katas ng ubas.
 Korto - shorts
+Kubol - [ST] isang tíla toreng patulis, na karaniwang ginagawâ sa mga altar kapag ipinuprusisyon; tent
 Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nitó at nag-sisilbing palapag
 Kunwa - varyant ng kunwari
 Kura - upo? Parang sa picnic?
@@ -137,10 +143,13 @@ Linga - haláman (_Sesamun_ _indicum_ ) na may bilóg na butó na nakakain at na
 Litid - ligament, tendon; matibay na himaymay na naghuhugpong sa mga butó ng tao
 Liwasan - pook na malawak at karaniwang nása likás na kalagayan para paglibangan ng madla; ginamit ito ni Rofel para tukuyin ang safari
 Liya - napakaliit at tíla kaliskis na halámang tubig (Lemna paucicostata ) na sapád ang dahon at karaniwang tumutubò sa mga paliguan.
+Liyo - pagkagulo ng isip ukol sa ginagawâ; pagkahilo nang bigla at panandalian
 Losa - porselana
+Luga - pagnananà sa loob ng tainga; utoy
 Lukayo - lakayo; payaso
 Lukong - rabaw o bagay na nakakurba paloob, gaya ng panloob na bahagi ng bílog (saluhin ng pinalukong kong palad)
 Lunoy - lumakad sa tubigán nang hindi naghuhubad ng damit; dumaan sa makipot na bahagi ng isang ilog (paglulunuyan, lumunoy, maglunoy)
+Luoy - lanta; [ST] pagkabulok at pagkahulog ng bunga o pagkuluntoy ng utong ng babae.
 Luwat [ST] - tagal ng panahon o oras
 
 # M
@@ -148,6 +157,7 @@ Luwat [ST] - tagal ng panahon o oras
 Maapuhap - paghahanap sa pamamagitan ng kamay
 Manaka-naka - bihira
 Mapiho - specify
+Mariquita - babaeng ibon; babaeng kulisap
 Masinsin
 Matarling - mataas at matining na tinig; soprano
 Medya-agwa - sibi; nakahilig na silungan, karaniwang nakakabit sa dingding ng isang bahay o nakadugtong sa bubong; dagdag na bahagi sa tunay na bahay
@@ -162,6 +172,7 @@ Nawnaw - simula ng pagdamá (nawnawin ang ulat sa palad mong kapos)
 Ngisi - grin; pag-ngiti nang banát ang labì at nakalan-tad ang mga ngipin
 Ngisngis - pagngiti o pagtawa nang nakikíta ang mga ngipin
 Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
+Ngulontoy - varyant ng kuluntoy; mga buhol na sanhi ng masyadong pagkakapilipit; kupás at lanta, gaya ng kuluntóy na bulaklak at dahon _var_ nguluntóy
 
 # O
 
@@ -173,19 +184,24 @@ Paboreal -
 ibon (_Pavo_ _cristatus_ ) na malakí at may mahabàng buntot na tíla may mga matá; peacock
 Pagal - panghihina dahil sa pagod
 Paisano - kababayan
+Pakak - Antipolo tree
+Pakakak - malaking kabibe na hinihipan at ginagamit na panghudyat; tambuli
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit
 Palo-tsina - palo china planks
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
 Palanas - malawak na kapatagan; pook na maaliwalas; baybayin ng ilog na mabato.
+Palito - tutpik; isang piraso ng posporo
 Pandaw - [ST] dumalaw sa pa-ngisdaan o bitag para tingnan kung may húli at kuhanin ito; dumalaw sandali at hindi inaasahan sa kasin-tahan.
 Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina o amá, karani-wang itinatambal sa isa pang salita, halimbawa: amáng pangúmán, ináng pangú-mán; madrasta
 Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _var_ panim-dímin
 Pañuelo - dress
+Payneta - suklay na nakapabalantok at karaniwang pampalamuti sa buhok ng babae; peyneta; tiara?
 Pelus - velvet
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
+Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
@@ -194,8 +210,10 @@ pag-antig o pagpapagunita sa isang nakalilimot
 Punebre - tugtog para sa patay o paglilibing.
 Punglo -  bagay na ginagamit para ipantudla ng target sa pagbaril, karaniwang yarì sa metal at may la-máng pulbura
 Puntas - pínong pi-raso ng tela na binuo sa pamama-gitan ng pagborda at ginagamit bílang pandekorasyon sa gilid ng damit, kortina, at katulad; lace
+Punyal - balaraw; matulis na patalim na magkabilaan ang talim
 Pusali - pook na pina-mamahayan o dinadaluyan ng maru-mi at maitim na likido o tubig
 Puswelo - tasa
+Puyo - sa ulo, ang bahaging nagbibigay ng likás na hawi sa tungkos ng buhok na nakapaligid dito; alimpuros
 
 # R
 
@@ -215,6 +233,7 @@ Santing - papatinding ínit ng araw o gámit na de-koryente
 Sapo - pag-apaw ng tubig sa daan o sa taniman.
 Sasa - magtamasa ng anumang kasaganaan
 Sasandali - in a moment (alam nilang sasandali pa'y may mga papalit na sa kanila)
+Sawata - pahayag o kilos ng pagbabawal o pagpigil; pagpígil o pagkontrol sa nagaganap na
 Serbilyeta - napkin
 Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
@@ -237,10 +256,12 @@ Talilis - pag-alis ng lihim; "hindi tumatalilis kapag nireretratuhan"
 Talulot - petals
 Talungko - paraan ng pag-upô na nakadikit ang binti sa hita at nakabitin ang puwit; posisyon sa pagtae
 Tarak - pagsaksak nang madiin at iniiwang nakabaon ang patalim sa sinaksak
+Tibo - matalim at matulis na organ ng ilang kulisap, gaya ng bubuyog o ilang uri ng isda, at ginagamit bílang proteksiyon; natibo = natusok ng tibo
 Tigalawa - tigdalawa; two each (ang mga tirahang tigalawang maliit na silid)
 Tighaw - paggalíng mula sa karamdaman ; pagginhawa mula sa kahirapan (tumitighaw ng anumang uhaw)
 Tigib - punong-puno (tigib ng dusa)
 Tigmak - babad; lubhang basâ dahil sa malakas na buhos ng anumang likido, gaya ng tao na tigmak sa ulan, o pader na tigmak sa pintura
+Tiim - nakaimpit ang labì, ngipin, o bagáng sa pagpipigil o pagtitimpi ng galit o sakít
 Tikatik - hinggil sa ulan na mahinà ngunit tuloy-tuloy; ganitong paraan ng paggawâ.
 Tiklis - basket na malakí ang bibig, maluwang ang pagkalála, at may pares ng taingang hawakan
 Tilamsik - talsik; paglipad o pagkalat ng likido
@@ -250,6 +271,7 @@ Tiwa - askarid; bulate (tinitiwa)
 Tiyap - come together
 Tsubibo - ferris wheel; sasakyang pangkarnabal, napakalakí at tíla nakatayông gulóng, at may mga nakasabit na mga upuán ng tao; carousel; sasakyang pangkarnabal, tíla nakahigang gulóng na umiikot at may mga upuáng hugis kabayo, kotse, at katulad
 Tudla - punterya; pagpapatama ng patalim, sibat, o punglo sa inaasinta
+Tugpa - [ST] pagbabâ mula sa bundok o burol túngo sa kapatagan o sa pantalan upang sumakay sa bangka o barko
 Tulot - allow
 Tuluyan - prose; nakasulat o binibigkas na wika sa karaniwang anyo nitó at walang tugma at sukat, karaniwang tumutukoy sa katha
 Tunghay - pagtataas ng mukha
@@ -267,10 +289,12 @@ Usal - paulit-ulit na pagsasalita nang pabulong, karaniwan kapag nagsasaulo ng i
 # W
 
 walang-maliw - walang-kupas; walang-hanggan; eternal
+Wawa - pag-unawa sa sinasabi
 
 # Y
 
 Yangyang - pagpapatuyô ng nakasampay na damit sa hangin
+Yayat - payat
 Yumi - hinhin
 Yupyop - paggamit ng katawan bílang takip ng nais bigyan ng init o proteksiyon, gaya ng pagtakip ng inahin sa mga sisiw; pagtatagò ng mukha sa unan, dibdib, o kandungan upang ikubli ang lungkot
 

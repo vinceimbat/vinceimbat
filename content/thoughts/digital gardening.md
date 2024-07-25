@@ -52,7 +52,7 @@ OLD OUTLINE
 
 Collecting [[Fleeting notes]] and writing [[literature notes]]
 
-- [[Only consume information that is relevant to your purpose]]
+- [[consume information selectively]]
 - [[how to write literature notes]]
 
 Writing [[evergreens]]

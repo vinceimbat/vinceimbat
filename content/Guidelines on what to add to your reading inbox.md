@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-When deciding what to add reading materials to your [[Reading inbox]], prioritize the following:
+When deciding what to add reading materials to your [[reading inbox]], prioritize the following:
 
 - Materials that are related to your current goals
 - Materials that are both interesting and dense with relevant information

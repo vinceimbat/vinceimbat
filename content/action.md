@@ -55,7 +55,7 @@ A study of action involves an understanding of both mental and physical states b
 
 ## Related
 
-- [[thoughts/an action succeeds if its end state approximates its intention]]
+- [[an action succeeds if its end state approximates its intention]]
 - [[All actions rely on knowledge]]
 
 # References

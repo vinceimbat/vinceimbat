@@ -7,12 +7,8 @@ aliases:
 tags:
 
 - "seedlings"
-sr-due: 2024-07-24
-sr-interval: 363
-sr-ease: 250
+sr-due: 2028-01-24
+sr-interval: 1278
+sr-ease: 270
 ---
-
-
-
-# References
-
+Originator of the essay.

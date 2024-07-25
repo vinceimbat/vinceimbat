@@ -1,16 +1,12 @@
 ---
-title: "Reading inbox"
-date: "2021-09-07"
+title: Reading inbox
+date: 2021-09-07
+aliases:
+  - Reading-inbox
 tags:
-
-- "seedlings"
-sr-due: 2022-10-03
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2026-11-04
+sr-interval: 833
 sr-ease: 250
 ---
-
-
-
-# References
-
-

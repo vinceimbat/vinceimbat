@@ -17,7 +17,7 @@ I am currently using the following inboxes to capture my loose ends:
 - Analog notes: Journals
 - Digital notes: Drafts
 - Writing Inbox: [[writing inbox]]
-- Reading Inbox: [[Reading inbox]]
+- Reading Inbox: [[reading inbox]]
 
 My clarified notes go to [[Obsidian]].
 
