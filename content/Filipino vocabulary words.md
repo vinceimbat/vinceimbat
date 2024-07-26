@@ -31,6 +31,8 @@ Bandeha - malanday at malapad na kasang-kapang yari sa losa, tabla, plastik, o m
 Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
 Berlina - karwaheng may pintuan.
+Bilot - anyo na nabubuo ng bagay na pinaiikot-ikot
+Biyas - bahagi sa pagitan ng mga bukó, gaya sa kawayan, tubó, at iba pa; bumbong; bahagi sa pagitan ng mga hugpungan ng katawan ng tao o hayop, gaya ng bisig, binti, at iba pa
 Bubot - bud; hindi hinog, karaniwan sa bungangkahoy gaya ng bubót na bayabas, at bubót na sinigwelas
 Bulahaw - [ST] malakas ang tinig, idinadaan ang lahat sa lakas ng sigaw; paggulo sa katahimikan
 Bulalas - pagpapakita o paglalabas kung ano ang nása loob; táo na mahilig maglustay; biglang pagsasalita dahil sa matinding damdamin, pagkagulat, pagtutol, at katulad; pagsigaw o pagsasalita nang malakas o mariin
@@ -123,6 +125,7 @@ Klarete - alak na kulay pulá at nagmula sa katas ng ubas.
 Korto - shorts
 Kubol - [ST] isang tíla toreng patulis, na karaniwang ginagawâ sa mga altar kapag ipinuprusisyon; tent
 Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nitó at nag-sisilbing palapag
+Kuna - kámang may sangga ang mga gílid at gamit sa pag-aalaga ng sanggol; crib
 Kunwa - varyant ng kunwari
 Kura - upo? Parang sa picnic?
 Kuyom - nakatikom na palad; magkimkim o kimkimin (kuyumin, magkuyom); "humuhulagpos sa kuyom" (metaphor: escaping the grasp of")
