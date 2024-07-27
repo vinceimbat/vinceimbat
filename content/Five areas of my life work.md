@@ -19,7 +19,7 @@ There are five categories of actions in the work that I do. These categories are
 
 The first four categories are sequential: one comes before the other. However, the fifth category (Connecting) is a meta-category that happens across all the steps.
 
-Also, the first two categories are usually done in solitude. They make up the bulk of my work. I study during [[thoughts/my morning writing practice]] and practice throughout other blocks of time within [[my daily routine]]. On the other hand, the last three categories involve other people and are done less frequently, except Connecting, which ideally should be a daily practice ([[thoughts/strategy for connecting]]).
+Also, the first two categories are usually done in solitude. They make up the bulk of my work. I study during [[my note-writing practice]] and practice throughout other blocks of time within [[my daily routine]]. On the other hand, the last three categories involve other people and are done less frequently, except Connecting, which ideally should be a daily practice ([[thoughts/strategy for connecting]]).
 
 The five categories of action does not just express what I want from my work, [[The five categories of action in my work express what I want from life]]. Furtheremore, these categories are designed to answer the question [[how to live]]
 

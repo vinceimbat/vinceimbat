@@ -1,14 +1,13 @@
 ---
-title: "Roam"
-date: "2022-05-07"
+title: Roam
+date: 2022-05-07
+aliases:
+  - Roam
 tags:
-
-- "seedlings"
-sr-due: 2022-05-10
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2032-05-16
+sr-interval: 2850
+sr-ease: 270
 ---
-
-
-
-# References
+The most elitist bi-directional note-taking app in the market.

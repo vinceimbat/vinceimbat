@@ -32,6 +32,7 @@ Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
 Berlina - karwaheng may pintuan.
 Bilot - anyo na nabubuo ng bagay na pinaiikot-ikot
+Bistay - salaan na gawâ sa masinsin at makitid na lapát na kawayan at ginagamit upang maihiwalay ang bigas sa ipa, binlid, o darak
 Biyas - bahagi sa pagitan ng mga bukó, gaya sa kawayan, tubó, at iba pa; bumbong; bahagi sa pagitan ng mga hugpungan ng katawan ng tao o hayop, gaya ng bisig, binti, at iba pa
 Bubot - bud; hindi hinog, karaniwan sa bungangkahoy gaya ng bubót na bayabas, at bubót na sinigwelas
 Bulahaw - [ST] malakas ang tinig, idinadaan ang lahat sa lakas ng sigaw; paggulo sa katahimikan
@@ -108,6 +109,7 @@ Kakanyahan - kaakuhan; natatanging aspekto ng katauhan ng isang tao; identidad; 
 Kalabusaw - mabilis at hindi kontroladong pagkampay ng bisig at pagpadyak ng sinumang nag-aaral lumangoy; tunog ng nila-busaw na tubig.
 Kalamkam - kiliti (pero ginamit ni Tinio para ilarawan ang radyo)
 Kaligkig - panginginig ng katawan dahil sa ginaw na dulot ng lagnat
+Kambas - uri ng tela na matibay at magaspang, yarì sa hemp o flax, o ibang magaspang na himaymay, at ginagamit sa pag-gawâ ng layag, tolda, at iba pang materyales na pinipintahan; canvas
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
@@ -132,6 +134,7 @@ Kuyom - nakatikom na palad; magkimkim o kimkimin (kuyumin, magkuyom); "humuhulag
 
 # L
 
+Labakara - bimpo
 Labsak - kalat; labis na kalambutan ng isang bagay, lalo na kung prutas o halámang-ugat
 Lagaslas - hagalhal; malakas na tunog ng tubig na bumabagsak mula sa mataas na pook gaya ng talón
 Lagutok - maikli ngunit buong tunog ng butóng binabaltak o inuunat, o ng tabla o kahoy na humaginit, o ng apoy kapag sinusunog nitó ang bagay na hungkag
@@ -220,6 +223,7 @@ Puyo - sa ulo, ang bahaging nagbibigay ng likás na hawi sa tungkos ng buhok na 
 
 # R
 
+Rabaw - ibabaw; surface
 ratay - variant ng datay; pamamalagi nang matagal sa pagkakahiga dahil sa karamdaman; paglalagay ng isang bagay sa sahig nang nakalapat ang lahat ng bahagi
 
 # S
@@ -241,6 +245,7 @@ Serbilyeta - napkin
 Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
 Silat - siwang sa pagitan ng mga kawayang sahig
+Silbato - pito; instrumentong naglalabas ng matinis na tunog sa pamamagitan ng hininga at kara-niwang ginagamit sa pagbibigay ng senyas
 Silo - bitag (nagpapabitag)
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.

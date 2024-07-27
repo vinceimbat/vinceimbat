@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Here are the questions that [[Andy Matuschak]] asks himself every morning when he turns to working from his Evergreen notes to his Working Log.
+Here are the questions that [[andy matuschak]] asks himself every morning when he turns to working from his Evergreen notes to his Working Log.
 
 - What are the most important unknowns for this project?
 - What new ideas am I excited about?

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 255
 ---
 
-I am adopting [[Andy Matuschak]]'s taxonomy in his [[Evergreen note-taking system]] with several changes, of course.
+I am adopting [[andy matuschak]]'s taxonomy in his [[Evergreen note-taking system]] with several changes, of course.
 
 When I [[Use a note-writing system]], the ultimate goal is to write [[evergreens]]. Thus, the most important notes in my system go up a ladder to evolve into permanent notes. However, to maintain organization, several notes that don't go up this ladder are also necessary. I divide my taxonomy of notes between notes that go up the ladder and those that don’t.
 
@@ -25,7 +25,7 @@ When I [[Use a note-writing system]], the ultimate goal is to write [[evergreens
    - Higher-level permanent notes
       - Notes that abstract from multiple notes
       - My own terms of art, e.g. [[talahardin]]
-- [[Outline notes]], e.g., [[thoughts/zettelkasten]]
+- [[Outline notes]], e.g., [[zettelkasten]]
 
 ## Non-ladder
 

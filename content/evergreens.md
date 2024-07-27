@@ -17,7 +17,7 @@ Two kinds?
 There are two kinds of permanent notes:
 
 1. [[literature notes]] that go to a reference management system like [[Zotero]] (or in my case, a separate folder in [[craft]]).
-2. Permanent notes themselves that are stored in the slip-box ([[thoughts/zettelkasten]] or [[talahardin]]).
+2. Permanent notes themselves that are stored in the slip-box ([[zettelkasten]] or [[talahardin]]).
 
 ---
 

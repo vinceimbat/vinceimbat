@@ -11,6 +11,6 @@ sr-ease: 251
 (Serious philosophy, research)
 
 - [[steve patterson]]
-- [[Andy Matuschak]]
+- [[andy matuschak]]
 - [[thoughts/sonke ahrens]]
 

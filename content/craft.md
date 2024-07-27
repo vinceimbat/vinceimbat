@@ -1,12 +1,11 @@
 ---
-title: "Craft"
-date: "2021-08-29"
+title: Craft
+date: 2021-08-29
 tags:
-
-- "seedlings"
-sr-due: 2023-01-06
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2030-01-21
+sr-interval: 2004
+sr-ease: 270
 ---
-
-
+Note-taking app that I used for a while. Its best feature is it made [[Andy Matuschak]] sliding panes native to the app.

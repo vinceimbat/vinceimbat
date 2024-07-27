@@ -1,15 +1,13 @@
 ---
-title: "Andy Matuschak"
-date: "2021-01-05"
+title: Andy Matuschak
+date: 2021-01-05
+aliases:
+  - Andy-Matuschak
 tags:
-
-- "seedlings"
-sr-due: 2022-10-04
-sr-interval: 3
-sr-ease: 255
+  - thoughts
+  - seedlings
+sr-due: 2031-01-29
+sr-interval: 2377
+sr-ease: 275
 ---
-
-
-
-# References
-
+Andy was one of the most influential figures to me when I was setting up the [[talahardin]].

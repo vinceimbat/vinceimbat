@@ -25,7 +25,7 @@ To achieve these, I try to honor the following principles:
 
 1. Try things out but aspire to narrow down the message and method of your work to simplify your life.
 2. Continuously trim distractions out of your life.
-3. Maintain a daily philosophical practice of reading and writing notes in your talahardin.
+3. Maintain a daily philosophical practice of reading and writing notes in your [[talahardin]].
 4. Maintain a daily contemplative practice that puts you in direct contact with the world (i.e., meditation and walking).
 5. Connect daily with readers, peers, and mentors who help nurture your work.
 6. Get better at your craft of creating essays, poems, photographs, and books, and bringing them to the right people.

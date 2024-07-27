@@ -49,7 +49,7 @@ Core block is non-negotiable. If a project requires more time, I could forgo of 
 Details here are allowed to change depending on my projects and their status.
 
 - If a project is available, see my menu or open [[things|Things]] and perform what to do from a set of preplanned actions prepared during the [[weekly review|weekly review]]).
-- If a project is unavailable, perform [[thoughts/my morning writing practice|my morning writing practice]].
+- If a project is unavailable, perform [[my note-writing practice|my note-writing practice]].
 - I'm also allowed to use this block to read through a stack of material necessary for me to understand something.
 
 # Lunch Break (12:00–1:30)

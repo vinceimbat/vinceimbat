@@ -17,7 +17,7 @@ I know I wanted to do [[thoughts/digital gardening]], to nurture [[thoughts/fore
 [[Maggie Appleton]]
 - No newsletter. You can get updated with changes in the forest via RSS.
 
-[[Andy Matuschak]]
+[[andy matuschak]]
 - No newsletter. He has a subscription form in his website but doesn't really send emails. He seems to engage with a curated  audience in Patreon.
 
 Gwern.net

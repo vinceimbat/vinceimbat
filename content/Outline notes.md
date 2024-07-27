@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-[[Andy Matuschak]] uses this term to refer to all notes that bring structure to his [[Evergreen note-taking system]]. In short, this is his term of art for [[Structure notes]]. He doesn't seem to make any distinction within this category. [[Sascha Fast]], on the other hand, thinks that outline notes are a special kind of structure note—one that is associated to a specific writing project (i.e., one with a goal of producing a publishable artifact).
+[[andy matuschak]] uses this term to refer to all notes that bring structure to his [[Evergreen note-taking system]]. In short, this is his term of art for [[Structure notes]]. He doesn't seem to make any distinction within this category. [[Sascha Fast]], on the other hand, thinks that outline notes are a special kind of structure note—one that is associated to a specific writing project (i.e., one with a goal of producing a publishable artifact).
 
 Andy’s advice is to [[Create iterative outlines as you write notes]].
 

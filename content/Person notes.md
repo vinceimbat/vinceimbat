@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 
-From [[Andy Matuschak]]'s [[Evergreen note-taking system]], these are simply notes with names of people as titles.
+From [[andy matuschak]]'s [[Evergreen note-taking system]], these are simply notes with names of people as titles.
 
 For other types of notes, see [[Talahardin taxonomy of note types]]
 

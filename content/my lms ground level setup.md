@@ -19,7 +19,7 @@ I am currently using the following inboxes to capture my loose ends:
 - Writing Inbox: [[writing inbox]]
 - Reading Inbox: [[reading inbox]]
 
-My clarified notes go to [[Obsidian]].
+My clarified notes go to [[obsidian]].
 
 My clarified tasks go to Things 3.
 

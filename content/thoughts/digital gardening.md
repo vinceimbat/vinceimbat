@@ -77,7 +77,7 @@ Writing using permanent notes
 
 # Workflows
 
-- [[thoughts/my morning writing practice]]
+- [[my note-writing practice]]
 
 # References
 

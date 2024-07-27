@@ -10,7 +10,7 @@ sr-ease: 228
 ---
 According to [[thoughts/dan blank|Dan Blank]], to be a gateway for people to experience something they are looking for which you can provide, focus on these two actions every day:
 
-1. Hone your craft ([[thoughts/my morning writing practice|my morning writing practice]]).
+1. Hone your craft ([[my note-writing practice|my note-writing practice]]).
 2. Engage with your audience one-on-one ([[thoughts/strategy for connecting|strategy for connecting]]; [[thoughts/slow connecting for introverts|slow connecting for introverts]]).
 
 A simple routine to apply this is to write in the morning and connect with people in the afternoon ([[my daily routine|my daily routine]]). This is quite similar to John Waters’ routine, which I read [[thoughts/austin kleon|Austin Kleon]] quote several times. He makes stuff in the morning and sell them in the afternoon.
