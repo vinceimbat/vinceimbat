@@ -19,6 +19,7 @@ Amba - nagbabanta at poot na kilos ng kamay
 Ampat - apula; pagpigil sa daloy o tulo ng dugo, tubig, at katulad; pagsawata, o pag-awat sa mga nagkakagalit; pagsugpo o pag-alis sa bisyo
 Asahar - bulaklak ng kahél; artipisyal na bulaklak ng kahél, karaniwang inilalagay sa ulo ng babaeng ikakasal o ng flower girl, sa ibabaw ng bélo.
 Asilo - asylum
+Atril - katangán o patungán ng aklat, piyesa ng musika, o anumang binabása, karaniwang yarì sa magaang metal o kahoy; lectern, pulpito
 
 # B
 
@@ -85,6 +86,7 @@ Hinihinukuhan (mula sa hinuko) -  to cut someone's nails
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
 Hitit - paghithit ng usok mula sa sigarilyo o tabako
+Hugos - pagbababâ ng anuman mula sa mataas na kinalalagyan; sabáyang pagsugod ng mga tao
 Hugpong - joint; bagay na nag-uugnay o nagkakabit sa dalawang bagay; ang púnto na pinagdugtungan ng dalawang bagay; ang karugtong o idinugtong sa dulo upang humabà (naghuhugpong; hugpungan)
 Hulab - possibly hunab; vapor rising from the ground
 Hulagpos - freed
@@ -195,6 +197,7 @@ Pakakak - malaking kabibe na hinihipan at ginagamit na panghudyat; tambuli
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit
 Palo-tsina - palo china planks
+Panambil - [ST] tábing sa gilid ng sasakyang-dagat; biyombo - naititiklop na iskrin o tábing
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
 Palanas - malawak na kapatagan; pook na maaliwalas; baybayin ng ilog na mabato.
 Palito - tutpik; isang piraso ng posporo
@@ -204,6 +207,7 @@ Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _
 Pañuelo - dress
 Payneta - suklay na nakapabalantok at karaniwang pampalamuti sa buhok ng babae; peyneta; tiara?
 Pelus - velvet
+Pigtal - natanggal at nalaglag sa kinabibilangang kalakhan, gaya ng dahon o bulaklak na natanggal sa haláman nitó
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
@@ -233,7 +237,8 @@ Salabid - pagsabit, pagkapulupot, o pagkapátid ng paa, gaya sa lubid o alambre
 Salat - hipo
 Salimbay - palutang na paglipad nang hindi ikinakampay ang mga pakpak.
 Salta - lundag; pasok
-Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo; 
+Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo
+Sambasamba - mantis; uri ng yerba na mapait.
 Sambulat - pagkalat at pagtilapon sa maraming piraso
 Sanggi - sagi
 Santing - papatinding ínit ng araw o gámit na de-koryente
@@ -251,6 +256,7 @@ Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
 Sisne - swan
 Siwang - bahag-yang bukás, kung sa pinto, bintana, at katulad
+Sonambulo - sumat; pagsa-salita at paglalakad hábang natu-tulog
 Sulingan - refuge
 Sulsi - pagtahi sa sirà ng damit, sako, lambat, at katulad
 Sungaw - pierce
@@ -272,7 +278,8 @@ Tigmak - babad; lubhang basâ dahil sa malakas na buhos ng anumang likido, gaya 
 Tiim - nakaimpit ang labì, ngipin, o bagáng sa pagpipigil o pagtitimpi ng galit o sakít
 Tikatik - hinggil sa ulan na mahinà ngunit tuloy-tuloy; ganitong paraan ng paggawâ.
 Tiklis - basket na malakí ang bibig, maluwang ang pagkalála, at may pares ng taingang hawakan
-Tilamsik - talsik; paglipad o pagkalat ng likido
+Tilamsik - talsik; paglipad o pagkalat ng likido\
+Tilas - cocoon
 Timbuwang - matumba nang patihaya, padipa, at pabukakâ
 Tinis - tinig na mataas, matalim, at nanunuot sa pandinig; kataasan at kalakasan ng tinig.
 Tiwa - askarid; bulate (tinitiwa)
@@ -293,6 +300,7 @@ Tuwad - nakahilig pababâ sa harap na ang puwit ay higit na mataas kaysa ulo
 Ulo-ulo - tadpole; butete
 Ultaw - litaw
 Usal - paulit-ulit na pagsasalita nang pabulong, karaniwan kapag nagsasaulo ng isang aralin.
+Uwang - [ST] beetle; pag-iyak ng batà; pag-ungal ng hayop, pagtahol ng áso, at katulad.
 
 # W
 

@@ -2,12 +2,11 @@
 title: Ideas on how to approach the ANWW20 entry
 date: 2023-03-24
 aliases:
-  - Ideas on how to approach the ANWW20 entry
+  - Ideas-on-how-to-approach-the-ANWW20-entry
+  - thoughts/approaching-the-anww20-entry
 tags:
-  - seedlings
-sr-due: 2024-07-27
-sr-interval: 263
-sr-ease: 230
+  - thoughts
+  - evergreens
 ---
 1. Review all Lilim articles for insights on my perspective with walking.
 2. Review all Uman articles for insights on my perspective on walking.

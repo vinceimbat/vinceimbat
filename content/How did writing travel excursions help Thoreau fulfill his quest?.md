@@ -5,7 +5,6 @@ tags:
 
 - "seedlings"
 ---
-
 Why did Thoreau use the travelogue as a medium of writing? How did it help him fulfill his quest?
 
 # References

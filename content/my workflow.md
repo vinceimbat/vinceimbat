@@ -40,9 +40,15 @@ I go on regular fieldworks. These are multi-day walks where I take photographs a
 
 ## Publications
 
-Sometimes, I would work on an essay or a literary piece. When that piece is ready, I share it to people via newsletter and social media. I let this happen organically and don't force myself to produce these works on a regular basis. Sometimes, I would work on pieces to be published elsewhere. But I prioritize publishing in my own platform and building that platform.
+Sometimes, I would work on an essay or a literary piece. When that piece is ready, I share it to people via newsletter and social media. I let this happen organically and don't force myself to produce these works on a regular basis.
+
+Sometimes, I would work on pieces to be published elsewhere, knowing that my priority lies in publishing in my own platform and building that platform.
 
 The penultimate goal is to bring all [[my creative artifacts]] together into books or zines, where they could adopt some semblance of finality.
+
+## Contests and Workshops
+
+Below the hierarchy of activities in my workflow are contests and workshops. Here, I follow [[jesa suganob|Jesa Suganob's]] approach: create the piece first, being mindful of my poetics and advocacies, then sending it to contests and workshops later. In a way, I use contests and workshops to force me to do the work and to find a bigger platform for my advocacies.
 
 # Related
 

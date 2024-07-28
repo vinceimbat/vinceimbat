@@ -5,7 +5,7 @@ aliases:
   - My-top-values
 tags:
   - thoughts
-  - seedlings
+  - evergreens
 ---
 Based on the test I took at [Personal Values Assessment | Discover Your Values](https://personalvalu.es/), here are my top values:
 

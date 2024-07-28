@@ -15,7 +15,7 @@ It is difficult for me to think about other things aside from my needs because I
 
 The more I can self-actualize, the easier it is for me to appreciate nature - beauty and excellence - which is my core strength anyways.
 
-# Why did Thoreau write lenghty narratives of his walks?
+# Why did Thoreau write lengthy narratives of his walks?
 
 He practiced paying attention, seeing what is outdoors. Living in one place for most of his life just made his seeing more potent. He was a perfect example of how [[continued freshness of appreciation]] is practiced.
 
@@ -32,6 +32,7 @@ How did he synthesize what he read with what he sees outdoors?
 - [[How did writing travel excursions help Thoreau fulfill his quest?]]
 - [[Thoreau took mini retirements]]
 - [[literature/introduction to walden merwin]]
+- [[the quest of thoreau]]
 
 # References
 

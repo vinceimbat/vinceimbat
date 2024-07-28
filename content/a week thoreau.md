@@ -1,11 +1,13 @@
 ---
-title: "A Week on the Concord and Merrimack Rivers"
-date: "2022-05-08"
+title: A Week on the Concord and Merrimack Rivers
+date: 2022-05-08
+aliases:
+  - A-Week-on-the-Concord-and-Merrimack-Rivers
 tags:
-
-- "seedlings"
-sr-due: 2022-12-25
-sr-interval: 135
+  - literature
+  - seedlings
+sr-due: 2027-09-20
+sr-interval: 1149
 sr-ease: 270
 ---
 Collect poetry about the places you've been to.
@@ -20,3 +22,4 @@ Learn verbose poetic descriptions.
 
 # References
 
+Thoreau, Henry David. _A Week on the Concord and Merrimack Rivers_. Holt, Rinehart, and Winston, Inc., 1963.

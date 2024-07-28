@@ -13,9 +13,10 @@ My main purpose of articulating my poetics is to express the tight connection be
 My [[poetics]] heavily relies on [[my worldview|my worldview]] and [[my quest|my quest]].
 
 I describe my poetics based on:
-1. How I want to feel + what I want to achieve during and after creation
-2. What I want others to achieve and feel after experiencing my creation
-3. How my process will achieve the two above
+1. My values and principles
+2. How I want to feel + what I want to achieve during and after creation
+3. What I want others to achieve and feel after experiencing my creation
+4. How my process will achieve the two above
 
 # Summary
 
@@ -29,6 +30,20 @@ To achieve these, I try to honor the following principles:
 4. Maintain a daily contemplative practice that puts you in direct contact with the world (i.e., meditation and walking).
 5. Connect daily with readers, peers, and mentors who help nurture your work.
 6. Get better at your craft of creating essays, poems, photographs, and books, and bringing them to the right people.
+
+[[My workflow]] is the direct expression of my poetics.
+
+# My values principles
+
+Here are [[my top values]].
+
+And here is a collection of principles I keep in mind when working:
+
+- [[inner first]]
+- [[micro then macro]]
+- [[always incorporate strengths]]
+- [[my life work is both emotional and intellectual]]
+- [[process over product]]
 
 # What I want to feel + achieve
 
@@ -50,7 +65,16 @@ My field is the arts and letters ([[a life in letters]]). But my art is heavily 
 
 Being Filipino, my audience will primarily be Filipinos. But I still want to converse with an international audience because I engage with universal topics.
 
-My goal: [[i want my audience to feel existential|I want my audience to feel existential]].
+I want my audience to feel the following when engaging with my works:
+- movement
+- being outdoors in the world
+- being in different positions
+- [[i want my audience to feel existential|existential]]
+- feeling like they want to do something similar
+- connection with themselves
+- connection with their neighbor
+- connection with society
+- connection with the nonhuman
 
 # My process
 
@@ -59,18 +83,11 @@ My goal: [[i want my audience to feel existential|I want my audience to feel exi
 - [[my creative artifacts]]
 - [[my creative style]]
 - [[creative writing forms i like]]
-- [[my workflow]]
 - [[my method]]
 - [[my languages]]
 - [[my sustainability model]]
-
-# Other principles
-
-- [[inner first]]
-- [[micro then macro]]
-- [[always incorporate strengths]]
-- [[my life work is both emotional and intellectual]]
-- [[process over product]]
+- [[my workflow]]
+	- This note is perhaps the most important among all notes describing my process. It is the direct expression of my poetics.
 
 # To do
 
@@ -80,5 +97,4 @@ My goal: [[i want my audience to feel existential|I want my audience to feel exi
 
 - [[my bio]]
 - [[creativity]]
-- [[implementing my poetics]]
 - [[website design plan]]
