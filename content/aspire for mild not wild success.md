@@ -1,14 +1,16 @@
 ---
 title: Aspire for mild not wild success
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - thoughts/aspire-for-mild-not-wild-success
 draft: false
-sr-due: 2023-11-01
-sr-interval: 3
+tags:
+  - thoughts
+  - seedlings
+sr-due: 2025-07-10
+sr-interval: 346
 sr-ease: 250
 ---
-
 
 # References
 

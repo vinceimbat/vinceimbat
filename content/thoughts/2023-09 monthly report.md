@@ -11,7 +11,7 @@ After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by S
 
 In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]]. I noticed that starting a dream log seems to make me have more dreams and remember them.
 
-My favorite thought note this month is: [[thoughts/art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
+My favorite thought note this month is: [[art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
 
 The best things I read this month were:
 - [[literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
@@ -36,7 +36,7 @@ Around the middle of the month, Lea and I visited Bohol to celebrate our anniver
 Notes
 - [[thoughts/faith generates contentment|faith generates contentment]]
 - [[thoughts/drawing|drawing]]
-- [[thoughts/art is never finished|art is never finished]]
+- [[art is never finished|art is never finished]]
 - [[thoughts/how to have free time|how to have free time]]
 
 In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]].

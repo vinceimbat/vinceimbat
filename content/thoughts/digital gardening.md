@@ -72,8 +72,8 @@ Writing using permanent notes
 
 - [[Four minimum tools for a note-writing system]]
 - [[Tools should be embedded in a system to be effective]]
-- [[Use a reading inbox to capture useful reading materials]]
-   - [[My reading inbox]]
+- [[use a reading inbox to capture useful reading materials]]
+   - [[my reading inbox]]
 
 # Workflows
 

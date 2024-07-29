@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Founder of [[thoughts/transcendentalism|transcendentalism]].
+Founder of [[transcendentalism|transcendentalism]].
 
 # Related
 

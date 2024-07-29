@@ -14,7 +14,7 @@ Change is the dominant principle that runs the talahardin. Both the files it hou
 
 The talahardin is partial to the value not only of the changes that goes through the processes inherent in a writing life but also sharing this progress to the public. To help the public understand the process, it is necessary for the talahardin to be fragmentary by design.
 
-However, not all writing follows this principle. In fact, the dominant standard in today's literary world is wholeness and finality. This partiality to wholeness and finality is weird since [[thoughts/art is never finished|art is never finished]].
+However, not all writing follows this principle. In fact, the dominant standard in today's literary world is wholeness and finality. This partiality to wholeness and finality is weird since [[art is never finished|art is never finished]].
 
 # Related
 

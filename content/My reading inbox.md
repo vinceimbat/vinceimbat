@@ -1,12 +1,13 @@
 ---
-title: "My reading inbox"
-date: "2021-08-19"
+title: My reading inbox
+date: 2021-08-19
+aliases:
+  - My-reading-inbox
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
 ---
-
-It is important to [[Use a reading inbox to capture useful reading materials]].
+It is important to [[use a reading inbox to capture useful reading materials]].
 
 Here is my own implementation of this useful tool.
 

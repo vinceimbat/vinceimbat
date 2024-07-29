@@ -13,7 +13,7 @@ Per Andrew's advice I also started studying the life of [[shinichiro imaoka|Shin
 
 Thinking about Imaoka put me back to my quest and framing my life into a ministry. I asked myself what kind of ministry would fit my current life and realized that what preoccupied most of my 20s after leaving the church was an exploration of writing. I was primarily self-taught, and most of my writing was highly personal. And yet, it was a writing life nonetheless.
 
-So, I began considering how I could transform writing into a ministry. I considered the methods of the [[thoughts/transcendentalism|American Transcendentalists]] through the book [[literature/literary transcendentalism buell|Literary Transcendentalism]] by Lawrence Buell and learned that they were primarily preoccupied with how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
+So, I began considering how I could transform writing into a ministry. I considered the methods of the [[transcendentalism|American Transcendentalists]] through the book [[literature/literary transcendentalism buell|Literary Transcendentalism]] by Lawrence Buell and learned that they were primarily preoccupied with how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
 
 I then encountered [[pat schneider]] whose writing method detailed in her book  [[writing alone and with others schneider|Writing Alone and with Others]] was used to transform writing into a method for spiritual and social change.
 ***

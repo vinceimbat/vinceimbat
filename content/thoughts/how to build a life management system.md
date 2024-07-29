@@ -39,7 +39,7 @@ Tools require time and effort to learn. The same can be said with getting used t
 
 ## Ground level: Capture and organize actionable and non-actionable information
 
-The [[thoughts/ground level]] captures and organizes [[Loose ends]]. Per [[thoughts/getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
+The [[thoughts/ground level]] captures and organizes [[Loose ends]]. Per [[getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
 
 Here is [[my lms ground level setup]].
 

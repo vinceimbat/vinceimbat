@@ -1,9 +1,9 @@
 ---
 title: Find your purpose through divergence–convergence
 date: 2022-04-27
-aliases:
-  - find your purpose through divergence–convergence
+aliases: thoughts/find-your-purpose-through-divergence–convergence
 tags:
+  - thoughts
   - seedlings
 sr-due: 2023-02-14
 sr-interval: 43

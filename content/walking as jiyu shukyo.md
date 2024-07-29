@@ -6,10 +6,19 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-07-30
+sr-interval: 1
+sr-ease: 227
 ---
-Walking is continuous movement. It is both a metaphor and an embodiment of jiyu shukyo. By engaging in a practice like the contemporary derive which asks you to intentionally see the world differently, walking could help you embody this sense of positionlessness or if you want positionfulness.
+[[Walking]] is continuous movement. Because of this, it is both metaphor and physical manifestation of [[jiyu shukyo|jiyū shūkyō's]] commitment: an active faith to the unity of being that requires deep listening and openness to change.
 
-Walking means multiple views, grounded views. Important to cast a wider net to things we consume: read, listen to, watch.
+Done intentionally, walking easily becomes a platform for observation, thought, and even some writing. By engaging in a practice like the contemporary [[derive]] that requires a radical and new way of seeing the world, walking could help one embody a sense of positionlessness, which is actually positionfulness.
+
+Because of its nature, walking is a critical component of [[my poetics]] and my pursuit of [[my quest]].
+
+# Unsorted
+
+Using walking to capture this subject involves capturing it in the perspective of a moving self that either walks in nature alone, walks across society, or walks across society in nature.
 
 I shouldn't look at other people in just one perspective.
 
@@ -26,8 +35,3 @@ This matches the patterns Phil Smith saw in the walking arts.
 - collectivism (pre-2008)
 - individualism and subjectivism (post-2008)
 - embodiment and the unhuman (now)
-
-# A Walking Aesthetic: Writing as A Subsistent Spiritual Practice
-
-## Walking on Large Rocks Across a Creek
-

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"51f60bc33c69f84c","type":"text","text":"What is a [[draft|draft]]?","x":-360,"y":-540,"width":250,"height":60},
-		{"id":"22960623eaeaebba","type":"text","text":"[[thoughts/art is never finished|art is never finished]]","x":-360,"y":-460,"width":250,"height":60},
+		{"id":"22960623eaeaebba","type":"text","text":"[[art is never finished|art is never finished]]","x":-360,"y":-460,"width":250,"height":60},
 		{"id":"21f2cb7b1112840c","type":"text","text":"[[thoughts/the draft is liminal|the draft is liminal]]","x":-360,"y":-380,"width":250,"height":60},
 		{"id":"b1b411b1d6b1b7d3","type":"text","text":"[[thoughts/the talahardin blurs the distinction between draft and published work|the talahardin blurs the distinction between draft and published work]]","x":-360,"y":-300,"width":250,"height":100},
 		{"id":"fb0c5a90a0629b59","x":-1123,"y":-185,"width":250,"height":60,"type":"text","text":""},

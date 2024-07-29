@@ -10,7 +10,7 @@ sr-interval: 22
 sr-ease: 290
 ---
 
-The argument is that since we will eventually die, nothing that we do right now really matters. [[thoughts/life is inherently meaningless]].
+The argument is that since we will eventually die, nothing that we do right now really matters. [[life is inherently meaningless]].
 
 # References
 

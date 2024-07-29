@@ -12,7 +12,7 @@ Passion does not have to be removed from the equation. You can combine passion w
 
 Becoming a top performer is not what is always wanted by people in their work lives. A level of autonomy and doing something they love is most of the time enough. They do not have to compete always.
 
-Newport was not clear about finding what to apply his work philosophy into. His advice to just pick anything and be good at it and passion will follow is flawed because it could lead to choosing the wrong path. On needs to diverge before one converges ([[thoughts/find your purpose through divergence–convergence]]). One needs to do some exploration before one commits to something. Try different things and use feedback from doing to narrow down into a specialization. Specifically, find places where you show grit, where you continue to persevere despite setbacks. Read Range
+Newport was not clear about finding what to apply his work philosophy into. His advice to just pick anything and be good at it and passion will follow is flawed because it could lead to choosing the wrong path. On needs to diverge before one converges ([[find your purpose through divergence–convergence]]). One needs to do some exploration before one commits to something. Try different things and use feedback from doing to narrow down into a specialization. Specifically, find places where you show grit, where you continue to persevere despite setbacks. Read Range
 
 Meritocracy doesn't always apply in all circumstances. Being really good at something does not assure you that you will not be ignored. There are other factors like your gender and ethnicity that can go against your getting ahead in your career.
 

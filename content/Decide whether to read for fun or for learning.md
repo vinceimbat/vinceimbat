@@ -1,14 +1,15 @@
 ---
-title: "Decide whether to read for fun or for learning"
-date: "2021-11-04"
+title: Decide whether to read for fun or for learning
+date: 2021-11-04
+aliases:
+  - Decide-whether-to-read-for-fun-or-for-learning
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2022-10-08
 sr-interval: 8
 sr-ease: 254
 ---
-
 Your decision on whether to read for fun or for learning determines:
 
 - your choice of reading material and
@@ -26,4 +27,3 @@ This more deliberate process means you also have to read on your computer where 
 # References
 
 Fast, S. (2018, May 25). *The Barbell Method of Reading*. Zettelkasten Method. [https://www.zettelkasten.de/posts/barbell-method-reading/](https://www.zettelkasten.de/posts/barbell-method-reading/)
-

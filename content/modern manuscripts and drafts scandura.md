@@ -11,7 +11,7 @@ tags:
 # Notes
 
 - [[draft|draft]] DONE
-- [[thoughts/art is never finished|art is never finished]]
+- [[art is never finished|art is never finished]]
 - [[thoughts/the draft is liminal|the draft is liminal]] DONE
 - [[thoughts/the talahardin blurs the distinction between draft and published work|the talahardin blurs the distinction between draft and published work]] DONE
 - [[thoughts/the talahardin is a draft|the talahardin is a draft]] DONE

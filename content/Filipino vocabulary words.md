@@ -110,6 +110,7 @@ Kaibuturan - kaloob-looban o kalagitnaan; "aking kaibuturan" = soul
 Kakanyahan - kaakuhan; natatanging aspekto ng katauhan ng isang tao; identidad; ang gayon ding pagkakakilanlan ng isang pangkat o bansa bílang tatak ng pagkakaisa
 Kalabusaw - mabilis at hindi kontroladong pagkampay ng bisig at pagpadyak ng sinumang nag-aaral lumangoy; tunog ng nila-busaw na tubig.
 Kalamkam - kiliti (pero ginamit ni Tinio para ilarawan ang radyo)
+Kalaykay - kasangkapang pangkahig ng lupa, karaniwang yarì sa bakal ang ngipin, at gawâ sa ka-hoy ang hawakán
 Kaligkig - panginginig ng katawan dahil sa ginaw na dulot ng lagnat
 Kambas - uri ng tela na matibay at magaspang, yarì sa hemp o flax, o ibang magaspang na himaymay, at ginagamit sa pag-gawâ ng layag, tolda, at iba pang materyales na pinipintahan; canvas
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
@@ -181,6 +182,7 @@ Ngisi - grin; pag-ngiti nang banát ang labì at nakalan-tad ang mga ngipin
 Ngisngis - pagngiti o pagtawa nang nakikíta ang mga ngipin
 Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
 Ngulontoy - varyant ng kuluntoy; mga buhol na sanhi ng masyadong pagkakapilipit; kupás at lanta, gaya ng kuluntóy na bulaklak at dahon _var_ nguluntóy
+Nguyngoy - walang patíd na pag-iyak ng batàng nag-aalboroto
 
 # O
 
@@ -299,6 +301,7 @@ Tuwad - nakahilig pababâ sa harap na ang puwit ay higit na mataas kaysa ulo
 
 Ulo-ulo - tadpole; butete
 Ultaw - litaw
+Untol - pansamantalang paghinto
 Usal - paulit-ulit na pagsasalita nang pabulong, karaniwan kapag nagsasaulo ng isang aralin.
 Uwang - [ST] beetle; pag-iyak ng batà; pag-ungal ng hayop, pagtahol ng áso, at katulad.
 

@@ -35,7 +35,7 @@ These levels of understanding are all jump-off points to other intellectual disc
 
 In the Philippines, these three levels are usually explored in academic psychology circles, Eastern spirituality circles, and Christian circles. However, [[thoughts/we need a non-academic and non-sectarian discourse in intentional living|we need a non-academic and non-sectarian discourse in intentional living]].
 
-I study a lot of different subjects and here is [[thoughts/my studying process|my studying process]].
+I study a lot of different subjects and here is [[my studying process|my studying process]].
 
 The [[thoughts/life area|life areas]] under understanding are the following:
 

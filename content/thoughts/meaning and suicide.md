@@ -15,7 +15,7 @@ If the universe is finite there will come a point where our search for a larger 
 
 There is no inherent meaning.
 
-[[thoughts/life is inherently meaningless|Life is inherently meaningless]]. Nevertheless, [[thoughts/meaningful living is possible despite meaninglessness|meaningful living is possible despite meaninglessness]] if we do our best to put meaning into our lives.
+[[life is inherently meaningless|Life is inherently meaningless]]. Nevertheless, [[meaningful living is possible despite meaninglessness|meaningful living is possible despite meaninglessness]] if we do our best to put meaning into our lives.
 
 Taken at face value, the grave is the goal and killing myself is the most logical thing to do.
 

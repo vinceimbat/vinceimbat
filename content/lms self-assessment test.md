@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-This test is ideally taken before and after going through the [[building a minimum viable lms program|Building a Minimum Viable LMS Program]]. It was taken from the [[thoughts/getting things done|Getting Things Done]] workbook.
+This test is ideally taken before and after going through the [[building a minimum viable lms program|Building a Minimum Viable LMS Program]]. It was taken from the [[getting things done|Getting Things Done]] workbook.
 
 Rate yourself according to this scale:
 1 = strongly disagree

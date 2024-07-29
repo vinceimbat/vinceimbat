@@ -136,7 +136,7 @@ After reflecting on an excerpt from the essay "Presence, Memory, and Faith" by S
 
 In response to my reading of [[thoughts/a religion of ones own by moore|A Religion of One's Own by Thomas Moore]], I started a [[thoughts/dream log|dream log]]. I noticed that starting a dream log seems to make me have more dreams and remember them.
 
-My favorite thought note this month is: [[thoughts/art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
+My favorite thought note this month is: [[art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
 
 The best things I read this month were:
 - [[literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
@@ -178,7 +178,7 @@ Per Andrew's advice I also started studying the life of [[shinichiro imaoka|Shin
 
 Thinking about Imaoka put me back to my quest and framing my life into a ministry. I asked myself what kind of ministry would fit my current life and realized that what preoccupied most of my 20s after leaving the church was an exploration of writing. I was primarily self-taught, and most of my writing was highly personal. And yet, it was a writing life nonetheless.
 
-So, I began considering how I could transform writing into a ministry. I considered the methods of the [[thoughts/transcendentalism|American Transcendentalists]] through the book [[literature/literary transcendentalism buell|Literary Transcendentalism]] by Lawrence Buell and learned that they were primarily preoccupied with how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
+So, I began considering how I could transform writing into a ministry. I considered the methods of the [[transcendentalism|American Transcendentalists]] through the book [[literature/literary transcendentalism buell|Literary Transcendentalism]] by Lawrence Buell and learned that they were primarily preoccupied with how writing can both be a tool to go deeper into transcendentalism (i.e., to live a unique ethical life) and a vehicle to express the creative genius they believe reside within every human being.
 
 I then encountered [[pat schneider]] whose writing method detailed in her book  [[writing alone and with others schneider|Writing Alone and with Others]] was used to transform writing into a method for spiritual and social change.
 

@@ -16,7 +16,7 @@ From Imaoka's own words:
 
 >Coincidentally, I was born in the year (1881) before Emerson died in 1882. Also, I followed in his footsteps at Harvard, and since he was a Unitarian and my great teacher of free religion, I feel a great responsibility in accepting his spiritual legacy.
 
-By claiming descendance from Emerson, Imaoka is in some way like many contemporary [[unitarianism|Unitarian]] ministers, a  [[thoughts/transcendentalism|transcendentalist]]. Imaoka extended the idea of free religion by making it less individualistic. Per his biographer, George Williams:
+By claiming descendance from Emerson, Imaoka is in some way like many contemporary [[unitarianism|Unitarian]] ministers, a  [[transcendentalism|transcendentalist]]. Imaoka extended the idea of free religion by making it less individualistic. Per his biographer, George Williams:
 
 >Imaoka had taken Emerson’s “free religion” to heart, but it was still too individualistic, too self-centered. It was for him freedom’s paradox. As a concept, it was an absolute, a value that asserts freedom from bondage of any kind. Yet, absolute freedom was impossible, even for kings and emperors. If it could be understood as an image of a cosmic ideal that calls humans to become better and strive for something higher, then freedom could be seen as the ideal of all religion.
 

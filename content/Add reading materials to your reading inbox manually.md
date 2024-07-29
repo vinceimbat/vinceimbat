@@ -13,6 +13,6 @@ Manually adding reading materials to your reading inbox allows you to be more in
 
 # Related
 
-- [[Guidelines on what to add to your reading inbox]]
+- [[guidelines on what to add to your reading inbox]]
 
 # References

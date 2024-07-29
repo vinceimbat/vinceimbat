@@ -1,22 +1,23 @@
 ---
-title: "How to manage a reading inbox"
-date: "2021-11-04"
+title: How to manage a reading inbox
+date: 2021-11-04
+aliases:
+  - How-to-manage-a-reading-inbox
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2022-10-03
 sr-interval: 3
 sr-ease: 250
 ---
-
 The purpose of a [[reading inbox]] is to capture potentially useful reading materials while filtering out the noise. It can only fulfill this purpose if reading materials do not accumulate indiscriminately and if you are, in fact, encouraged to read the best materials.
 
 To do this, you need to assure that [[Efficient inboxes are reliably drained]] by following these guidelines:
 
 1. Selectively choose the information streams (i.e. newsletters, books, social media feed, etc.) you allow into your life. To do this, make sure that the information you consume are aligned with your current projects and purpose ([[purpose organizes your life]]).
-2. Regularly review these information streams to identify potentially useful reading materials. Skim through each stream, usually newsletters, and choose materials based on [[Guidelines on what to add to your reading inbox]]. When you have made a choice, [[Add reading materials to your reading inbox manually]].
-3. At least once a week, during your [[weekly review]], go through [[My reading inbox]] and decide what to do with each item. Either delete a material or keep it. The decision-making process is inuitive, based on the material's relevance to your current interests. If the material has been in your inbox for more than a month, delete it. Also, remember, never arrange your reading inbox in any structure.
-4. Whenever you are in a position to read, [[Decide whether to read for fun or for learning]]. Your purpose for reading determines how you read.
+2. Regularly review these information streams to identify potentially useful reading materials. Skim through each stream, usually newsletters, and choose materials based on [[guidelines on what to add to your reading inbox]]. When you have made a choice, [[Add reading materials to your reading inbox manually]].
+3. At least once a week, during your [[weekly review]], go through [[my reading inbox]] and decide what to do with each item. Either delete a material or keep it. The decision-making process is inuitive, based on the material's relevance to your current interests. If the material has been in your inbox for more than a month, delete it. Also, remember, never arrange your reading inbox in any structure.
+4. Whenever you are in a position to read, [[decide whether to read for fun or for learning]]. Your purpose for reading determines how you read.
 5. If you want to read to learn, avoid reading on your phone ([[Use your phone to collect materials not read them]]. Instead, read on your computer where it is easier to write notes.
 6. For what to do when reading itself, follow these guides:
    - [[How to read effectively]]

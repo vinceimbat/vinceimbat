@@ -2,11 +2,12 @@
 title: Getting Things Done
 date: 2021-02-12
 aliases:
-  - getting things done
+  - thoughts/getting-things-done
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-10-03
-sr-interval: 3
+sr-due: 2026-11-21
+sr-interval: 845
 sr-ease: 252
 ---
 

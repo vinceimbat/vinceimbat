@@ -8,7 +8,7 @@ sr-due: 2023-09-17
 sr-interval: 1
 sr-ease: 231
 ---
-Like the material it preserves (the [[draft|draft]]), the [[talahardin|talahardin]] being an archive, follows the qualities of fragmentation, partiality, and incompletion. If a draft is never complete ([[thoughts/art is never finished|art is never finished]]), working on the talahardin archive is also never finished. Therefore, both the draft and the archive are more process than thing ([[thoughts/talahardin emphasizes process|talahardin emphasizes process]]). The talahardin is a perpetual draft.
+Like the material it preserves (the [[draft|draft]]), the [[talahardin|talahardin]] being an archive, follows the qualities of fragmentation, partiality, and incompletion. If a draft is never complete ([[art is never finished|art is never finished]]), working on the talahardin archive is also never finished. Therefore, both the draft and the archive are more process than thing ([[thoughts/talahardin emphasizes process|talahardin emphasizes process]]). The talahardin is a perpetual draft.
 
 # References
 

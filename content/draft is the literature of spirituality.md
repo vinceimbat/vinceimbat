@@ -6,6 +6,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-07-30
+sr-interval: 1
+sr-ease: 230
 ---
 A spiritual calling necessitates that the [[diary]] or journal and, by extension, the [[talahardin]], which are all drafts, become my primary work as a writer. This is not to say that they have to be my public-facing works nor that I shouldn't write anything for the public; only that all my writing should begin with the intimate intention to clarify things for myself first before I even consider the needs of an audience.
 

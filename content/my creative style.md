@@ -8,7 +8,7 @@ tags:
   - seedlings
 ---
 I want my work to execute the following:
-1. Framework: Move between these three realms: cosmic–local–personal (ala [[henry david thoreau|Thoreau]]).
+1. Framework: Move between these three realms: cosmic–local–personal (ala [[henry david thoreau|Thoreau]]; see [[micro then macro]]). 
 2. Inventiveness and poetry (ala [[annie dillard|Dillard]])
 3. Simplicity of language (ala [[ben hewitt|Ben Hewitt]] and [[rofel brion|Rofel Brion]])
 4. Short vignettes with some photographs (ala [[craig mod|Craig Mod]])

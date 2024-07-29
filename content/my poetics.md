@@ -7,87 +7,54 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-07-30
+sr-interval: 1
+sr-ease: NaN
 ---
-My main purpose of articulating my poetics is to express the tight connection between the act of creative production and the spiritual life I seek to live. In clarifying the issues scoped by this document, I hope I could continue to enjoy a creative life aligned with my values. This project was partly inspired by the work of [[hundred rabbits|Hundred Rabbits]].
+Note: This note is very much a work in progress. The more I understand jiyū shūkyō, the clearer my poetics becomes.
+***
 
-My [[poetics]] heavily relies on [[my worldview|my worldview]] and [[my quest|my quest]].
+My decision to create could only come after my decision to live. This decision is not easy given the circumstances of [[the setting]].
 
-I describe my poetics based on:
-1. My values and principles
-2. How I want to feel + what I want to achieve during and after creation
-3. What I want others to achieve and feel after experiencing my creation
-4. How my process will achieve the two above
+[[A life is the perfect communication]], but within a life is a collection of activities that heighten the desire to communicate. We call this collection, [[art]]. The actions I take that make up what I call my life, which includes my acts of creation, all communicate what I have found in [[my quest]] to understand the universe and how to be in it.
 
-# Summary
+My poetics is simply an articulation of a framework that I try to follow when I create. I try to articulate it to express the intricate connection between the act of creative production and the life I seek to live. My poetics is heavily influenced by [[jiyu shukyo|jiyū shūkyō]].
 
-I want my process of creation to be fun—something I look forward to. I also want it to be freeing: it allows me to be myself and follow my curiosities. I want it to make me a better and wiser human being. I want to leave each creative project feeling that the process and its product has enriched my life and those of others. I want my work to nurture faith in my self, my neighbor, nature, and the underlying unity of the universe.
+In simple terms, jiyū shūkyō is a creative, inquiring, free, and liberative spirituality. Its subject is the mystery that unifies everything that exists in the setting: the self, the neighbor, the nonhuman, and the universal society that they all make up. Its dream is the realization of a universal cooperative society where the sacredness of self, neighbor, and nonhuman are upheld. Its commitment is an active faith to this mysterious unity, a faith that requires deep listening and openness to change.
 
-To achieve these, I try to honor the following principles:
+# Principles
 
-1. Try things out but aspire to narrow down the message and method of your work to simplify your life.
-2. Continuously trim distractions out of your life.
-3. Maintain a daily philosophical practice of reading and writing notes in your [[talahardin]].
-4. Maintain a daily contemplative practice that puts you in direct contact with the world (i.e., meditation and walking).
-5. Connect daily with readers, peers, and mentors who help nurture your work.
-6. Get better at your craft of creating essays, poems, photographs, and books, and bringing them to the right people.
+## Jiyu shukyo principles
 
-[[My workflow]] is the direct expression of my poetics.
 
-# My values principles
 
-Here are [[my top values]].
+## Relevant principles
 
-And here is a collection of principles I keep in mind when working:
-
+- [[find your purpose through divergence–convergence]]
+- What is the principle behind the need for a philo practice?
+- [[art is never finished]]
+- [[draft is the literature of spirituality]]
+- What is the principle behind daily connection with audience?
+- What is the principle behind getting better in my craft?
 - [[inner first]]
-- [[micro then macro]]
+- [[process over product]]
 - [[always incorporate strengths]]
 - [[my life work is both emotional and intellectual]]
-- [[process over product]]
 
-# What I want to feel + achieve
+[[My creative practice]] is an expression of my poetics.
 
-- [[elevate experiences]]
-- [[cultivate wisdom]]
-- [[have direct impact]]
-- [[enjoy community]]
-- [[be sustainable]]
+***
 
-# What I want my audience to feel + achieve
+# Unsorted
 
-I want my work to have an effect on the following people:
-
-- [[my ideal audience persona]]
-- [[my audience and community]]
-- [[my ideal mentors and peers]]
-
-My field is the arts and letters ([[a life in letters]]). But my art is heavily informed by my spiritual explorations in [[jiyu shukyo]].
-
-Being Filipino, my audience will primarily be Filipinos. But I still want to converse with an international audience because I engage with universal topics.
-
-I want my audience to feel the following when engaging with my works:
-- movement
-- being outdoors in the world
-- being in different positions
-- [[i want my audience to feel existential|existential]]
-- feeling like they want to do something similar
-- connection with themselves
-- connection with their neighbor
-- connection with society
-- connection with the nonhuman
-
-# My process
-
-- [[my subject matter]]
-- [[my media]]
-- [[my creative artifacts]]
-- [[my creative style]]
-- [[creative writing forms i like]]
-- [[my method]]
-- [[my languages]]
-- [[my sustainability model]]
-- [[my workflow]]
-	- This note is perhaps the most important among all notes describing my process. It is the direct expression of my poetics.
+Topics to possibly integrate here:
+- A discussion on the poetics of the draft and how journaling connects to it.
+- Limited literary production
+	- [[thoreau wrote little]]
+- Most important activities (workflow)
+- Style of writing
+- Walking
+	- [[walking as jiyu shukyo]]
 
 # To do
 
@@ -98,3 +65,7 @@ I want my audience to feel the following when engaging with my works:
 - [[my bio]]
 - [[creativity]]
 - [[website design plan]]
+
+# References
+
+This project was partly inspired by the work of [[Hundred Rabbits]] described in the [about](https://100r.co/site/about_us.html) section of their website. It also draws on the chapter "Protheus" in Ethel Seybold's book _Thoreau: The Quest and the Classics_ (1951).

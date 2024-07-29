@@ -1,15 +1,16 @@
 ---
-title: "My studying process"
-date: "2021-12-09"
+title: My studying process
+date: 2021-12-09
 aliases:
-- "Talahardin cycle"
+  - Talahardin-cycle
+  - thoughts/my-studying-process
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2024-12-05
 sr-interval: 482
 sr-ease: 228
 ---
-
 The [[talahardin]] cycle refers to the holistic process of using the system in engaging with information and generating knowledge. It is a cycle because the end of one loop informs the next. The phases of this cycle are:
 
 1. [[metalearning]]

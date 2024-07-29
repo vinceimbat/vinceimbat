@@ -9,7 +9,7 @@ sr-interval: 185
 sr-ease: 270
 ---
 
-Sometimes I ask myself why we do [[thoughts/art]]. And I look around me and I see too much emphasis in doing art to change the world, to make a decent living, to inspire others, to save culture, to elevate culture, to gain respect and attention and recognition from others. I see this and I feel like there is too much outward thinking in art.
+Sometimes I ask myself why we do [[art]]. And I look around me and I see too much emphasis in doing art to change the world, to make a decent living, to inspire others, to save culture, to elevate culture, to gain respect and attention and recognition from others. I see this and I feel like there is too much outward thinking in art.
 
 And I wonder how many of us are still truly looking inwards. Are we still using art as a tool for self-renewal? Or are we sacrificing our well-being and the well-being of those intimately around us for the sake of it? Have we become kinder people because of art or have we sacrificed our responsibility to be good towards others just to create great work?
 
