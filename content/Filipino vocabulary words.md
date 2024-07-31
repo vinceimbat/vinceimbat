@@ -214,6 +214,9 @@ Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagka
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
 Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
+Pingki - biglaang pagtama sa isa’t isa ng dalawang bagay na matigas; tunog o kislap ng pagkikiskisan ng dalawang bagay na may katangiang magliyab.
+
+---
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
