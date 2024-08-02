@@ -26,8 +26,8 @@ There are four parts to my [[monthly review|monthly review]]:
 
 # Part II: Review my sky level
 
-1. Review [[my purpose is to live deliberately|my purpose]].
-2. Review [[my mission statement]].
+1. Review [[my quest]].
+2. Review [[my purpose is to live deliberately|my purpose]].
 3. Review my [[personal narrative vision|personal narrative vision]] for the year.
    - Bold parts that could be addressed with new projects.
    - Highlight parts that fit more into Areas.

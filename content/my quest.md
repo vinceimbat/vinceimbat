@@ -13,7 +13,7 @@ sr-ease: 215
 ---
 # The Setting
 
-I am an existent equipped with a measure of free will. But I am unsure where I came from. It seems that I was thrown in this universe—a wilderness—without my volition. Meaning is not a given in this wilderness. I could kill myself to escape this thrownness, this meaninglessness, this wilderness. But I realized I am capable of making meaning, so I could chose to continue living and have reasons for it.
+I am an existent equipped with a measure of free will. But I am unsure where I came from. It seems that I was thrown in this universe—a wilderness—without my volition. Meaning is not a given in this wilderness. I could kill myself to escape this thrownness, this meaninglessness, this wilderness. But I realized I am capable of making meaning, so I could choose to continue living and have reasons for it.
 
 The wilderness is deep and wide and life is long. In the wilderness are other human beings like me as well as nonhumans.[^1]
 

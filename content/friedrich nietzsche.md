@@ -2,14 +2,15 @@
 title: Friedrich Nietzsche
 date: 2021-12-15
 aliases:
-  - Friedrich Nietzsche
+  - Friedrich-Nietzsche
+  - thoughts/friedrich-nietzsche
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-07-23
-sr-interval: 362
+sr-due: 2027-02-06
+sr-interval: 918
 sr-ease: 250
 ---
-
 We can divide Nietzsche’s life into four phases:
 
 # Phase 1: 1844 (birth) to 1869 (became a professor of classical philology at the University of Basle)

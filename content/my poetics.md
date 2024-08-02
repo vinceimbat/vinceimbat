@@ -7,9 +7,6 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-07-30
-sr-interval: 1
-sr-ease: NaN
 ---
 Note: This note is very much a work in progress. The more I understand jiyū shūkyō, the clearer my poetics becomes.
 ***

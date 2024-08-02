@@ -10,7 +10,7 @@ sr-ease: 230
 
 # Authors
 
-- [[thoughts/friedrich nietzsche]]
+- [[friedrich nietzsche]]
 - [[henry bugbee]]
 - [[henry david thoreau]]
 - [[herman melville]]

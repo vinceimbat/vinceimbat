@@ -1,12 +1,17 @@
 ---
-title: "Kung Paano Tayo Magpapatuloy"
-date: "2022-11-28"
-location: [14.1698203,121.2362341]
+title: Kung Paano Tayo Magpapatuloy
+date: 2022-11-28
+aliases:
+  - poems/kung-paano-tayo-magpapatuloy
+location:
+  - 14.1698203
+  - 121.2362341
 tags:
-- "filipino"
-- "seedlings"
-sr-due: 2024-07-08
-sr-interval: 340
+  - poems
+  - filipino
+  - seedlings
+sr-due: 2027-03-12
+sr-interval: 952
 sr-ease: 270
 ---
 Ang paraan ng guro  

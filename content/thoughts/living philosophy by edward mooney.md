@@ -20,7 +20,7 @@ In the foreword of his book, *Living Philosophy*, [[edward mooney]] shares what 
 - [[michel de montaigne]]
 - [[henry david thoreau]]
 - [[soren kierkegaard]]
-- [[thoughts/friedrich nietzsche]]
+- [[friedrich nietzsche]]
 - [[thoughts/stanley cavell]]
 - [[herman melville]]
 - [[henry bugbee]]

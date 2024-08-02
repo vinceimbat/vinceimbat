@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-07-31
-sr-interval: 2
+sr-due: 2024-08-09
+sr-interval: 7
 sr-ease: 248
 ---
 - [[journaling is sacred]]
