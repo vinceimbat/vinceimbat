@@ -10,7 +10,7 @@ sr-ease: 230
 ---
 One of the benefits I've personally experienced in engaging with a writer's drafts, including their diaries and other private writings, is that they helped me understand the writer's process and life more than their published works could ever do. For me, the context of a thinker's thoughts is highly critical in truly understanding the content of his works and making them practical to one's life.
 
-My best personal example for this is [[reading thoreau journal|reading Thoreau's journal]] and [[literature/henry david thoreau by walls|Laura Dassow Walls' biography of him]].
+My best personal example for this is [[reading thoreau journal|reading Thoreau's journal]] and [[henry david thoreau walls|Laura Dassow Walls' biography of him]].
 
 # References
 

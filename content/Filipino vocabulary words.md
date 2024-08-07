@@ -40,6 +40,7 @@ Bulahaw - [ST] malakas ang tinig, idinadaan ang lahat sa lakas ng sigaw; paggulo
 Bulalas - pagpapakita o paglalabas kung ano ang nása loob; táo na mahilig maglustay; biglang pagsasalita dahil sa matinding damdamin, pagkagulat, pagtutol, at katulad; pagsigaw o pagsasalita nang malakas o mariin
 Bulsikot - purse; maliit na bag, pouch, o kaha na lalagyan ng salapi
 Bulugan - [ST] laláking baboy o kabayo na ginagamit sa pagpapalahi; barako
+Bunsol -  pagkawala ng ulirat; [ST] kulam para magalit; tákot na muling gawin ang isang bagay
 Burak - uri ng pútik na mabahò at malansa gaya ng putik sa pusalì at estero
 Busilak - immaculate; pure; immaculate whiteness (busilak sa kaputian; lalong bubusilak)
 Butlig - maliit at namumuláng umbok sa balát
@@ -67,6 +68,7 @@ Edad medya - Middle Ages
 Ginsa - bigla (nang di-kaginsa-ginsa'y)
 Gupo - pagbagsak o pagkagiba, karaniwang dahil sa labis na kahinàan o sa bigat ng anumang dumagán (maigupo = foiled)
 Gulantang - nagulat; biglang nagising
+Guryon - malakíng saranggola na may sumba
 
 # H
 
@@ -90,7 +92,9 @@ Hugos - pagbababâ ng anuman mula sa mataas na kinalalagyan; sabáyang pagsugod 
 Hugpong - joint; bagay na nag-uugnay o nagkakabit sa dalawang bagay; ang púnto na pinagdugtungan ng dalawang bagay; ang karugtong o idinugtong sa dulo upang humabà (naghuhugpong; hugpungan)
 Hulab - possibly hunab; vapor rising from the ground
 Hulagpos - freed
+Hulaw - pagtigil o paghinto ng marahas na pangyayari, gaya ng paghulaw ng bagyo
 Hulo - pinagmumulan ng agos ng tubig; bahagi ng isang bayan o komunidad na nása gawíng pataas ng isang bundok o libis; o nása ibabâ naman kung pababâ at malapit sa ilog o dagat; ilaya
+Humpak - nakalundo paloob ang anyo dahil walang lamán, gaya ng pisngi na walang ngipin o ng tiyan ng payat at gutom
 Huna - karupukan ng isang estruktura (kahunaan = frailty)
 Hungkag - walang laman
 Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
@@ -186,6 +190,7 @@ Nguyngoy - walang patíd na pag-iyak ng batàng nag-aalboroto
 
 # O
 
+Obertura - overture; panimula o pambungad na tugtugin sa komposisyong pang-orkestra, opera, at iba pa; pambungad na negosasyon
 Olandes - baybay sa Tagalog ng Holandes.
 
 # P
@@ -208,6 +213,7 @@ Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina 
 Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _var_ panim-dímin
 Pañuelo - dress
 Payneta - suklay na nakapabalantok at karaniwang pampalamuti sa buhok ng babae; peyneta; tiara?
+Payumpong - paypay
 Pelus - velvet
 Pigtal - natanggal at nalaglag sa kinabibilangang kalakhan, gaya ng dahon o bulaklak na natanggal sa haláman nitó
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
@@ -215,13 +221,11 @@ Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
 Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
 Pingki - biglaang pagtama sa isa’t isa ng dalawang bagay na matigas; tunog o kislap ng pagkikiskisan ng dalawang bagay na may katangiang magliyab.
-
----
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
-Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing;   
-pag-antig o pagpapagunita sa isang nakalilimot
+Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing; pag-antig o pagpapagunita sa isang nakalilimot
+Pulon - [ST] pagsasama-sama ng mga tao o bagay; pag-pupulupot ng talì, lubid, at kauri
 Punebre - tugtog para sa patay o paglilibing.
 Punglo -  bagay na ginagamit para ipantudla ng target sa pagbaril, karaniwang yarì sa metal at may la-máng pulbura
 Puntas - pínong pi-raso ng tela na binuo sa pamama-gitan ng pagborda at ginagamit bílang pandekorasyon sa gilid ng damit, kortina, at katulad; lace
@@ -242,6 +246,7 @@ Salabid - pagsabit, pagkapulupot, o pagkapátid ng paa, gaya sa lubid o alambre
 Salat - hipo
 Salimbay - palutang na paglipad nang hindi ikinakampay ang mga pakpak.
 Salta - lundag; pasok
+Salunong
 Samay - pagsasáma-sáma ng mga himaymay para bumuo ng disenyo
 Sambasamba - mantis; uri ng yerba na mapait.
 Sambulat - pagkalat at pagtilapon sa maraming piraso
@@ -257,11 +262,13 @@ Siglaw - glimpse
 Silat - siwang sa pagitan ng mga kawayang sahig
 Silbato - pito; instrumentong naglalabas ng matinis na tunog sa pamamagitan ng hininga at kara-niwang ginagamit sa pagbibigay ng senyas
 Silo - bitag (nagpapabitag)
+Simsim - [ST] pagsipsip upang tikman ; pag-namnam ng lasa; pagpapaka-siyá sa kagandahan ng isang babae
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
 Sisne - swan
 Siwang - bahag-yang bukás, kung sa pinto, bintana, at katulad
 Sonambulo - sumat; pagsa-salita at paglalakad hábang natu-tulog
+Sugpong - hugpong
 Sulingan - refuge
 Sulsi - pagtahi sa sirà ng damit, sako, lambat, at katulad
 Sungaw - pierce
@@ -283,7 +290,8 @@ Tigmak - babad; lubhang basâ dahil sa malakas na buhos ng anumang likido, gaya 
 Tiim - nakaimpit ang labì, ngipin, o bagáng sa pagpipigil o pagtitimpi ng galit o sakít
 Tikatik - hinggil sa ulan na mahinà ngunit tuloy-tuloy; ganitong paraan ng paggawâ.
 Tiklis - basket na malakí ang bibig, maluwang ang pagkalála, at may pares ng taingang hawakan
-Tilamsik - talsik; paglipad o pagkalat ng likido\
+Tilamsik - talsik; paglipad o pagkalat ng likido
+Tilandoy - bulwak ng tubig pataas
 Tilas - cocoon
 Timbuwang - matumba nang patihaya, padipa, at pabukakâ
 Tinis - tinig na mataas, matalim, at nanunuot sa pandinig; kataasan at kalakasan ng tinig.

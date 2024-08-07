@@ -2,11 +2,13 @@
 title: "Henry David Thoreau: A Life by Walls"
 date: 2023-01-16
 aliases:
-  - Henry David Thoreau by Walls
+  - Henry-David-Thoreau-by-Walls
+  - literature/henry-david-thoreau-by-walls
 tags:
+  - literature
   - seedlings
-sr-due: 2024-08-01
-sr-interval: 314
+sr-due: 2026-09-27
+sr-interval: 786
 sr-ease: 250
 ---
 Laura Dassow Wall's biography of one of the most eclectic writers of all time was my best read of the year. It's one of the books that are just so immersive. I have an eye for biographies because I was exposed to them in college. I know what good historiography is. But Dassow Walls' biography was entirely different and unique from all the academic biographies I've read. She writes as if she's in a quest to answer the same questions that Thoreau asked himself—and, actually, she was! She also writes poetically and she has a taste for creative literary tools—there are cliffhangers all over the book creating suspense at the end of sections, making you want to read more of what could've been a very boring book.
