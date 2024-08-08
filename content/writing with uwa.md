@@ -9,5 +9,6 @@ tags:
 ---
 Narito ang mga naisulat ko kasama si Uwa.
 
-- [[ala-ala|Ala-ala]]
-- [[malunggay|Malunggay]]
+- [[Ala-ala]]
+- [[Malunggay]]
+- [[Mahal na M]]
