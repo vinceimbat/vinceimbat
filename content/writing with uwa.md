@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Narito ang mga naisulat ko kasama si Uwa.
+Uwa and I have a weekly writing call. During those calls, I've written the following:
 
 - [[Ala-ala]]
 - [[Malunggay]]
