@@ -29,7 +29,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - [[2023-12-25]]: [[literature/things become other things mod|Things Become Other Things by Craig Mod]] ★★
 - [[2023-11-24]]: [[literature/cosmic sage williams|Cosmic Sage by George Williams]]
 - [[2023-11-14]]: [[literature/bluets nelson|Bluets by Maggie Nelson]]
-- [[2023-10-10]]: [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] ★
+- [[2023-10-10]]: [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] ★
 - [[2023-07-16]]: [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]] ★
 - [[2023-07-13]]: [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]] ★
 - [[2023-07-10]]: [[thoughts/overlap by sean mccabe|Overlap by Sean McCabe]]

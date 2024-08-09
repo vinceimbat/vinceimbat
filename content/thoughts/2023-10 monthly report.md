@@ -153,7 +153,7 @@ Poetry
 
 ## Books
 
-- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (finished)
+- [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (finished)
 - Creative Inc. (unfinished)
 - [[literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
 - [[literature/bluets nelson|Bluets by Nelson]] (unfinished)

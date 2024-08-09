@@ -8,7 +8,7 @@ sr-interval: 25
 sr-ease: 250
 ---
 
-Author of [[literature/refusing heaven by jack gilbert|Refusing Heaven]].
+Author of [[refusing heaven gilbert|Refusing Heaven]].
 
 Reading Jack Gilbert's poems is giving me permission to write the way I write. I do not have to totally get out of who I have been as a poet. I just have to trust who I am. The way [[rem tanauan|Rem Tanauan]] and [[rofel brion|Rofel Brion]] trusts themselves.
 

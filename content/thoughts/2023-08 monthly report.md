@@ -7,7 +7,7 @@ draft: true
 ---
 # Summary
 
-In August, in between wrapping up a web design project with a client and starting a research writing project for a returning client, I managed to do some writing and studying. I returned to my study of [[thoughts/existentialism|existentialism]] by reading [[thoughts/jack gilbert|Jack Gilbert's]] poetry book *[[literature/refusing heaven by jack gilbert|Refusing Heaven]]*.
+In August, in between wrapping up a web design project with a client and starting a research writing project for a returning client, I managed to do some writing and studying. I returned to my study of [[thoughts/existentialism|existentialism]] by reading [[thoughts/jack gilbert|Jack Gilbert's]] poetry book *[[refusing heaven gilbert|Refusing Heaven]]*.
 
 I enjoyed writing two notes this month:
 - [[thoughts/public life is necessary|Public life is necessary]]
@@ -183,7 +183,7 @@ Others
 
 ## Books
 
-- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
+- [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
 - [[literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
 - [[literature/the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] (unfinished)

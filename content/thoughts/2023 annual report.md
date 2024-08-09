@@ -108,7 +108,7 @@ An essay I really loved reading this month was [[thoughts/melt the snowflake at 
 
 # August
 
-In August, in between wrapping up a web design project with a client and starting a research writing project for a returning client, I managed to do some writing and studying. I returned to my study of [[thoughts/existentialism|existentialism]] by reading [[thoughts/jack gilbert|Jack Gilbert's]] poetry book *[[literature/refusing heaven by jack gilbert|Refusing Heaven]]*.
+In August, in between wrapping up a web design project with a client and starting a research writing project for a returning client, I managed to do some writing and studying. I returned to my study of [[thoughts/existentialism|existentialism]] by reading [[thoughts/jack gilbert|Jack Gilbert's]] poetry book *[[refusing heaven gilbert|Refusing Heaven]]*.
 
 I enjoyed writing two notes this month:
 - [[thoughts/public life is necessary|Public life is necessary]]

@@ -163,7 +163,7 @@ Essays
 - [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read
 - [[wilderness and the heart mooney|Wilderness and the Heart by Edward Mooney]] - unfinished
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] - unfinished
-- [[literature/refusing heaven by jack gilbert|Refusing Heaven by Jack Gilbert]] - unfinished
+- [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] - unfinished
 
 ## Articles or Essays
 
