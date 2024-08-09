@@ -102,7 +102,7 @@ The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
 - [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 
-I also re-read [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
+I also re-read [[the collapse of what separates us serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
 
 An essay I really loved reading this month was [[thoughts/melt the snowflake at once by david rothenberg|Melt the Snowflake at Once! by David Rothenberg]].
 

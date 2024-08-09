@@ -9,4 +9,4 @@ tags:
   - thoughts
   - seedlings
 ---
-Author of [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us]].
+Author of [[the collapse of what separates us serrano|The Collapse of What Separates Us]].

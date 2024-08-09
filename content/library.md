@@ -33,7 +33,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - [[2023-07-16]]: [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]] ★
 - [[2023-07-13]]: [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]] ★
 - [[2023-07-10]]: [[thoughts/overlap by sean mccabe|Overlap by Sean McCabe]]
-- [[2023-06-30]]: [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] ★★
+- [[2023-06-30]]: [[the collapse of what separates us serrano|The Collapse of What Separates Us by Vincenz Serrano]] ★★
 - **The Elements of Style** by William Strunk and E.B. White (5)
 - **The Deleted World** by Tomas Tranströmer (4)
 - **May Nagsabi Sa Akin** by Rofel Brion (4) ★

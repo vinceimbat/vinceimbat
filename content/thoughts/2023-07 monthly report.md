@@ -31,7 +31,7 @@ The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
 - [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 
-I also re-read [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
+I also re-read [[the collapse of what separates us serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
 
 An essay I really loved reading this month was [[melt the snowflake at once by david rothenberg|Melt the Snowflake at Once! by David Rothenberg]].
 
@@ -160,7 +160,7 @@ Essays
 - [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
 - [[thoughts/the songlines by bruce chatwin|The Songlines by Bruce Chatwin]] - unfinished
 - [[wanderlust solnit|Wanderlust by Rebecca Solnit]] - unfinished
-- [[literature/the collapse of what separates us by vincenz serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read
+- [[the collapse of what separates us serrano|The Collapse of What Separates Us by Vincenz Serrano]] - close re-read
 - [[wilderness and the heart mooney|Wilderness and the Heart by Edward Mooney]] - unfinished
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] - unfinished
 - [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] - unfinished
