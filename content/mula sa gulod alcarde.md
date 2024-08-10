@@ -6,9 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-10
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-08-21
+sr-interval: 11
+sr-ease: 270
 ---
 
 # References
+
+Alcarde, Ryan. _Mula sa Gulod_. Aklat Ulagad, 2021.

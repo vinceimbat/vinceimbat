@@ -156,6 +156,7 @@ Linga - haláman (_Sesamun_ _indicum_ ) na may bilóg na butó na nakakain at na
 Litid - ligament, tendon; matibay na himaymay na naghuhugpong sa mga butó ng tao
 Liwasan - pook na malawak at karaniwang nása likás na kalagayan para paglibangan ng madla; ginamit ito ni Rofel para tukuyin ang safari
 Liya - napakaliit at tíla kaliskis na halámang tubig (Lemna paucicostata ) na sapád ang dahon at karaniwang tumutubò sa mga paliguan.
+Liyad - nakaposisyong pausli ang tiyan
 Liyo - pagkagulo ng isip ukol sa ginagawâ; pagkahilo nang bigla at panandalian
 Losa - porselana
 Luga - pagnananà sa loob ng tainga; utoy
@@ -192,6 +193,7 @@ Nguyngoy - walang patíd na pag-iyak ng batàng nag-aalboroto
 
 Obertura - overture; panimula o pambungad na tugtugin sa komposisyong pang-orkestra, opera, at iba pa; pambungad na negosasyon
 Olandes - baybay sa Tagalog ng Holandes.
+Opertoryo - sa simbahang Katolika, pag-aalay ng tinapay at alak sa Eukaristiya ; o ang awit hábang isinasagawâ ito; offertory; paghahandog ng anumang bagay sa altar hábang isinasagawâ ang serbisyong pansimbahan
 
 # P
 

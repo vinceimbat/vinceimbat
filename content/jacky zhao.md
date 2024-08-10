@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-08
-sr-interval: 11
+sr-due: 2024-09-12
+sr-interval: 33
 sr-ease: 270
 ---
 Creator of [[Quartz]].

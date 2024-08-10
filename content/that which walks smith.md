@@ -52,7 +52,7 @@ Even radical walking developed its own problems:
 
 # Response to rapid diversification
 
-Smith advocated the "situational dérive" to re-unite [[thoughts/psychogeography|psychogeography]] and the disruption of what he calls "the Spectacle" (which I think is capitalist alienation if not capitalism itself). Smith also advocated for ludibria, which involves using memory to re-imagine architectures and landscapes to change their meanings without rebuilding them. However, neither of his solutions worked because they were abstract and esoteric.
+Smith advocated the "situational dérive" to re-unite [[psychogeography|psychogeography]] and the disruption of what he calls "the Spectacle" (which I think is capitalist alienation if not capitalism itself). Smith also advocated for ludibria, which involves using memory to re-imagine architectures and landscapes to change their meanings without rebuilding them. However, neither of his solutions worked because they were abstract and esoteric.
 
 What seemed to have united the walking arts based on the Plymouth conference in 2019 were concrete materiality:
 - "the importance of embodiment" and

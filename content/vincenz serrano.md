@@ -10,3 +10,7 @@ tags:
   - seedlings
 ---
 Author of [[the collapse of what separates us serrano|The Collapse of What Separates Us]].
+
+# Related
+
+- [[serrano syllabus on walking]]

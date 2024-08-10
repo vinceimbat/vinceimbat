@@ -1,10 +1,13 @@
 ---
-title: "Evening at Pili Drive"
-date: "2022-10-16"
+title: Evening at Pili Drive
+date: 2022-10-16
+aliases:
+  - poems/evening-at-pili-drive
 tags:
-- "seedlings"
-sr-due: 2024-08-05
-sr-interval: 368
+  - poems
+  - seedlings
+sr-due: 2027-02-22
+sr-interval: 926
 sr-ease: 250
 ---
 Here along Pili Drive  
@@ -37,4 +40,4 @@ for which my ears and temporal lobe
 are the battleground  
 
 I have no doubt  
-you know who wins  
+you know who wins

@@ -6,10 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-03
-sr-interval: 4
+sr-due: 2024-08-30
+sr-interval: 20
 sr-ease: 270
 ---
-This is one of the main principles of emergent strategy by adrienne maree brown
+This is one of the main principles of emergent strategy by [[adrienne maree brown]]
 
 >to have a general idea of where I want us to go, then pay attention to what's happening in the room, and trust that what's needed will come--through me or through others. This is a growing edge but one I'm interested in exploring. There's freedom in feeling like I'm already enough; I don't need to hustle for more.

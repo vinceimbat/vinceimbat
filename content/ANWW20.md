@@ -1,9 +1,15 @@
 ---
-title: "ANWW20"
-date: "2023-06-14"
+title: ANWW20
+date: 2023-06-14
+aliases:
+  - ANWW20
+  - thoughts/anww20
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
+sr-due: 2023-10-05
+sr-interval: 3
+sr-ease: 253
 ---
 This is the acronym for the 20th Ateneo National Writer's Workshop organized by the Ateneo Institute of Literary Arts and Practices (AILAP) that ran from June 9–12, 2023.
 
@@ -38,3 +44,6 @@ During the workshop, here are my notes:
 - [[ANWW20 Jehu Laniog]]
 - [[ANWW20 Hunny Laurente]]
 - [[ANWW20 Jesa Suganob]]
+
+Lastly:
+- [[getting into anww20]]

@@ -1,9 +1,12 @@
 ---
 title: Dave Ursillo
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - thoughts/dave-ursillo
 draft: false
+tags:
+  - thoughts
+  - seedlings
 sr-due: 2023-12-03
 sr-interval: 3
 sr-ease: 250

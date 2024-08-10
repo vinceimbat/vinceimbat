@@ -29,6 +29,10 @@ tags:
 - To walk out through the top of a cloud is good. Once or twice I have had the luck to stand on a tip of ground and see a pearled and lustrous plain stretch out to the horizons. Far off, another peak lifts like a small island from the smother. It is like the morning of creation.
 - A sea of mist invading the heart of the land, but sucked up by the sun as the hot day went on.
 
+# Desert
+
+- Ano ang saysay ng pagtula kundi pagbakas sa mga landas ng mga alupihan sa isang hungkag na pahina, sa isang putim-puting disyerto?
+
 # Landscape
 
 - As I watch, it arches its back, and each layer of landscape bristles

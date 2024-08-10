@@ -52,7 +52,7 @@ These gigs kept me afloat until I started receiving a consistent flow of editing
 
 I burned the first three months of the year just doing freelance work. I was surviving, but my soul was beginning to suffer. I wasn't reading at all. I wrote very little in my journals. I didn't publish a single newsletter. I didn't touch my camera. Only my daily evening walks reminded me that I'm called to do something other than ensure that I feed myself.
 
-The Ateneo Institute of Literary Arts and Practices (AILAP) released a call for submissions for its [[thoughts/anww20|20th Ateneo National Writer's Workshop (ANWW20)]] earlier in 2023. AILAP was particularly interested in essays that combined academic writing with literary, creative, and poetic writing. The deadline for submissions was April 1, 2023.
+The Ateneo Institute of Literary Arts and Practices (AILAP) released a call for submissions for its [[anww20|20th Ateneo National Writer's Workshop (ANWW20)]] earlier in 2023. AILAP was particularly interested in essays that combined academic writing with literary, creative, and poetic writing. The deadline for submissions was April 1, 2023.
 
 That date was at the back of my mind as I was wrapping up the last draft of a freelance writing project. I consider the essay, specifically the personal narrative essay, as my main creative writing form, and I was interested in how I could combine research and literary writing in my work, so attending AILAP's workshop made a lot of sense.
 
