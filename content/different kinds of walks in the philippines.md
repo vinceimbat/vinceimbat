@@ -17,6 +17,10 @@ Lakad
 - The physical act.
 - Moving from point A to point B (i.e., to achieve something)
 
+Lagalag
+- lumayo o mapalayo sa sariling bayan dahil sa isang malaking sanhi.
+- Similar to migration
+
 Lakbayan
 - Walking as a group with a protest
 
