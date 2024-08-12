@@ -1,6 +1,6 @@
 ---
-title: Contemplative photography
-date: 2024-02-27
+title: Photography is mindfulness training
+date: 2024-08-12
 aliases: 
 draft: false
 tags:

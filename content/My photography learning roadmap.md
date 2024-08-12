@@ -1,19 +1,20 @@
 ---
-title: "My photography learning roadmap"
-date: "2022-06-11"
+title: My photography learning roadmap
+date: 2022-06-11
+aliases:
+  - My-photography-learning-roadmap
 tags:
-
-- "seedlings"
-sr-due: 2022-06-18
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2032-03-12
+sr-interval: 2769
+sr-ease: 270
 ---
-
-## Learning objectives
+# Learning objectives
 
 **Main objective:** My most important objective is to use photography to amplify my philosophical and writing practices.
 
-**Sub-objectives**
+## Sub-objectives
 
 1. To identify and buy a professional camera that I can grow with in the years to come.
 2. To master how to use that camera to compose and capture photos.
@@ -29,11 +30,12 @@ Learning time: Approx. 3-4 months (120 days)
 
 Metalearning time: Approx. 12 days
 
-## [[Photography's knowledge structure]]
+# [[knowledge structure of photography]]
 
 ## My personal curriculum
 
-The Plan
+### The Plan
+
 1. ~~Identify and buy a professional camera (7 days).
 2. ~~Establish a workflow for developing edited photos and sharing them on Instagram (1 day).
 3. Research and buy for the right kind of lens to invest in (2 days).
@@ -66,17 +68,15 @@ My note: [[How to choose a camera]]
 ### IV. Establish a photo management system in Photos and LrC (2 days)
 
 ---
-## Resources
+# Resources
 
-### Books
+## Books
 
 - Read This If You Want to Take Great Photographs by Henry Carroll
 - Intimations of Paradise by Christopher Burkett
 - Resplendent Light by Christopher Burkett
 
-### Courses
+## Courses
 
 - Udemy's The Complete Photography Masterclass
 - Alec Soth: Photographic Storytelling (https://www.magnumphotos.com/learn/course/alec-soth-photographic-storytelling/)
-
-# References

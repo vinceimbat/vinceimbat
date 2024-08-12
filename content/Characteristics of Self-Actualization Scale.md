@@ -1,19 +1,21 @@
 ---
-title: "Characteristics of Self-Actualization Scale"
-date: "2022-02-09"
+title: Characteristics of Self-Actualization Scale
+date: 2022-02-09
+aliases:
+  - Characteristics-of-Self-Actualization-Scale
+draft: false
 tags:
-
-- "seedlings"
-sr-due: 2022-05-23
-sr-interval: 23
+  - thoughts
+  - seedlings
+sr-due: 2028-01-08
+sr-interval: 1244
 sr-ease: 290
 ---
-
 The CSAS measures the [[10 facets of self-actualization]] using a 30-item scale.
 
 Once you have identified your main sources of self-actualization through this scale, harness those sources in your unique style.
 
-Here are [[My top three sources of self-actualization]].
+Here are [[my top three sources of self-actualization]].
 
 # References
 

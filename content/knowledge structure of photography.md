@@ -1,12 +1,18 @@
 ---
-title: "Photography's knowledge structure"
-date: "2022-06-21"
+title: Lnowledge structure of photography
+date: 2022-06-21
+aliases:
+  - Photography's-knowledge-structure
+draft: false
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
+sr-due: 2024-08-15
+sr-interval: 3
+sr-ease: 250
 ---
+# Concepts
 
-### Concepts
 - Aperture**
 - Shutter speed**
 
@@ -43,7 +49,8 @@ Composition
 - Color**
 - Focal length
 
-### Facts
+# Facts
+
 - Anatomy of a camera
 	- Camera scene modes
 	- Camera sensor
@@ -58,7 +65,8 @@ Composition
 - Lens filters
 - Chromatic aberration
 
-### Procedures
+# Procedures
+
 - Choosing a camera*
 - Setting up a camera kit*
 	- Memory cards
@@ -115,7 +123,8 @@ Composition
 
 My question I guess is, how do you start learning photography? Do you start with learning the technical knowledge or do you start with establishing your vision?
 
-Other areas
+# Other areas
+
 1. Photography theory
 2. Vision (1 month)
 3. Photo capture
@@ -123,9 +132,8 @@ Other areas
 5. Instagram
 6. Using photos in essays (1 month)
 
-3 AREAS
+# 3 AREAS
+
 1. Technical mastery
 2. Aesthetic development
 3. Vision
-
-# References

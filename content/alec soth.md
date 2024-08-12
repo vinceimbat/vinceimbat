@@ -1,6 +1,6 @@
 ---
-title: Contemplative photography
-date: 2024-02-27
+title: Alec Soth
+date: 2024-08-12
 aliases: 
 draft: false
 tags:

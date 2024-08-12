@@ -10,12 +10,24 @@ tags:
 ---
 Some initial thoughts curated about photography:
 
-1. [[Photography is mindfulness training]]
-2. [[Photography is the art closest to the present moment]]
-3. [[Photography facilitates continued freshness of appreciation]]
-4. [[Take photos that convey a strong emotion or tell a story]]
-5. [[Black and white in photography was originally a virtue]]
-6. [[My photography practice]]
+- [[photography is mindfulness training]]
+- [[photography is the art form closest to the present moment]]
+- [[photography facilitates continued freshness of appreciation]]
+- [[take photos that convey a strong emotion or tell a story]]
+- [[black and white in photography was originally a virtue]]
+- [[my photography practice]]
+- [[photography as jiyu shukyo]]
+- [[photography is not neutral]]
+- [[my photography workflow]]
+- [[photo backup strategy]]
+- [[photographic vision must arise from life vision]]
+- [[photographers I like]]
+- [[philosophical and poetic photography]]
+- [[knowledge structure of photography]]
+- [[my photography learning roadmap]]
+- [[color photography]]
+- [[photographic rules of exposure cubitt]]
+- [[contemplative photography]]
 
 # Unsorted
 

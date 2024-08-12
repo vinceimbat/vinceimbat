@@ -24,7 +24,7 @@ To ensure that I am performing actions that lead me toward my goals, I set up [[
 - [[My core desired mental states]]
 - [[my top values]]
 - [[My top five character strengths]]
-- [[My top three sources of self-actualization]]
+- [[my top three sources of self-actualization]]
 - [[thoughts/my best future self exercise]]
 - [[my lifeview]]
 - [[my workview]]

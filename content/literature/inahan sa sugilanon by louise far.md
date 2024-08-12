@@ -10,7 +10,7 @@ sr-due: 2023-09-14
 sr-interval: 44
 sr-ease: 250
 ---
-Today ([[2023-07-13]]), I finished reading [[thoughts/louise far]]'s Inahan sa Sugilanon, a photo book featuring Tuburan, a Steiner-inspired green school community in Mindanao.
+Today ([[2023-07-13]]), I finished reading [[louise far]]'s Inahan sa Sugilanon, a photo book featuring Tuburan, a Steiner-inspired green school community in Mindanao.
 
 There are two ways to read a photo book. Look closely at one photograph a day or/and look at all the photographs in one go. Both methods beg you to slow down but in different flavors.
 

@@ -1,12 +1,14 @@
 ---
-title: "My top three sources of self-actualization"
-date: "2022-04-23"
+title: My top three sources of self-actualization
+date: 2022-04-23
+aliases:
+  - My-top-three-sources-of-self-actualization
 tags:
-
-- "evergreens"
+  - thoughts
+  - evergreens
 ---
 
-Based on the [[Characteristics of Self-Actualization Scale]], my top three sources of self-actualization are:
+Based on the [[characteristics of self-actualization scale]], my top three sources of self-actualization are:
 
 1. **Continued freshness of appreciation (15.0)**
 2. **Truth seeking (14.0)**
@@ -19,6 +21,6 @@ Based on the [[Characteristics of Self-Actualization Scale]], my top three sourc
 9. Humanitarianism (10.0)
 10. Peak experiences (9.0)
 
-## References
+# References
 
 Kaufman, S. B. (n.d.). _Characteristics of Self-actualization Scale_. Scott Barry Kaufman. Retrieved April 23, 2022, from [https://scottbarrykaufman.com/characteristics-of-self-actualization-scale/](https://scottbarrykaufman.com/characteristics-of-self-actualization-scale/)

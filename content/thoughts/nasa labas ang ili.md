@@ -12,7 +12,7 @@ sr-ease: 248
 - [[thoughts/nasa labas ang ili outline]]
 - [[nlai walk 1]]
 
-Ideas for an NLAI photowalk with [[thoughts/louise far|Louise Far]].
+Ideas for an NLAI photowalk with [[louise far|Louise Far]].
 
 1. Kapwa
 - a portrait photo of partner before the leg

@@ -1,14 +1,16 @@
 ---
-title: "Photo Backup Strategy"
-date: "2022-06-13"
+title: Photo Backup Strategy
+date: 2022-06-13
+aliases:
+  - Photo-Backup-Strategy
+draft: false
 tags:
-
-- "seedlings"
-sr-due: 2022-06-18
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-04-29
+sr-interval: 990
 sr-ease: 250
 ---
-
 For photos taken in iPhone
 - Everything gets local backup
 - Then backed up in icloud

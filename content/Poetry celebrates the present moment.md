@@ -9,9 +9,9 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-[[poetry]] is appreciation training. Poetry is noticing—celebrating the moment—the truest truth. It is much like photography in this regard ([[Photography is mindfulness training]]). But it is a bit more complex as it uses words, which allow you to capture abstract concepts.
+[[poetry]] is appreciation training. Poetry is noticing—celebrating the moment—the truest truth. It is much like photography in this regard ([[photography is mindfulness training]]). But it is a bit more complex as it uses words, which allow you to capture abstract concepts.
 
-In poetry, we employ [[appreciation of beauty and excellence]] as well as [[Renewed freshness of appreciation]]. Both rely on our ability to be present to what is happening now—baring withness to it. We do this in poetry, although [[photography]] does this best ([[Photography is the art closest to the present moment]]).
+In poetry, we employ [[appreciation of beauty and excellence]] as well as [[Renewed freshness of appreciation]]. Both rely on our ability to be present to what is happening now—baring withness to it. We do this in poetry, although [[photography]] does this best ([[photography is the art form closest to the present moment]]).
 
 In the art of living, truth is important and it has a prominent place. But existing, being, meaning-making—these are the practical side of the art of life, which could even be more important than searching for the truth. And here, is where poetry can elevate a life. It can provide more meaning to the present moment and the life in general. Poetry elevates life by changing our minds, how we look at small moments. It is all about seeing. In the same vein, photography is like poetry as both are about framing.
 

@@ -8,7 +8,7 @@ tags:
 
 This seems to be what Sean Tucker is suggesting in his video referenced below.
 
-I personally think, though, that [[Photographic vision must arise from life vision]]. We have to start with why. Philosophy should inspire my photography.
+I personally think, though, that [[photographic vision must arise from life vision]]. We have to start with why. Philosophy should inspire my photography.
 
 # References
 
