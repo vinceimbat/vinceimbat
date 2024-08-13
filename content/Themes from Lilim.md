@@ -20,7 +20,7 @@ For an introduction on what *Lilim* is, see [[lilim]].
 
 [[sage and child]]
 
-- [[thoughts/los baños]]
+- [[los banos]]
 - [[Walking inside UPLB]]
 - [[How I started walking Los Baños more intentionally]]
 - [[walking to laguna de bay]]

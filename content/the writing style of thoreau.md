@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-13
-sr-interval: 11
+sr-due: 2024-09-07
+sr-interval: 25
 sr-ease: 250
 ---
 Thoreau valued compactness and clarity, which he achieved through numerous revisions. He used words accurately.

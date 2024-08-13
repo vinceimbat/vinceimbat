@@ -48,6 +48,7 @@ Butlig - maliit at namumuláng umbok sa balát
 # D
 
 Dagat-dagatan
+Dagas - dumaan
 Dagim - dark clouds that bring rain; nimbus
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
 Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
@@ -88,6 +89,7 @@ Hinihinukuhan (mula sa hinuko) -  to cut someone's nails
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
 Hinuhod - pagbibigay ng pahintulot ; pagpayag
 Hitit - paghithit ng usok mula sa sigarilyo o tabako
+Hugong - [ST] ingay o tunog na malalim at mababà
 Hugos - pagbababâ ng anuman mula sa mataas na kinalalagyan; sabáyang pagsugod ng mga tao
 Hugpong - joint; bagay na nag-uugnay o nagkakabit sa dalawang bagay; ang púnto na pinagdugtungan ng dalawang bagay; ang karugtong o idinugtong sa dulo upang humabà (naghuhugpong; hugpungan)
 Hulab - possibly hunab; vapor rising from the ground
@@ -121,12 +123,14 @@ Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang h
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
 Kapagdaka - agad
 Kapara - parang tulad
+Karat - sex
 Karsel - bilangguan; karsil
 Kasi - [ST] pagsanib ng espiritu o pagpasok sa kalooban; "kasihan mo ako ng tapang"
 Kata - táyong dalawa; ikaw at ako; tayo
 Kawag - igalaw ang mga bisig at paa, lalo na sa paglangoy o kung nalulunod; paggalaw ng pakpak, buntot, at iba pa; alingawngaw ng boses.
 Kibot - mahinàng pintig; halos hindi mapansing galaw
 Kililing - varyant ng kuliling; maliit na batingaw; tunog na nalilikha nito
+Kipil - pagpikpik ng isang malam-bot na bagay upang magkaanyo, tulad ng pagkipil sa luad
 Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na bisig, at tagiliran
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
 Kiti - bulâ na nalilikha sa rabaw ng anumang likido bago kumulo
@@ -149,6 +153,7 @@ Lambong - shawl; cloak; maitim na pantakip o pantábing sa uluhan ng isang tao o
 Lapirot - paglukot at pagdúrog sa pamamagitan ng dulo ng mga daliri
 Latak - anumang dumi na naiiwan sa ilalim ng sisidlan ng likido
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
+Ligas - hibla
 Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
 Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
@@ -220,11 +225,12 @@ Pelus - velvet
 Pigtal - natanggal at nalaglag sa kinabibilangang kalakhan, gaya ng dahon o bulaklak na natanggal sa haláman nitó
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
-Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas)
+Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas; pilasin)
 Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
 Pingki - biglaang pagtama sa isa’t isa ng dalawang bagay na matigas; tunog o kislap ng pagkikiskisan ng dalawang bagay na may katangiang magliyab.
 Pinid - sara
 Pisi - string; sinulid na yari sa bulak; paraan ng pag-uri sa habà o ikli ng pasensiya, o sa dami ng salapi gaya sa “maikli ang pisì ” o “mahabà ang pisì"
+Pitsa - sa sugal, anumang bagay na gaya ng plastik na bilóg o parisukat na may natata-nging halaga at ginagamit bílang salapi; chip
 Platika - Kas noong panahon ng Español, pana-langin para sa kumpisal, komunyon, at iba pa na nása loob ng katekismo o pasyon; pahayag
 Pukaw - gising o nagising; paggísing mula sa pagkakahim-bing; pag-antig o pagpapagunita sa isang nakalilimot
 Pulon - [ST] pagsasama-sama ng mga tao o bagay; pag-pupulupot ng talì, lubid, at kauri
@@ -306,12 +312,14 @@ Tulot - allow
 Tuluyan - prose; nakasulat o binibigkas na wika sa karaniwang anyo nitó at walang tugma at sukat, karaniwang tumutukoy sa katha
 Tunghay - pagtataas ng mukha
 Tunghay - pagtataas 
+Tungki - dulo, gaya sa tungki ng ilong
 Tuod - malakíng ugat ng punò, ngipin, at iba pa
 Tutop - natatakpan o natatabunan ng kamay o buntot; sa pananahi, ang lupi o lilip sa mga dulo o layláyan ng damit; nahúli sa akto
 Tuwad - nakahilig pababâ sa harap na ang puwit ay higit na mataas kaysa ulo
 
 # U
 
+Ubak - [ST] balakbak; tuyông balát ng punò, palma, at tubó
 Ulo-ulo - tadpole; butete
 Ultaw - litaw
 Untol - pansamantalang paghinto

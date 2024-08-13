@@ -7,7 +7,7 @@ draft: true
 ---
 [[2023-09-08]]:
 
-- I was with [[thoughts/jesa suganob|Jesa Suganob]]. We wanted to hang out with an adult male friend but we were afraid to ask. So Jesa just tried to buy him food. There's a line of white stalls with vendors.
+- I was with [[jesa suganob|Jesa Suganob]]. We wanted to hang out with an adult male friend but we were afraid to ask. So Jesa just tried to buy him food. There's a line of white stalls with vendors.
 - I replaced Lea with Kris Ann. We were walking together toward somewhere. My arm was around her shoulder.
 
 [[2023-09-05]]:

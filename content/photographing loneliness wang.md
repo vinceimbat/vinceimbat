@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-13
-sr-interval: 2
+sr-due: 2024-08-18
+sr-interval: 5
 sr-ease: 248
 ---
 The author is a Chinese national who studied in Toronto, Canada. His objective with his project was to evoke his experience of loneliness by photography. He did so through an exhibition composed of three parts:
@@ -27,6 +27,26 @@ Among the subjects that inform his project are:
 Among his influences are:
 - [[Sophie Calle]]
 - [[Wolfgang Tillman]]
+
+# Unsorted
+
+Kevin Lynch's The Image of the City
+Sophie Calle
+Paolo Emanuele Barreta (contemporary photographer)
+Edward Hopper (American Realism painter)
+Wolfgang Tillmans
+
+Marc Auge, non-place
+Jessie Martin
+- _Deconstructing Understandings of Emptiness: An Examination of Representations of Transitory Space and ‘Non-place’ in Photography_
+- Night Moves
+- https://www.jessiebiancamartin.com/
+
+Catherine Chan, _“Effects of Internet on the Concept of Street Photographer as Flâneur: Interaction between Virtual Spaces and Physical Cityscape”_
+
+Kirsten Seale, _Eye-Swiping London: Iain Sinclair, Photography and the Flâneur_ (Literary London Journal), http://www.literarylondon.org/london-journal/september2005/seale.html.
+
+Rosa Saverino, “Word and Image Relations in The Autobiographical Narratives of Roland Barthes and Sophie Calle” (Thesis, 2013), https://tspace.library.utoronto.ca/handle/1807/68962.
 
 # References
 

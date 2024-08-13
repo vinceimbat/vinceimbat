@@ -9,7 +9,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Here are some notes about walking [[thoughts/los baños|Los Baños]].
+Here are some notes about walking [[los banos|Los Baños]].
 
 # Batong Malake
 

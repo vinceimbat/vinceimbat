@@ -2,12 +2,14 @@
 title: Jesa Suganob
 date: 2023-08-13
 aliases:
-  - contacts/jesa suganob
+  - contacts/jesa-suganob
+  - thoughts/jesa-suganob
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-09-26
-sr-interval: 3
-sr-ease: 250
+sr-due: 2027-09-23
+sr-interval: 1137
+sr-ease: 270
 ---
 # Title ideas
 

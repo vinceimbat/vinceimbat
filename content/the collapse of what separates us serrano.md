@@ -7,10 +7,12 @@ aliases:
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-08-23
+sr-interval: 11
+sr-ease: 270
 ---
+This is the award-winning poetry collection of [[Vincenz Serrano]] that features some of his walks around Manila.
+
 # Fog
 
 - Streams of consciousness in one paragraph.
