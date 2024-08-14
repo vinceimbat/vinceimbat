@@ -6,9 +6,9 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-14
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-08-28
+sr-interval: 13
+sr-ease: 270
 ---
 I want to use intuitive and sensory methods for exploring and capturing diverse facets of Siem Reap.
 
@@ -27,7 +27,7 @@ Possible explorations:
 - longhitudinal photography: revisiting the same site repeatedly over an extended period of time and taking photographs to explore changes
 - how about enacting different kinds of indigenous Filipino concepts of walks in a foreign Southeast Asian space: lakad (difficult because it needs conceptual work first)
 
-### Possible Project
+# Possible Projects
 
 Photographing Lostness and Familiarity
 

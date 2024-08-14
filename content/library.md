@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-08-12]]: [[forest diaz|When the World Ended I Was Thinking About the Forest by Glenn Diaz]] ★
 - [[2024-07-18]]: [[virgin muli po ako aguila|Virgin Muli Po Ako by Reuel Aguila]]
 - [[2024-06-21]]: [[distrungka barrameda|Distrungka by Emman Barrameda]]
 - [[2024-06-10]]: [[salvacion barrameda|Salvacion by Emman Barrameda]] ★
