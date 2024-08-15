@@ -42,7 +42,6 @@
 <input type="text" name="hp" id="hp"/>
 </div>
 
-<input type="hidden" name="subform" value="yes"/>
 <input type="submit" name="submit" id="submit"/>
 
 </form>
