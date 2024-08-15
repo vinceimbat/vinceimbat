@@ -34,14 +34,15 @@
 <input type="email" name="email" id="email"/><br/>
 
 <!-- List selection (put your listIDs in 'value') -->
-<input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA"><strong>Uman</strong> (monthly)<br/>
-<input type="checkbox" name="list[]" value="1763S892r67QExWYjQ4cgrAH3w"><strong>Drifts</strong> (occasional)<br/>
+<input type="checkbox" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA"><strong>Uman</strong> (monthly)<br/>
+<input type="checkbox" name="list" value="1763S892r67QExWYjQ4cgrAH3w"><strong>Drifts</strong> (occasional)<br/>
 
 <p class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C"></p><div style="display:none;">
 <label for="hp">HP</label><br/>
 <input type="text" name="hp" id="hp"/>
 </div>
 
+<input type="hidden" name="subform" value="yes"/>
 <input type="submit" name="submit" id="submit"/>
 
 </form>
