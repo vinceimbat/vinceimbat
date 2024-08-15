@@ -42,8 +42,6 @@
 <input type="text" name="hp" id="hp"/>
 </div>
 
-<input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA"/>
-<input type="hidden" name="subform" value="yes"/>
 <input type="submit" name="submit" id="submit"/>
 
 </form>
