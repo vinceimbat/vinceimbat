@@ -29,9 +29,11 @@ Balana - pagbago ng isang gawain; pagpapanumbalik ng init at sigla.
 Banaag - bahagyang pagkakilála sa anumang bagay na nakikíta dahil sa kalabuan ng matá
 Balasik - bagsik; anyong nakahihindik
 Bandeha - malanday at malapad na kasang-kapang yari sa losa, tabla, plastik, o metal na ginagamit sa pagdadalá ng mga baso at katulad
+Banlik - mabuhanging putik na iniwan ng nagdaang bahâ
 Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
 Berlina - karwaheng may pintuan.
+Bigtal - [ST] nabiyak, tulad ng pagkabiyak ng singsing; punit; tanggal sa pagkakabit, gaya ng bigtal na tabla, kawayang sahig, o pahina ng aklat; tastas; pigtal
 Bilot - anyo na nabubuo ng bagay na pinaiikot-ikot
 Bistay - salaan na gawâ sa masinsin at makitid na lapát na kawayan at ginagamit upang maihiwalay ang bigas sa ipa, binlid, o darak
 Biyas - bahagi sa pagitan ng mga bukó, gaya sa kawayan, tubó, at iba pa; bumbong; bahagi sa pagitan ng mga hugpungan ng katawan ng tao o hayop, gaya ng bisig, binti, at iba pa
@@ -51,11 +53,13 @@ Dagat-dagatan
 Dagas - dumaan
 Dagim - dark clouds that bring rain; nimbus
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
+Dalisdis - rabaw ng lupa na dahilig, gaya ng gílid ng gulód, matarik na pampang, at katulad
 Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
 Damortis - kamatsile; pendant na hugis tainga.
 Danga - [ST] paglukso
 Dawag - damo at baging (madawag, dawagan)
 Dipa - pagpuwesto sa paraang pakrus o pantay-balikat na pag-unat ng dalawang kamay; sukat ng haba nito
+Diris - [ST] apdo; tonsil
 Diwara - [ST] pagiging lubhang maingat at labis na sinusuri ang kaliit-liitang detalye; busisi
 Donselya - dalaga; birhen
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
@@ -66,6 +70,7 @@ Edad medya - Middle Ages
 
 # G
 
+Gililan - pahaláng na bahagi ng balangkas na nagdadalá ng bigat ng dingding; nakahigang bahagi ng balangkas ng tabike
 Ginsa - bigla (nang di-kaginsa-ginsa'y)
 Gupo - pagbagsak o pagkagiba, karaniwang dahil sa labis na kahinàan o sa bigat ng anumang dumagán (maigupo = foiled)
 Gulantang - nagulat; biglang nagising
@@ -104,6 +109,7 @@ Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
 # I
 
 Igkas - galaw ng anumang bagay na bumalik sa dáting ayos matapos hilahin o bitawan
+Ikid - anumang paikot ang pagkaayos, gaya ng ikid ng film, ikid ng sinulid, ikid ng kable
 Ingit - mahinàng iyak ng isang batà o hayop
 Impit - pagpapaliit ng isang bagay sa anumang paraan; pagpigil sa tawa, iyak, o sigaw; pinigil sa isang kalagayan upang hindi makawala o maibulalas
 Indulto - noong panahon ng Español, buwis na ipinapataw sa galeon
@@ -214,6 +220,7 @@ Palo-tsina - palo china planks
 Panambil - [ST] tábing sa gilid ng sasakyang-dagat; biyombo - naititiklop na iskrin o tábing
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
 Palanas - malawak na kapatagan; pook na maaliwalas; baybayin ng ilog na mabato.
+Palataw - palathaw; [ST] manipis na itak; maliit na palakol at may maikling hawakan _var_ palataw, palatsaw, palatyáw; hatchet
 Palito - tutpik; isang piraso ng posporo
 Pandaw - [ST] dumalaw sa pa-ngisdaan o bitag para tingnan kung may húli at kuhanin ito; dumalaw sandali at hindi inaasahan sa kasin-tahan.
 Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina o amá, karani-wang itinatambal sa isa pang salita, halimbawa: amáng pangúmán, ináng pangú-mán; madrasta
@@ -267,6 +274,7 @@ Sawata - pahayag o kilos ng pagbabawal o pagpigil; pagpígil o pagkontrol sa nag
 Serbilyeta - napkin
 Sibad - anumang kilos o gawa-ing biglaan at mabilis; _pnd_ su·mí· bad, pa·si·bá·rin, mag·pa·sí·bad
 Siglaw - glimpse
+Sikdo - malakas na pintig ng puso, lalo na ng isang natatakot
 Silat - siwang sa pagitan ng mga kawayang sahig
 Silbato - pito; instrumentong naglalabas ng matinis na tunog sa pamamagitan ng hininga at kara-niwang ginagamit sa pagbibigay ng senyas
 Silo - bitag (nagpapabitag)
@@ -277,6 +285,7 @@ Sisne - swan
 Siwang - bahag-yang bukás, kung sa pinto, bintana, at katulad
 Sonambulo - sumat; pagsa-salita at paglalakad hábang natu-tulog
 Sugpong - hugpong
+Sulib - puwang o espasyo sa pagitan ng dingding at sahig, kisa-me at itaas ng dingding, o ilalim ng káma; pagtatago sa ilalim ng katre o silya.
 Sulingan - refuge
 Sulsi - pagtahi sa sirà ng damit, sako, lambat, at katulad
 Sungaw - pierce
@@ -286,6 +295,7 @@ Suyod - suklay na may ngiping masinsin; kasang-kapang pansáka na ginagamit na p
 
 Taginting - kalansing; tunog na nalilikha ng nagpipingkiang metal, porselana, at iba pa; matarling
 Taguangkan - sinapupunan
+Tahik - lupaing tigang na malayò sa dagat; ilang
 Talilis - pag-alis ng lihim; "hindi tumatalilis kapag nireretratuhan"
 Talulot - petals
 Talungko - paraan ng pag-upô na nakadikit ang binti sa hita at nakabitin ang puwit; posisyon sa pagtae
