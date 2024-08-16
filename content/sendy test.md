@@ -23,7 +23,7 @@
   <p>
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8">
+<form action="subscribe.php" method="POST" accept-charset="utf-8">
 
 <!-- Name -->
 <label for="name">Name</label><br/>
@@ -42,7 +42,7 @@
 <input type="text" name="hp" id="hp"/>
 </div>
 
-<input type="submit" name="submit" id="submit"/>
+<input type="submit" name="Subscribe" id="submit"/>
 
 </form>
 
