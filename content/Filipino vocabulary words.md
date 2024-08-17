@@ -23,6 +23,7 @@ Atril - katangán o patungán ng aklat, piyesa ng musika, o anumang binabása, k
 
 # B
 
+Badha - [ST] mapuláng pambarnis ng kahoy
 Bahaw - kung sa tinig, paos o malat (basag)
 Bakokang - súgat na matagal gumalíng at nag-iiwan ng malaki at malalim na peklat sa balát
 Balana - pagbago ng isang gawain; pagpapanumbalik ng init at sigla.
@@ -67,6 +68,7 @@ Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan pah
 # E
 
 Edad medya - Middle Ages
+Espektro - spectrum
 
 # G
 
@@ -80,9 +82,11 @@ Guryon - malakíng saranggola na may sumba
 
 Hagibis - tunog o pakiramdam ng mabilis na pagdaan ng mga sasakyan, tao, o hangin; harurot
 Hagip - sunggab o pagsunggab; pagkuha ng isang bagay na gumagalaw sa tubig; pagdagil, pagbundol, o pagkasagi; pagtama sa inaasinta.
+Hakab - mahigpit ang pagkakalapat ; kung sa damit, pitis na pitis; [ST] pagsipsip gamit ang bibig o biyas ng kawayan; paglalapat, gaya ng paglalapat ng bató sa argamasa.
 Halinghing - huni ng kabayo; daing ng tao na nahihirapan sa karamdaman o naliligayahan sa sex
 Hantik - red ants
-hapis - pighati; matinding sakít na na-daramá ng isip at katawan; habag sa sarili; pain
+Hapay - nakakiling ang ayos; kumiling ; mawala sa tuwid na pagtayô.
+Hapis - pighati; matinding sakít na na-daramá ng isip at katawan; habag sa sarili; pain
 Hara - nakaharang sa daan ng ibang nása harap
 Hilahod - pagkilos nang nanghihinà o tinatamad; pagkapilay
 Hilahil - dusa; distress; matinding ligalig ng isip o matinding kirot
@@ -161,6 +165,7 @@ Latak - anumang dumi na naiiwan sa ilalim ng sisidlan ng likido
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
 Ligas - hibla
 Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
+Lilis - itinupi ang manggas ng damit pataas o itinaas ang laylayan ng bestida
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
 Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
 Linga - haláman (_Sesamun_ _indicum_ ) na may bilóg na butó na nakakain at nagdudulot ng langis; tumingin sa paligid na tíla naghahanap.
@@ -199,6 +204,7 @@ Ngisngis - pagngiti o pagtawa nang nakikíta ang mga ngipin
 Ngiwi - nakatabingi ang bibig, karaniwan dahil sa lungkot o kawalan ng kasiyahan
 Ngulontoy - varyant ng kuluntoy; mga buhol na sanhi ng masyadong pagkakapilipit; kupás at lanta, gaya ng kuluntóy na bulaklak at dahon _var_ nguluntóy
 Nguyngoy - walang patíd na pag-iyak ng batàng nag-aalboroto
+Nisnis - natanggal o natatanggal na sinulid o himaymay ng anumang hinabing tela, damit, o kumot dahil sa labis na pagkagamit at kalumaan; pagdupok ng damit dahil sa kalumaan o masamâng pagkakakusot
 
 # O
 
