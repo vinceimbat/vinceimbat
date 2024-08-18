@@ -138,7 +138,7 @@ Essays
 
 - Supported Jesa's Butiki Baboy series.
 - Hanged out with Lea, Bevs, and Embi. Made mango shake and ate buko pie.
-- Continued connecting with [[thoughts/junley lazaga|Junley Lazaga]], [[vincenz serrano|Vincenz Serrano]], and [[thoughts/eli guieb|Eli Guieb]].
+- Continued connecting with [[junley lazaga|Junley Lazaga]], [[vincenz serrano|Vincenz Serrano]], and [[thoughts/eli guieb|Eli Guieb]].
 - Helped Nanay Glo and Macky get their new second-hand ref.
 - Met Ju at their college to give his gift and chatted a while.
 
