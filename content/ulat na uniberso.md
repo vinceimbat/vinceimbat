@@ -8,6 +8,6 @@ tags:
   - pangasinan
   - seedlings
 ---
-Sikatayo 'ran kumukurit so tariwan ulat na uniberso. Say kimey tayo et say ipaway piyan liknaey benga-bengatla para'd totoo tan ompawil piyan ibaga'd sikara no antoy liknaay manbilay. Lapud ag ira makalikna. Lapud akalingwan tila.
+Sikatayo 'ran sumusulat so tariwan ulat na uniberso. Say kimey tayo et say ipaway piyan liknaey benga-bengatla para'd totoo tan ompawil piyan ibaga'd sikara no antoy liknaay manbilay. Lapud ag ira makalikna. Lapud akalingwan tila.
 
 — Ursula K. Le Guin
