@@ -6,10 +6,12 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-16
-sr-interval: 4
-sr-ease: 272
+sr-due: 2024-09-18
+sr-interval: 30
+sr-ease: 292
 ---
 This is my first [[zine]] and collaboration work with [[Jesa Suganob]].
 
-# References
+# To do
+
+- Turn this into an information page of sorts.

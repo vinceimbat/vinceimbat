@@ -35,7 +35,7 @@ These are extremely valuable to the author. But there is serious concern about h
 
 Pros: Readers remember you
 Cons: Pressure to produce; half-baked ideas are published; can be overwhelming to readers; takes away time for more quality thinking and writing; time-consuming
-Examples: [[thoughts/austin kleon]], [[Tammy Strobel]]
+Examples: [[austin kleon]], [[Tammy Strobel]]
 
 # Different types of publishable artifacts shared in intervals (daily, weekly, monthly, yearly)
 

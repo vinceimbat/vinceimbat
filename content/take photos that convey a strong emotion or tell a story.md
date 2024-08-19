@@ -7,16 +7,12 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-09-13
+sr-interval: 25
+sr-ease: 270
 ---
-The easiest way to convey strong emotion in your photos is to photograph people who are already experiencing them.
+To convey strong emotion in [[photography]], take photos of people who are already experiencing them.
 
-It turns out that the true storytelling potential of any photo sits in the mind of the viewer, not the photographer. Each viewer is different and looks at the photo in a different way, so his or her mind is always in control of the ultimate meaning of the photo.
+To tell a story, use mystery, perhaps by using shadow and intentionally secluding elements of the photographs, to encourage the viewer to create their own meaning or to finish the story of the photograph.
 
-So if you just add enough mystery to the photo, the viewer fills in the blanks and potentially tells a much better story than the reality of the situation.
-
-This also explains why you don't always need perfectly sharp photos if your goal is to tell a great story. In fact, the limitations of your camera can sometimes work in your favor if your goal is to tell interesting stories with your photos.
-
-So the next time you take photos, focus on emotion and mystery.
+Mystery could be created by intentionally using the limitations of your camera. For example, the lack of sharpness of a photograph could actually be its asset. It could tell a story.

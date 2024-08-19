@@ -17,8 +17,10 @@ Alpas - kumawala o umalis sa pagkakahawak, pagkakatali, o pagkakakulóng
 Alupihan - alinman sa arthropod (class _Chilopodo,_ genus _Scolopendra_ ) na may pahabâ at sapád na katawang nahahati sa bahagi na may tig-iisang pares ng paa; centipede
 Amba - nagbabanta at poot na kilos ng kamay
 Ampat - apula; pagpigil sa daloy o tulo ng dugo, tubig, at katulad; pagsawata, o pag-awat sa mga nagkakagalit; pagsugpo o pag-alis sa bisyo
+Aranya - sanga-sangang kumpol ng mga ilaw na karaniwang nakasabit sa kisame; gagamba
 Asahar - bulaklak ng kahél; artipisyal na bulaklak ng kahél, karaniwang inilalagay sa ulo ng babaeng ikakasal o ng flower girl, sa ibabaw ng bélo.
 Asilo - asylum
+Atip - pantakip sa bubong
 Atril - katangán o patungán ng aklat, piyesa ng musika, o anumang binabása, karaniwang yarì sa magaang metal o kahoy; lectern, pulpito
 
 # B
@@ -112,6 +114,7 @@ Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
 
 # I
 
+Ibis - pagbabâ mula sa sasakyan
 Igkas - galaw ng anumang bagay na bumalik sa dáting ayos matapos hilahin o bitawan
 Ikid - anumang paikot ang pagkaayos, gaya ng ikid ng film, ikid ng sinulid, ikid ng kable
 Ingit - mahinàng iyak ng isang batà o hayop
@@ -165,6 +168,7 @@ Latak - anumang dumi na naiiwan sa ilalim ng sisidlan ng likido
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
 Ligas - hibla
 Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
+Ligwak - pagkakatapon ng tubig o anumang likido mula sa sisidlan
 Lilis - itinupi ang manggas ng damit pataas o itinaas ang laylayan ng bestida
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
 Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
@@ -303,6 +307,7 @@ Taginting - kalansing; tunog na nalilikha ng nagpipingkiang metal, porselana, at
 Taguangkan - sinapupunan
 Tahik - lupaing tigang na malayò sa dagat; ilang
 Talilis - pag-alis ng lihim; "hindi tumatalilis kapag nireretratuhan"
+Talop - nabalatán o natanggalan ng balát; pag-alís o pagtanggal ng balát
 Talulot - petals
 Talungko - paraan ng pag-upô na nakadikit ang binti sa hita at nakabitin ang puwit; posisyon sa pagtae
 Tarak - pagsaksak nang madiin at iniiwang nakabaon ang patalim sa sinaksak

@@ -5,10 +5,7 @@ aliases:
 draft: false
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-08-11
-sr-interval: 1
-sr-ease: 230
+  - evergreens
 ---
 # My Bio (120 words)
 
@@ -43,28 +40,6 @@ Since psychogeography entails not just an observation of the city but also an ob
 # What do you hope to learn at the workshops? (50 words)
 
 I want to learn how to transform personal and abstract experiences and emotions, such as doubt, loneliness, or faith, into concrete images mirrored in physical form. I want to learn how to develop and present them to communicate stories that transform the personal into a socially and culturally relatable artifact.
-
-***
-
-Psychogeographic walking used as an aesthetic practice alongside urban photography have a strong Western history. I'm interested how these theories would stand when applied in a city in the developing world, such as Siem Reap. I'll be designing a series of multi-hour walks for several days while in the city taking photographs using psychogeographic techniques
-
-openness
-unanticipated encounters
-materialities and rhythms of the city
-spatial and temporal variations
-new ways of looking at the city
-exploring the aesthetic politics of cities
-
-how urban space is used and by whom
-
-What will be my leading question?
-
-Method?
-- psychogeographic photography
-
-Subjects
-- individual objects
-- landscapes
 
 # References
 

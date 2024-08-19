@@ -3,11 +3,12 @@ title: Sa Elbi
 date: 2022-11-02
 locations: 
 tags:
+  - poems
   - filipino
   - seedlings
-sr-due: 2024-08-15
-sr-interval: 377
-sr-ease: 270
+sr-due: 2028-07-25
+sr-interval: 1436
+sr-ease: 290
 ---
 Sa Data,  
 sasalubongin ka agad ng tipak  

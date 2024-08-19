@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-15
-sr-interval: 3
+sr-due: 2024-09-03
+sr-interval: 15
 sr-ease: 250
 ---
 Bruno Latour's (2004) Politics of Nature
@@ -47,4 +47,7 @@ Why, for example, is the work of Peter Singer, Tom Regan, and other animal right
 Bennett's positive case for political ecology, it seems to me, is at once highly general and based on relatively narrow foundations. Even her 'case' material is brief and, at worst, reads as a set of philosophically-driven examples designed to illustrate (rather than build) the wider case.
 
 New research that Sarah Whatmore and others are now publishing on local democracy and environmental hazards may take us into the important political territory that Bennett only gestures towards.
+
 # References
+
+Castree, Noel. “Vibrant Matter By Jane Bennett.” _Society and Space_, 14 Sept. 2011, [https://www.societyandspace.org/articles/vibrant-matter-by-jane-bennett](https://www.societyandspace.org/articles/vibrant-matter-by-jane-bennett).

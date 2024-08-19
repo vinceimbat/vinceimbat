@@ -13,7 +13,7 @@ According to [[thoughts/dan blank|Dan Blank]], to be a gateway for people to exp
 1. Hone your craft ([[my note-writing practice|my note-writing practice]]).
 2. Engage with your audience one-on-one ([[thoughts/strategy for connecting|strategy for connecting]]; [[thoughts/slow connecting for introverts|slow connecting for introverts]]).
 
-A simple routine to apply this is to write in the morning and connect with people in the afternoon ([[my daily routine|my daily routine]]). This is quite similar to John Waters’ routine, which I read [[thoughts/austin kleon|Austin Kleon]] quote several times. He makes stuff in the morning and sell them in the afternoon.
+A simple routine to apply this is to write in the morning and connect with people in the afternoon ([[my daily routine|my daily routine]]). This is quite similar to John Waters’ routine, which I read [[austin kleon|Austin Kleon]] quote several times. He makes stuff in the morning and sell them in the afternoon.
 
 Doing my craft in the morning, which involves both writing and studying, has the added benefit of being able to exercise my thinking and writing before I engage with intelligent people in the afternoon.
 

@@ -5,10 +5,7 @@ aliases:
 draft: false
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-08-15
-sr-interval: 3
-sr-ease: 252
+  - evergreens
 ---
 [[The present moment is only what truly exists]]. And among all forms of art, I think photography is the closest to the present moment because it uses the exact images—the most direct of all media. You point, click, capture, and you have everything you need. No words or explanations needed. In this case, [[photography is mindfulness training]].
 

@@ -6,9 +6,13 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-18
-sr-interval: 3
+sr-due: 2024-08-29
+sr-interval: 10
 sr-ease: 230
 ---
 
 - [[akar mi nen papa paonlad baley na san jacinto]]
+
+# To do
+
+- Connect [[Nanduruman akar ed Pangasinan]].

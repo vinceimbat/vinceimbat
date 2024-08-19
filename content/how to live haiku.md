@@ -1,13 +1,13 @@
 ---
 title: How to live haiku
 date: 2022-10-11
+aliases:
+  - poems/how-to-live-haiku
 tags:
+  - poems
   - filipino
-  - seedlings
-sr-due: 2024-08-11
-sr-interval: 374
-sr-ease: 250
+  - evergreens
 ---
 Pa'no mabuhay?  
 Mahirap sagutin yan  
-Research Facebook feed  
+Research Facebook feed.

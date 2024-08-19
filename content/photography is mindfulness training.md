@@ -6,7 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-09-16
+sr-interval: 28
+sr-ease: 270
 ---
+# Related
+
+- [[contemplative photography]]
