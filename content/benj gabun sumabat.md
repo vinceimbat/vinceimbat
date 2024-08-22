@@ -6,7 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-22
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-09-06
+sr-interval: 15
+sr-ease: 290
 ---
+A co-fellow at [[PRS17]]. She is a prolific writer: author of the zine [[sometimes i just want to drown sumabat|sometimes, i just want to drown.]]
+
+I resonated with her own struggles writing in three languages and finding a measure of mastery in all of them.

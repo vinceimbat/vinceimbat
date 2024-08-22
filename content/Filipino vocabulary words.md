@@ -57,6 +57,7 @@ Dagas - dumaan
 Dagim - dark clouds that bring rain; nimbus
 Dalirot - pagdutdot o paghalò sa anuman sa pamamagitan ng daliri
 Dalisdis - rabaw ng lupa na dahilig, gaya ng gílid ng gulód, matarik na pampang, at katulad
+Dalom - [ST] hinakdal
 Daluhong - [ST] pagsalakay o paglusob nang bigla o mabilis
 Damortis - kamatsile; pendant na hugis tainga.
 Danga - [ST] paglukso
@@ -78,6 +79,7 @@ Gililan - pahaláng na bahagi ng balangkas na nagdadalá ng bigat ng dingding; n
 Ginsa - bigla (nang di-kaginsa-ginsa'y)
 Gupo - pagbagsak o pagkagiba, karaniwang dahil sa labis na kahinàan o sa bigat ng anumang dumagán (maigupo = foiled)
 Gulantang - nagulat; biglang nagising
+Gumon - pagkahilig o pagkalulong sa isang bisyo; pag-uukol ng buong panahon sa isang gawain; paulit-ulit na paggulong sa putik, alikabok, at katulad; pagkaratay dahil sa malubhang karamdaman.
 Guryon - malakíng saranggola na may sumba
 
 # H
@@ -94,6 +96,7 @@ Hilahod - pagkilos nang nanghihinà o tinatamad; pagkapilay
 Hilahil - dusa; distress; matinding ligalig ng isip o matinding kirot
 Hilakbot - pakiramdam na pagtinghas ng balahibo dahil sa sindak
 Himaymay - fiber; tíla sinulid na estruktura na bumubuo sa tisyu ng hayop o haláman; anumang materyal na maihihiwa-hiwalay na tíla sinulid at magagamit sa paghahabi
+Hinakdal - dalom; pagtatanggol sa sarili sa pamamagitan ng pagdadahilan; daíng o paghingi ng tulong mula sa kinauukulang nakalimot sa tungkulin nitó; kahilingang mabigyan ng masisilungan; hinanakit
 Hingutuhan - [noun] act of picking lice from one another's hair
 Hinihinulihan (mula sa hinuli) - to clean someone's ears
 Hinihinukuhan (mula sa hinuko) -  to cut someone's nails
@@ -145,6 +148,7 @@ Kibot - mahinàng pintig; halos hindi mapansing galaw
 Kililing - varyant ng kuliling; maliit na batingaw; tunog na nalilikha nito
 Kipil - pagpikpik ng isang malam-bot na bagay upang magkaanyo, tulad ng pagkipil sa luad
 Kipkip - paraan ng pagdadalá sa pamamagitan ng pag-ipit sa kilikili, panloob na bisig, at tagiliran
+Kisap - kislap; kindat
 Kislot - jerk; paggalaw ng mga hibla ng lamán, lalo na sa mga bagong katay na hayop
 Kiti - bulâ na nalilikha sa rabaw ng anumang likido bago kumulo
 Klarete - alak na kulay pulá at nagmula sa katas ng ubas.

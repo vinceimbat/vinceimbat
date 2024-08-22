@@ -6,13 +6,13 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-19
-sr-interval: 1
+sr-due: 2024-08-28
+sr-interval: 6
 sr-ease: 232
 ---
 This is the first zine of [[Benj Gabun Sumabat]], a co-fellow from [[PRS17]]. It's made up of four poems, three of which were originally written in Iloko and were translated to English, Filipino, and Bisaya by other translators, including [[Junley Lazaga]].
 
-Benj's words were accompanies by photographs of Jeho Caluma.
+Benj's words were accompanied by photographs of Jeho Caluma.
 
 # References
 
