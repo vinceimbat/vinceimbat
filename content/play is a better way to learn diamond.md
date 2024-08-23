@@ -1,11 +1,14 @@
 ---
-title: Play is a Better Way to Learn (On Being Interview with Adele Diamond
+title: Play is a Better Way to Learn (On Being Interview with Adele Diamond)
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/play-adele-diamond
 draft: false
-sr-due: 2023-11-24
-sr-interval: 3
+tags:
+  - literature
+  - seedlings
+sr-due: 2025-08-07
+sr-interval: 349
 sr-ease: 250
 ---
 What a listen!

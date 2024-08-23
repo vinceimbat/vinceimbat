@@ -1,14 +1,15 @@
 ---
-title: "What is a literary draft? by Biassi and Wassenaar"
-date: "2023-09-01"
+title: What is a literary draft? by Biassi and Wassenaar
+date: 2023-09-01
+aliases:
+  - literature/what-is-a-literary-draft-by-biassi-and-wassenaar
 tags:
-- "seedlings"
-sr-due: 2023-09-04
-sr-interval: 3
+  - literature
+  - seedlings
+sr-due: 2025-11-14
+sr-interval: 449
 sr-ease: 250
 ---
-
-
 
 # References
 

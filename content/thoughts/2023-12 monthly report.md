@@ -21,7 +21,7 @@ Next, I invested several hours going through my existing photographs, culling th
 
 I also spent a significant chunk of my December in dialogue with Jesa regarding our project. In our dialogue, I had to confront my ignorance of the gender lens, respond to her emails with grace, and write about what I know as well as what I'm still working on regarding my knowledge of walking as a writing method.
 
-I also spent the last week before Christmas reading and studying [[literature/things become other things mod|TBOT by Craig Mod]].
+I also spent the last week before Christmas reading and studying [[things become other things mod|TBOT by Craig Mod]].
 
 Lastly, I traveled with friends to visit Maui and Yano at San Pascual, to walk around the town, and come in dialogue about our lives. Then, Lea and I spent New Year's Eve with Embi and Bevs and new friends Carl and his wife MC.
 ***
@@ -133,7 +133,7 @@ TLW
 - [[literature/being home norris and sibley|Being Home]] (finished)
 - [[writing alone and with others schneider|Writing Alone and With Others)]] (unfinished)
 - [[literature/a gathering of larks carroll|A Gathering of Larks]] (unfinished)
-- [[literature/things become other things mod|Things Become Other Things]] (finished)
+- [[things become other things mod|Things Become Other Things]] (finished)
 
 ## Articles
 

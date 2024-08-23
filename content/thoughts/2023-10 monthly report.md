@@ -76,7 +76,7 @@ Poetry
 
 ## Editing + Proofreading
 
-- Read [[literature/the copyeditors handbook einsohn and schwartz|The Copyeditors Handbook by Einsohn and Schwartz]] (Preface to Chapter 3) and wrote prompts.
+- Read [[the copyeditors handbook einsohn and schwartz|The Copyeditors Handbook by Einsohn and Schwartz]] (Preface to Chapter 3) and wrote prompts.
 - Learned how to use flashcards in the Obsidian Spaced Repetition plugin.
 - Wrote review prompts for How to write good prompts by Andy Matuschak and practiced using them.
 
@@ -155,7 +155,7 @@ Poetry
 
 - [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (finished)
 - Creative Inc. (unfinished)
-- [[literature/the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
+- [[the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
 - [[literature/bluets nelson|Bluets by Nelson]] (unfinished)
 - [[literature/being home norris and sibley|Being Home by Norris and Sibley]] (unfinished)
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own]] (unfinished)

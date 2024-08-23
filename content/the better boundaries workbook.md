@@ -1,12 +1,14 @@
 ---
-title: "The Better Boundaries Workbook"
-date: "2023-08-07"
+title: The Better Boundaries Workbook
+date: 2023-08-07
 aliases:
-- "The Better Boundaries Workbook"
+  - The-Better-Boundaries-Workbook
+  - literature/the-better-boundaries-workbook
 tags:
-- "seedlings"
-sr-due: 2023-09-19
-sr-interval: 3
+  - literature
+  - seedlings
+sr-due: 2025-10-28
+sr-interval: 431
 sr-ease: 250
 ---
 ## Can you think of a time when you gave or received an ultimatum? Describe what happened.

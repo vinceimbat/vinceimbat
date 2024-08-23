@@ -131,7 +131,7 @@ Others
 
 ## Buhian
 
-- Started reading [[literature/what is a literary draft by biassi and wassenaar|"What is a literary draft?" by Biassi and Wassenaar]].
+- Started reading [[what is a literary draft biassi and wassenaar|"What is a literary draft?" by Biassi and Wassenaar]].
 
 # Others
 
@@ -185,7 +185,7 @@ Others
 
 - [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
 - [[literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
-- [[literature/the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
+- [[the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] (unfinished)
 - [[thoughts/ghazalia maralus ya ayat by villafania|Ghazalia: Maralus ya Ayat by Santiago Villafania]] (unfinished)
 - [[thoughts/saray anlong nen kookaburra by ariola-nepascua|Saray Anlong nen Kookaburra by Alma Ariola-Nepascua]] (unfinished)

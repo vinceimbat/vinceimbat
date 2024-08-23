@@ -1,12 +1,15 @@
 ---
 title: 5 Reasons Why Software Should Be Free and Open Source – King
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/why-software-should-be-free-and-open-source-king
 draft: false
-sr-due: 2023-12-02
-sr-interval: 3
-sr-ease: 250
+tags:
+  - literature
+  - seedlings
+sr-due: 2027-03-22
+sr-interval: 941
+sr-ease: 270
 ---
 Ethical
 

@@ -293,6 +293,7 @@ Silat - siwang sa pagitan ng mga kawayang sahig
 Silbato - pito; instrumentong naglalabas ng matinis na tunog sa pamamagitan ng hininga at kara-niwang ginagamit sa pagbibigay ng senyas
 Silo - bitag (nagpapabitag)
 Simsim - [ST] pagsipsip upang tikman ; pag-namnam ng lasa; pagpapaka-siyá sa kagandahan ng isang babae
+Singasing - paghingal dahil sa matinding hapo; pagbuga ng singaw o vapor; pagsúka ng pusa nang tumatayô ang balahibo; tila nagbu-buga ng singaw sa ilong na gawain ng toro kapag inaamoy ang báka
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.
 Sisne - swan

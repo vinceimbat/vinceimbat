@@ -1,11 +1,14 @@
 ---
 title: The Freelancer's Bible
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/the-freelancers-bible
 draft: false
-sr-due: 2023-12-16
-sr-interval: 3
+tags:
+  - literature
+  - seedlings
+sr-due: 2025-07-09
+sr-interval: 320
 sr-ease: 250
 ---
 # To Do

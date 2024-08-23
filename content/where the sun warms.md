@@ -72,7 +72,7 @@ Nietzsche argues that without a metaphysical or supernatural foundation for the 
 
 In my story, I entered the warm phase of convalescence around 2014 when I left college and went back home to Pangasinan, which distanced me from my political organization and advocacies. With nothing else to do, I prioritized introspection.
 
-Around this time, I also discovered Eastern philosophy and spirituality through a writer named [Dave Ursillo](https://daveursillo.com/). Reading the [[literature/tao te ching|Tao Te Ching]], the [[literature/bhagavad gita|Bhagavad Gita]], the Yoga Sutras of Patanjali, and more contemporary books like Echart Tolle's [[literature/the power of now|The Power of Now]] made me realize that I still resonated with existential questions, religious subjects, and spiritual practices. For ten years, from 2014 to 2024, I shifted between this warm and cold convalescence and sometimes even returned to nihilism. But these days, I definitely have more moments of warm sunlight.
+Around this time, I also discovered Eastern philosophy and spirituality through a writer named [Dave Ursillo](https://daveursillo.com/). Reading the [[literature/tao te ching|Tao Te Ching]], the [[literature/bhagavad gita|Bhagavad Gita]], the Yoga Sutras of Patanjali, and more contemporary books like Echart Tolle's [[the power of now|The Power of Now]] made me realize that I still resonated with existential questions, religious subjects, and spiritual practices. For ten years, from 2014 to 2024, I shifted between this warm and cold convalescence and sometimes even returned to nihilism. But these days, I definitely have more moments of warm sunlight.
 ***
 # Great Health
 

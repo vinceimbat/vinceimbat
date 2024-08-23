@@ -1,9 +1,12 @@
 ---
 title: When the person you love doesn't love you (Part 1)
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/when-the-person-you-love-doesnt-love-you-part-1
 draft: false
+tags:
+  - literature
+  - seedlings
 sr-due: 2024-01-04
 sr-interval: 3
 sr-ease: 250

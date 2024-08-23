@@ -1,11 +1,14 @@
 ---
 title: Things Become Other Things by Craig Mod
 date: 2024-01-01
-tags:
-  - seedlings
+aliases:
+  - literature/things-become-other-things-mod
 draft: false
-sr-due: 2024-01-04
-sr-interval: 3
+tags:
+  - literature
+  - seedlings
+sr-due: 2025-06-17
+sr-interval: 298
 sr-ease: 250
 ---
 # Structure

@@ -166,7 +166,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 
 [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
 [[abi nako cruz|Abi Nako by Cruz]] (unfinished)
-[[literature/the dominant animal by scanlan|The Dominant Animal by Scanlan]] (unfinished)
+[[the dominant animal scanlan|The Dominant Animal by Scanlan]] (unfinished)
 [[literature/simple living in history by alexander and mcleod|Simple Living in History by Alexander and McLeod]] (unfinished)
 Get Clients Now (unfinished)
 

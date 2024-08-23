@@ -1,11 +1,14 @@
 ---
 title: The 5 principles of learning anything
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/the-5-principles-of-learning-anything
 draft: false
-sr-due: 2023-11-19
-sr-interval: 3
+tags:
+  - literature
+  - seedlings
+sr-due: 2025-08-13
+sr-interval: 355
 sr-ease: 250
 ---
 **Introduction**

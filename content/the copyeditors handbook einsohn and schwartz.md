@@ -1,12 +1,15 @@
 ---
 title: The Copyeditor's Handbook by Amy Einsohn and Marilyn Schwartz
 date: 2023-10-07
+aliases:
+  - literature/the-copyeditors-handbook-einsohn-and-schwartz
+draft: false
 tags:
   - copyediting
+  - literature
   - seedlings
-draft: false
-sr-due: 2023-10-15
-sr-interval: 1
+sr-due: 2025-08-23
+sr-interval: 365
 sr-ease: 232
 ---
 # Prompts

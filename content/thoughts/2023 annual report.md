@@ -69,7 +69,7 @@ I returned to photography this month when I spent two days learning how to use t
 
 The biggest highlight of the month was, of course, my preparation and attendance to the [[anww20|ANWW20]]. Through this, I experienced preparing a presentation and delivering it to a group. I also experienced receiving close, practical feedback on my work. I also made new friends from my co-fellows and panelists. I particularly enjoyed my chats with [[elio garcia|Elio Garcia]], [[vincenz serrano|Vincenz Serrano]], [[thoughts/jhoanna lynn cruz|Jhoanna Lynn Cruz]], [[junley lazaga|Junley Lazaga]], and [[thoughts/eli guieb|Eli Guieb]]. At the graduation ceremony, I also got the chance to read [[translations/isang tahanang tatawagin nating bukas|Isang Tahanang Tatawagin Nating Bukas]].
 
-This month, like most months, was an opportunity to enrich relationships. Before leaving for Ateneo, Lea and I bonded with Bevs and Embi, who shared that he also came from a pastor's family. Before checking in at Ateneo, I met with [[louise far|Louise Far]] with whom I exchanged life stories and insights. She also gave me a copy of her book [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon]]. After checking in at Ateneo and having dinner with my co-fellows, I walked with Maui, Yano, and Ron around UP Oval then went to the University Hotel.
+This month, like most months, was an opportunity to enrich relationships. Before leaving for Ateneo, Lea and I bonded with Bevs and Embi, who shared that he also came from a pastor's family. Before checking in at Ateneo, I met with [[louise far|Louise Far]] with whom I exchanged life stories and insights. She also gave me a copy of her book [[inahan sa sugilanon far|Inahan sa Sugilanon]]. After checking in at Ateneo and having dinner with my co-fellows, I walked with Maui, Yano, and Ron around UP Oval then went to the University Hotel.
 
 After ANWW20, I went back to Pangasinan to attend Bernice's wedding. I travelled with Lea and I introduced her to my extended family. After Lea left, I went back to Cablong and met Kitkat for the first time. Later, I met Ate Li and family for the first time in 10 years (?) then we had dinner at Naro Cafe.
 
@@ -100,7 +100,7 @@ Lastly, I added my essay [[a never-ending walk|A Never-ending Walk]] in [[though
 
 The best books I read this month were:
 - [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]]
-- [[literature/inahan sa sugilanon by louise far|Inahan sa Sugilanon by Louise Far]]
+- [[inahan sa sugilanon far|Inahan sa Sugilanon by Louise Far]]
 
 I also re-read [[the collapse of what separates us serrano|The Collapse of What Separates Us by Vincenz Serrano]] to study the poems closely. I'll be sharing my notes on the site soon.
 
@@ -198,6 +198,6 @@ Next, I invested several hours going through my existing photographs, culling th
 
 I also spent a significant chunk of my December in dialogue with Jesa regarding our project. In our dialogue, I had to confront my ignorance of the gender lens, respond to her emails with grace, and write about what I know as well as what I'm still working on regarding my knowledge of walking as a writing method.
 
-I also spent the last week before Christmas reading and studying [[literature/things become other things mod|TBOT by Craig Mod]].
+I also spent the last week before Christmas reading and studying [[things become other things mod|TBOT by Craig Mod]].
 
 Lastly, I traveled with friends to visit Maui and Yano at San Pascual, to walk around the town, and come in dialogue about our lives. There I also handed my photograph print gifts. Then, Lea and I spent New Year's Eve with Embi and Bevs and new friends Carl and his wife MC.

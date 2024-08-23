@@ -1,9 +1,15 @@
 ---
 title: The Existentialist's Survival Guide by Gordon Marino
 date: 2023-10-16
-tags:
-  - seedlings
+aliases:
+  - literature/the-existentialists-survival-guide-marino
 draft: false
+tags:
+  - literature
+  - seedlings
+sr-due: 2024-08-26
+sr-interval: 3
+sr-ease: 250
 ---
 # Authenticity
 

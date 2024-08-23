@@ -1,9 +1,15 @@
 ---
 title: Thoughts on Emerson by Shinichiro Imaoka
 date: 2023-11-12
-tags:
-  - seedlings
+aliases:
+  - literature/thoughts-on-emerson-imaoka
 draft: false
+tags:
+  - literature
+  - seedlings
+sr-due: 2024-08-26
+sr-interval: 3
+sr-ease: 250
 ---
 the special quality of Emerson is that a fragment is not just a fragment but that everything within the fragment shines forth.
 

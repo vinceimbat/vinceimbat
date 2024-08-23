@@ -15,4 +15,4 @@ sr-ease: 230
 
 # To do
 
-- Connect [[Nanduruman akar ed Pangasinan]].
+- Connect [[ways of walking in pangasinan alphabetical]].

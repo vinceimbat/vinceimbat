@@ -1,9 +1,15 @@
 ---
 title: The freedom to be tomorrow what we are not today - Brown
 date: 2024-01-25
+aliases:
+  - literature/the-freedom-to-be-tomorrow-brown
 draft: false
 tags:
+  - literature
   - seedlings
+sr-due: 2024-08-27
+sr-interval: 4
+sr-ease: 270
 ---
 To survive and progress, a religion has to be a religion appropriate for the future.
 
