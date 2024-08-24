@@ -2,12 +2,14 @@
 title: Introduction to Walden – Merwin
 date: 2023-05-23
 aliases:
-  - Notes from introduction to Walden
+  - Notes-from-introduction-to-Walden
+  - literature/introduction-to-walden-merwin
 tags:
+  - literature
   - seedlings
-sr-due: 2023-12-01
-sr-interval: 3
-sr-ease: 250
+sr-due: 2027-03-30
+sr-interval: 948
+sr-ease: 270
 ---
 Reaped from the land both physically and mentally
 

@@ -1,12 +1,15 @@
 ---
 title: "Module 4: Creative iPhone Photography Techniques"
 date: 2023-08-21
-tags:
-  - seedlings
+aliases:
+  - literature/module-4-creative-iphone-photography-techniques
 draft: false
-sr-due: 2023-12-15
-sr-interval: 3
-sr-ease: 250
+tags:
+  - literature
+  - seedlings
+sr-due: 2027-02-09
+sr-interval: 899
+sr-ease: 270
 ---
 # How to Tell Powerful Stories With Your Photos
 

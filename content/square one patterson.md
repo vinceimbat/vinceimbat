@@ -1,9 +1,12 @@
 ---
 title: "Square One: The Foundations of Knowledge by Steve Patterson"
 date: 2023-09-23
-tags:
-  - seedlings
+aliases:
+  - literature/square-one-by-patterson
 draft: false
+tags:
+  - literature
+  - seedlings
 sr-due: 2023-10-12
 sr-interval: 3
 sr-ease: 250

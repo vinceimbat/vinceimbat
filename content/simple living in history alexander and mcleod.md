@@ -1,15 +1,16 @@
 ---
 title: Simple Living in History by Alexander and Mcleod
 date: 2023-09-22
+aliases:
+  - literature/simple-living-in-history-by-alexander-and-mcleod
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-26
-sr-interval: 4
-sr-ease: 270
+sr-due: 2028-02-15
+sr-interval: 1270
+sr-ease: 290
 ---
-
-
 
 # References
 

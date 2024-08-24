@@ -1,13 +1,16 @@
 ---
 title: "How to write good prompts: Using spaced repetition to create understanding by Andy Matuschak"
 date: 2023-10-09
-tags:
-  - seedlings
-  - prompts
+aliases:
+  - literature/how-to-write-good-prompts-matuschak
 draft: false
-sr-due: 2023-10-12
-sr-interval: 3
-sr-ease: 250
+tags:
+  - literature
+  - prompts
+  - seedlings
+sr-due: 2027-09-21
+sr-interval: 1123
+sr-ease: 270
 ---
 # Prompts
 

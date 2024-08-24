@@ -1,15 +1,16 @@
 ---
 title: Literary Transcendentalism by Buell
 date: 2023-11-14
-tags:
-  - seedlings
+aliases:
+  - literature/literary-transcendentalism-buell
 draft: false
-sr-due: 2023-11-17
-sr-interval: 3
+tags:
+  - literature
+  - seedlings
+sr-due: 2025-08-18
+sr-interval: 359
 sr-ease: 250
 ---
-
-
 
 # References
 

@@ -15,7 +15,7 @@ After college, I started looking for a differeny way of working. I found bloggin
 
 Because Dave was a yogi and he shared some of his favorite books about yoga, I got acquainted first with [[Hinduism]]. With his suggestion, I read the [[literature/bhagavad gita]], the [[Yoga Sutras of Patanjali]], and [[The Heart of Yoga]] by Desikachar). I also met the works on [[Spiritual humanism]] by [[Jay Lakhani]]. Even at this point, I was still trying to connect secular knowledge with religious wisdom.
 
-Through Dave’s suggestion, I also encountered and read the [[literature/tao te ching]].
+Through Dave’s suggestion, I also encountered and read the [[tao te ching]].
 
 I also started reading [[New Age]] philosophy.
 

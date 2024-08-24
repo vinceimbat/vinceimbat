@@ -1,9 +1,15 @@
 ---
 title: Object Lesson by Teju Cole
 date: 2023-08-21
+aliases:
+  - literature/object-lesson-by-cole
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
+sr-due: 2024-08-28
+sr-interval: 4
+sr-ease: 270
 ---
 “On Photography” (1977) by Susan Sontag
 

@@ -140,7 +140,7 @@ TLW
 - [Theoretical Pluralism and Chess](https://stevepatterson.substack.com/p/theoretical-pluralism-and-chess?utm_source=post-email-title&publication_id=1219659&post_id=129064452&isFreemail=true) by Steve Patterson
 - [The Japanese Yuniterian [sic] tradition . . . or the dove that ventured outside.](https://andrewjbrown.blogspot.com/2023/11/the-japanese-yuniterian-sic-tradition.html?m=1) by Andrew James Brown
 - ['Women are better writers than men': novelist John Boyne sets the record straight | Fiction | The Guardian](https://www.theguardian.com/books/2017/dec/12/double-x-factor-why-women-are-better-writers-than-men)
-- Continued reading [[literature/nightingalingale by mod|Nightingalingale]].
+- Continued reading [[nightingalingale mod|Nightingalingale]].
 
 ## Podcasts
 

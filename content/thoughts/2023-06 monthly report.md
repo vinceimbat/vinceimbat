@@ -7,7 +7,7 @@ tags:
 ---
 # Summary
 
-I returned to photography this month when I spent two days learning how to use the Canon EOS M50 Mark II through YouTube videos and more importantly the book [[literature/read this if you want to take great photos by carroll|Read This If You Want to Take Great Photos by Henry Carroll]] for Bukas na Hapag. In that event, I experienced eating Tempeh Itum, Binatog Elote, Dinnanaw at Gininub, and Kulawong Talong while learning about the intricacies of the Filipino food system.
+I returned to photography this month when I spent two days learning how to use the Canon EOS M50 Mark II through YouTube videos and more importantly the book [[read this if you want to take great photos carroll|Read This If You Want to Take Great Photos by Henry Carroll]] for Bukas na Hapag. In that event, I experienced eating Tempeh Itum, Binatog Elote, Dinnanaw at Gininub, and Kulawong Talong while learning about the intricacies of the Filipino food system.
 
 The biggest highlight of the month was, of course, my preparation and attendance to the [[anww20|ANWW20]]. Through this, I experienced preparing a presentation and delivering it to a group. I also experienced receiving close, practical feedback on my work. I also made new friends from my co-fellows and panelists. I particularly enjoyed my chats with [[elio garcia|Elio Garcia]], [[vincenz serrano|Vincenz Serrano]], [[thoughts/jhoanna lynn cruz|Jhoanna Lynn Cruz]], [[junley lazaga|Junley Lazaga]], and [[thoughts/eli guieb|Eli Guieb]]. At the graduation ceremony, I also got the chance to read [[translations/isang tahanang tatawagin nating bukas|Isang Tahanang Tatawagin Nating Bukas]].
 
@@ -136,7 +136,7 @@ Notes:
 
 ### Books
 
-- Read [[literature/read this if you want to take great photos by carroll]].
+- Read [[read this if you want to take great photos carroll]].
 - Continued to read [[On Writing Well by Zinsser]].
 - Started reading [[wanderlust solnit]]
 - Read [[the collapse of what separates us serrano]].

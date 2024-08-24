@@ -2,12 +2,14 @@
 title: Read This If You Want to Take Great Photos by Henry Carroll
 date: 2023-07-02
 tags:
+  - literature
   - seedlings
 aliases:
-  - Read This If You Want to Take Great Photos by Henry Carroll
-sr-due: 2023-09-21
-sr-interval: 3
-sr-ease: 250
+  - Read-This-If-You-Want-to-Take-Great-Photos-by-Henry-Carroll
+  - literature/read-this-if-you-want-to-take-great-photos-by-carroll
+sr-due: 2027-12-04
+sr-interval: 1197
+sr-ease: 270
 ---
 Focus on composition.
 

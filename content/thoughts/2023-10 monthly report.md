@@ -162,7 +162,7 @@ Poetry
 
 ## Articles
 
-- [[literature/how to write good prompts matuschak|How to write good prompts by Andy Matuschak]]
+- [[how to write good prompts matuschak|How to write good prompts by Andy Matuschak]]
 - 100r.co website
 
 ## Podcasts

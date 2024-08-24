@@ -1,12 +1,15 @@
 ---
 title: Improving your editing efficiency by J. S. Hart
 date: 2023-09-04
+aliases:
+  - literature/improving-your-editing-efficiency-by-hart
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-26
-sr-interval: 4
-sr-ease: 270
+sr-due: 2028-02-14
+sr-interval: 1269
+sr-ease: 290
 ---
 Editing efficiently involves a mix of software skills, soft (human) skills, and strategies for surviving chaos.
 

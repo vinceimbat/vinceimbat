@@ -14,8 +14,8 @@ In response to my reading of [[thoughts/a religion of ones own by moore|A Religi
 My favorite thought note this month is: [[art is never finished|Art is never finished]]. I wrote this while working on an essay I later sent to a literary journal. It talks about this modern bias to complete a work of art and why this could be going against the very nature of art.
 
 The best things I read this month were:
-- [[literature/lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
-- [[literature/nightingalingale by mod|The Nightingalingale Newsletter by Craig Mod]]
+- [[lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
+- [[nightingalingale mod|The Nightingalingale Newsletter by Craig Mod]]
 
 I published three newsletters this month:
 
@@ -148,7 +148,7 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 ## Sustaining
 
 - Bought a new subscription to InLife HMO.
-- Created [[literature/improving your editing efficiency by hart|Improving your editing efficiency by Hart]].
+- Created [[improving your editing efficiency hart|Improving your editing efficiency by Hart]].
 - Wrote a proposal for the expansion of the Ili website.
 - Applied to a knowledge manager role.
 - Finished working on Krys' paper.
@@ -167,16 +167,16 @@ Started considering how to be a writing coach by a [webinar](https://www.youtube
 [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
 [[abi nako cruz|Abi Nako by Cruz]] (unfinished)
 [[the dominant animal scanlan|The Dominant Animal by Scanlan]] (unfinished)
-[[literature/simple living in history by alexander and mcleod|Simple Living in History by Alexander and McLeod]] (unfinished)
+[[simple living in history alexander and mcleod|Simple Living in History by Alexander and McLeod]] (unfinished)
 Get Clients Now (unfinished)
 
 ## Articles
 
-Re-read [[literature/lynda barry kios]]
+Re-read [[lynda barry kios]]
 
 ## Newsletters
 
-[[literature/nightingalingale by mod|Nightingalingale by Craig Mod]] 
+[[nightingalingale mod|Nightingalingale by Craig Mod]] 
 
 ## Podcasts
 

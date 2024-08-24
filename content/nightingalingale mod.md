@@ -1,12 +1,15 @@
 ---
 title: Nightingalingale by Mod
 date: 2023-09-22
+aliases:
+  - literature/nightingalingale-by-mod
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-23
-sr-interval: 1
-sr-ease: 230
+sr-due: 2027-08-24
+sr-interval: 1095
+sr-ease: 250
 ---
 # 1
 

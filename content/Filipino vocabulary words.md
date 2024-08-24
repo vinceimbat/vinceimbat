@@ -30,9 +30,11 @@ Bahaw - kung sa tinig, paos o malat (basag)
 Bakokang - súgat na matagal gumalíng at nag-iiwan ng malaki at malalim na peklat sa balát
 Balana - pagbago ng isang gawain; pagpapanumbalik ng init at sigla.
 Banaag - bahagyang pagkakilála sa anumang bagay na nakikíta dahil sa kalabuan ng matá
+Balagwit - pasan sa magkabilâng dulo ng pinggá
 Balasik - bagsik; anyong nakahihindik
 Bandeha - malanday at malapad na kasang-kapang yari sa losa, tabla, plastik, o metal na ginagamit sa pagdadalá ng mga baso at katulad
 Banlik - mabuhanging putik na iniwan ng nagdaang bahâ
+Bantulihaw - kamagong
 Bantulot - hindi makapagpasiya kung ano ang gagawin; urong sulong
 Batik - patak-patak na dumi o kulay sa anumang bagay
 Berlina - karwaheng may pintuan.
@@ -134,6 +136,7 @@ Kalabusaw - mabilis at hindi kontroladong pagkampay ng bisig at pagpadyak ng sin
 Kalamkam - kiliti (pero ginamit ni Tinio para ilarawan ang radyo)
 Kalaykay - kasangkapang pangkahig ng lupa, karaniwang yarì sa bakal ang ngipin, at gawâ sa ka-hoy ang hawakán
 Kaligkig - panginginig ng katawan dahil sa ginaw na dulot ng lagnat
+Kalupi - [ST] katutubòng maliit na sisidlan ng rosaryo; pitaka; portpolyo o anumang sisidlan ng mga papeles at iba pang abubot.
 Kambas - uri ng tela na matibay at magaspang, yarì sa hemp o flax, o ibang magaspang na himaymay, at ginagamit sa pag-gawâ ng layag, tolda, at iba pang materyales na pinipintahan; canvas
 Kanlong - natatakpan o nalilili-man; nakakubli sa likod ng kalasag at iba pang harang, kayâ hindi makíta o makakíta (kumanlong sa duguang bangkay ng anak)
 Kanti - pagkalabit, paghaplos, o pagtama na halos hindi sumayad
@@ -200,6 +203,7 @@ Masinsin
 Matarling - mataas at matining na tinig; soprano
 Medya-agwa - sibi; nakahilig na silungan, karaniwang nakakabit sa dingding ng isang bahay o nakadugtong sa bubong; dagdag na bahagi sa tunay na bahay
 Mulaga - stare
+Mulido - [War] panghimagas na gawa sa binayo na kamote, hinaluan ng asukal at kinudkod na niyog, inluto hanggang sa tumigas at inihulma nang pahaba at manipis.
 Mutawi - tapat na pagbigkas ng mga salitâ; diin ng pagbigkas ng salitâ
 
 # N
@@ -240,6 +244,7 @@ Pandaw - [ST] dumalaw sa pa-ngisdaan o bitag para tingnan kung may húli at kuha
 Panguman - hinggil sa ugnayan ng dalawang tao bunga ng muling pag-aasawa ng ina o amá, karani-wang itinatambal sa isa pang salita, halimbawa: amáng pangúmán, ináng pangú-mán; madrasta
 Panimdim - matin-ding balísa, karaniwang dahil sa sinisikil na samâ-ng-loob _var_ panim-dímin
 Pañuelo - dress
+Paragos - uri ng kareta, karani-wang yarì sa kawayan at nakatikwas kapag hinila, kayâ ang panghuliháng mga dulo ng mga baras lámang ang nakasayad sa lupa
 Payneta - suklay na nakapabalantok at karaniwang pampalamuti sa buhok ng babae; peyneta; tiara?
 Payumpong - paypay
 Pelus - velvet

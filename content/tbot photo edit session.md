@@ -1,9 +1,15 @@
 ---
 title: TBOT photo edit session
 date: 2023-12-07
+aliases:
+  - literature/tbot-photo-edit-session
 draft: false
 tags:
+  - literature
   - seedlings
+sr-due: 2024-08-28
+sr-interval: 4
+sr-ease: 270
 ---
 Take both landscape and portrait photos to consider printing on books
 

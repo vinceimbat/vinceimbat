@@ -1,12 +1,15 @@
 ---
 title: Lynda Barry Will Make You Believe in Yourself by Dan Kios
 date: 2023-09-26
-tags:
-  - seedlings
+aliases:
+  - literature/lynda-barry-kios
 draft: false
-sr-due: 2023-10-06
-sr-interval: 4
-sr-ease: 270
+tags:
+  - literature
+  - seedlings
+sr-due: 2028-01-09
+sr-interval: 1233
+sr-ease: 290
 ---
 Students’ work is meant to stand on its own, without criticism, revision or, in fact, revisitation. Barry insists that students not reread their writing until the entire course has concluded. “While you’re writing, you’re having this experience,” Barry explained. “But when you read it, all you can think about is, Is my baby defective?” Sometimes, she said, babies just need time to open their eyes.
 
