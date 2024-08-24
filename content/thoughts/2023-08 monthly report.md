@@ -19,9 +19,9 @@ I managed to publish three newsletter issues:
 - [[lolo aldo|Lolo Aldo]]
 - [[in july|In July]]
 
-This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[literature/billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I realized I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing for the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
+This August, I decided to apply to a regional writer's workshop that accepted works in my native [[tags/pangasinan|Pangasinan]] language. At first, I thought I should send some Pangasinan poems (*anlong*), so I finished [[billy collins masterclass|Billy Collins' Masterclass]], which I thought should help me revise the poems better. But after finishing the course, I realized I wanted to focus on writing [[thoughts/lyric essay|lyric essays]]. This is a genre of writing that I have been doing for the past two years long before I've ever discovered the term, and although I love reading and writing poetry, I wanted to stay closer to something that was true to me and get better at it. Plus, the book about walking in Los Baños, which I am currently working on will be a book of lyric essays. Might as well practice now.
 
-What resulted was [[mulimuli pangasiniani|Mulimuli Pangasiniani]], which I translated into English as [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]. It is a lyric essay about my personal struggles in writing in my mother tongue. While working on this essay, I read the works of other lyric essayists. A book that was particularly helpful was the anthology *[[literature/a harp in the stars by noble|A Harp in the Stars]]* edited by R. B. Noble.
+What resulted was [[mulimuli pangasiniani|Mulimuli Pangasiniani]], which I translated into English as [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]. It is a lyric essay about my personal struggles in writing in my mother tongue. While working on this essay, I read the works of other lyric essayists. A book that was particularly helpful was the anthology *[[a harp in the stars noble|A Harp in the Stars]]* edited by R. B. Noble.
 
 I also started a collaborative writing project with a co-fellow at the Ateneo National Writer's Workshop: [[jesa suganob|Jesa Suganob]]. Our project involves doing a series of walks from August to the end of September. We're free to choose on which days to do the walking as long as we use each walk as a prompt for writing an epistolary essay on that walk. The essay is directed towards each other, but we won't send the essays until the end of the project.
 
@@ -66,7 +66,7 @@ TLW
 - [[in july|In July]]
 
 Others
-- Studied [[literature/billy collins masterclass|Billy Collins Masterclass]].
+- Studied [[billy collins masterclass|Billy Collins Masterclass]].
 - Translated Migs' questionnaire.
 - Realized I wanted to focus on writing lyric essays.
 	- I started doing research on lyric essays, documenting it in a note: [[thoughts/lyric essay|lyric essay]]
@@ -184,12 +184,12 @@ Others
 ## Books
 
 - [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (unfinished)
-- [[literature/boundaries by cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
+- [[boundaries cloud and townsend|Boundaries by Cloud and Townsend]] (unfinished)
 - [[the better boundaries workbook|The Better Boundaries Workbook]] (unfinished)
 - [[thoughts/living philosophy by edward mooney|Living Philosophy by Edward Mooney]] (unfinished)
 - [[thoughts/ghazalia maralus ya ayat by villafania|Ghazalia: Maralus ya Ayat by Santiago Villafania]] (unfinished)
 - [[thoughts/saray anlong nen kookaburra by ariola-nepascua|Saray Anlong nen Kookaburra by Alma Ariola-Nepascua]] (unfinished)
-- [[literature/a harp in the stars by noble|A Harp in the Stars by Noble]] (unfinished)
+- [[a harp in the stars noble|A Harp in the Stars by Noble]] (unfinished)
 - [[abi nako cruz|Abi Nako by Jhoanna Lynn Cruz]] (unfinished)
 
 I bought new books:

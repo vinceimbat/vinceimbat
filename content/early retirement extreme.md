@@ -2,12 +2,13 @@
 title: Early Retirement Extreme
 date: 2021-06-16
 aliases:
-  - early retirement extreme
+  - literature/early-retirement-extreme
 tags:
+  - literature
   - seedlings
-sr-due: 2023-01-09
-sr-interval: 3
-sr-ease: 250
+sr-due: 2030-05-17
+sr-interval: 2092
+sr-ease: 270
 ---
 
 # References

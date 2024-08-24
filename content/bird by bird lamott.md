@@ -1,12 +1,15 @@
 ---
 title: Bird by Bird by Anne Lamott
 date: 2023-09-23
+aliases:
+  - literature/bird-by-bird-lamott
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-27
-sr-interval: 4
-sr-ease: 270
+sr-due: 2028-02-12
+sr-interval: 1267
+sr-ease: 290
 ---
 This book was probably my first introduction to humorous writing in English. I really liked this style of writing a lot that I've begun reading Billy Collins' collection of poems _Sailing Alone in the Room_. I'm experimenting with my comedic voice both in my poetry and in recent explorations in drawings. Reading the book made me nostalgic about writers like Bob Ong and Eros Atalia—Filipino humor writers whose books I read in grade school and high school.
 

@@ -2,12 +2,14 @@
 title: Billy Collins Teaches Reading and Writing Poetry
 date: 2023-01-14
 aliases:
-  - thoughts/billy collins masterclass
+  - thoughts/billy-collins-masterclass
+  - literature/billy-collins-masterclass
 tags:
+  - literature
   - seedlings
-sr-due: 2023-10-02
-sr-interval: 7
-sr-ease: 230
+sr-due: 2027-08-15
+sr-interval: 1086
+sr-ease: 250
 ---
 # 01 - Introduction: The Pleasure Poetry Gives Us
 

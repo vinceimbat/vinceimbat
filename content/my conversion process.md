@@ -8,7 +8,7 @@ tags:
   - seedlings
 draft: false
 ---
-I wrote this after reading about [[shinichiro imaoka|Shinichiro Imaoka's]] conversion process in *[[literature/cosmic sage williams|Cosmic Sage]]*.
+I wrote this after reading about [[shinichiro imaoka|Shinichiro Imaoka's]] conversion process in *[[cosmic sage williams|Cosmic Sage]]*.
 
 From being the son of JW parents, I embraced the faith myself through the example of others but most importantly, Niko Rabe. I once dreamt of following his footsteps. I communicated with him and even joined him in the ministry. When I reached Baguio, Ced Bartolome became a model to follow, particularly in using sign language effectively when teaching the Deaf. When I started taking on a more serious ministerial role, Roy Agbayani and Crispin Rulloda helped me greatly.
 

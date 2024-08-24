@@ -1,12 +1,15 @@
 ---
 title: A True Picture of Black Skin by Teju Cole
 date: 2023-08-21
+aliases:
+  - literature/a-true-picture of -black-skin-cole
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-10-01
-sr-interval: 3
-sr-ease: 250
+draft: false
+sr-due: 2027-10-30
+sr-interval: 1162
+sr-ease: 270
 ---
 Roy DeCarava’s work explored ow much could be seen in the shadowed parts of a photograph.
 

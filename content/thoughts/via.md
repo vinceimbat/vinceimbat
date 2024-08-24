@@ -9,7 +9,7 @@ sr-due: 2029-04-28
 sr-interval: 1899
 sr-ease: 270
 ---
-This exercise was from [[literature/belong agrawal]]
+This exercise was from [[belong agrawal]]
 
 ## Values
 

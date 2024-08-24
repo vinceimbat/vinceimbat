@@ -1,12 +1,15 @@
 ---
 title: Being Home by Norris and Sibley
 date: 2023-10-23
-tags:
-  - seedlings
+aliases:
+  - literature/being-home-norris-and-sibley
 draft: false
-sr-due: 2023-10-24
-sr-interval: 1
-sr-ease: 230
+tags:
+  - literature
+  - seedlings
+sr-due: 2027-05-16
+sr-interval: 995
+sr-ease: 250
 ---
 We simply know that our daily round _is_ how we live.
 

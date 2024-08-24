@@ -13,5 +13,5 @@ What is truer than this moment? What is more real that when we are not thinking 
 
 My number one priority should be to stay here in my present mental state.
 
-This is the reason why [[literature/early retirement extreme]] is not for me. I can't stand five years of my life working hard. I just think that's too long and is not worth the bargain given and the rist that could happen within those five years. What I could tolerate is a day when I can both plan for the future and enjoy this moment—each moment.
+This is the reason why [[early retirement extreme]] is not for me. I can't stand five years of my life working hard. I just think that's too long and is not worth the bargain given and the rist that could happen within those five years. What I could tolerate is a day when I can both plan for the future and enjoy this moment—each moment.
 

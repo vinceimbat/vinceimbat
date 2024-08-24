@@ -3,7 +3,10 @@ title: Belong by Radha Agrawal
 date: 2019-07-25
 aliases:
   - Belong — Agrawal
+  - literature/belong-agrawal
+draft: false
 tags:
+  - literature
   - seedlings
 sr-due: 2027-04-02
 sr-interval: 1287

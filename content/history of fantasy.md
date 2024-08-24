@@ -1,12 +1,15 @@
 ---
 title: History of fantasy
 date: 2023-08-21
+aliases:
+  - literature/history-of-fantasy
 draft: false
 tags:
+  - literature
   - seedlings
-sr-due: 2024-01-24
-sr-interval: 3
-sr-ease: 250
+sr-due: 2026-09-21
+sr-interval: 758
+sr-ease: 270
 ---
 **Myth, Legend, and Saga**
 

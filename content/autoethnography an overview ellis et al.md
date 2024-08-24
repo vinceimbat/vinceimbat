@@ -2,12 +2,14 @@
 title: Autoethnography - An Overview by Ellis et al.
 date: 2023-03-18
 aliases:
-  - Autoethnography - An Overview by Ellis et al.
+  - Autoethnography---An-Overview-by-Ellis-et al.
+  - literature/autoethnography an-overview-ellis-et-al
 tags:
+  - literature
   - seedlings
-sr-due: 2024-09-28
-sr-interval: 300
-sr-ease: 230
+sr-due: 2027-04-26
+sr-interval: 975
+sr-ease: 250
 ---
 Autoethnography is an approach to research and writing that seeks to describe and systematically analyze (graphy) personal experience (auto) in order to understand cultural experience (ethno).
 

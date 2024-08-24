@@ -1,9 +1,15 @@
 ---
 title: 100 Rabbits Patreon
 date: 2023-10-05
-tags:
-  - seedlings
+aliases:
+  - literature/100-rabbits-patreon
 draft: false
+tags:
+  - literature
+  - seedlings
+sr-due: 2024-08-28
+sr-interval: 4
+sr-ease: 270
 ---
 # Tiers
 

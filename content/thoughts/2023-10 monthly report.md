@@ -156,8 +156,8 @@ Poetry
 - [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] (finished)
 - Creative Inc. (unfinished)
 - [[the existentialists survival guide marino|The Existentialist's Survival Guide by Marino]] (unfinished)
-- [[literature/bluets nelson|Bluets by Nelson]] (unfinished)
-- [[literature/being home norris and sibley|Being Home by Norris and Sibley]] (unfinished)
+- [[bluets nelson|Bluets by Nelson]] (unfinished)
+- [[being home norris and sibley|Being Home by Norris and Sibley]] (unfinished)
 - [[thoughts/a religion of ones own by moore|A Religion of One's Own]] (unfinished)
 
 ## Articles

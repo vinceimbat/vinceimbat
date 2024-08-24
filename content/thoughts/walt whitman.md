@@ -9,7 +9,7 @@ sr-ease: 250
 ---
 # On Poetry
 
-From [[literature/billy collins masterclass|Billy Collins' Masterclass]].
+From [[billy collins masterclass|Billy Collins' Masterclass]].
 
 ==Whitman was the first to remove regular meter and rhyme away. He removed those two training wheels but the bicycle kept going.
 

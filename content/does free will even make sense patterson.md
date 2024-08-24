@@ -1,9 +1,15 @@
 ---
 title: Does Free Will Even Make Sense? by Steve Patterson
 date: 2023-08-21
+aliases:
+  - literature/does-free-will-even-make-sense-by-patterson
+draft: false
 tags:
+  - literature
   - seedlings
-draft:
+sr-due: 2024-08-28
+sr-interval: 4
+sr-ease: 270
 ---
 Free will
 

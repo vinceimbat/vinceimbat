@@ -1,11 +1,14 @@
 ---
 title: Devotions by Mary Oliver
 date: 2023-09-23
+aliases:
+  - literature/devotions-oliver
 tags:
+  - literature
   - seedlings
-draft:
-sr-due: 2023-09-27
-sr-interval: 4
+draft: false
+sr-due: 2025-11-26
+sr-interval: 459
 sr-ease: 270
 ---
 This is only the second poetry collection book I finished reading. The first collection was the Alon poetry collection _What the Water Said_. Ever since I started writing poems, I also started reading 1-2 poems every morning. I started this poetry reading habit through Mary Oliver's _Devotions_.

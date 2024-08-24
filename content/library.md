@@ -30,13 +30,13 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - [[2024-06-10]]: [[salvacion barrameda|Salvacion by Emman Barrameda]] ★
 - [[2024-03-31]]: [[abi nako cruz|Abi Nako, Or So I Thought by Jhoanna Lynn Cruz]]
 - [[2024-03-14]]: [[having listened whited|Having Listened by Gary Whited]] ★
-- [[2024-02-12]]: [[literature/a gathering of larks carroll|A Gathering of Larks by Abigail Carroll]]
+- [[2024-02-12]]: [[a gathering of larks carroll|A Gathering of Larks by Abigail Carroll]]
 
 # 2023
 
 - [[2023-12-25]]: [[things become other things mod|Things Become Other Things by Craig Mod]] ★★
-- [[2023-11-24]]: [[literature/cosmic sage williams|Cosmic Sage by George Williams]]
-- [[2023-11-14]]: [[literature/bluets nelson|Bluets by Maggie Nelson]]
+- [[2023-11-24]]: [[cosmic sage williams|Cosmic Sage by George Williams]]
+- [[2023-11-14]]: [[bluets nelson|Bluets by Maggie Nelson]]
 - [[2023-10-10]]: [[refusing heaven gilbert|Refusing Heaven by Jack Gilbert]] ★
 - [[2023-07-16]]: [[thoughts/isang taong maghapon by paolo tiausas|Isang Taong Maghapon by Paolo Tiausas]] ★
 - [[2023-07-13]]: [[inahan sa sugilanon far|Inahan sa Sugilanon by Louise Far]] ★

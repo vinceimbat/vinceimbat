@@ -1,15 +1,16 @@
 ---
-title: "A Harp in the Stars by Noble"
-date: "2023-08-20"
+title: A Harp in the Stars by Noble
+date: 2023-08-20
 aliases:
-- "a harp in the stars by noble"
+  - literature/a-harp-in-the-stars-by-noble
+draft: false
 tags:
-- "seedlings"
+  - literature
+  - seedlings
 sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 250
 ---
-
 
 
 # References

@@ -1,12 +1,15 @@
 ---
 title: Healing Depression the Mind-Body Way by Nancy Liebler
 date: 2023-10-05
-tags:
-  - seedlings
+aliases:
+  - literature/healing-depression-liebler
 draft: false
-sr-due: 2023-10-08
-sr-interval: 3
-sr-ease: 250
+tags:
+  - literature
+  - seedlings
+sr-due: 2027-10-05
+sr-interval: 1137
+sr-ease: 270
 ---
 Metabolising Life
 

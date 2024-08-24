@@ -1,13 +1,15 @@
 ---
-title: "Alain de Botton on Philosophy Within and Outside the Academy"
-date: "2023-07-25"
-aliases: "thoughts/alain-de-botton-philosophy-outside-academy"
+title: Alain de Botton on Philosophy Within and Outside the Academy
+date: 2023-07-25
+aliases:
+  - thoughts/alain-de-botton-philosophy-outside-academy
+  - literature/alain-de-botton-philosophy-outside-academy
 tags:
-
-- "seedlings"
-sr-due: 2023-07-28
-sr-interval: 3
-sr-ease: 250
+  - literature
+  - seedlings
+sr-due: 2028-06-14
+sr-interval: 1390
+sr-ease: 270
 ---
 Wanted to write books in general
 

@@ -9,7 +9,7 @@ sr-due: 2022-08-29
 sr-interval: 4
 sr-ease: 270
 ---
-[[literature/belong agrawal]]. For column one, use values from [[my top values]].
+[[belong agrawal]]. For column one, use values from [[my top values]].
 
 ## Qualities I’m looking for 🙂
 

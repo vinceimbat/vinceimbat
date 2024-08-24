@@ -130,9 +130,9 @@ TLW
 
 ## Books
 
-- [[literature/being home norris and sibley|Being Home]] (finished)
+- [[being home norris and sibley|Being Home]] (finished)
 - [[writing alone and with others schneider|Writing Alone and With Others)]] (unfinished)
-- [[literature/a gathering of larks carroll|A Gathering of Larks]] (unfinished)
+- [[a gathering of larks carroll|A Gathering of Larks]] (unfinished)
 - [[things become other things mod|Things Become Other Things]] (finished)
 
 ## Articles
