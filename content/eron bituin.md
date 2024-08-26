@@ -6,7 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-25
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-09-09
+sr-interval: 14
+sr-ease: 270
 ---
+Another co-fellow at [[PRS17]]. At my first [[BLTX]], he gave me his free zine [[ikot-ikot bituin|Ikot-ikot]], which features a short story about the plight of Filipino call center agents.

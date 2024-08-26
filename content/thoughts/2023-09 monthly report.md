@@ -52,7 +52,7 @@ Essay
 - [[uman 2023-08|Uman 2023-08]]
 
 Poetry
-- [[poems/night is|Night Is]]
+- [[night is|Night Is]]
 
 TLW
 - [[this morning|This Morning]]

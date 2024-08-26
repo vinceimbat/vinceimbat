@@ -57,7 +57,7 @@ at sa sandaling iyon
 Binalot ako ng malilim na katahimikan.  
 
 ***
-Salin mula sa Pangasinan: [[poems/uleg ya telek|Uleg ya Telek]]
+Salin mula sa Pangasinan: [[uleg ya telek|Uleg ya Telek]]
 
 To do:
 - Update this with the one I sent to TLDTD

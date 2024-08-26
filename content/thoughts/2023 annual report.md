@@ -84,8 +84,8 @@ A walk on the afternoon of [[daily notes/2023-07-12|July 12]] made me realize th
 So, this July, I got some more writing done. While making significant progress in the current website design and development projects I'm doing for two clients, both of which are ready to launch, I was also able to produce some work.
 
 Some of my favorite writings this month include the walk poem drafts:
-- [[poems/walk poem 1|Walk Poem 1]]
-- [[poems/walk poem 2|Walk Poem 2]]
+- [[walk poem 1|Walk Poem 1]]
+- [[walk poem 2|Walk Poem 2]]
 
 I wrote these poems initially as fragments of observations during two afternoon walks. My rule was to write a brief note on whatever piqued my interest or whatever thought calls on the walk and to separate lines per street where they occurred. Thus the number of stanzas equal the number of streets walked.
 

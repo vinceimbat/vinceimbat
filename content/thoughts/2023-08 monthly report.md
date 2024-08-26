@@ -45,8 +45,8 @@ Others
 # Writing
 
 Poems
-- [[poems/to an unnamed path|To an Unnamed Path]]
-- [[poems/walk poem 2|Walk Poem 2]]
+- [[to an unnamed path|To an Unnamed Path]]
+- [[walk poem 2|Walk Poem 2]]
 - [[poems/listen|Listen]]
 - [[ipb road|IPB Road]]
 - [[in july|In July]]

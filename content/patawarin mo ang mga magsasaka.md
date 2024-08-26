@@ -45,4 +45,4 @@ sa lupang sinaktan niya at muling sasaktan
 pagkagising niya mula sa himbing.
 
 ***
-Isinalin mula sa Pangasinan: [[poems/perdonam iray dumaralos]]
+Isinalin mula sa Pangasinan: [[perdonam iray dumaralos]]

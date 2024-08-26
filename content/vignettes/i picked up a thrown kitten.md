@@ -21,4 +21,4 @@ In the late afternoon, Lea and I bought a nursing bottle (P180) and milk replace
 
 I remembered [[henry bugbee]] and the purpose of reflection—to be decisive in one's action at this moment. I remembered [[thoughts/thich nhat hanh]] and compassion. I remembered [[thoughts/walt whitman]] and his passion in helping the wounded during the war. I felt that this was an opportunity to make someone else's life thrown—literally thrown—become a gift once more. And who would've thought that I will go this far in taking care of one soul? This place transforms people. It has transformed me.
 
-I detailed the fate of this kitten, which I named Keeley in the poem I wrote: [[poems/today i buried a kitten]]
+I detailed the fate of this kitten, which I named Keeley in the poem I wrote: [[today i buried a kitten]]

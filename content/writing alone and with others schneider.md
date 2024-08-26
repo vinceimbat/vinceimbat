@@ -432,7 +432,7 @@ I will not need to ask whether the form should be story or poem or novel or play
 - Healing the Wounds of Bad Experiences: [[private/nspc|NSPC]]
 - Getting Rid of Internal Critics: [[private/the bus|The Bus]]
 - Beginning (Again): [[palaui|Palaui]]
-- [[poems/well|well]]
+- [[well|well]]
 - Clustering and Mapping: see Diary dated [[2024-02-04]]
 
 [[writing exercises]]

@@ -13,8 +13,8 @@ After my afternoon walk on [[2023-07-12]], I was convinced that I shouldn't let 
 This process got me back to writing. While I made significant progress in my sustenance projects for Candent and Ili Likhaan (both websites are ready to launch), I was also able to get back to writing.
 
 Some of my favorite writings include the walk poem drafts:
-- [[poems/walk poem 1|Walk Poem 1]]
-- [[poems/walk poem 2|Walk Poem 2]]
+- [[walk poem 1|Walk Poem 1]]
+- [[walk poem 2|Walk Poem 2]]
 
 I wrote these poems initially as fragments of observations during two afternoon walks. My rule was to write a brief note on whatever piqued my interest or whatever thought calls on the walk and to separate these lines per street where they occurred. Thus the number of stanzas equal the number of streets walked.
 
@@ -57,12 +57,12 @@ Best notes
 - I began evaluating my creative routines vis a vis my goals and modified them.
 
 Poems
-- [[poems/walking under a thunderstorm|Walking Under a Thunderstorm]]
-- [[poems/walk poem 1|Walk Poem 1]]
-- [[poems/walk poem 2|Walk Poem 2]]
+- [[walking under a thunderstorm|Walking Under a Thunderstorm]]
+- [[walk poem 1|Walk Poem 1]]
+- [[walk poem 2|Walk Poem 2]]
 - [[poems/listen|Listen]]
 - [[those stairs at bakakeng|Those Stairs at Bakakeng]]
-- [[poems/to an unnamed path|To an Unnamed Path]]
+- [[to an unnamed path|To an Unnamed Path]]
 
 Essays
 - [[a walk to maahas road|A Walk to Maahas Road]]

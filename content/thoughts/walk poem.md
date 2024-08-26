@@ -15,7 +15,7 @@ An alternative way of doing walk poems:
 4. Right after, when everything is still fresh, do the writing. Use the photos as prompts.
 
 See:
-- [[poems/walk poem 1|Walk Poem 1]]
-- [[poems/walk poem 2|Walk Poem 2]]
+- [[walk poem 1|Walk Poem 1]]
+- [[walk poem 2|Walk Poem 2]]
 
 # References

@@ -30,4 +30,4 @@ At lahat sila'y nagbabatian at magkukuwentuhan
 Hanggang sila’y makarating sa dulo ng daan.  
 
 ***
-Salin mula sa Pangasinan: [[poems/nu sararayan luluganan et totoon manaakar]]
+Salin mula sa Pangasinan: [[nu sararayan luluganan et totoon manaakar]]

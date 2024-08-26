@@ -45,6 +45,7 @@ Biyas - bahagi sa pagitan ng mga bukó, gaya sa kawayan, tubó, at iba pa; bumbo
 Bubot - bud; hindi hinog, karaniwan sa bungangkahoy gaya ng bubót na bayabas, at bubót na sinigwelas
 Bulahaw - [ST] malakas ang tinig, idinadaan ang lahat sa lakas ng sigaw; paggulo sa katahimikan
 Bulalas - pagpapakita o paglalabas kung ano ang nása loob; táo na mahilig maglustay; biglang pagsasalita dahil sa matinding damdamin, pagkagulat, pagtutol, at katulad; pagsigaw o pagsasalita nang malakas o mariin
+Bulaw - biik
 Bulsikot - purse; maliit na bag, pouch, o kaha na lalagyan ng salapi
 Bulugan - [ST] laláking baboy o kabayo na ginagamit sa pagpapalahi; barako
 Bunsol -  pagkawala ng ulirat; [ST] kulam para magalit; tákot na muling gawin ang isang bagay
@@ -69,6 +70,7 @@ Diris - [ST] apdo; tonsil
 Diwara - [ST] pagiging lubhang maingat at labis na sinusuri ang kaliit-liitang detalye; busisi
 Donselya - dalaga; birhen
 Dukwang - paraan ng pag-abot na nakaunat ang braso at inilalapit ang katawan paharap
+Dulos - kasangkapang pandukal, may hugis dilang malukong, at mata-lim ang dulo; 
 
 # E
 
@@ -122,6 +124,7 @@ Hunos - pagpapalit ng balát, kaliskis, o balahibo ng hayop, isda, o ibon
 Ibis - pagbabâ mula sa sasakyan
 Igkas - galaw ng anumang bagay na bumalik sa dáting ayos matapos hilahin o bitawan
 Ikid - anumang paikot ang pagkaayos, gaya ng ikid ng film, ikid ng sinulid, ikid ng kable
+Ikmo - halámang baging (_Piper_ _betle_ ) na ginagamit ang dahon na pambalot ng ngangà, malaganap mulang India hanggang Filipinas; lawer sa Pangasinan
 Ingit - mahinàng iyak ng isang batà o hayop
 Impit - pagpapaliit ng isang bagay sa anumang paraan; pagpigil sa tawa, iyak, o sigaw; pinigil sa isang kalagayan upang hindi makawala o maibulalas
 Indulto - noong panahon ng Español, buwis na ipinapataw sa galeon
@@ -161,6 +164,7 @@ Kubyerta - deck; plata-porma sa barko na sumasakop sa buo o bahagi ng lawak nit�
 Kuna - kámang may sangga ang mga gílid at gamit sa pag-aalaga ng sanggol; crib
 Kunwa - varyant ng kunwari
 Kura - upo? Parang sa picnic?
+Kural - kulúngan ng hayop
 Kuyom - nakatikom na palad; magkimkim o kimkimin (kuyumin, magkuyom); "humuhulagpos sa kuyom" (metaphor: escaping the grasp of")
 
 # L
@@ -176,6 +180,7 @@ Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilo
 Ligas - hibla
 Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
 Ligwak - pagkakatapon ng tubig o anumang likido mula sa sisidlan
+Likaw - anyo na nililikha ng kurbang umiikot sa sarili, gaya ng likaw ng lubid o alambre
 Lilis - itinupi ang manggas ng damit pataas o itinaas ang laylayan ng bestida
 Limahid - labis na karumihan, lalo na sa katawan at pananamit
 Limi - pag-iisip mabuti hinggil sa isang bagay o pangyayari
@@ -196,6 +201,7 @@ Luwat [ST] - tagal ng panahon o oras
 # M
 
 Maapuhap - paghahanap sa pamamagitan ng kamay
+Mamad - [ST] maputla dahil sa sakít; lumambot at namagâ dahil sa pagkababad sa tubig
 Manaka-naka - bihira
 Mapiho - specify
 Mariquita - babaeng ibon; babaeng kulisap
@@ -234,6 +240,7 @@ Pakak - Antipolo tree
 Pakakak - malaking kabibe na hinihipan at ginagamit na panghudyat; tambuli
 Pakaskas - minatamis na pulut at niyog, hinulma at pinatuyo sa dahon ng buli, at inayos nang pabilóg Cf Panotsa
 Paknit - strip; nabakbak mula sa labis na pagkakadikit
+Palara - [ST] puluhan ng palakol na yari sa bakal.
 Palo-tsina - palo china planks
 Panambil - [ST] tábing sa gilid ng sasakyang-dagat; biyombo - naititiklop na iskrin o tábing
 Pangos - pagkagat ng bagay na may katigasan, karaniwan sa pag-pangos ng tubó; ngalngalen sa Pangasinan at Iloko
@@ -252,6 +259,7 @@ Pigtal - natanggal at nalaglag sa kinabibilangang kalakhan, gaya ng dahon o bula
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas; pilasin)
+Pilipisan - ang magkabilâng panig sa tagiliran ng noo, sa pagitan ng kilay at patilya
 Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
 Pingki - biglaang pagtama sa isa’t isa ng dalawang bagay na matigas; tunog o kislap ng pagkikiskisan ng dalawang bagay na may katangiang magliyab.
 Pinid - sara
@@ -298,6 +306,7 @@ Silat - siwang sa pagitan ng mga kawayang sahig
 Silbato - pito; instrumentong naglalabas ng matinis na tunog sa pamamagitan ng hininga at kara-niwang ginagamit sa pagbibigay ng senyas
 Silo - bitag (nagpapabitag)
 Simsim - [ST] pagsipsip upang tikman ; pag-namnam ng lasa; pagpapaka-siyá sa kagandahan ng isang babae
+Sinamay - [ST] telang maluwag ang hábi, karaniwang yarì sa abaka
 Singasing - paghingal dahil sa matinding hapo; pagbuga ng singaw o vapor; pagsúka ng pusa nang tumatayô ang balahibo; tila nagbu-buga ng singaw sa ilong na gawain ng toro kapag inaamoy ang báka
 Singhap - paghinga nang pauntol-untol at hirap na hirap; panganga-pos ng hininga
 Sinsin - kalagayan ng anumang masinop ang pagkakadikit-dikit, gaya sa sinsín ng paghábi ng tela o paglála ng banig; pagdiriwang ng pa-salamat.

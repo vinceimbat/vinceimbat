@@ -6,11 +6,11 @@ tags:
 draft:
 ---
 Bi-directional links
-- [[poems/sikmura|sikmura]]
+- [[sikmura|sikmura]]
 - [[vignettes/sampaloc lake|sampaloc lake]]
 
 Embeds
 
-![[poems/sikmura|sikmura]]
+![[sikmura|sikmura]]
 
 ![[pens for my parents#^39ece5]]

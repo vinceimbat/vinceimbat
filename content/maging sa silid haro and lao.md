@@ -12,3 +12,5 @@ sr-ease: 250
 ---
 
 # References
+
+Haro, Vanessa, and Arvee Lao. _Maging Sa Silid_. Vanessa Haro and Arvee Lao, 2023.

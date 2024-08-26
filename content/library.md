@@ -16,7 +16,9 @@ Numbers in parentheses represent the month I finished reading the book.
 I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/reading/), which I learned through [Austin Kleon](https://austinkleon.com/tag/my-reading-year/) ([who also keeps his own list](https://austinkleon.com/tag/my-reading-year/)).
 
 # 2024
- 
+
+- [[2024-08-25]]: [[maging sa silid haro and lao|Maging sa Silid by Vanessa Haro and Arvee Lao]]
+- [[2024-08-23]]: [[virac barrameda|Virac by Emman Barrameda]]
 - [[2024-08-18]]: [[sometimes i just want to drown sumabat|sometimes, i just want to drown. by Benj Gabun Sumabat]]
 - [[2024-08-12]]: [[forest diaz|When the World Ended I Was Thinking About the Forest by Glenn Diaz]] ★
 - [[2024-08-07]]: [[mula sa gulod alcarde|Mula sa Gulod by Ryan Cezar Alcarde]] ★
@@ -25,7 +27,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - [[2024-08-03]]: [[People on Bicycles Volume 1]]
 - [[2024-08-03]]: [[ikot-ikot bituin|Ikot-ikot at Iba Pang Hilahil by Eric John Bituin]]
 - [[2024-08-03]]: [[this wont sell well custodio|This Won't Sell Well by Gioseppe Custodio]]
-- [[2024-07-18]]: [[virgin muli po ako aguila|Virgin Muli Po Ako by Reuel Aguila]]
+- [[2024-07-18]]: [[virgin muli po ako aguila|Virgin Muli Po Ako by Reuel Aguila]] ★
 - [[2024-06-21]]: [[distrungka barrameda|Distrungka by Emman Barrameda]]
 - [[2024-06-10]]: [[salvacion barrameda|Salvacion by Emman Barrameda]] ★
 - [[2024-03-31]]: [[abi nako cruz|Abi Nako, Or So I Thought by Jhoanna Lynn Cruz]]

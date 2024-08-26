@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-26
-sr-interval: 11
-sr-ease: 270
+sr-due: 2024-10-06
+sr-interval: 41
+sr-ease: 290
 ---
-Founder of [[BLTX]].
+Founder of [[BLTX]]. He is a poet and a comics artist.

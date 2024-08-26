@@ -5,8 +5,8 @@ aliases: "Self"
 tags:
 
 - "seedlings"
-sr-due: 2024-08-25
-sr-interval: 297
+sr-due: 2026-09-09
+sr-interval: 744
 sr-ease: 250
 ---
 There is a unique boundary between our experiences. We know enough to know that we don't know enough. The boundaries of our experiences might be porous and artificial.

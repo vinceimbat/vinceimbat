@@ -16,4 +16,4 @@ humuhuni ka sa galak.
 
 ---
 
-Translated from [[poems/rests|Rests]].
+Translated from [[rests|Rests]].

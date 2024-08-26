@@ -90,7 +90,7 @@ I am grateful for:
 82. Going with Claire and Rem with Lea at Pagsanjan.
 83. Holding the first Fruit Salad in-person meetup at Las Piñas.
 84. Celebrating my third year anniversary with Lea.
-85. Extending love to three more stray cats (Poppy, Keeley, and Carillon). Keeley, the kitten, died. But we always remember her ([[poems/today i buried a kitten|All other things thrown]]).
+85. Extending love to three more stray cats (Poppy, Keeley, and Carillon). Keeley, the kitten, died. But we always remember her ([[today i buried a kitten|All other things thrown]]).
 86. Re-reading [[steal like an artist - kleon|Steal Like an Artist by Austin Kleon]].
 87. Launching The Long Walk and learning how to use Substack along the way.
 88. Building [[my philosophical genealogy]].

@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-26
-sr-interval: 3
+sr-due: 2024-09-05
+sr-interval: 10
 sr-ease: 250
 ---
 the special quality of Emerson is that a fragment is not just a fragment but that everything within the fragment shines forth.
