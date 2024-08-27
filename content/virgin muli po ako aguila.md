@@ -7,6 +7,24 @@ tags:
   - literature
   - seedlings
 ---
+# Introduksyon
+
+maigi ka lang hanggang sa huling naisulat mo
+
+huwag makampante sa mga dati nang nagawa
+
+mula sa kalagitnaan ng dekada '70 at marahil hanggang sa dulo ng dekada '80, susuriin ko ang yugtong ito at tatawagin kong ikalawang ginintuang yugto ng guland Pilipino
+
+Ang unang maningning na yugto ay naganap noong mga unang taon ng Siglo '20 na kinakitaan ng mga tinatawag na sedisyong dula.
+
+wala rin akong pormal na pag-aaral sa pagsulat ng dula.
+
+Papaloob sa sarili ang oryentasyon ng pagkamakata. Papalabas naman at pakikipagtulungan sa komunidad ng mga magtatanghal ang sa dula. Kaya rin, kapag itatanghal ang aking dula, tinitiyak kong nakapupunta ako sa mga rehearsal nito, hindi upang makialam bagkus upang makita ang ibang artistikong anggulo mula sa direktor, aktor, taga-ilaw, at iba pa.
+
+Itinuturing ko ang pagsusulat ng dula bilang paglikha ng daigdig. Tuwing bumubuo kasi tayo ng isang sitwasyon na isasadula, parang lumilikha tayo ng natatanging daigdig: may mga naninirahan dito, may tiyak na lugar at panahon, may suliraning nilulutas.
+
+***
+
 Pumili ng paksang kabisado mo o makakabisado mo gamit ang pananaliksik, pakikipanayam, at pagsusuri.
 
 Gumamit ng mga tauhang kaya mong palabasin ang kanilang mga saloobin.

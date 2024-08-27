@@ -7,10 +7,11 @@ location:
   - 14.1697666
   - 121.2389133
 tags:
+  - poems
   - filipino
   - seedlings
-sr-due: 2024-08-27
-sr-interval: 3
+sr-due: 2024-09-04
+sr-interval: 8
 sr-ease: 250
 ---
 Paano ko ba pipigilan ang mabilis na daloy nitong umaga? At bakit ko pipigilan? Hahayaan ko nalang bang lamunin ng alas nwebe y media ang alas nwebe? Bakit ako titigil? Ano ang meron sa pagtigil na wala sa pagpapatuloy? Hindi ba't ang buong mundo'y masasaklot lamang sa pamamagitan ng pagpapatuloy? Dito? Anong meron dito? Ako? Ang paghinga? Ang pagsiyap ng mga maya? Ito lang ba? Kung ito lang, bakit ako mananatili?

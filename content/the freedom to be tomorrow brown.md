@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-27
-sr-interval: 4
+sr-due: 2024-09-09
+sr-interval: 13
 sr-ease: 270
 ---
 To survive and progress, a religion has to be a religion appropriate for the future.

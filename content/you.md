@@ -6,8 +6,8 @@ aliases:
 tags:
   - poems
   - seedlings
-sr-due: 2024-08-27
-sr-interval: 3
+sr-due: 2024-09-03
+sr-interval: 7
 sr-ease: 250
 ---
 I looked for you  

@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-27
-sr-interval: 8
+sr-due: 2024-09-12
+sr-interval: 16
 sr-ease: 210
 ---
 Braided essay that weaves two things:
