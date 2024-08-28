@@ -76,7 +76,7 @@ I am grateful for:
 67. Learning from Bugbee to value insights as they come and so categorizing them as [[seeds]] in my note-writing system.
 68. [[andrew j brown|Andrew J. Brown]] and his writings and podcast, which have been my go-to resource on thinking about religion.
 69. **Facing head-on my fear of religion and accepting that my current work has a religious nature.**
-70. **Preparing and getting a poem and its translation published in TLDTD (see [[poems/gawat|Gawat]]).**
+70. **Preparing and getting a poem and its translation published in TLDTD (see [[gawat|Gawat]]).**
 71. **Transitioning my website into a digital garden using [Quartz](https://quartz.jzhao.xyz/).**
 72. Seeing Tita Bebot and Tita Vilma after the pandemic.
 73. **Lea moving in with me.**

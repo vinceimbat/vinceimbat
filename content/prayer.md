@@ -34,4 +34,4 @@ from barricading myself
 inside a wall of words,  
 a concrete cage of callousness.
 
-![Cactuses](poems/images/20240114-025133-cacti_IG.jpg)
+![Cactuses](20240114-025133-cacti_IG.jpg)

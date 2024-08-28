@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-28
-sr-interval: 4
+sr-due: 2024-09-10
+sr-interval: 13
 sr-ease: 270
 ---
 # Tiers
@@ -43,5 +43,3 @@ Film monthly videos to document projects
 - introduce their tools
 - introduce their wiki (website)
 - introduce other projects
-
-# References

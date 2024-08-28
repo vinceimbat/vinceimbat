@@ -6,8 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-28
-sr-interval: 13
-sr-ease: 270
+sr-due: 2024-10-16
+sr-interval: 49
+sr-ease: 290
 ---
 Experiments on texts and images.
+
+[[Jesa Suganob]] likes here.

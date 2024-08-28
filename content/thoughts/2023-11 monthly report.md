@@ -44,7 +44,7 @@ I then encountered [[pat schneider]] whose writing method detailed in her book  
 	- [[whats next for the long walk|What's Next for The Long Walk]]
 	- [[a goodness lurking|A Goodness Lurking]]
 - Poetry
-	- [[poems/isa akong ilog|isa akong ilog]]
+	- [[isa akong ilog|isa akong ilog]]
 	- [[ballpoints]]
 - Asked Sir Rofel for recommendations of authors to read. He suggested Benilda Santos.
 - Watched [[craig mod|Craig Mod's]] TBOT launch.

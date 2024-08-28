@@ -7,9 +7,9 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-28
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-09-11
+sr-interval: 14
+sr-ease: 290
 ---
 Free will
 
@@ -58,12 +58,12 @@ Indeterminist argument against free will
 - Random chance and free will are mutually exclusively.
 - Therefore, free will does not exist.
 
-How to empirically test whether the universe is determined or indetermined?
+How to empirically test whether the universe is determined or undetermined?
 
 Ideal solution
 
 - Perform multiple tests holding *every single input identically the same*, and see if we ever get a different output.
-- If we ever got a different output – and we *knew* all the inputs were identical – we could conclude that the universe is indetermined.
+- If we ever got a different output – and we *knew* all the inputs were identical – we could conclude that the universe is undetermined.
 - We can’t possibly perform this test, because we can’t control every single variable in the universe.
 
 Alternative solution
@@ -73,7 +73,7 @@ Alternative solution
 - Two possible outcomes : (1) Same inputs -> same outputs; (2) Same inputs -> different outputs
 - If same inputs produce same outputs, there is not choice. Given a particular state of mind, you always make the same decision.
 
-**Steve’s Resolution**
+# Steve’s Resolution
 
 Errors
 
@@ -111,7 +111,7 @@ So the natural question is, “But how could you change that one variable? What�
 
 The answer is unsatisfactory, circular, but logically possible: that’s precisely what “volition” is – a consciously changeable input. Our volition doesn’t have to change due to randomness or pre-determined causes; it’s willfully chosen.
 
-**Implications and Presuppositions**
+# Implications and Presuppositions
 
 If free will exists, we ask:
 
@@ -133,9 +133,7 @@ Three possible explanations for the initial possession of free will
 2. Theistic
 3. Transcendental
 
----
-
-MY NOTES
+# My notes
 
 Causality needs to exist for free will to exist
 

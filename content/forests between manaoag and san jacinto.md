@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-28
-sr-interval: 2
+sr-due: 2024-09-02
+sr-interval: 5
 sr-ease: 230
 ---
-These are the exact quotes from the first book of Cortes' trilogy on Pangasinan history that forever changed how I looked at San Jacinto and Manaoag.
+These are the exact quotes from the first book of Cortes' trilogy on [[Pangasinan]] history that forever changed how I looked at [[San Jacinto]] and [[Manaoag]].
 
 The first quote in p. 9 was the first to trigger imaginations of a forest between San Jacinto and Manaoag.
 

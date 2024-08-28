@@ -47,10 +47,10 @@ Others
 Poems
 - [[to an unnamed path|To an Unnamed Path]]
 - [[walk poem 2|Walk Poem 2]]
-- [[poems/listen|Listen]]
+- [[listen|Listen]]
 - [[ipb road|IPB Road]]
 - [[in july|In July]]
-- [[poems/55c ed dagupan|5ºC ed Dagupan]]
+- [[55c ed dagupan|5ºC ed Dagupan]]
 - [[this morning|This Morning]]
 
 Essays

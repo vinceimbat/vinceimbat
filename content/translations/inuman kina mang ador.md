@@ -38,4 +38,4 @@ Ang pagpapagaling
 Ng mga sugat ng puso.  
 
 ***
-Mula sa Pangasinan: [[poems/inuman ed di mang ador|Inuman Ed Di Mang Ador]]
+Mula sa Pangasinan: [[inuman ed di mang ador|Inuman Ed Di Mang Ador]]

@@ -57,4 +57,4 @@ Sa oras na ito
 Sa lugar na ito  
 
 ***
-Isinalin mula sa Pangasinan: [[poems/kilaw|Kilaw]]
+Isinalin mula sa Pangasinan: [[kilaw|Kilaw]]

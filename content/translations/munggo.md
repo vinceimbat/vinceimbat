@@ -14,4 +14,4 @@ The seeds green, black the strings
 Food for his children it seems  
 
 ---
-Translated from [[poems/balatong|Balatong]]
+Translated from [[balatong|Balatong]]

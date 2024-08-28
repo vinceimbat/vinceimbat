@@ -60,7 +60,7 @@ Poems
 - [[walking under a thunderstorm|Walking Under a Thunderstorm]]
 - [[walk poem 1|Walk Poem 1]]
 - [[walk poem 2|Walk Poem 2]]
-- [[poems/listen|Listen]]
+- [[listen|Listen]]
 - [[those stairs at bakakeng|Those Stairs at Bakakeng]]
 - [[to an unnamed path|To an Unnamed Path]]
 

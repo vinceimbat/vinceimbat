@@ -60,7 +60,7 @@ Published TLW
 
 Poetry
 - [[di ako marunong tumula|Di ako marunong tumula]]
-- [[poems/ako|Ako]]
+- [[ako|Ako]]
 - [[nais kitang ipagdiwang|Nais Kitang Ipagdiwang]]
 
 # Photography

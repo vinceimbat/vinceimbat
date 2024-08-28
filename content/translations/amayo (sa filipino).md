@@ -39,4 +39,4 @@ Sa hinaharap na hindi mo na ako kailan man
 Kasama  
 
 ***
-Salin mula sa Pangasinan na [[poems/amayo|Amayo]].
+Salin mula sa Pangasinan na [[amayo|Amayo]].

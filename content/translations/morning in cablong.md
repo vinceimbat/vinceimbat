@@ -19,4 +19,4 @@ that mend
 our souls.  
 
 ---
-Translated from [[poems/kabuwasad cablong|Kabuwasan ed Cablong]]
+Translated from [[kabuwasad cablong|Kabuwasan ed Cablong]]

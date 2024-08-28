@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-28
-sr-interval: 4
+sr-due: 2024-09-08
+sr-interval: 11
 sr-ease: 270
 ---
 Take both landscape and portrait photos to consider printing on books

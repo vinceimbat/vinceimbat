@@ -32,7 +32,7 @@ In between all of these activities, I spent time getting more clarity on what so
 - I wrote a Facebook comment response about parenting.
 - In my journal, I wrote about the transgenerational trauma that we all share and recognized the progress I have made in two years to embrace who I really am and make space for that.
 - I journaled about the insight that insight is precious because it comes in unexpected moments and it comes only after repeatedly returning to the same problem or looking at writings that expand several months or even years.
-- I wrote [[poems/lawari]]
+- I wrote [[lawari]]
 - I started watching [[thoughts/billy collins]]' poetry masterclass and writing my notes in [[billy collins masterclass]].
 - I edited the poem [[today i buried a kitten]] using advice I learned from Billy Collins.
 - Editing poems and studying poetry helped me forget negative emotions.

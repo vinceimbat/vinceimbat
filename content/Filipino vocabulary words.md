@@ -176,6 +176,7 @@ Lagutok - maikli ngunit buong tunog ng butóng binabaltak o inuunat, o ng tabla 
 Lambong - shawl; cloak; maitim na pantakip o pantábing sa uluhan ng isang tao o pook; saplot na itim, pantakip sa ulo at mukha, at karaniwang ginagamit sa pagluluksa
 Lapirot - paglukot at pagdúrog sa pamamagitan ng dulo ng mga daliri
 Latak - anumang dumi na naiiwan sa ilalim ng sisidlan ng likido
+Lawas - isang malaki at natatanging koleksiyon, _hal_ lawas ng tubig, lawas pangkalawakan; body
 Libak - puna na may layuning tahasang maliitin at insultuhin ang pinapaksa; kilos o pahayag na nagmumulâ sa kawalan ng gálang at pagsasaalang-alang para sa isang bagay; contempt, disdain, scorn, kutya
 Ligas - hibla
 Ligasgas - pagiging tuyô at magaspang ng balát o rabaw ng anumang bagay
@@ -259,6 +260,7 @@ Pigtal - natanggal at nalaglag sa kinabibilangang kalakhan, gaya ng dahon o bula
 Pigtas - varyant ng bigtas; sapilitang pinunit o sinirà ang pagiging buo; nagkaroon ng biyak o sirà, gaya ng bigtas na dike o bigtas na damit
 Pilantik - mahinàng hagupit ng dulo ng latigo (ang papila-pilantik na kinang)
 Pilas - maliit na piraso ng papel, tela, at katulad; púnit o pagpúnit (kapilas; pilasin)
+Pilat - bakás ng gumalíng na sugat, pasò, at kauri
 Pilipisan - ang magkabilâng panig sa tagiliran ng noo, sa pagitan ng kilay at patilya
 Pingas - may píngas o píngal; piningas na tainga; sirà o uka sa gilid ng rabaw ng plato, baso, o banga
 Pingki - biglaang pagtama sa isa’t isa ng dalawang bagay na matigas; tunog o kislap ng pagkikiskisan ng dalawang bagay na may katangiang magliyab.
@@ -330,6 +332,7 @@ Talop - nabalatán o natanggalan ng balát; pag-alís o pagtanggal ng balát
 Talulot - petals
 Talungko - paraan ng pag-upô na nakadikit ang binti sa hita at nakabitin ang puwit; posisyon sa pagtae
 Tarak - pagsaksak nang madiin at iniiwang nakabaon ang patalim sa sinaksak
+Tatal - pinagtapyasan o pinagtabtaban ng kahoy
 Tibo - matalim at matulis na organ ng ilang kulisap, gaya ng bubuyog o ilang uri ng isda, at ginagamit bílang proteksiyon; natibo = natusok ng tibo
 Tigalawa - tigdalawa; two each (ang mga tirahang tigalawang maliit na silid)
 Tighaw - paggalíng mula sa karamdaman ; pagginhawa mula sa kahirapan (tumitighaw ng anumang uhaw)
