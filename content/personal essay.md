@@ -7,7 +7,10 @@ tags:
   - thoughts
   - seedlings
 ---
-# Personal essays
+
+A personal essay is a genre of writing that include experience, opinion, and emotion.
+
+# Unsorted
 
 Personal essays fall under narrative writing.
 
@@ -44,7 +47,7 @@ Some elements
 9. Write descriptively but not on the level of a descriptive essay (no need to be too aesthetic).
 10. Bring in quotes.
 
-## Books on writing the personal essay
+# Books on writing the personal essay
 
 - Crafting the Personal Essay
 

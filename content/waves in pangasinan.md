@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-29
-sr-interval: 3
+sr-due: 2024-09-07
+sr-interval: 9
 sr-ease: 250
 ---
 Daluyon

@@ -7,10 +7,18 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-08-29
-sr-interval: 19
-sr-ease: 248
+sr-due: 2024-11-03
+sr-interval: 66
+sr-ease: 268
 ---
+I've been keeping two journals:
+- My [[5MJ]]
+- My [[diary]]
+
+My journaling process was influenced by [[Austin Kleon]] and [[Henry David Thoreau]].
+
+# Related
+
 - [[journaling is sacred]]
 
 # References
