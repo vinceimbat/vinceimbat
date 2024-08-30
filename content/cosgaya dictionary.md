@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-30
-sr-interval: 6
+sr-due: 2024-09-16
+sr-interval: 17
 sr-ease: 250
 ---
 This is perhaps the oldest and most comprehensive dictionary of the [[Pangasinan]] language. Compared to the [[Benton Dictionary]], it has more words. However, most of the words contained in this volume are no longer used, making the bulk of this tome a historical reference.
