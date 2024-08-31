@@ -9,7 +9,7 @@ tags:
 
 # Hi, I'm Vince Imbat.
 
-## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
+## I'm a Los Baños-based Pangasinan [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
 
 ***
 
@@ -20,8 +20,8 @@ This website is an [[archive]] of my footprints both in the walks I take in [[th
 Some projects I'm currently working on:
 
 - [[talahardin|Talahardin]]: This website itself; an experiment in combining walking with an [[archive]] and a digital garden as a backbone for a creative writing and thinking practice based on the premise that [[art is never finished|art is never finished]].
-- [[jiyu shukyo|Jiyū Shūkyō]]: An exploration and documentation of my conversion toward a [[a goodness lurking|free and creative spirituality]].
-- [[walking|Walking]]: An attempt to understand the contemporary [[derive|dérive]] in contrast with my experience of walking and Filipino indigenous conceptions of walking to come up with a creative embodied avenue to explore a free and creative spirituality. Some walks I've done:
+- [[jiyu shukyo|Jiyū Shūkyō]]: A documentation of my exploration and conversion toward a [[a goodness lurking|free and creative spirituality]].
+- [[walking|Walking]]: An attempt to understand the walking arts vis a vis my experience of walking in the Philippines and exploration of Filipino indigenous ways of walking. Some walks I've done:
 	- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
 	- 2023 April 20 and 27: [[nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
 	- 2023 December 4–10: [[rxg|Roots x Gravel: A Week-long Walk of Los Baños]]
@@ -29,36 +29,23 @@ Some projects I'm currently working on:
 
 ***
 
-I send updates about these projects as well as new writings through my newsletters. Please consider subscribing:
+I send updates about these projects as well as new writings through my newsletters:
 
-- Uman: Monthly — spirituality × walking × writing × photography
-- The Long Walk: Weekly/Bi-weekly — essays, poems, notes, and photographs × walking
+- [[tags/uman|Uman]]: Monthly — spirituality × walking × writing × photography
+- [[tags/tlw|Likaw]]: Occasional — drafts of essays, poems, notes, and photographs × walking × Philippines
 
-They're free. Unsubscribe any time.
-
-<style>
-  /* Style for the Submit button */
-  .submit-button {
-    background-color: #7b97aa;
-    color: white;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 5px;
-    border: none;
-    transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
-  }
-
-  /* Hover effect */
-  .submit-button:hover {
-    background-color: #5c7f93; /* Darker color on hover */
-    transform: scale(1.05); /* Scale up the button slightly */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
-  }
-
-</style>
+Subscribe to my newsletters:
 
 <div style="text-align: center;">
-  <p>
-    <a href="https://list.vinceimbat.com/subscription/form" class="submit-button">Subscribe</a>
-  </p>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8">
+	<input type="email" name="email" id="email" placeholder="Your email address"/><br/>
+	<p class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C"></p><div style="display:none;">
+	<label for="hp">HP</label><br/>
+	<input type="text" name="hp" id="hp"/>
+	</div>
+	<input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA"/>
+	<input type="hidden" name="subform" value="yes"/>
+	<input type="submit" name="submit" id="submit"/>
+</form>
 </div>
