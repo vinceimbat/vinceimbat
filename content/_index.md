@@ -36,16 +36,24 @@ I send updates about these projects as well as new writings through my newslette
 
 Subscribe to my newsletters:
 
-<div style="text-align: center;">
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8">
-	<input type="email" name="email" id="email" placeholder="Your email address"/><br/>
-	<p class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C"></p><div style="display:none;">
-	<label for="hp">HP</label><br/>
-	<input type="text" name="hp" id="hp"/>
-	</div>
-	<input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA"/>
-	<input type="hidden" name="subform" value="yes"/>
-	<input type="submit" name="submit" id="submit"/>
+
+<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: center;">
+  <div style="margin-bottom: 10px;">
+    <input type="email" name="email" id="email" placeholder="Your email address" style="display: inline-block;" />
+  </div>
+
+  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
+
+  <div style="display: none;">
+    <label for="hp">HP</label><br />
+    <input type="text" name="hp" id="hp" />
+  </div>
+
+  <div style="margin-top: 10px;">
+    <input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA" />
+    <input type="hidden" name="subform" value="yes" />
+    <input type="submit" name="submit" id="submit" style="display: inline-block;" />
+  </div>
 </form>
-</div>
+
