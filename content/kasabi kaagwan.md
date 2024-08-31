@@ -18,6 +18,6 @@ Koleksyon na an-anlong ko ed Pangasinan.
 - [[peryad binmaley|peryad binmaley]]
 - [[inuman ed di mang ador|inuman ed di mang ador]]
 - [[lawari|lawari]]
-- [[kabuwasad cablong|kabuwasad cablong]]
+- [[kabuasad cablong|kabuasad cablong]]
 - [[translations/no antoy wala|no antoy wala]]
 - [[55c ed dagupan|55c ed dagupan]]

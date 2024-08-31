@@ -17,7 +17,7 @@ sr-ease: 230
 - [[thoughts/ludwig wittgenstein]]
 - [[michel de montaigne]]
 - [[soren kierkegaard]]
-- [[thoughts/stanley cavell]]
+- [[stanley cavell]]
 - David Rothenberg
 - Henry James
 - George Eliot

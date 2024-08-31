@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-08-31
-sr-interval: 9
+sr-due: 2024-09-24
+sr-interval: 24
 sr-ease: 270
 ---
 This is a free [[zine]] that [[Eron Bituin]] gave to me at my first [[BLTX]]. It is composed of one short story and shorter [[dagli]]. The main story from which the title came from is about working conditions in the Philippine call center industry.

@@ -1,9 +1,10 @@
 ---
-title: Kabuwasa'd Cablong
+title: Kabuasa'd Cablong
 date: 2022-12-05
 aliases:
   - poems/Kabuwasan-ed-Cablong
   - poems/kabuwasad-cablong
+  - kabuwasad-cablong
 tags:
   - poems
   - pangasinan
@@ -20,5 +21,5 @@ kamarerwa min amin.
 
 ---
 Patalos
-- [[translations/umaga sa cablong|Umaga sa Cablong]]
+- [[umaga sa cablong|Umaga sa Cablong]]
 - [[translations/morning in cablong|Morning in Cablong]]

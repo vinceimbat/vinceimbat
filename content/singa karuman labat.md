@@ -1,13 +1,17 @@
 ---
-title: "Singa karuman labat"
-date: "2022-12-28"
+title: Singa karuman labat
+date: 2022-12-28
 aliases:
-- "singa karuman labat"
+  - singa-karuman-labat
+  - translations/singa-karuman-labat
 tags:
-- "seedlings"
-sr-due: 2026-02-10
-sr-interval: 901
-sr-ease: 290
+  - translations
+  - poems
+  - pangasinan
+  - seedlings
+sr-due: 2034-08-10
+sr-interval: 3631
+sr-ease: 310
 ---
 
 "Singa karuman labat"  
@@ -31,3 +35,7 @@ maniistoryaan, maneelekan:
 rosas tan kumpapey ed hardin  
 no iner manabet  
 so natan tan andi-anggaan.
+
+# To do
+
+- Find the original source

@@ -1,15 +1,19 @@
 ---
-title: "Kabuwasan"
-date: "2022-10-18"
+title: Kabuasan
+date: 2022-10-18
 aliases:
-- "Kabuwasan"
+  - Kabuwasan
+  - translations/kabuwasan
 tags:
-- "seedlings"
-sr-due: 2022-10-22
-sr-interval: 4
-sr-ease: 270
+  - translations
+  - poems
+  - pangasinan
+  - filipino
+  - seedlings
+sr-due: 2031-09-19
+sr-interval: 2575
+sr-ease: 290
 ---
-
 # Original
 
 Umaga pa lamang  
@@ -29,19 +33,19 @@ paa lamang ang basa.
 
 # Translation
 
-Kakabuwasan ni labat  
+Kakabuasan ni labat  
 ataragey laray daluyon  
 ambilunget lay tawen  
 dimad bandad man,  
  diman  
-diyad kaaralman ya napno  
+diad kaaralman a napno  
 na nanduruman kargay dayat  
 kolo-kolor da ni labat kuno  
 manbilbilib ka la.
 
-Katon nambaloto ira,  
+Katon nambaloto 'ra,  
 sinuba day dayat, linmetsab  
-intilak da ak ya akanganga  
+intilak da ak a akanganga  
 sali-salik labat so abasa.
 
 Note: Ang orihinal ay tula ni [[rofel brion|Rofel Brion]].

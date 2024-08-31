@@ -21,7 +21,7 @@ In the foreword of his book, *Living Philosophy*, [[edward mooney]] shares what 
 - [[henry david thoreau]]
 - [[soren kierkegaard]]
 - [[friedrich nietzsche]]
-- [[thoughts/stanley cavell]]
+- [[stanley cavell]]
 - [[herman melville]]
 - [[henry bugbee]]
 - [[thoughts/ludwig wittgenstein]]

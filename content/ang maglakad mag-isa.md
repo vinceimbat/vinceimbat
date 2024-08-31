@@ -27,4 +27,4 @@ at hindi parating
 nandito sila.  
 
 ---
-Salin sa Ingles: [[translations/to walk by yourself|To Walk by Yourself]].
+Salin sa Ingles: [[to walk by yourself|To Walk by Yourself]].

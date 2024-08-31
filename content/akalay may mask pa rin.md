@@ -7,8 +7,8 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-08-31
-sr-interval: 3
+sr-due: 2024-09-10
+sr-interval: 10
 sr-ease: 250
 ---
 Minsan kapag ako'y naglalakad sa labas  
