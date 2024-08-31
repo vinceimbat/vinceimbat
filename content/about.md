@@ -5,7 +5,7 @@ tags:
   - seedlings
 ---
 ![Vince Imbat ANWW20 headshot](files/anww20-vinceimbat.jpg)
-## I'm a [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
+## I'm a Los Baños-based Pangasinan [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|creative and liberative spirituality]] through [[walking]].
 
 ***
 
@@ -17,62 +17,33 @@ tags:
 
 # Subscribe to my newsletters
 
-I regularly send two newsletters:
+I currently have two active newsletters:
 
-- **[[tags/tlw|The Long Walk]]**: *The Long Walk* is a weekly newsletter that shares artifacts I find during my walks both in geographic space and in what I like to call “the wilderness of the mind.”
-- **[[tags/uman|𝌡 Uman]]**: *Uman* is the Pangasinan word for "change." It's a monthly newsletter sent every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
+- **[[tags/tlw|Likaw]]**: An occasional newsletter that shares works-in-progress.
+- **[[tags/uman|Uman]]**: A monthly newsletter about spirituality, walking, writing, and photography.
 
-<style>
+Subscribe to my newsletters:
 
-/* Style for the Submit button */
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
-.submit-button {
+<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: center;">
+  <div style="margin-bottom: 10px;">
+    <input type="email" name="email" id="email" placeholder="Your email address" style="display: inline-block; font-size: 16px; width: 300px; padding: 10px;" />
+  </div>
 
-background-color: #7b97aa;
+  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
 
-color: white;
+  <div style="display: none;">
+    <label for="hp">HP</label><br />
+    <input type="text" name="hp" id="hp" />
+  </div>
 
-padding: 10px 20px;
-
-font-size: 16px;
-
-border-radius: 5px;
-
-border: none;
-
-transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
-
-}
-
-  
-
-/* Hover effect */
-
-.submit-button:hover {
-
-background-color: #5c7f93; /* Darker color on hover */
-
-transform: scale(1.05); /* Scale up the button slightly */
-
-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
-
-}
-
-  
-
-</style>
-
-  
-
-<div style="text-align: center;">
-
-<p>
-
-<a href="https://list.vinceimbat.com/subscription/form" class="submit-button">Subscribe</a>
-
-</p>
-
-</div>
+  <div style="margin-top: 10px;">
+    <input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA" />
+    <input type="hidden" name="subform" value="yes" />
+    <input type="submit" name="submit" id="submit" value="Subscribe" style="display: inline-block; font-size: 16px; padding: 10px 20px; width: 150px; background-color: #7b97aa; color: white; border: none; border-radius: 4px; transition: transform 0.3s ease, background-color 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </div>
+</form>
 
 # Jiyū Shūkyō (自由宗教)
 

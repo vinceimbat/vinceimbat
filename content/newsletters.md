@@ -8,71 +8,40 @@ tags:
 ---
 # Currently Active Newsletters
 
-## [[tags/uman|Uman]] (monthly) — January 2022 to present (15 issues)
+## [[tags/uman|Uman]] (monthly) — January 2022 to present (21 issues)
 
-*Uman* is the Pangasinan word for change. I started it to keep track of the monlthy "changes" I undergo in my projects, studies, and goals but it became this exercise in essay writing that weaves spirituality, walking, writing, and photography.
+*Uman* is the Pangasinan word for change. I started it to keep track of the monthly "changes" I undergo in my projects, studies, and goals but it became this exercise in essay writing that weaves spirituality, walking, writing, and photography.
 
-## [[tags/tlw|The Long Walk]] (weekly) — October 2022 to present (27 issues)
+## [[tags/tlw|Likaw]] (occasional) — October 2022 to present (36 issues)
 
-A weekly newsletter that used to share artifacts I find during my walks in geographic space and in the wilderness of the mind. Now I use it to share new essays, poems, short notes, and photographs all inspired by walking.
+Formerly "The Long Walk," *Likaw*, which is the Pangasinan word for meander, is a newsletter I send occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs.
 
 ***
 Consider subscribing. They're free. Unsubscribe any time.
 
-- Uman: Monthly — spirituality × walking × writing × photography
-- The Long Walk: Weekly/Bi-weekly — essays, poems, notes, and photographs × walking
+- [[tags/uman|Uman]]: Monthly — spirituality × walking × writing × photography
+- [[tags/tlw|Likaw]]: Occasional — drafts of essays, poems, notes, and photographs × walking × Philippines
 
-<style>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
-/* Style for the Submit button */
+<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: center;">
+  <div style="margin-bottom: 10px;">
+    <input type="email" name="email" id="email" placeholder="Your email address" style="display: inline-block; font-size: 16px; width: 300px; padding: 10px;" />
+  </div>
 
-.submit-button {
+  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
 
-background-color: #7b97aa;
+  <div style="display: none;">
+    <label for="hp">HP</label><br />
+    <input type="text" name="hp" id="hp" />
+  </div>
 
-color: white;
-
-padding: 10px 20px;
-
-font-size: 16px;
-
-border-radius: 5px;
-
-border: none;
-
-transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
-
-}
-
-  
-
-/* Hover effect */
-
-.submit-button:hover {
-
-background-color: #5c7f93; /* Darker color on hover */
-
-transform: scale(1.05); /* Scale up the button slightly */
-
-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
-
-}
-
-  
-
-</style>
-
-  
-
-<div style="text-align: center;">
-
-<p>
-
-<a href="https://list.vinceimbat.com/subscription/form" class="submit-button">Subscribe</a>
-
-</p>
-
-</div>
+  <div style="margin-top: 10px;">
+    <input type="hidden" name="list" value="zX1Mon0bSpW6R6Ujfy5KzA" />
+    <input type="hidden" name="subform" value="yes" />
+    <input type="submit" name="submit" id="submit" value="Subscribe" style="display: inline-block; font-size: 16px; padding: 10px 20px; width: 150px; background-color: #7b97aa; color: white; border: none; border-radius: 4px; transition: transform 0.3s ease, background-color 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </div>
+</form>
 
 ***
 

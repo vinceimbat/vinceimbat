@@ -9,7 +9,7 @@ tags:
 
 # Hi, I'm Vince Imbat.
 
-## I'm a Los Baños-based Pangasinan [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|free and creative spirituality (jiyū shūkyō)]] through [[walking]].
+## I'm a Los Baños-based Pangasinan [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|creative and liberative spirituality]] through [[walking]].
 
 ***
 
