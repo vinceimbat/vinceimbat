@@ -22,4 +22,4 @@ kamarerwa min amin.
 ---
 Patalos
 - [[umaga sa cablong|Umaga sa Cablong]]
-- [[translations/morning in cablong|Morning in Cablong]]
+- [[morning in cablong|Morning in Cablong]]

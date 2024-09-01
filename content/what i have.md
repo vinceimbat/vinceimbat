@@ -22,5 +22,5 @@ forever.
 
 ---
 Translations:
-- [[translations/no antoy wala|No Antoy Wala]]
-- [[translations/kung ano ang meron|Kung Ano Ang Meron]]
+- [[no antoy wala|No Antoy Wala]]
+- [[kung ano ang meron|Kung Ano Ang Meron]]

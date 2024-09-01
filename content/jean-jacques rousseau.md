@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-01
-sr-interval: 6
+sr-due: 2024-09-15
+sr-interval: 14
 sr-ease: 229
 ---
 Rousseau like [[Friedrich Nietzsche]], did most of his intellectual work while [[walking]].

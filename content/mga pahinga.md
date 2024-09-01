@@ -1,10 +1,13 @@
 ---
-title: "Mga Pahinga"
-date: "2022-10-16"
+title: Mga Pahinga
+date: 2022-10-16
+aliases:
+  - translations/mga-pahinga
 tags:
-- "evergreens"
+  - translations
+  - filipino
+  - evergreens
 ---
-
 Inaasam ko ang mga sandaling  
 humihilata ka  
 sa tabi ko  

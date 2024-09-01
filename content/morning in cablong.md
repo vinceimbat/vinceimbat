@@ -1,13 +1,15 @@
 ---
-title: "Morning in Cablong"
-date: "2022-12-05"
+title: Morning in Cablong
+date: 2022-12-05
+aliases:
+  - translations/morning-cablong
 tags:
-- "seedlings"
-sr-due: 2023-08-06
-sr-interval: 3
+  - translations
+  - seedlings
+sr-due: 2026-01-12
+sr-interval: 498
 sr-ease: 250
 ---
-
 Children romp on the streets  
 like these sparrows  
 on the roof.  

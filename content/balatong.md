@@ -15,4 +15,4 @@ Diad ananak isempet
 
 ***
 Impatalos ed Filipino: [[translations/balatong (sa filipino)]]
-Impatalos ed English: [[translations/munggo]]
+Impatalos ed English: [[munggo]]
