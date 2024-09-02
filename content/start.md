@@ -4,7 +4,7 @@ date: "2021-02-11"
 tags:
 - "evergreens"
 ---
-This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[herbert fingarette]]:
+This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[Herbert Fingarette]]:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 
@@ -40,15 +40,11 @@ For a longer narrative of how I got here, see my essay [[a never-ending walk|A N
 
 You can start exploring the digital garden by clicking on the following points of entry. These are my current interests and some themes I would like to pursue indefinitely:
 
-- [[thoughts/life management system|Life management system]]
-- [[thoughts/my forest garden of the mind|My forest garden of the mind]]
-- [[my worldview|My worldview]]
-- [[my poetics|My poetics]]
-- [[walking|Walking]]
-- [[newsletters|Newsletters]]
-- [[poetry|Poetry]]
-- [[photography|Photography]]
-
-I also send a weekly newsletter called [**The Long Walk**](https://vinceimbat.substack.com/). It's a newsletter about philosophical and contemplative living through walking and writing. It's free and you can unsubscribe any time. Join by leaving your email below.
-
-<iframe src="https://vinceimbat.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+- [[Life management system]]
+- [[My forest garden of the mind]]
+- [[My worldview]]
+- [[My poetics]]
+- [[Walking]]
+- [[Newsletters]]
+- [[Poetry]]
+- [[Photography]]

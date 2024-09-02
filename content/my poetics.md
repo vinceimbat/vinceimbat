@@ -26,7 +26,7 @@ My poetics is articulated through the following principles.
 
 I want to have as much creative freedom as possible. I want to write about topics that I'm deeply interested in. I want to pursue projects that are authentic to who I am. This desire necessitates that I prioritize projects that avoid as much gatekeeping as possible. Therefore, much of the work I produce is self-published material.
 
-## Pleasureable
+## Pleasurable
 
 I want to enjoy the creative process. I use curiosity and pleasure as guide to how I choose the next project and the next tasks to take on. This requires that my structures are flexible enough to allow experiencing pleasure when doing work.
 

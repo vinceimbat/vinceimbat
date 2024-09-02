@@ -10,7 +10,7 @@ tags:
 [Header]
 # Vincent Imbat
 
-I'm a Los Baños-based Pangasinan writer and photographer who walks.
+I'm a photographer and writer in three languages exploring different ways of walking the Philippines.
 
 Born 1992, Dagupan, Pangasinan
 Lives and works in Los Baños, Laguna
@@ -18,39 +18,55 @@ Lives and works in Los Baños, Laguna
 [Primary]
 ## Poetics
 
-(One paragraph poetics emphasizing talahardin, walking, and )
+I have three complementary practices (writing, walking, and photography) that are all expressions of a walking poetics summarized as follows:
+
+>Human autonomy and its expression is only possible through interconnection with the human and non-human other, and this interconnection, like a walk, is ever-changing.
+
+My writing practice is inside first, outside second. I prioritize often marginalized genres of writing, such as journaling, trusting that the raw and the unedited is often closer to truth. I see my individual writings, even those that have already been published, as drafts still, and my body of work as a large evolving archive that is never finished.
+
+All of the writing I produce begins in a walk as walking is both the metaphor and method of my poetics. My photography practice, which leans toward contemplatively looking closer to objects, landscapes, and those that inhabit them, follows this walking poetics.
 
 ## Current Projects
 
-Describe briefly what you are currently working on in terms of the following:
+- Talahardin ("A Garden of Notes")
+	- The Talahardin is a website and digital garden that explores how a writing practice could mimic a forest garden. Each note represents a certain species of thought (essay, poem, quote, thought, translation, vignette, etc.) and each species is tagged with a specific level of development (seed, seedling, and evergreen). The Talahardin is programmed so that each note resurfaces to the writer for review at different intervals until a seed grows into an evergreen. You may check the website here: https://vinceimbat.com/talahardin
+
 - Walking Los Baños
-- Walking Pangasinan (introduce the essay)
+	- I'm currently walking, photographing, and writing about Los Baños. I'm braiding my personal quest to create a way of existing in the world and the rapid development of the town below the mountain and how this development affects other ways of existing in the world.
+
 - Walking Baguio
+	- I was an ex young pastor of the Jehovah's Witnesses. Part of my responsibilities from 2008 to 2011 is to create walking routes and walk them to look for deaf and hard of hearing individuals to visit. In January 2024, more than a decade since, I began attempting to re-walk those routes as a form of spiritual grief work.
+
+- Walking Pangasinan
+	- I recently discovered that the Cosgaya Dictionary, the oldest and most comprehensive dictionary of the Pangasinan language, features more than a hundred indigenous words describing different ways of walking. I'm currently exploring how I could use these words to guide me in walking the province where I come from.
 
 ## Publications
 
-(Add a short intro to your poetics here.)
-- Emphasize a botanical approach to writing.
-- Talahardin.
-
-Here are some works born through the Talahardin:
+The following publications have been born through walking and the Talahardin:
 
 Imbat, Vincent and Jesa Suganob. *So We Must Meet Apart*. Bângko, 2024.
 - A collection of epistolary essays written through walking in Los Baños, Laguna, and Cagayan de Oro City.
 
-Imbat, Vincent. "Mapa ng Los Baños Patungo Sa'yo: Ang Borador Bilang Panitikan ng Paglalakad." *Katipunan* (Forthcoming).
+Imbat, Vincent. "Mapa ng Los Baños Patungo Sa'yo: Ang Borador Bilang Panitikan ng Paglalakad." *Katipunan: Buhian Issue* (Forthcoming).
 
 Imbat. Vincent. "Gawat/Tagsalat." TLDTD, 2022, https://tldtd.org/poet/vince-imbat/
 
 ## Walks
 
-(Add a short intro on why you walk.)
+I walk almost everyday, but since 2022, I've also done intentional art walks.
 
 2022 June 9–10: Los Baños to San Pablo
-2023 April 20: Nasa Labas ang Ili (NLAI) Guided Walk: Dapit-Hapon
-2023 April 27: Nasa Labas ang Ili (NLAI) Guided Walk: Bukang-Liwayway
+- A five-hour walk that launched myself into thinking about walking as an existential practice.
+
+2023 April 20: Nasa Labas ang Ili (NLAI) Guided Walk (Dapit-Hapon)
+2023 April 27: Nasa Labas ang Ili (NLAI) Guided Walk (Bukang-Liwayway)
+- These were facilitated walks for two groups of around ten people on a route inside the University of the Philippines Los Baños where we contemplated about self, kapwa, and place.
+
 2023 December 4–10: Roots x Gravel: A Week-long Walk of Los Baños
+- The six-day walk explored the hot spring district, the fishing community along Laguna de Bay, the university, IRRI, and communities in Mt. Makiling. I walked and took photos in the morning then wrote and published an email summary of the walk in the afternoon and evenings.
+
 2024 January 15–21: Tall Tales: Baguio Walk No. 1
+- The format of this walk followed the walk in Los Baños. However, the walks were shorter and slower as they involved processing grief of returning to routes I used to walk on as a former minister.
 
 ## Websites Developed
 
