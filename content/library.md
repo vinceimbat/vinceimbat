@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-09-01]]: [[sa dako pa roon guieb|Sa Dako Pa Roon Sa Dako Pa Roon by Eli Rueda Guieb III]]
 - [[2024-08-25]]: [[maging sa silid haro and lao|Maging sa Silid by Vanessa Haro and Arvee Lao]]
 - [[2024-08-23]]: [[virac barrameda|Virac by Emman Barrameda]]
 - [[2024-08-18]]: [[sometimes i just want to drown sumabat|sometimes, i just want to drown. by Benj Gabun Sumabat]]

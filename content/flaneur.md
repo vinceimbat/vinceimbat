@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-02
-sr-interval: 4
+sr-due: 2024-09-14
+sr-interval: 11
 sr-ease: 210
 ---
 The flaneur walks in a very large city. It becomes their landscape. They walk where hostile, anonymous crowds abound and where capitalism has included art works and people. Unlike walkers in nature or the countryside like [[Henry David Thoreau]], [[Friedrich Nietzsche]], or [[Jean-Jacques Rousseau]], the flaneur walks in "an interrupted, uneven rhythm.” Walking was not a communion with Nature, but witnessing of scattered, successive experiences.

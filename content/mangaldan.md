@@ -6,7 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-03
-sr-interval: 3
+sr-due: 2024-09-12
+sr-interval: 9
 sr-ease: 250
 ---
+A municipality of [[Pangasinan]] near [[San Jacinto]], [[San Fabian]], and [[Dagupan]]. It is where I studied from elementary to high school.

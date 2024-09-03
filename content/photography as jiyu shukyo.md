@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-02
-sr-interval: 14
+sr-due: 2024-10-12
+sr-interval: 39
 sr-ease: 250
 ---
 Andrew has explained this quite well. But for a larger practice, [[jiyu shukyo]] inspired [[photography]] should affect both choice of subjects and methods of doing it. Anything that moves away from fixity will do.

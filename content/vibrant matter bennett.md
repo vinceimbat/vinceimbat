@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-03
-sr-interval: 15
+sr-due: 2024-10-13
+sr-interval: 40
 sr-ease: 250
 ---
 Bruno Latour's (2004) Politics of Nature

@@ -1,12 +1,12 @@
 ---
-title: Diogenes
-date: 2024-08-22
+title: Dagupan
+date: 2024-09-03
 aliases: 
 draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-23
-sr-interval: 20
+sr-due: 2024-09-06
+sr-interval: 3
 sr-ease: 250
 ---

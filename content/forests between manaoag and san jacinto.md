@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-02
-sr-interval: 5
+sr-due: 2024-09-18
+sr-interval: 15
 sr-ease: 230
 ---
 These are the exact quotes from the first book of Cortes' trilogy on [[Pangasinan]] history that forever changed how I looked at [[San Jacinto]] and [[Manaoag]].
