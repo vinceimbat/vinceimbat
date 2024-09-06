@@ -1,13 +1,16 @@
 ---
-title: "Ahas na bingi"
-date: "2022-07-08"
+title: Ahas na bingi
+date: 2022-07-08
+aliases:
+  - translations/ahas-na-bingi
 tags:
-- "seedlings"
+  - translations
+  - filipino
+  - seedlings
 sr-due: 2024-10-27
 sr-interval: 451
 sr-ease: 230
 ---
-
 Ang sabi nila  
 ang tula ay naririnig  
 at makasusulat ka lang  
@@ -59,5 +62,6 @@ Binalot ako ng malilim na katahimikan.
 ***
 Salin mula sa Pangasinan: [[uleg ya telek|Uleg ya Telek]]
 
-To do:
+# To do
+
 - Update this with the one I sent to TLDTD

@@ -44,4 +44,4 @@ ya kinakan mi'd arapan
 na ibubontatok dan bapor.
 
 ---
-Impatalos ed Filipino: [[translations/sa perya|Sa Perya]]
+Impatalos ed Filipino: [[sa perya|Sa Perya]]

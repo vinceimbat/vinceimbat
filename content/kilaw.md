@@ -58,4 +58,4 @@ Ed sayan tiyempo
 Ed sayan pasen
 
 ***
-Impatalos ed Filipino: [[translations/guya|Guya]]
+Impatalos ed Filipino: [[guya|Guya]]

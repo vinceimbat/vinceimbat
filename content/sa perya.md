@@ -1,13 +1,16 @@
 ---
-title: "Sa Perya"
-date: "2023-08-03, Thursday, 11:52:03 am"
+title: Sa Perya
+date: 2023-08-03, Thursday, 11:52:03 am
+aliases:
+  - translations/sa-perya
 tags:
-- "seedlings"
-sr-due: 2023-08-06
-sr-interval: 3
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2026-01-24
+sr-interval: 505
 sr-ease: 250
 ---
-
 Tumaya kami ng  
 bente sa pula  
 bente sa puti  
@@ -31,4 +34,7 @@ at matamis na mais
 na kinain namin  
 habang pinapanood  
 ang mga ihinahagis  
-sa nakabiting bapor.  
+sa nakabiting bapor.
+
+***
+Salin ng [[Peryad Binmaley]]

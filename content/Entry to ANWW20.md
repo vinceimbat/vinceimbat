@@ -120,7 +120,7 @@ Turner, V. (1966). Liminality and Communatis. In: The Ritual Process: Structure 
 
 - [[approaching the anww20 entry]]
 - [[Outline of entry to ANWW20]]
-- [[thoughts/unprocessed anww20 notes]]
+- [[unprocessed anww20 notes]]
 
 ## Notes
 

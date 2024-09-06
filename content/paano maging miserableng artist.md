@@ -1,15 +1,17 @@
 ---
-title: "Paano Maging Miserableng Artist"
-date: "2023-05-22"
+title: Paano Maging Miserableng Artist
+date: 2023-05-22
 aliases:
-- "Paano Maging Miserableng Artist"
+  - Paano-Maging-Miserableng-Artist
+  - translations/paano-maging-miserableng-artist
 tags:
-- "seedlings"
-sr-due: 2023-12-23
-sr-interval: 121
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2026-05-24
+sr-interval: 625
 sr-ease: 250
 ---
-
 1. Sige lang, makipagtaasan ka pa ng ihi sa ibang artist.
 2. I-share mo sa pamilya mo kung ano ang ginagawa mo at asahang matutuwa sila, ipagmamalaki ka sa iba, at magbibigay sila ng moral support. Sige lang. Asa pa more.
 3. Maging super obssessed sa iisang ideya at ibase ang tagumpay ng career mo sa ideya na iyon no matter what.

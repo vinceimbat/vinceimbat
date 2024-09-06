@@ -1,12 +1,17 @@
 ---
-title: "Guya"
-date: "2022-07-08"
-location: [16.065806,120.462327]
+title: Guya
+date: 2022-07-08
+aliases:
+  - translations/guya
+location:
+  - 16.065806
+  - 120.462327
 tags:
-- "seedlings"
-- "filipino"
-sr-due: 2024-10-10
-sr-interval: 434
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2027-08-10
+sr-interval: 1068
 sr-ease: 246
 ---
 Tumayo ang baka  

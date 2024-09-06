@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-05
-sr-interval: 13
-sr-ease: 270
+sr-due: 2024-10-29
+sr-interval: 53
+sr-ease: 290
 ---
-My college alma matter.
+My college alma matter. The school has three colleges: College of Arts and Communication (CAC), College of Science (CS), and College of Social Science (CSS).

@@ -1,13 +1,16 @@
 ---
-title: "Inuman kina Mang Ador"
-date: "2022-07-07"
+title: Inuman kina Mang Ador
+date: 2022-07-07
+aliases:
+  - translations/inuman-kina-mang-ador
 tags:
-- "seedlings"
-sr-due: 2023-08-06
-sr-interval: 3
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2026-01-22
+sr-interval: 503
 sr-ease: 250
 ---
-
 Maganda kung kakukuha lang ng ibinilad na butil ng palay  
 O kaya pagkatapos mag-araro  
 Pero pinakamaganda pagkatapos ng gapas  

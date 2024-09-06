@@ -33,4 +33,4 @@ Tinmikiyab lan bulos ed arapen
 ya ag mo ak lan balot kaiba.
 
 ***
-Translated to Filipino: [[translations/amayo (sa filipino)]]
+Translated to Filipino: [[amayo sa filipino]]

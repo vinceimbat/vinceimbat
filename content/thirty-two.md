@@ -7,8 +7,8 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-09-06
-sr-interval: 10
+sr-due: 2024-10-02
+sr-interval: 26
 sr-ease: 250
 ---
 1. Jalousie windows.

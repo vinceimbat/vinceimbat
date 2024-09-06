@@ -7,8 +7,8 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-09-06
-sr-interval: 10
+sr-due: 2024-09-29
+sr-interval: 23
 sr-ease: 250
 ---
 On the surface

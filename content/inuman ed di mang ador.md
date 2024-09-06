@@ -38,4 +38,4 @@ ed suga-sugat na puso
 ed apirpirdin ilalo.
 
 ***
-Impatalos ed Filipino: [[translations/inuman kina mang ador|Inuman Kina Mang Ador]]
+Impatalos ed Filipino: [[inuman kina mang ador|Inuman Kina Mang Ador]]

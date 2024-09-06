@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-05
-sr-interval: 4
+sr-due: 2024-09-18
+sr-interval: 12
 sr-ease: 270
 ---
 Examples are [[unitarianism]], [[unitarian-universalism]] or [[jiyu shukyo]].

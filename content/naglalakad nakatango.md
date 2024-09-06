@@ -7,8 +7,8 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-09-05
-sr-interval: 9
+sr-due: 2024-09-27
+sr-interval: 21
 sr-ease: 250
 ---
 Tinuruan ako minsan ng isang matalinong ginoo na maglakad ng marahan habang nakatingin sa lupa. Ngayon, nageksperimento ako at naglakad naman akong nakatingin sa itaas.

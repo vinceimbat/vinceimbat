@@ -44,7 +44,7 @@ Really enjoyed this quote: [[The daily routine of a Danish aristocrat - Dillard]
 - [[a midsummer rain in lb]]
 
 Translation
-- [[translations/paano maging miserableng artist]]
+- [[paano maging miserableng artist]]
 
 Did a writing experiment by Bernadette Mayer involving listing familiar phrases that has stuck on me for years.
 

@@ -1,11 +1,14 @@
 ---
-title: "Amayo (sa Filipino)"
-date: "2022-07-07"
+title: Amayo (sa Filipino)
+date: 2022-07-07
+aliases:
+  - translations/amayo-(sa-filipino)
 tags:
-- "seedlings"
-- "filipino"
-sr-due: 2023-08-06
-sr-interval: 3
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2026-01-23
+sr-interval: 504
 sr-ease: 250
 ---
 Lumalamig lahat  

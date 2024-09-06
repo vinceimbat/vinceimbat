@@ -60,4 +60,4 @@ tan ed satan
 binalkot ak na aralem ya deen.  
 
 ***
-Impatalos ed Filipino: [[translations/ahas na bingi|Ahas na Bingi]]
+Impatalos ed Filipino: [[ahas na bingi|Ahas na Bingi]]
