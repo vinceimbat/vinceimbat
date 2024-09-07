@@ -6,6 +6,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-09-10
+sr-interval: 3
+sr-ease: 250
 ---
 A stylistic form often associated with walking is the collage. The act of walking especially when done in a metropolis puts the writer in an environment where images come fast one after the other and encounters could happen more. Images and thoughts often come while walking in collage-like fashion and writers who employ walking sometimes want to preserve some semblance of this collage if not all of it. Collage was employed by Jose F. Lacoba in his popular poem "Ang Mga Kagilagilalas na Pakikipagsapalaran ni Juan de la Cruz" but most of all in his often forgotten long poem "The Annotated Catechism." According to Conchitina Cruz, the use of collage in Lacaba's poems diverts from traditional patterns of ordering experience often employed by Filipino writers writing poetry in English as well as historians writing nationalist histories. The act of walking itself produces the collage, which then, as Cruz notices in "The Annotated Catechism," allows the writer to "enact and exacerbate" the tensions present in the landscape and the larger context of society as well as the language used to write a walking piece. The collage, which is partly encouraged by walking, produces work that challenges conventional writing forms.
 

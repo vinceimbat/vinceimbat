@@ -10,6 +10,8 @@ tags:
 ---
 Note: This note is very much a work in progress. The more I understand jiyū shūkyō, the clearer my poetics becomes.
 ***
+# Introduction
+
 My decision to create could only come after my decision to live. This decision is not easy given the circumstances of [[the setting]].
 
 [[A life is the perfect communication]], but within a life is a collection of activities that heighten the desire to communicate. We call this collection, [[art]]. The actions I take that make up what I call my life, which includes my acts of creation, all communicate what I have found in [[my quest]].
@@ -47,6 +49,20 @@ I want my creative process to elevate my experience, and I want my creative arti
 My work espouses a radical partiality to change. My creative process liberates me from the constraints of culture and the outside world but is also liberative to others. The positions I take on work is inquring, freeing, and ever-changing.
 
 I apply these principles in [[my creative practice]].
+
+# A Walking Poetics
+
+Taking these principles together, I would like to call my poetics, "a walking poetics."
+
+My writing, walking, and photography practices are expressions of a walking poetics articulated as follows:
+
+>Human autonomy and its expression are only possible through interconnection with the human and the non-human other, and this interconnection, like a walk, is ever-changing.
+
+My writing practice is inside first, outside second. I prioritize often marginalized genres of writing, such as journaling, trusting that the raw and unedited is often closer to the truth. I see my individual writings, even those that have already been published, as drafts and my body of work as a large evolving archive that is never finished.
+
+All of my writing begins with a walk. Walking is both the metaphor and method of my art.
+
+My photography practice, which leans toward contemplatively looking closer to objects, landscapes, and those that inhabit them, follows this walking poetics.
 
 # To do
 

@@ -12,4 +12,3 @@ sr-interval: 3
 sr-ease: 250
 ---
 Psychogeography is an inquiry on how places make u feel and why.
-
