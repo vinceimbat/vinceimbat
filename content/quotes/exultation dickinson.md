@@ -13,4 +13,4 @@ Into deep eternity —
 
 ~ Emily Dickinson
 
-Translation: [[translations/pagbubunyi dickinson]]
+Translation: [[pagbubunyi dickinson]]

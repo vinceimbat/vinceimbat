@@ -1,12 +1,14 @@
 ---
-title: "Kapag lumalabas ako — Thoreau"
-date: "2022-07-11"
+title: Kapag lumalabas ako — Thoreau
+date: 2022-07-11
 aliases:
-- "Kapag lumalabas ako — Thoreau"
+  - Kapag-lumalabas-ako-—-Thoreau
+  - translations/kapag-lumalabas-ako-thoreau
 tags:
-- "evergreens"
+  - translations
+  - filipino
+  - evergreens
 ---
-
 Kapag lumalabas ako ng bahay upang maglakad, nagaalangan pa kung babaluktutin ang aking mga yapak, at isusuko ang aking sarili sa aking kalikasan upang magpasya para sa akin, napapansin ko, kakaiba at kakatuwa man ito, na sa katapusan ako'y walang pagsalang papanatag sa timog kanluran, papunta sa isang natatanging kakahuyan o kaparangan o tinalikurang pastulan o burol sa dakong iyon.
 
 ***

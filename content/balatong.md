@@ -14,5 +14,5 @@ Awit awit toy sako
 Diad ananak isempet
 
 ***
-Impatalos ed Filipino: [[translations/balatong (sa filipino)]]
+Impatalos ed Filipino: [[balatong sa filipino]]
 Impatalos ed English: [[munggo]]

@@ -19,4 +19,4 @@ purr in delight.
 ---
 Translations
 - [[mga pahinga|Mga Pahinga]]
-- [[translations/descansos|Descansos]]
+- [[descansos|Descansos]]

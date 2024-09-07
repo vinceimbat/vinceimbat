@@ -1,15 +1,17 @@
 ---
-title: "On Children - Gibran"
-date: "2023-01-02"
+title: On Children - Gibran
+date: 2023-01-02
 aliases:
-- "On Children - Gibran"
+  - On-Children---Gibran
+  - translations/on-children-gibran
 tags:
-- "seedlings"
-sr-due: 2025-09-23
-sr-interval: 761
+  - translations
+  - filipino
+  - seedlings
+sr-due: 2029-11-23
+sr-interval: 1903
 sr-ease: 250
 ---
-
 # Original
 
 And a woman who held a babe against her bosom said, Speak to us of Children.  

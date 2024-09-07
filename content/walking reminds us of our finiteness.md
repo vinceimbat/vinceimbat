@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-07
-sr-interval: 1
+sr-due: 2024-09-09
+sr-interval: 2
 sr-ease: 230
 ---
 At every step, walking connects us with the earth. It reminds us of our finiteness by making us aware that we are bodies nailed to the ground.

@@ -12,6 +12,6 @@ tags:
 
 ***
 
-Translation: [[translations/ang putong ng buhay]]
+Translation: [[ang putong ng buhay]]
 
 # References

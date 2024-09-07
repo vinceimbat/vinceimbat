@@ -1,15 +1,17 @@
 ---
-title: "Isang Tahanang Tatawagin Nating “Bukas”"
-date: "2023-03-28"
+title: Isang Tahanang Tatawagin Nating “Bukas”
+date: 2023-03-28
 aliases:
-- "Isang Tahanang Tatawagin Nating “Bukas”"
+  - Isang-Tahanang-Tatawagin-Nating-“Bukas”
+  - translations/isang-tahanang-tatawagin-nating-bukas
 tags:
-- "seedlings"
+  - translations
+  - filipino
+  - seedlings
 sr-due: 2024-02-13
 sr-interval: 173
 sr-ease: 230
 ---
-
 *Tula ni Alberto Rios
 Salin ni Vince Imbat*
 

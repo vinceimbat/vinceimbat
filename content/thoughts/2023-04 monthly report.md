@@ -32,7 +32,7 @@ I finished the book May Nagsabi Sa Akin by Rofel Brion and The Deleted World by 
 - Attended the Writing to Free Your Heart Rofel Brion workshop at Casa San Pablo.
 - Wrote [[sikmura]].
 - I wrote a post about my day at Casa San Pablo and coupled it with some photos.
-- I handwrote [[translations/isang tahanang tatawagin nating bukas]].
+- I handwrote [[isang tahanang tatawagin nating bukas]].
 - In my journal, I started developing [[a walk to maahas road]].
 - Wrote [[kaysarap]].
 - Wrote [[sa madamba]].

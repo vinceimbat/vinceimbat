@@ -240,4 +240,4 @@ Kasabik ed IPB Road, imyurong ak ed gilig na kalsada.
 Dia, kada labi antis ya man alas siyete, mandaragup iray ugugaw, ankekelag tan angkakabaleg, ed gilig na riles, akatsinelas man ira o andi, man-eelekan ira, mankakantsawan. Leleg ya manlulutoy pandeman iray kainaan tan mangiyuunat na sali-sali ira’y kaaman da, manlalakapan iran akaimis, akabantag ed sagur. Tumtumbokey mata ra so marmarlang ya sile-silew na manungol ya tren anggad isabi tod petek da ya sikato lay panggiwgiwgiw da ed liket, ed agnaerep ya liket.
 
 ---
-Translated to English: [[translations/perturbations on pangasiniani|Perturbations on Pangasiniani]]
+Translated to English: [[perturbations on pangasiniani|Perturbations on Pangasiniani]]

@@ -1,12 +1,15 @@
 ---
 title: Aro Kayari Aro
 date: 2020-02-01
-tags:
-  - seedlings
-  - pangasinan
+aliases:
+  - translations/aro-kayari-aro
 draft: false
-sr-due: 2023-10-23
-sr-interval: 3
+tags:
+  - translations
+  - pangasinan
+  - seedlings
+sr-due: 2025-10-20
+sr-interval: 408
 sr-ease: 250
 ---
 Onsabi panaon  
