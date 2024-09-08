@@ -13,7 +13,7 @@ sr-ease: 250
 [[intentional living]] follows the following process:
 
 1. Set a [[Goal]]. The goal is a desired [[end state]]. Since it hasn't happened yet, it is simply a [[concepts]].
-2. Lay out the steps toward the goal (simple goals involve a few [[action]]s; complicated goals require a combination of [[Project]]s, [[Habit]]s, and actions).
+2. Lay out the steps toward the goal (simple goals involve a few [[action]]s; complicated goals require a combination of [[Project]]s, [[habits]]s, and actions).
 3. Act to pursue the goal ([[You act to get what you want]]).
 
 After the end state arrives, the doer continues the process through the following steps:

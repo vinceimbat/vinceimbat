@@ -14,7 +14,7 @@ sr-ease: 250
 ---
 Ilog ako
 ang mga hinagap at damdamin koy dumadaloy sa kailaliman at paminsan-minsay tumitilamsik sa baybayin.
-Bagaman madalas tahimik lang ang agos ko, sa pagragasa ng tubig ulanng nanggagaling sa tuktok ng mga bundok sa paligid ko, umaapaw ang mga mithiin ko
+Bagaman madalas tahimik lang ang agos ko, sa pagragasa ng tubig ulang nanggagaling sa tuktok ng mga bundok sa paligid ko, umaapaw ang mga mithiin ko
 Gustohin ko man, hindi ako kailan man makahahawak sa ano mang bato o puno.
 Ang tubig na dumadaloy sa loob ko ang gumigimbal sa ano mang plano, ano mang bato.
 

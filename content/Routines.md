@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 235
 ---
 
-Routines make it easier to perform, track, and build on [[Habit]]s. 
+Routines make it easier to perform, track, and build on [[habits]]s. 
 
 - [[my annual review routine]]
 - [[my monthly review routine]]

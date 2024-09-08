@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-This is an idea I first encountered from [[thoughts/james clear]]. It has lots of application.
+This is an idea I first encountered from [[james clear]]. It has lots of application.
 
 To experience happiness, one needs to focus on cultivating the habits that raises the probability for it to be experienced.
 

@@ -5,7 +5,6 @@ aliases:
   - poems/what-I-have
 tags:
   - poems
-  - filipino
   - evergreens
 ---
 Fences block the sea  

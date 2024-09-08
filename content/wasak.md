@@ -7,20 +7,24 @@ aliases:
 tags:
   - poems
   - filipino
-  - evergreens
+  - seedlings
 ---
-Nakayuko ako nang makita ko  
-ang nakabaliktad na salagubang  
-sa gitna ng daan.  
+Nakayuko akong naglalakad
+nang makita ko  
+ang nakataob na salagubang  
+sa gitna ng daan.
 
-Pinulot ko siya at inilipat  
-sa damuhan na bahagyang natutuwa  
-at may nailigtas akong buhay.  
+Pinulot ko ito
+at inilipat sa damuhan
+na ang pagkaberde'y tila natutuwa  
+at may nailigtas akong buhay.
 
-Tumalikod ako upang bumalik  
-sa daan nang biglang  
-may narinig akong napisa.  
+Tumalikod ako't  
+bumalik sa daan  
+nang biglang  
+may narinig akong napisa.
 
-Sa swelas ng tsinelas ko naroon  
-nakadikit ang suso at talukap nitong wasak  
-wasak na wasak.  
+Doon sa ilalalim ng swelas  
+ng pudpod kong tsinelas  
+nakadikit ang suso't talukap
+nitong wasak na wasak.

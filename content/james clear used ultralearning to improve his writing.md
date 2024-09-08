@@ -7,7 +7,7 @@ tags:
   - thoughts
   - evergreens
 ---
-[[thoughts/james clear]] used [[ultralearning]] to improve his writing. Below is the process he used.
+[[james clear]] used [[ultralearning]] to improve his writing. Below is the process he used.
 
 1. [[metalearning]]. Examine other popular bloggers and authors. Create a map for what you needed to do to become a successful writer.
 2. Focus. Be a full-time writer. Spend majority of your time reading and writing.

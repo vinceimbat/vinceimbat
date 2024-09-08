@@ -6,7 +6,6 @@ aliases:
   - translations/kabuwasan
 tags:
   - translations
-  - poems
   - pangasinan
   - filipino
   - seedlings

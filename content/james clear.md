@@ -2,11 +2,13 @@
 title: James Clear
 date: 2016-06-06
 aliases:
-  - James Clear
+  - James-Clear
+  - thoughts/james-clear
 tags:
+  - thoughts
   - seedlings
-sr-due: 2025-09-04
-sr-interval: 609
+sr-due: 2028-11-10
+sr-interval: 1523
 sr-ease: 250
 ---
 Education

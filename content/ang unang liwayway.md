@@ -14,7 +14,7 @@ ng gabing lipos ng ligalig
 at pagkahayok sa kayamanan,  
 kabantugan, at kapangyarihan  
 na humihele sa laksa-laksang  
-sangkatauhang kinumotan  
+sangkatauhang kinumutan  
 ng pagkalimot sa kasaysayan  
 at humihilik na tungo sa bangungot  
 na hinding-hindi na nila matatakasan,  
@@ -25,4 +25,4 @@ sa unang pamimitak
 ng madilim na kalangitan  
 na siyang magluluwal sa una—  
 sa pinaka-unang  
-silahis ng liwanag.  
+silahis ng liwanag.
