@@ -11,4 +11,4 @@ sr-ease: 255
 - [[rofel brion|Rofel Brion]]
 - [[thoughts/billy collins|Billy Collins]]
 - [[vincenz serrano|Vincenz Serrano]]
-- [[thoughts/walt whitman|Walt Whitman]]
+- [[walt whitman|Walt Whitman]]

@@ -1,13 +1,15 @@
 ---
-title: "Thich Nhat Hanh"
-date: "2022-01-31"
+title: Thich Nhat Hanh
+date: 2022-01-31
+aliases:
+  - thoughts/thich-nhat-hanh
 tags:
-- "seedlings"
-sr-due: 2024-11-08
-sr-interval: 444
+  - thoughts
+  - seedlings
+sr-due: 2027-09-24
+sr-interval: 1110
 sr-ease: 250
 ---
-
 The image awakened a clear and strong desire in him to become just like that Buddha: someone who embodied calm, peace, and ease, and who could help others around him also be calm, peaceful, and at ease.
 
 Buddhism, if updated and restored to its core teachings and practices, *could* truly help relieve suffering in society, and offer a nonviolent path to peace, prosperity, and independence

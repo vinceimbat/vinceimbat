@@ -1,11 +1,14 @@
 ---
-title: "I Picked Up a Thrown Kitten"
-date: "2022-09-30"
+title: I Picked Up a Thrown Kitten
+date: 2022-09-30
+aliases:
+  - vignettes/i-picked-up-a-thrown-kitten
 tags:
-- "seedlings"
-sr-due: 2023-08-22
-sr-interval: 2
-sr-ease: 246
+  - vignettes
+  - seedlings
+sr-due: 2028-05-06
+sr-interval: 1335
+sr-ease: 266
 ---
 On September 25, 2022, while Lea and I walked Juan Pancho Street near Forestry at UPLB, we picked up a kitten that was crying loudly. I can still hear her cries. I was the one who first recognized the cry. I even asked where it was coming from. Turns out, we didn't have to look any further. The cry was coming from along the road. We saw the kitten. It was covered with flies. Small yellowish grains, which I now know were fly eggs covered the poor kitten's left ear and legs. They smelled like rotten fish.
 
@@ -19,6 +22,6 @@ After bathing the animal, I dried it up using the cats' towel and placed it insi
 
 In the late afternoon, Lea and I bought a nursing bottle (P180) and milk replacement powder (P150). When we got home, we tried feeding it with the bottle to no avail. I think a dropper is the best bet, but since I didn't have one, I used the syringe for now. We fed the cat every three hours using the powdered milk. It was a struggle, but the hesitation I once felt when deciding to pick the kitten up has faded away. I remembered Oreo and Gripo and how I failed them and how I was given the chance to redeem myself and help a soul.
 
-I remembered [[henry bugbee]] and the purpose of reflection—to be decisive in one's action at this moment. I remembered [[thoughts/thich nhat hanh]] and compassion. I remembered [[thoughts/walt whitman]] and his passion in helping the wounded during the war. I felt that this was an opportunity to make someone else's life thrown—literally thrown—become a gift once more. And who would've thought that I will go this far in taking care of one soul? This place transforms people. It has transformed me.
+I remembered [[Henry Bugbee]] and the purpose of reflection—to be decisive in one's action at this moment. I remembered [[Thich Nhat Hanh]] and compassion. I remembered [[Walt Whitman]] and his passion in helping the wounded during the war. I felt that this was an opportunity to make someone else's life thrown—literally thrown—become a gift once more. And who would've thought that I will go this far in taking care of one soul? This place transforms people. It has transformed me.
 
-I detailed the fate of this kitten, which I named Keeley in the poem I wrote: [[today i buried a kitten]]
+I detailed the fate of this kitten, which I named Keeley in the poem I wrote: [[Today I Buried a Kitten]].

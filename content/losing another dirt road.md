@@ -1,8 +1,11 @@
 ---
-title: "Losing another dirt road"
-date: "2022-05-11"
+title: Losing another dirt road
+date: 2022-05-11
+aliases:
+  - vignettes/losing-another-dirt-road
 tags:
-- "seedlings"
+  - vignettes
+  - seedlings
 sr-due: 2025-04-13
 sr-interval: 616
 sr-ease: 270
@@ -24,4 +27,4 @@ I looked in front of me and I saw some cows grazing on dry grass. Nearby, goats 
 I continued walking and looked down. A poem is coming my way.
 
 # To do
-- Update backlinks and connect them to [[all them dirt roads|all them dirt roads]]. Then deprecate this note.
+- Update backlinks and connect them to [[All Them Dirt Roads]]. Then deprecate this note.

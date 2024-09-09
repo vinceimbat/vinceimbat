@@ -1,10 +1,13 @@
 ---
-title: "Walt Whitman"
-date: "2022-09-30"
+title: Walt Whitman
+date: 2022-09-30
+aliases:
+  - thoughts/walt-whitman
 tags:
-- "seedlings"
-sr-due: 2025-04-05
-sr-interval: 558
+  - thoughts
+  - seedlings
+sr-due: 2028-07-05
+sr-interval: 1395
 sr-ease: 250
 ---
 # On Poetry
@@ -25,5 +28,3 @@ This started a debate in the 1850s whether Song of Myself was poetry or not. One
 # To Do
 
 Review how Laura Walls differentiated Thoreau from Whitman
-
-# References

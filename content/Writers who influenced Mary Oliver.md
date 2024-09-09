@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-- [[thoughts/walt whitman]]
+- [[walt whitman]]
 - [[henry david thoreau]]
 - [[Rumi]]
 - Hafez

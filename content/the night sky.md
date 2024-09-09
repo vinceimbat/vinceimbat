@@ -42,7 +42,7 @@ I remember that the star I am looking at now was probably already dead thousands
 
 And with this reminder comes the recognition that everything I am looking at above came before me. And, like them, I arose from nowhere. This existence that I possess came outside my volition. I was brought here by someone (or something) that is way more powerful than myself. My existence was never my choice. It was beyond my control, much like almost everything else around me—aging, illness, and death.
 
-Interestingly, I recently came across [[thoughts/thich nhat hanh|Thich Nhat Hanh]] ’s English translation of The Five Remembrances of Buddhism.
+Interestingly, I recently came across [[thich nhat hanh|Thich Nhat Hanh]] ’s English translation of The Five Remembrances of Buddhism.
 
 *I am of the nature to grow old.  
 There is no way to escape growing old.*  

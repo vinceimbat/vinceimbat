@@ -1,9 +1,12 @@
 ---
 title: Poem revision process
 date: 2023-10-02
+aliases:
+  - thoughts/poem-revision-process
+draft: false
 tags:
+  - thoughts
   - seedlings
-draft:
 sr-due: 2023-10-03
 sr-interval: 1
 sr-ease: 228
@@ -86,3 +89,7 @@ The best way to use this is as a checklist. Run through the checklist for each p
 - Read down to see what rhymes, the words that rhyme together may give more meaning to something.
 - Work at the poem until it's done in one sitting. Revise for sound and cadence.
 - Read the poem aloud 40 times to look for words you don't need. Look for something that shouldn't be there.
+
+# Related
+
+- [[the art of revision nye]]

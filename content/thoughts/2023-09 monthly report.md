@@ -66,7 +66,7 @@ Vignettes
 
 Learned that I didn't get in CCWW, which prompted questions about the trajectory of my writing life.
 
-Created a [[thoughts/poem revision process|poem revision process]] based on [[billy collins masterclass|Billy Collins' Masterclass]].
+Created a [[poem revision process|poem revision process]] based on [[billy collins masterclass|Billy Collins' Masterclass]].
 
 Started considering how to be a writing coach by a [webinar](https://www.youtube.com/watch?v=TOWUuWujqV4&t=1821s).
 
