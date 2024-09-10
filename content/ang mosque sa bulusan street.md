@@ -2,12 +2,14 @@
 title: Ang Mosque sa Bulusan Street
 date: 2022-08-30
 aliases:
-  - Ang mosque sa Bulusan Street
-  - vignettes/Ang mosque sa bulusan street
+  - Ang-mosque-sa-Bulusan-Street
+  - vignettes/Ang-mosque-sa-bulusan-street
 tags:
+  - vignettes
+  - filipino
   - seedlings
-sr-due: 2025-07-06
-sr-interval: 580
+sr-due: 2028-08-31
+sr-interval: 1450
 sr-ease: 250
 ---
 Hindi ko pa pala nakukuhanan ng larawan ang nag-iisang mosque dito sa Los Baños—ang IMSA Jammi Al-khair sa Bulusan Street. Kaya, tumigil ako sandali upang kuhanan ito. Isang taon mahigit na ako rito at halos araw-araw akong napaparaan pero bakit ngayong ko lang naalalang kuhanan siya? At bakit ko siya kinuhanan ng larawan malayo sa mismong gate ng mosque? Bakit ako nakararamdam ng takot tulad ng nararamdaman ng mga aso sa paligid na mosque tuwing umaawit ang imam sa mikropono na naka-loud speaker na dinig mula likod ng mosque hanggang sa bukana ng campus. Umaalolong ang mga aso tuwing kumakanta ang imam—nangangamba, tula natatakot sa kakaibang tunog. Kakaiba, hindi --. Bakit tayo takot rito?

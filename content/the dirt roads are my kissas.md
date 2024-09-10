@@ -1,12 +1,14 @@
 ---
-title: "The Dirt Roads Are My Kissas"
-date: "2022-08-31"
+title: The Dirt Roads Are My Kissas
+date: 2022-08-31
 aliases:
-- "The Dirt Roads Are My Kissas"
+  - The-Dirt-Roads-Are-My-Kissas
+  - vignettes/the-dirt-roads-are-my-kissas
 tags:
-- "seedlings"
-sr-due: 2024-10-01
-sr-interval: 408
+  - vignettes
+  - seedlings
+sr-due: 2027-04-07
+sr-interval: 938
 sr-ease: 230
 ---
 Yesterday, I had a very beautiful walk. I biked the same route I walked the other day (the night before). It was past 5 pm, still some sunlight but no longer as bright. The road was filled with vehicles. But I know the dirt road will be empty. It always is. I first noticed an ant hill—or was it a termite hill? I took a photo of it while two teenagers rode their bikes passed my back. I don't think they have biked this dirt road before as they returned immediately to the main road after just a few seconds.

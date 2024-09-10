@@ -119,3 +119,4 @@ Resources that have shaped how I think about walking.
 - [[walking resources]]
 - [[walk projects]]
 - [[think about land when walking]]
+- [[walking on wide spaces]]

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-10
-sr-interval: 4
+sr-due: 2024-09-23
+sr-interval: 13
 sr-ease: 270
 ---
 Beliefs are embedded in the landscape.

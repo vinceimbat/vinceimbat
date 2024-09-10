@@ -1,13 +1,16 @@
 ---
-title: "Sa Harap ng Lawa ng Sampaloc"
-date: "2022-08-20"
+title: Sa Harap ng Lawa ng Sampaloc
+date: 2022-08-20
 aliases:
-- "Sa harap ng lawa ng Sampaloc"
+  - Sa-harap-ng-lawa-ng-Sampaloc
+  - vignettes/sampaloc-lake
 tags:
-- "seedlings"
-sr-due: 2024-11-22
-sr-interval: 460
-sr-ease: 250
+  - vignettes
+  - filipino
+  - seedlings
+sr-due: 2029-02-12
+sr-interval: 1615
+sr-ease: 270
 ---
 Nakaupo ako ngayon sa harap ng lawa ng Sampaloc. Sa malayo, tanaw na tanaw ang tuktok ng Mt. Banahaw. Ang ulap na halos kasing laki nito na kanina pa nakahalik sa kaniya ay unti-unti nang humihiwalay. Malakas ang hanging humahampas sa pahinang ito ng kuwaderno ko, dala ang kaunting ___ tanda na malusog ang lawa. Napakarami nilang mangingisda na dumadalaw dito upang makamingwit ng kahit isa man lang. May isang binatang may dalang patpat. Sa dulo ay nakatusok ang ilang huli niya. Sapat na ito. Katuwaan lang naman ito sa kaniya.
 

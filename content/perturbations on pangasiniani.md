@@ -8,8 +8,8 @@ tags:
   - translations
   - essays
   - seedlings
-sr-due: 2024-09-10
-sr-interval: 3
+sr-due: 2024-09-18
+sr-interval: 8
 sr-ease: 250
 ---
 You know you can begin to write when you’ve noticed the difference between your handle of words while talking with neighbors idling in front of your house and when you’re alone walking in the middle of the field, holding a pen on your right and a notebook on your left, waiting for the owl’s flight on the first night after they shot its mate.

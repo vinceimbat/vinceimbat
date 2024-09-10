@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-10
-sr-interval: 13
+sr-due: 2024-10-12
+sr-interval: 32
 sr-ease: 270
 ---
 “On Photography” (1977) by Susan Sontag

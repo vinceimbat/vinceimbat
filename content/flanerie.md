@@ -6,11 +6,13 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-10
-sr-interval: 12
-sr-ease: 270
+sr-due: 2024-10-25
+sr-interval: 45
+sr-ease: 290
 ---
 This is the walk of the [[flaneur]], a kind of walk that emerged out of Paris.
+
+Some cities were designed for people to be able to walk this way.
 
 # To do
 

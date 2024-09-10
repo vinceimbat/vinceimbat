@@ -1,10 +1,12 @@
 ---
-title: "The Road of Rocks and Stones and Dust"
-date: "2020-03-30"
+title: The Road of Rocks and Stones and Dust
+date: 2020-03-30
 aliases:
-- "the-road-of-rocks-and-stones-and-dust"
+  - the-road-of-rocks-and-stones-and-dust
+  - vignettes/the-road-of-rocks-and-stones-and-dust
 tags:
-  - "evergreens"
+  - vignettes
+  - evergreens
 ---
 I pressed the left brake to help me turn right. A single person was outside the house that sits beside the entry to the farm-to-market road—a young woman, probably in her 30s, just standing up in front of the house. Usually, there would be four or more gathered outside. But today, only dogs, some tied while others let loose, filled the sides of the road. I pressed on.
 

@@ -7,7 +7,7 @@ draft:
 ---
 Bi-directional links
 - [[sikmura|sikmura]]
-- [[vignettes/sampaloc lake|sampaloc lake]]
+- [[sa harap ng lawa ng sampaloc|sa harap ng lawa ng sampaloc]]
 
 Embeds
 
