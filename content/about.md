@@ -1,11 +1,10 @@
 ---
 title: About Vince Imbat
 date: 2017-03-18
-tags:
-  - seedlings
+tags: []
 ---
 ![Vince Imbat ANWW20 headshot](files/anww20-vinceimbat.jpg)
-## I'm a Los Baños-based Pangasinan [[writing|writer]] and [[photography|photographer]] exploring a [[jiyu shukyo|creative and liberative spirituality]] through [[walking]].
+## I'm a Los Baños-based [[photography|photographer]] and [[writing|writer]] in three languages exploring a [[jiyu shukyo|creative and liberative spirituality]] through [[walking]].
 
 ***
 
