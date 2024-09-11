@@ -1,10 +1,12 @@
 ---
-title: "Walking Mt. Data Street"
-date: "2023-05-31"
+title: Walking Mt. Data Street
+date: 2023-05-31
 aliases:
-- "Walking Mt. Data Street"
+  - Walking-Mt.-Data-Street
+  - vignettes/walking-mt-data-street
 tags:
-- "seedlings"
+  - vignettes
+  - seedlings
 sr-due: 2023-11-22
 sr-interval: 94
 sr-ease: 230

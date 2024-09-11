@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-[[Feelings]], which are always conscious, and are the more cognitive manifestations of emotions, can also be philosophical.
+[[feelings]], which are always conscious, and are the more cognitive manifestations of emotions, can also be philosophical.
 
 They become philosophical when they deal with [[Universals]]
 

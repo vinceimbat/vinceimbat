@@ -19,4 +19,4 @@ For the longest time, I've withdrawn from crowds. Earlier on this walk, I even w
 
 Constant contact makes relationships inevitable, and I couldn't escape this. My relationship with myself and the place can only go as far as my relationship with the public allows. My method is walking, ideally in nature. But without participating in public affairs, I won't be able to influence how we could protect nature and walking. Suddenly, I am considering my relationship with others—with society, the crowd of strangers I walk with daily, or the nameless faces I share spaces with. And, for the first time in a long time, I considered the possibility of love.
 
-![Children at IPB road](vignettes/images/children-at-IPB.jpg)
+![Children at IPB road](children-at-IPB.jpg)

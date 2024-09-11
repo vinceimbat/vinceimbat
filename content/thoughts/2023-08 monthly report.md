@@ -58,7 +58,7 @@ Essays
 - [[uman 2023-07|Uman — July 2023]]
 
 Vignettes
-- [[vignettes/kilala|Kilala]]
+- [[kilala|Kilala]]
 
 TLW
 - [[the very first memory|The Very First Memory]]

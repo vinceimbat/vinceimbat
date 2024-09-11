@@ -1,11 +1,14 @@
 ---
-title: "A Morning Walk at a Fishpond in Sta. Teresa"
-date: "2022-06-02"
+title: A Morning Walk at a Fishpond in Sta. Teresa
+date: 2022-06-02
+aliases:
+  - vignettes/a-morning-walk-at-a-fishpond-in-sta.-teresa
 tags:
-- "seedlings"
-sr-due: 2025-03-01
-sr-interval: 559
-sr-ease: 250
+  - vignettes
+  - seedlings
+sr-due: 2030-01-25
+sr-interval: 1962
+sr-ease: 270
 ---
 I saw a mudskipper, a shell moving, and a katang. All within the radius of a small mangrove tree.
 

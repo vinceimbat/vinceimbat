@@ -58,7 +58,7 @@ Did a writing experiment by Bernadette Mayer involving listing familiar phrases 
 
 Wrote:
 - [[Rewalking Baguio]]
-- [[vignettes/walking mt data street]]
+- [[walking mt data street]]
 
 ## Projects
 

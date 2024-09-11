@@ -1,13 +1,15 @@
 ---
-title: "Milk"
-date: "2021-02-21"
+title: Milk
+date: 2021-02-21
 aliases:
-- "Milk"
+  - Milk
+  - vignettes/milk
 tags:
-- "seedlings"
-sr-due: 2023-12-17
-sr-interval: 119
-sr-ease: 259
+  - vignettes
+  - seedlings
+sr-due: 2028-07-19
+sr-interval: 1407
+sr-ease: 279
 ---
 “I am feeling down the entire week,” I said.
 

@@ -36,8 +36,8 @@ I then encountered [[pat schneider]] whose writing method detailed in her book  
 
 - Published [[uman 2023-10]]
 - Vignettes
-	- [[vignettes/writing as faith|writing as faith]]
-	- [[vignettes/aglibut ave|Aglibut ave.]]
+	- [[writing as faith|writing as faith]]
+	- [[aglibut ave|Aglibut ave.]]
 	- [[thoughts/leaves|leaves]]
 - TLW
 	- [[purpose is a convergence tool|purpose is a convergence tool]]

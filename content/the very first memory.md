@@ -13,4 +13,4 @@ I raised my head to look up at the roof of our house, but what I saw was the sky
 
 What came before this memory, I am not sure of. Was it even a memory? All I can remember, all I am sure of, was that on that day, when I raised my head to look up at the sky, the heavens opened up as wide as the morning, and your voice came to me in the figure of a dove baptizing me on the waters of dreams.
 
-![Child Vince](vignettes/images/child-vince.jpg)
+![Child Vince](child-vince.jpg)

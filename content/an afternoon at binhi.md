@@ -1,11 +1,14 @@
 ---
-title: "An Afternoon at Binhi"
-date: "2022-06-02"
+title: An Afternoon at Binhi
+date: 2022-06-02
+aliases:
+  - vignettes/an-afternoon-at-binhi
 tags:
-- "seedlings"
-sr-due: 2025-02-28
-sr-interval: 558
-sr-ease: 250
+  - vignettes
+  - seedlings
+sr-due: 2030-01-22
+sr-interval: 1959
+sr-ease: 270
 ---
 Trees I recognized today
 Apitong - because of its leaf. A small one has died or dying.

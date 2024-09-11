@@ -12,3 +12,4 @@ tags:
 - [[2024-06-02 kiitsu kyokai walk]]
 - [[2024-06-10 kiitsu kyokai walk]]
 - [[2024-06-17 kiitsu kyokai walk]]
+- [[2024-08-25 kiitsu kyokai walk]]

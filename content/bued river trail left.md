@@ -1,13 +1,15 @@
 ---
-title: "Bued River trail (Left)"
-date: "2020-10-09"
+title: Bued River trail (Left)
+date: 2020-10-09
+aliases:
+  - vignettes/bued-river-trail-left
 tags:
-- "seedlings"
-sr-due: 2024-11-21
-sr-interval: 459
-sr-ease: 250
+  - vignettes
+  - seedlings
+sr-due: 2029-02-08
+sr-interval: 1611
+sr-ease: 270
 ---
-
 # Description
 
 ![[bued-river.png]]

@@ -1,11 +1,14 @@
 ---
-title: "A Cloudless March Sky"
-date: "2021-03-01"
+title: A Cloudless March Sky
+date: 2021-03-01
+aliases:
+  - vignettes/a-cloudless-march-sky
 tags:
-- "seedlings"
-sr-due: 2023-05-25
-sr-interval: 2
-sr-ease: 248
+  - vignettes
+  - seedlings
+sr-due: 2029-03-31
+sr-interval: 1662
+sr-ease: 268
 ---
 I thought everything I was feeling was just the effect of the break up. Nothing more.
 

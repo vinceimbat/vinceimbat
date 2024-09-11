@@ -10,7 +10,7 @@ tags:
   - tlw
   - evergreens
 ---
-![Baby me and Tita Sabel](vignettes/images/sabel1.jpg)
+![Baby me and Tita Sabel](sabel1.jpg)
 
 On the morning of July 4, 2022, I walked with my mother and father from our house at Cablong, Sta. Barbara, to a relative's house at nearby Botao. It was a rare occasion. I was already living 170 miles away from them and was only staying for about a week. Before relocating to Los Baños, we no longer walked together, something we used to do around 2011 when I was recovering from depression.
 
@@ -38,4 +38,4 @@ We continued walking that morning, leaving Tita Sabel without knowing more of he
 
 It's a shame I could never remember. But I want to believe that subconsciously, perhaps even in my body, I do remember that during a brief period in the first couple of years of my life on this planet, a quiet stranger showed me true love, something I may never experience again in my adult life.
 
-![Me and Tita Sabel](vignettes/images/sabel.jpg)
+![Me and Tita Sabel](sabel.jpg)

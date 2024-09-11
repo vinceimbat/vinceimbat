@@ -1,12 +1,16 @@
 ---
 title: Matauhan
 date: 2023-10-01
+aliases:
+  - vignettes/matauhan
+draft: false
 tags:
+  - vignettes
+  - filipino
   - seedlings
-draft:
-sr-due: 2023-10-04
-sr-interval: 3
-sr-ease: 250
+sr-due: 2028-01-07
+sr-interval: 1213
+sr-ease: 270
 ---
 Inabot ng milyon-milyong taon bago natutunan ng sinaunang tao ang tumayo ng tuwid at maglakad gamit lang ang kaniyang mga paa.
 

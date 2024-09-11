@@ -1,7 +1,10 @@
 ---
 title: Walking with no light
 date: 2023-12-23
+aliases:
+  - vignettes/walking-with-no-light
 tags:
+  - vignettes
   - seedlings
 draft: false
 sr-due: 2023-12-26

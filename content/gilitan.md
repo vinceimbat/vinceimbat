@@ -1,11 +1,14 @@
 ---
 title: Gilitan
 date: 2023-12-22
-tags:
-  - seedlings
+aliases:
+  - vignettes/gilitan
 draft: false
-sr-due: 2023-12-23
-sr-interval: 1
+tags:
+  - vignettes
+  - seedlings
+sr-due: 2025-07-13
+sr-interval: 305
 sr-ease: 230
 ---
 Sometimes, the best things happen just before the walk.
@@ -29,5 +32,3 @@ We were leaving tomorrow for two days, so I asked how long would these tulya las
 I bought a bag, gave her ten pesos, and, remembering my mother's mistake, immediately ran to the kitchen to put the tulya in a bowl of water. We still ought to buy fish. I remember how good ginisang tulya is with fried fish, so we continued with our walk.
 
 When I came back from the kitchen, the two ladies were gone. On the intersection of Mt. Data Street and Onyx Street, I saw them walking like they came a while ago. Small, sturdy figures. The lady with the basin over her had has returned to shouting that elongated version of the name of the shellfish she carries, which I now know. "Tooool-yaaaaa," she said with her tender, whole voice. Finally, I remembered what we call it back home. "Gilitan," I told myself as I imagined how I'll cook them later.
-
-

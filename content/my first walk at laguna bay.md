@@ -1,12 +1,18 @@
 ---
 title: My first walk at laguna bay
 date: 2021-05-05
-tags:
-  - seedlings
+aliases:
+  - vignettes/my-first-walk-at-laguna-bay
 draft: false
+tags:
+  - vignettes
+  - seedlings
+sr-due: 2024-09-15
+sr-interval: 4
+sr-ease: 270
 ---
 
-![Sunset over a bridge on a lake beach](vignettes/images/baybayin-sunset.jpg)
+![Sunset over a bridge on a lake beach](baybayin-sunset.jpg)
 
 Yesterday, I…
 

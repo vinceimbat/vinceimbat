@@ -1,10 +1,12 @@
 ---
-title: "Me. The light. The rice stalks."
-date: "2020-03-03"
+title: Me. The light. The rice stalks.
+date: 2020-03-03
 aliases:
-- "me-the-light-the-rice-stalks"
+  - me-the-light-the-rice-stalks
+  - vignettes/me-the-light-the-rice-stalks
 tags:
-  - "evergreens"
+  - vignettes
+  - evergreens
 ---
 I got off my bike. This I usually do when I reach a place where I feel a sense of calm and awe. This afternoon, it wasn't difficult to find that place. It was all around me.
 

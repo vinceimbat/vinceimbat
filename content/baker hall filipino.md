@@ -8,8 +8,8 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-09-11
-sr-interval: 2
+sr-due: 2024-09-16
+sr-interval: 5
 sr-ease: 230
 ---
 Tagamasid ka noon

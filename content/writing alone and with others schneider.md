@@ -428,7 +428,7 @@ I will not need to ask whether the form should be story or poem or novel or play
 
 # Exercises
 
-- Beginning at Your Own Beginning: [[vignettes/kisses|Kisses]]
+- Beginning at Your Own Beginning: [[kisses|Kisses]]
 - Healing the Wounds of Bad Experiences: [[private/nspc|NSPC]]
 - Getting Rid of Internal Critics: [[private/the bus|The Bus]]
 - Beginning (Again): [[palaui|Palaui]]

@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-11
-sr-interval: 14
+sr-due: 2024-10-22
+sr-interval: 41
 sr-ease: 290
 ---
 Free will

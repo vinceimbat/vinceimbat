@@ -61,7 +61,7 @@ Others
 
 The beliefs about responding to reality within my worldview most relevant to my quest are as follows:
 1. The formula for living is simply this: [[To live well simply means to set your own intentions and live according to them]].
-2. [[To live intentionally requires adequate self-knowledge]].
+2. [[intentional living requires self-knowledge]].
 3. [[thoughts/knowledge is necessary to fulfill intentions]].
 4. When transitioning from unintentional to [[Intentional living]], you need to know enough about what you want and how you are going to get what you want. The former requires self-knowledge. The latter requires knowledge about the world.
 5. A part of my DIY how to live project is ensuring that I am free of pain and happy as much as possible ([[thoughts/happiness]]).

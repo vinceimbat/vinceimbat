@@ -1,12 +1,15 @@
 ---
 title: Angob
 date: 2023-09-27
+aliases:
+  - vignettes/angob
+draft: false
 tags:
+  - vignettes
   - seedlings
-draft:
-sr-due: 2023-10-01
-sr-interval: 4
-sr-ease: 270
+sr-due: 2028-04-22
+sr-interval: 1319
+sr-ease: 290
 ---
 As a child, I always wondered why my parents (my father in particular), grandparents, and some of my aunts kissed me with some sort of sucking sensation.
 

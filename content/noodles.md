@@ -1,12 +1,15 @@
 ---
 title: Noodles
 date: 2023-11-02
-tags:
-  - seedlings
+aliases:
+  - vignettes/noodles
 draft: false
-sr-due: 2023-11-06
-sr-interval: 4
-sr-ease: 270
+tags:
+  - vignettes
+  - seedlings
+sr-due: 2027-12-09
+sr-interval: 1184
+sr-ease: 290
 ---
 The boy just arrived. It is already 10:30 pm. He went straight to his room, opened the lights, and stayed there for around 30 minutes. Perhaps lying on his bed, resting. By 11:00, he is out of his room and into the kitchen. He opens the stove and puts a caserol of water to boil. I now smell noodles and wonder whether he has bought cooked rice.
 

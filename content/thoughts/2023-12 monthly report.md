@@ -37,8 +37,8 @@ Notes
 - Performed exercise 3 in [[writing alone and with others schneider|Writing Alone and With Others]].
 
 Vignettes
-- [[vignettes/on my desk my fingers walk|on my desk my fingers walk]]
-- [[vignettes/gilitan|gilitan]]
+- [[on my desk my fingers walk|on my desk my fingers walk]]
+- [[gilitan|gilitan]]
 
 TLW
 - [[and i shall hear their hearts beating|and i shall hear their hearts beating]]

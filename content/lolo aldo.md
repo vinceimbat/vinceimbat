@@ -20,4 +20,4 @@ We talked a lot about many things but two things struck me. Lea's mom asked him 
 
 Three months later, I heard that people visited Lolo Aldo once more. He was no longer in his room. And the stench of urine was no longer in the air.
 
-![Inside Lolo Aldo's house](vignettes/images/lolo-aldo-house.jpg)
+![Inside Lolo Aldo's house](lolo-aldo-house.jpg)

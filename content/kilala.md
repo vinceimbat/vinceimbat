@@ -1,13 +1,18 @@
 ---
 title: Kilala
 date: 2023-08-08, Tuesday, 9:29:21 am
-location: [14.165112797845966,121.2558134425685]
+aliases:
+  - vignettes/kilala
+location:
+  - 14.165112797845966
+  - 121.2558134425685
 tags:
-- filipino
-- seedlings
-sr-due: 2023-08-09
-sr-interval: 1
-sr-ease: 230
+  - vignettes
+  - filipino
+  - seedlings
+sr-due: 2028-04-03
+sr-interval: 1300
+sr-ease: 250
 ---
 Noong naglalakad ako hapon-hapon sa maalikabok na daan sa'min sa Sta. Maria bago nila ito sinimento't tinawag na snake road, bago dinayo ng mga tiktokers at probinsya gangsters, hindi ko alam pero kilala na pala ako ng mga magsasakang nakatira sa mga kubong nasa gilid ng mga bukid na sinasaka nila. Basta araw araw kang maglalakad, at wag na wag magsusuot ng rubber shoes o anumang sapatos na magpaparamdam sa kanilang iba ka, kahit hindi sunog sa araw ang balat mo tulad nila, babatiin ka pa rin nila ng pagtaas ng kilay o pag sinusuwerte kay tatanungin ng "lupa niyo ito?" Hindi man kami nagkatagayan, kilala namin ang isa't-isa dahil nakikita nila ako prating naglalkad at nakikita ko silang umuuwi mula sa maghapong pagbubukid.
 

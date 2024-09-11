@@ -1,9 +1,15 @@
 ---
 title: On my desk my fingers walk
 date: 2023-12-18
-tags:
-  - seedlings
+aliases:
+  - vignettes/on-my-desk-my-fingers-walk
 draft: false
+tags:
+  - vignettes
+  - seedlings
+sr-due: 2024-09-15
+sr-interval: 4
+sr-ease: 270
 ---
 Its flatness is an invitation for adventure, a reminder that I am free. I am not shackled on an armchair at some "professional" philosopher's classroom. I'm my own mind.
 

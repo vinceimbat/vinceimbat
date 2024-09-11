@@ -1,13 +1,16 @@
 ---
-title: "Dimla"
-date: "2019-07-17"
+title: Dimla
+date: 2019-07-17
+aliases:
+  - vignettes/dimla
 tags:
-- "seedlings"
-sr-due: 2023-08-23
-sr-interval: 3
-sr-ease: 250
+  - vignettes
+  - filipino
+  - seedlings
+sr-due: 2028-06-03
+sr-interval: 1361
+sr-ease: 270
 ---
-
 ![The sunset at Dimla](dimla-sunset.jpg)
 
 Naramdaman ko ang init ng gintong sinag mula sa langit na sumuot sa pagitan ng mga dahon ng punong sa ilalim ako'y nakaupo. Tumayo ako at nagsimulang maglakad papuntang dalampasigan.

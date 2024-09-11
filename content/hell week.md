@@ -1,13 +1,15 @@
 ---
-title: "Hell Week"
-date: "2021-03-08"
+title: Hell Week
+date: 2021-03-08
 aliases:
-- "Hell Week"
+  - Hell-Week
+  - vignettes/hell-week
 tags:
-- "seedlings"
-sr-due: 2023-12-13
-sr-interval: 115
-sr-ease: 250
+  - vignettes
+  - seedlings
+sr-due: 2028-06-04
+sr-interval: 1362
+sr-ease: 270
 ---
 The cold iron chair stung my right arm. I immediately raised it up and pulled the sleeve of my sweater down to cover it. Around me were heads bowed down over test papers. Once in a while a short halted cough or a rough stroke of pen on paper broke the silence. Ma’am Nina was on her desk, puzzled over what looks like a long list of grades. She seems tired. But not tired enough. Not as tired as I am.
 

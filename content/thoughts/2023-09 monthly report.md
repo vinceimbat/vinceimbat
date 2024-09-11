@@ -61,8 +61,8 @@ TLW
 
 Vignettes
 - [[fleetingness of it all|fleetingness of it all]]
-- [[vignettes/angob|angob]]
-- [[vignettes/matauhan|matauhan]]
+- [[angob|angob]]
+- [[matauhan|matauhan]]
 
 Learned that I didn't get in CCWW, which prompted questions about the trajectory of my writing life.
 

@@ -53,7 +53,7 @@ I am grateful for:
 44. Relaunching [[lilim|lilim]] after intentionally lengthening my afternoon walks and realizing I have so much to share about [[walking]].
 45. Discovering the story of the UPLB internment camp ang retracing its boundaries during an afternoon walk (see [[in search of the internment camp in los baños|In search of the internment camp in Los Baños]]). 
 46. The many poems and poetry drafts that came to me this year.
-47. My walk at Lopez Quezon, around town ([[vignettes/a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[walking lopez 2]]), and at Santino's Farmville.
+47. My walk at Lopez Quezon, around town ([[a walk around the town of lopez quezon]]), in one of the fishponds at Sta. Teresa ([[walking lopez 2]]), and at Santino's Farmville.
 48. Ate Nadia, the loving sister who feeds the stray animals in Batong Malake by buying cat food through the small money she earns as a maid.
 49. Lolo Aldo.
 50. [[craig mod|craig mod]] sharing my [[good art reorganizes your world|essay]] about how his work changed my life, which resulted to some traffic and IG follows.

@@ -1,14 +1,15 @@
 ---
-title: "Feelings"
-date: "2022-07-24"
+title: Feelings
+date: 2022-07-24
+aliases:
+  - Feelings
 tags:
-
-- "seedlings"
-sr-due: 2022-07-27
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-05-19
+sr-interval: 980
 sr-ease: 250
 ---
-
 A feeling is a [[mental state]] that requires two things:
 - It has to be experienced consciously.
 - It has to have a bodily or somatic dimension.

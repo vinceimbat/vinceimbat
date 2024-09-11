@@ -12,7 +12,7 @@ sr-ease: 250
 Emotions can be described using three words:
 1. [[Affect]]
 2. Emotion
-3. [[Feelings]]
+3. [[feelings]]
 
 The whole emotion is like a tree. The roots and the trunk is the affect. The main branches are categorical emotions (anger, sadness, fear, shame, joy, love). Feelings are the smaller branches or leaves. They are the more cognitively and socially learned and differentiated subtle emotions (e.g., feeling suspicious, feeling awe, feeling disappointed, feeling enthusiastic).
 

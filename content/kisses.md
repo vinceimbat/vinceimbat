@@ -1,12 +1,15 @@
 ---
 title: "Kisses (Exercise 1: Beginning at your own beginning)"
 date: 2024-01-01
-tags:
-  - seedlings
+aliases:
+  - vignettes/kisses
 draft: false
-sr-due: 2024-01-04
-sr-interval: 3
-sr-ease: 250
+tags:
+  - vignettes
+  - seedlings
+sr-due: 2027-02-20
+sr-interval: 892
+sr-ease: 270
 ---
 The sun was up but the sky was gray and the wind was chilly. I woke up from that double deck. Perhaps, I was below and my sister was still sleeping above. I looked out the window. The grass was moist, the bamboos swaying. I was wearing gray jogging pants and a white shirt. The pants hid the scabies I had and which I was so shy to show the kids at school.
 

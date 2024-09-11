@@ -1,12 +1,16 @@
 ---
 title: Aglibut Ave.
 date: 2023-11-05
-tags:
-  - seedlings
+aliases:
+  - vignettes/aglibut-ave
 draft: false
-sr-due: 2023-11-09
-sr-interval: 4
-sr-ease: 270
+tags:
+  - vignettes
+  - filipino
+  - seedlings
+sr-due: 2027-11-27
+sr-interval: 1172
+sr-ease: 290
 ---
 Kanina, sa Aglibut (muli) nakasabay ko sa paglalakad ang tingin ko'y mag-anak. May isang ginang, isang adultong lalaki na diko mawari kung asawa ba o anak ng ginang. May isang batang babae, isang batang lalake na mas matanda ng kaunti sa babae at dalawang lalake't babeng naka-uniporme, mga estudyante na nagpapahuli at tila naghahawakan ng kamay, siguro'y magkasintahan.
 
