@@ -12,6 +12,6 @@ tags:
 
 ## Related
 
-- [[quotes/zipping through jacobs]]
+- [[zipping through jacobs]]
 
 ## References

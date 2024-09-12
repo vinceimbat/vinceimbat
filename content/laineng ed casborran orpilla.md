@@ -6,11 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-12
-sr-interval: 13
-sr-ease: 270
+sr-due: 2024-11-01
+sr-interval: 50
+sr-ease: 290
 ---
-This book is the first self-published poetry book by [[Melchor Orpilla]]. Among all the poetry books in Pangasinan I read, this book is the most experimental and wide-ranging. However, it uses a lot of unfamiliar words that one needs an access to a good Pangasinan dictionary to understand a poem. Accessing a Pangasinan dictionary is, of course, difficult.
+This book is the first self-published poetry book by [[Melchor Orpilla]]. Among all the poetry books in [[Pangasinan]] I read, this book is the most experimental and wide-ranging. However, it uses a lot of unfamiliar words that one needs an access to a good Pangasinan dictionary (e.g., [[Cosgaya Dictionary]] or [[Benton Dictionary]]) to understand a poem. Accessing a Pangasinan dictionary is, of course, difficult.
 
 The book is wide in its range of topics and touches on Kuya Mel's life as an OFW in the Middle East and in Japan. It also includes some poems about the Duterte years.
 

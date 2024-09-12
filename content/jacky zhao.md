@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-12
-sr-interval: 33
-sr-ease: 270
+sr-due: 2025-01-14
+sr-interval: 124
+sr-ease: 290
 ---
-Creator of [[Quartz]].
+Creator of [[Quartz]]. His website is https://jzhao.xyz/.

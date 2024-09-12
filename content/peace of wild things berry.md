@@ -1,8 +1,10 @@
 ---
 title: Peace of wild things – Wendell Berry
 date: 2023-11-27
-aliases: 
+aliases:
+  - quotes/peace-of-wild-things-berry
 tags:
+  - quotes
   - evergreens
 ---
 "When despair for the world grows in me   

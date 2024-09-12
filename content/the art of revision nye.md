@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-12
-sr-interval: 3
+sr-due: 2024-09-19
+sr-interval: 7
 sr-ease: 250
 ---
 "Each thing gives us something else."
@@ -37,4 +37,7 @@ Make revision the pleasure-dome of writing.
 William Stafford: "Revision is when you started hearing the paper speaking back."
 
 You Must Revise Your Life (book)
+
 # References
+
+_Naomi Shihab Nye on The Art of Revision_. Directed by Poets.org, 2015. _YouTube_, [https://www.youtube.com/watch?v=gwLR0Bh4FA8](https://www.youtube.com/watch?v=gwLR0Bh4FA8).

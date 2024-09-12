@@ -1,8 +1,10 @@
 ---
 title: Power - James Clear
 date: 2023-09-22
-aliases: 
+aliases:
+  - quotes/power-clear
 tags:
+  - quotes
   - evergreens
 ---
 "Explore life from a position of power. 
