@@ -44,7 +44,7 @@ In response to my reading of [[thoughts/a religion of ones own by moore|A Religi
 A beautiful existential thought from James Clear: meditating that the thing we are doing or the time we're going to a place could be the last.
 
 Quote
-- [[quotes/how to cherish life anabi|how to cherish life anabi]]
+- [[how to cherish life anabi|how to cherish life anabi]]
 
 # Writing
 

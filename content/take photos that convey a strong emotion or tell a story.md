@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-13
-sr-interval: 25
+sr-due: 2024-11-20
+sr-interval: 68
 sr-ease: 270
 ---
 To convey strong emotion in [[photography]], take photos of people who are already experiencing them.

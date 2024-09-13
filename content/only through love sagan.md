@@ -2,8 +2,10 @@
 title: Bearable only through love — Sagan
 date: 2022-12-12
 aliases:
-  - Bearable only through love — Sagan
+  - Bearable-only-through-love-—-Sagan
+  - quotes/only-through-love-sagan
 tags:
+  - quotes
   - evergreens
 ---
 For small creatures such as we the vastness of the universe is bearable only through love.

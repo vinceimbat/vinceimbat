@@ -7,6 +7,7 @@ aliases:
   - essays/saan-siya-nanggaling
 tags:
   - essays
+  - filipino
   - lilim
   - evergreens
 ---

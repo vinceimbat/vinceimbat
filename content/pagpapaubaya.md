@@ -3,6 +3,7 @@ title: Kasapatan, Pagpapaubaya, at ang Paghahangad ng Kapayapaan
 date: 2018-04-03
 tags:
   - essays
+  - filipino
   - seedlings
 aliases:
   - kasapatan-pagpapaubaya-kapayapaan

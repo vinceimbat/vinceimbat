@@ -5,6 +5,7 @@ aliases:
 draft: false
 tags:
   - essays
+  - filipino
   - seedlings
 sr-due: 2024-09-19
 sr-interval: 13

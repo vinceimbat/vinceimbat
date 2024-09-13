@@ -2,8 +2,10 @@
 title: Examine what is said not the one who says it — de Mello
 date: 2022-09-07
 aliases:
-  - Examine what is said not the one who says it — de Mello
+  - Examine-what-is-said-not-the-one-who-says-it-—-de-Mello
+  - quotes/what-is-said-de-mello
 tags:
+  - quotes
   - evergreens
 ---
 Sinners often speak the truth. And saints have led people astray. Examine what is said, not the one who says it.
