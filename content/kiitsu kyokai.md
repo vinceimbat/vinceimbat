@@ -44,6 +44,7 @@ The first meeting of the post-war kiitsu kyōkai (second version) was held on Oc
 - [[2024-06-27 kiitsu kyokai]]
 - [[2024-07-11 kiitsu kyokai]]
 - [[2024-07-25 kiitsu kyokai]]
+- [[2024-09-12 kiitsu kyokai]]
 
 # To do
 

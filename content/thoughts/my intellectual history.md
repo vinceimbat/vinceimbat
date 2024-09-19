@@ -12,7 +12,7 @@ sr-ease: 250
 My intellectual history can be divided into four periods:
 
 1. [[The JW period of my intellectual life]]
-2. [[The humanist period of my intellectual life (2011-2014)]]
+2. [[my humanist period 2011-2014]]
 3. [[The Eastern philosophy period of my intellectual life (2015–2017)]]
 4. [[The rational period of my intellectual life (2017-]]
 

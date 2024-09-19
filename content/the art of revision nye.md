@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-19
-sr-interval: 7
+sr-due: 2024-10-07
+sr-interval: 18
 sr-ease: 250
 ---
 "Each thing gives us something else."

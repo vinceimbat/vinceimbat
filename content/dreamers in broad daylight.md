@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-15
-sr-interval: 9
+sr-due: 2024-10-17
+sr-interval: 28
 sr-ease: 250
 ---
 The title sets the stage for the rest of the essay.

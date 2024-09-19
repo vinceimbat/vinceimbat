@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-17
-sr-interval: 29
+sr-due: 2024-12-14
+sr-interval: 86
 sr-ease: 290
 ---
-An annual national literary contest for regional languages, including Filipino. [[Junley Lazaga]] has served in almost all of its iterations. It was in this contest where a scandalous plagiarism case happened in the Pangasinan category in 2022.
+An annual national literary contest for regional languages, including Filipino. [[Junley Lazaga]] has served in almost all of its iterations. It was in this contest where a scandalous plagiarism case happened in the [[Pangasinan]] category in 2022.

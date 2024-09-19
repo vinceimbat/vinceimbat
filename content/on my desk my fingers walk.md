@@ -7,8 +7,8 @@ draft: false
 tags:
   - vignettes
   - seedlings
-sr-due: 2024-09-15
-sr-interval: 4
+sr-due: 2024-10-04
+sr-interval: 15
 sr-ease: 270
 ---
 Its flatness is an invitation for adventure, a reminder that I am free. I am not shackled on an armchair at some "professional" philosopher's classroom. I'm my own mind.

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-17
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-10-11
+sr-interval: 22
+sr-ease: 290
 ---
-City in the Cordillera where I studied college.
+City in the Cordillera where I studied college and became a ministerial servant for the [[JW]]. This is the site of my [[tall tales 1|Tall Tales: Baguio Walk No. 1]].

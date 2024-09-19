@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-10-15
+sr-interval: 26
+sr-ease: 290
 ---
-I attended school here from preschool to gradeschool.
+Located in [[Mangaldan]]. I attended school here from preschool to grade school.

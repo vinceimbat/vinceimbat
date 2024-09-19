@@ -10,8 +10,8 @@ tags:
   - filipino
   - seedlings
   - buhian
-sr-due: 2024-09-16
-sr-interval: 5
+sr-due: 2024-10-03
+sr-interval: 14
 sr-ease: 230
 ---
 Tagamasid ka noon  

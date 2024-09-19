@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-18
-sr-interval: 15
-sr-ease: 230
+sr-due: 2024-11-10
+sr-interval: 52
+sr-ease: 250
 ---
-These are the exact quotes from the first book of Cortes' trilogy on [[Pangasinan]] history that forever changed how I looked at [[San Jacinto]] and [[Manaoag]].
+These are the exact quotes from the first book of [[Rosario Mendoza Cortes]]' trilogy on [[Pangasinan]] history that forever changed how I looked at [[San Jacinto]] and [[Manaoag]].
 
 The first quote in p. 9 was the first to trigger imaginations of a forest between San Jacinto and Manaoag.
 

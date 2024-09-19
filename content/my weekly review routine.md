@@ -29,7 +29,7 @@ Schedule: Monday, afternoon
    - If the project has no description, add one.
    - Choose an icon for each project in Things 3.
    - Review the tasks related to the project: delete anything that is no longer relevant or add more.
-   - Check the Goals for this month and see if any needs a project.
+   - Check the [[my life goals master list|goals]] for this month and see if any needs a project.
    - Prioritize your project list.
 - Sync Projects list on Things, Obsidian, and Finder (if necessary).
 - Process Inbox at Things (prioritize and file new open loops).

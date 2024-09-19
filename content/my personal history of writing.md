@@ -6,8 +6,8 @@ draft: false
 tags:
   - essays
   - seedlings
-sr-due: 2024-09-19
-sr-interval: 16
+sr-due: 2024-10-29
+sr-interval: 40
 sr-ease: 230
 ---
 Like [[henry david thoreau|Thoreau]], like [[ralph waldo emerson|Emerson]], my first allegiance is to the spiritual life. To me, as I currently understand it, this is a life whose primary trade is an earnest exploration of what humanity shares: the mystery of existence and life.
