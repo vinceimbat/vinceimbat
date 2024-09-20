@@ -7,8 +7,8 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-09-20
-sr-interval: 10
+sr-due: 2024-10-16
+sr-interval: 26
 sr-ease: 270
 ---
 Kotse ang nagpapakain sayong pamilya  

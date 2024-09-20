@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-20
-sr-interval: 4
+sr-due: 2024-10-01
+sr-interval: 11
 sr-ease: 270
 ---
 This was a panel discussion during the last day of the [[MIBF]] in September 2024. The panel consists of [[Vincenz Serrano]], [[Martin Villanueva]], Kaisa Aquino, and Charlie Veric. 
