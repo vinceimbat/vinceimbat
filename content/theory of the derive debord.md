@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-21
-sr-interval: 23
+sr-due: 2024-11-13
+sr-interval: 53
 sr-ease: 230
 ---
 # Derive vs classical walks

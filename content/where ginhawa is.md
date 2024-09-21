@@ -6,8 +6,8 @@ aliases:
 tags:
   - poems
   - seedlings
-sr-due: 2024-09-21
-sr-interval: 18
+sr-due: 2024-11-08
+sr-interval: 47
 sr-ease: 250
 ---
 Where there is rest I am there  
