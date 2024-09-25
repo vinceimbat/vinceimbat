@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-25
-sr-interval: 13
+sr-due: 2024-11-02
+sr-interval: 38
 sr-ease: 290
 ---
 Once's consciousness of one's mortality is good as it fosters appreciation of the shortness of life. But that appreciation is compromised when one is unable to pause to rest and appreciate what one has accomplished no matter how small.

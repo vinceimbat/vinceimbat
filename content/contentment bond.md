@@ -2,8 +2,10 @@
 title: Contentment is easier to attain than happiness - Bond
 date: 2022-11-22
 aliases:
-  - Contentment is easier to attain than happiness - Bond
+  - Contentment-is-easier-to-attain-than-happiness---Bond
+  - contentment-bond
 tags:
+  - quotes
   - evergreens
 ---
 A small ginger cat arrives on my terrace every afternoon, to curl up in the sun and slumber peacefully for a couple of hours.

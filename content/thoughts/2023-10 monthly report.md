@@ -31,7 +31,7 @@ With a few friends, I also visited Tita Cora and Rem's family at their house at 
 Notes
 - [[fleetingness of it all|fleetingness of it all]]
 - [[thoughts/subsistent spirituality|subsistent spirituality]]
-- [[quotes/comparing every truth schopenhauer|comparing every truth schopenhauer]]
+- [[comparing every truth schopenhauer|comparing every truth schopenhauer]]
 - [[thoughts/complete silence is a myth|complete silence is a myth]]
 - [[thoughts/resilience|resilience]]
 - [[thoughts/anarchic healthcare|anarchic healthcare]]

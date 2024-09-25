@@ -1,8 +1,10 @@
 ---
 title: Ordinary life — William Martin
 date: 2023-11-06
-aliases: 
+aliases:
+  - quotes/ordinary-life-martin
 tags:
+  - quotes
   - evergreens
 ---
 "Do not ask your children  

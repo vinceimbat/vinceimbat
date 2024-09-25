@@ -1,8 +1,10 @@
 ---
 title: Optimism, pessimism, then optimism – James Clear
 date: 2023-12-11
-aliases: 
+aliases:
+  - quotes/optimism-pessimism-optimism-clear
 tags:
+  - quotes
   - evergreens
 ---
 "Optimism early, pessimism in the middle, optimism late. 

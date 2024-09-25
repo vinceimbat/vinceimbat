@@ -2,8 +2,10 @@
 title: Exercising for pleasure - Perry
 date: 2023-01-30
 aliases:
-  - Exercising for pleasure - Perry
+  - Exercising-for-pleasure---Perry
+  - exercising-for-pleasure-perry
 tags:
+  - quotes
   - evergreens
 ---
 Unfortunately, most on-ramps to exercise are at an intensity too high for previously-sedentary people to find them pleasurable. If people go to a fitness class, or focus on running a particular distance at a particular speed, they’ll likely miss the pleasure zone entirely.
