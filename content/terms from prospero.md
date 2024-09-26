@@ -4,10 +4,10 @@ date: 2024-09-23
 aliases: 
 draft: false
 tags:
-  - thoughts
+  - literature
   - seedlings
-sr-due: 2024-09-26
-sr-interval: 3
+sr-due: 2024-10-04
+sr-interval: 8
 sr-ease: 250
 ---
 

@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-26
-sr-interval: 7
+sr-due: 2024-10-14
+sr-interval: 18
 sr-ease: 250
 ---
 Miracle in Cell No. 7 na Tagalog version.

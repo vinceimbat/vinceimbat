@@ -23,4 +23,4 @@ Straight
 
 The need to categorize is weird because we dont categorize straight art as straight. But labels do help for marketing. But labels are unnecessary.
 
-See also notes from [[thoughts/jhoanna lynn cruz|Jhoanna Lynn Cruz]]'s talk "Pagka-Lesbiana Writing"
+See also notes from [[jhoanna lynn cruz|Jhoanna Lynn Cruz]]'s talk "Pagka-Lesbiana Writing"
