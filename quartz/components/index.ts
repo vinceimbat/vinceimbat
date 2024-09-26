@@ -19,7 +19,6 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-import LinksHeader from "./LinksHeader"
 import SideNav from "./SideNav"
 
 export {
