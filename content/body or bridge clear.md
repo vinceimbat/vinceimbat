@@ -2,8 +2,10 @@
 title: Building a body or building a bridge - Clear
 date: 2023-04-03
 aliases:
-  - Building a body or building a bridge - Clear
+  - Building-a-body-or-building-a-bridge---Clear
+  - quotes/body-or-bridge-clear
 tags:
+  - quotes
   - evergreens
 ---
 In some areas of life, value is unlocked by starting. Even a five-minute workout or a short walk can reset your mood and benefit your body.

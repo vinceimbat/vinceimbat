@@ -2,8 +2,10 @@
 title: Change is a bridge - Hepola
 date: 2023-05-02
 aliases:
-  - Change is a bridge - Hepola
+  - Change-is-a-bridge---Hepola
+  - quotes/change-is-a-bridge-hepola
 tags:
+  - quotes
   - evergreens
 ---
 Change is not a bolt of lightning that arrives with a zap. It is a bridge built brick by brick, every day, with sweat and humility and slips. It is hard work, and slow work, but it can be thrilling to watch it take shape.

@@ -2,8 +2,10 @@
 title: Act fast on things that compound - Clear
 date: 2023-03-04
 aliases:
-  - Act fast on things that compound - Clear
+  - Act-fast-on-things-that-compound---Clear
+  - quotes/act-fast-clear
 tags:
+  - quotes
   - evergreens
 ---
 A paradox of life is that the greatest returns come in the long-term, but the opportunity cost of moving slowly is huge.
