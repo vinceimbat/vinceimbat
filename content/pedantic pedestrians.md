@@ -1,14 +1,15 @@
 ---
-title: Pendantic Pedestrians
+title: Pedantic Pedestrians
 date: 2024-08-12
-aliases: 
+aliases:
+  - pendantic-pedestrians
 draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2025-01-21
-sr-interval: 124
-sr-ease: 310
+sr-due: 2026-03-13
+sr-interval: 532
+sr-ease: 330
 ---
 Baguio-based art collective whose leader [[Ivan Labanye]] relocated to [[los banos|Los Baños]] in 2023. They release a digital magazine called Tila. One of the issues of the magazine used the layout of The Watchtower.
 
