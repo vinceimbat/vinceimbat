@@ -3,10 +3,12 @@ title: Emotions
 date: 2022-07-24
 aliases:
   - Emotions
+  - thoughts/emotions
 tags:
+  - thoughts
   - seedlings
-sr-due: 2025-08-15
-sr-interval: 623
+sr-due: 2029-01-03
+sr-interval: 1558
 sr-ease: 250
 ---
 Emotions can be described using three words:

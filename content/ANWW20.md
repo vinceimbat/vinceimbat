@@ -1,15 +1,9 @@
 ---
-title: ANWW20
-date: 2023-06-14
-aliases:
-  - ANWW20
-  - thoughts/anww20
+title: "ANWW20"
+date: "2023-06-14"
 tags:
-  - thoughts
-  - seedlings
-sr-due: 2023-10-05
-sr-interval: 3
-sr-ease: 253
+
+- "seedlings"
 ---
 This is the acronym for the 20th Ateneo National Writer's Workshop organized by the Ateneo Institute of Literary Arts and Practices (AILAP) that ran from June 9–12, 2023.
 
@@ -18,14 +12,14 @@ Ten days before the deadline for passing entries on April 1, 2023, I collated my
 - [[approaching the anww20 entry]]
 - [[Outline of entry to ANWW20]]
 - [[Entry to ANWW20]]
-- [[unprocessed anww20 notes]]
+- [[thoughts/unprocessed anww20 notes]]
 
 When my entry was accepted, I prepared for my first national writers workshop:
 - [[Advice for ANWW20]]
 - [[ANWW20 Fellows]]
 - [[ANWW20 Presentation]]
 
-Before the workshop, I met with [[louise far]], and I had these ideas on walking when we were talking:
+Before the workshop, I met with [[thoughts/louise far]], and I had these ideas on walking when we were talking:
 - What is archetypal in a walk?
 - What does walk show?
 - What are the effects of elements on walking?
@@ -44,6 +38,3 @@ During the workshop, here are my notes:
 - [[ANWW20 Jehu Laniog]]
 - [[ANWW20 Hunny Laurente]]
 - [[ANWW20 Jesa Suganob]]
-
-Lastly:
-- [[getting into anww20]]

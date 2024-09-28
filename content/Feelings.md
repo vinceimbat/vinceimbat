@@ -14,7 +14,7 @@ A feeling is a [[mental state]] that requires two things:
 - It has to be experienced consciously.
 - It has to have a bodily or somatic dimension.
 
-All [[Emotional experiences]] are feelings because they are conscious. On the other hand [[thoughts/emotions]] can only be felt through the emotional experiences they create. Unlike feelings, they are not always conscious, and some can be hidden for a long time.
+All [[Emotional experiences]] are feelings because they are conscious. On the other hand [[emotions]] can only be felt through the emotional experiences they create. Unlike feelings, they are not always conscious, and some can be hidden for a long time.
 
 I think that one's metaphysical and epistemological stance could change how one sees the difference between the two. See [[thoughts/dualism]].
 

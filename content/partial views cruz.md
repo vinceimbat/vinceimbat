@@ -6,11 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-28
-sr-interval: 8
-sr-ease: 250
+sr-due: 2024-10-25
+sr-interval: 27
+sr-ease: 270
 ---
-Bought from my first [[MIBF]].
+A monograph about the [[essay]] written by [[Conchitina Cruz]]. I bought it from my first [[MIBF]].
 
 # References
 

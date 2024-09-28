@@ -88,7 +88,7 @@ Poetry
 - Calling reinforced: Be a pastor for those who are lost yet don't fit the existing teachings out there.
 - Created [[thoughts/klaas hendrikse|klaas hendrikse]].
 - I cried after a long time.
-- Wrote a reintegrative note to myself in [[thoughts/2023-10-18 seeds|2023-10-18 seeds]].
+- Wrote a reintegrative note to myself in [[2023-10-18 seeds|2023-10-18 seeds]].
 - Journaled about my achievements for the past six months.
 - Began practicing seiza.
 - Read [The Life and Times of Okada Torajiro and his Seiza Method of Self-Harmonization](https://www.kyotojournal.org/spirit/the-life-and-times-of-okada-torajiro-and-his-seiza-method-of-self-harmonization/).

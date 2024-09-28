@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-28
-sr-interval: 40
+sr-due: 2025-01-22
+sr-interval: 116
 sr-ease: 290
 ---
 Here is what I told [[Ryan Cezar Alcarde]] about his first collection:

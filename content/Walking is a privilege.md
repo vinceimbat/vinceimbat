@@ -1,8 +1,6 @@
 ---
 title: Walking is a privilege
 date: 2023-03-22
-aliases:
-  - Walking-is-a-privilege
 tags:
   - thoughts
   - seedlings

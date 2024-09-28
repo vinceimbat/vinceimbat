@@ -34,7 +34,7 @@ sr-ease: 270
 
 ## Sources
 
-- [[thoughts/2023-08-18 seeds|2023-08-18 seeds]]
+- [[2023-08-18 seeds|2023-08-18 seeds]]
 - [[2023-08-19 seeds]]
 - [[2023-08-21 seeds]]
 - [[2023-08-22 seeds]]
