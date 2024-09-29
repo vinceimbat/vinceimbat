@@ -7,11 +7,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-29
-sr-interval: 10
-sr-ease: 270
+sr-due: 2024-11-06
+sr-interval: 38
+sr-ease: 290
 ---
-Book of [[poetry]] by [[Martin Villanueva]].
+Book of [[poetry]] by [[Martin Villanueva]]. I bought it from my first [[MIBF]] in 2024.
 
 # References
 

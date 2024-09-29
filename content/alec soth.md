@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-29
-sr-interval: 34
+sr-due: 2024-12-28
+sr-interval: 90
 sr-ease: 270
 ---
 Photographer who [[Craig Mod]] loves.
