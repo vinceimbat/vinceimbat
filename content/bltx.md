@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-24
-sr-interval: 17
+sr-due: 2024-11-30
+sr-interval: 58
 sr-ease: 270
 ---
 Better Living Through Xeroxography founded by [[Adam David]] and his wife [[Conchitina Cruz]]. It's an event where zinesters and small presses meet to sell new books and merchandises. It happens several times a year in different locations and has sometimes went to the regions.

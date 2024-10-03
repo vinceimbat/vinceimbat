@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-24
-sr-interval: 45
+sr-due: 2025-02-24
+sr-interval: 144
 sr-ease: 290
 ---
 Filipinos want cars because that idea is fed to them by roads. Government officials have vested interests in the car industry. Majority of tax money goes to public works, especially the rebuilding of roads.

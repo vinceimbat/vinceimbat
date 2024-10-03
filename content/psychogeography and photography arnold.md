@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-02
-sr-interval: 35
+sr-due: 2025-01-07
+sr-interval: 96
 sr-ease: 270
 ---
 I want to use intuitive and sensory methods for exploring and capturing diverse facets of Siem Reap.

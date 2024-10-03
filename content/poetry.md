@@ -7,9 +7,9 @@ aliases:
 tags:
 - poems
 - seedlings
-sr-due: 2024-10-01
-sr-interval: 4
-sr-ease: 278
+sr-due: 2024-10-26
+sr-interval: 23
+sr-ease: 298
 ---
 Poetry is about being as intentional as one can be with one's words. Being economical. Minimalistic. About how one can transmit meaning with as little tools as one can.
 
@@ -22,3 +22,8 @@ Genre-less writing is of course not concerned about these genres. It is about fr
 From [[Martin Villanueva]]:
 
 >A poem is a place to find unknown connections.
+
+# Related
+
+- [[Rem Tanauan]]
+- [[Rofel Brion]]

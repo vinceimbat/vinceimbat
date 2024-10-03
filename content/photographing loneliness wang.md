@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-30
-sr-interval: 29
+sr-due: 2024-12-21
+sr-interval: 79
 sr-ease: 248
 ---
 The author is a Chinese national who studied in Toronto, Canada. His objective with his project was to evoke his experience of loneliness by photography. He did so through an exhibition composed of three parts:

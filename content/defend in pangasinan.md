@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-30
-sr-interval: 23
+sr-due: 2024-12-01
+sr-interval: 59
 sr-ease: 250
 ---
 agel

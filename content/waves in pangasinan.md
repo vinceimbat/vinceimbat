@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-02
-sr-interval: 25
+sr-due: 2024-12-02
+sr-interval: 60
 sr-ease: 250
 ---
 Daluyon
@@ -21,3 +21,7 @@ Bonlayon/Banlayon
 
 Da-log
 - Pakadisir ko say dalog ët bayës ëd Ilokano ta say dálëg ëd Ilokano ët angkabalëg a daluyon.
+
+# References
+
+From an exchange in the UPKSP chat group.
