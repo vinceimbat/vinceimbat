@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 225
 ---
 
-After expressing his thoughts about explanation ([[The Inward Morning Commentary 1952-08-30]]), [[henry bugbee]] returns to discussing [[thoughts/wonder]] as he did before ([[The Inward Morning Commentary 1952-08-29]]). Wonder, he says, occurs during presence. This presence allows us to experience "an intimation of reality" that cannot be understood through explanation alone.
+After expressing his thoughts about explanation ([[The Inward Morning Commentary 1952-08-30]]), [[henry bugbee]] returns to discussing [[wonder]] as he did before ([[The Inward Morning Commentary 1952-08-29]]). Wonder, he says, occurs during presence. This presence allows us to experience "an intimation of reality" that cannot be understood through explanation alone.
 
 The presence that exudes wonder then makes us realize that our minds are naturally wanderers, dependent and inclined to thinking and explanation. Based on personal experience, [[Meditation makes us realize we do not control the influx of our thoughts]]. Our mind just walks around, jumps around from one thought to another. It is not difficult to realize this; one almost realizes it the moment meditation begins.
 

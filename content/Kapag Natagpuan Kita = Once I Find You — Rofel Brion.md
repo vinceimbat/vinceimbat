@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-- [[thoughts/noelle de jesus translation process]]
+- [[de jesus translation process]]
 
 ## Biographical info on Rofel Brion
 
