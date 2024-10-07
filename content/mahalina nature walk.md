@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-07
-sr-interval: 3
+sr-due: 2024-10-15
+sr-interval: 8
 sr-ease: 250
 ---
 Pandakaki

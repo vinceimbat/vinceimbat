@@ -2,8 +2,10 @@
 title: Gratitude lists
 date: 2021-09-18
 aliases:
-  - gratitude lists
+  - gratitude-lists
+  - thoughts/gratitude-lists
 tags:
+  - thoughts
   - evergreens
 ---
 Use the following template: [[templates/gratitude list|Gratitude list]]

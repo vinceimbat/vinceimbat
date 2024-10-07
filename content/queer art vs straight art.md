@@ -1,14 +1,16 @@
 ---
-title: "Queer art vs Straight art"
-date: "2023-07-02"
-aliases: "Queer-art-vs-Straight-art"
+title: Queer art vs Straight art
+date: 2023-07-02
+aliases:
+  - Queer-art-vs-Straight-art
+  - thoughts/queer-art-vs-straight-art
 tags:
-- "seedlings"
-sr-due: 2023-09-11
-sr-interval: 41
+  - thoughts
+  - seedlings
+sr-due: 2026-05-23
+sr-interval: 593
 sr-ease: 250
 ---
-
 Notes from Butiki Baboy
 
 Queer art vs not queer

@@ -22,7 +22,7 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 
 # Part II: Perform the core of the annual review
 
-1. [[thoughts/gratitude lists|Gratitude list]]: Write a gratitude list.
+1. [[gratitude lists|Gratitude list]]: Write a gratitude list.
 2. [[thoughts/past and coming year questions|Past and coming year questions]]: Review my past year and think about the present year.
 3. [[my life areas|My life areas]]: Review areas of responsibility and set new standards if needed.
 4. [[thoughts/life goals|Life goals]]: Add new goals and corresponding projects in [[my life goals master list|my life goals master list]]. Refer to [[thoughts/how to set goals|how to set goals]].

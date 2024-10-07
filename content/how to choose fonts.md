@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-06
-sr-interval: 1
+sr-due: Invalid date
+sr-interval: NaN
 sr-ease: NaN
 ---
 This is how I choose fonts for any design project.

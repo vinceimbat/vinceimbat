@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-06
-sr-interval: 41
-sr-ease: 290
+sr-due: 2025-03-25
+sr-interval: 169
+sr-ease: 310
 ---
-Founder of [[BLTX]]. He is a poet and a comics artist.
+Founder of [[BLTX]]. He is a poet and a comics artist. Made famous and important in the Filipino writing scene because of his manifesto against the traditional writing establishment.
