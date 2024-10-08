@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-08
-sr-interval: 4
+sr-due: 2024-10-18
+sr-interval: 10
 sr-ease: 274
 ---
 Short story writer from [[Pangasinan]]. Won third place in [[GBL]] 2023 in that category.

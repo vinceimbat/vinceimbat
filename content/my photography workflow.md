@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-08
-sr-interval: 35
+sr-due: 2025-01-01
+sr-interval: 85
 sr-ease: 250
 ---
 I go out for a walk and take pictures.

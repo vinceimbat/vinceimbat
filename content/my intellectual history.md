@@ -2,11 +2,13 @@
 title: My intellectual history
 date: 2021-04-18
 aliases:
-  - My intellectual autobiography
+  - My-intellectual-autobiography
+  - thoughts/my-intellectual-history
 tags:
+  - thoughts
   - seedlings
-sr-due: 2022-09-07
-sr-interval: 3
+sr-due: 2027-05-26
+sr-interval: 960
 sr-ease: 250
 ---
 My intellectual history can be divided into four periods:

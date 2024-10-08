@@ -1,8 +1,11 @@
 ---
-title: "poets i adore"
-date: "2023-08-14"
+title: Poets i adore
+date: 2023-08-14
+aliases:
+  - thoughts/poets-i-adore
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 255

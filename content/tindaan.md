@@ -6,8 +6,8 @@ draft: false
 tags:
   - translations
   - seedlings
-sr-due: 2024-10-08
-sr-interval: 4
+sr-due: 2024-10-19
+sr-interval: 11
 sr-ease: 270
 ---
 Bibitlaey managlako  
