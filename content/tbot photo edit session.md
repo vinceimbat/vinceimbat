@@ -7,10 +7,14 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-09
-sr-interval: 30
-sr-ease: 270
+sr-due: 2025-01-28
+sr-interval: 111
+sr-ease: 290
 ---
+These are notes I took on one of [[craig mod|Craig Mod's]] [[things become other things mod|TBOT]] photo edit session.
+
+***
+
 Take both landscape and portrait photos to consider printing on books
 
 When you do prints, you need to do texture bumps (e.g., clarity).

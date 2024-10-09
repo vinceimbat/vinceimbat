@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 275
 ---
 
-Just because I am an amoralist doesn't mean that I will have to love the unloveable. [[thoughts/amoralism]] is a metaphysical stance, which means I am simply believing on a statement about what does or does not exist. In this case, the claim that I am persuaded into is that there are no absolute, objective, and naturally occuring values.
+Just because I am an amoralist doesn't mean that I will have to love the unloveable. [[amoralism]] is a metaphysical stance, which means I am simply believing on a statement about what does or does not exist. In this case, the claim that I am persuaded into is that there are no absolute, objective, and naturally occuring values.
 
 This belief does not prevent me from feeling strongly about certain behaviors like abusive and violent behaviors. I don't think I want to be around poeple exhibiting these behaviors and if there is a way for me to prevent them from abusing more, and I am in that capacity, then I should act. I am acting purely out of emotions and practical reasons.
 

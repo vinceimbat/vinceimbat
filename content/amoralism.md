@@ -3,13 +3,15 @@ title: Amoralism
 date: 2021-01-05
 aliases:
   - Amoralism
+  - thoughts/amoralism
 tags:
+  - thoughts
   - seedlings
 sr-due: 2026-01-05
 sr-interval: 844
 sr-ease: 290
 ---
-Amoralism, also known as [[Moral nihilism]] denies the existence of morals. It is essentially saying that morality is a fiction. Amoralists believe that there are no moral facts, nothing is right or wrong, nothing is morally good or bad, and that moral language is infected with massive false presuppositions.
+Amoralism, also known as [[moral nihilism]] denies the existence of morals. It is essentially saying that morality is a fiction. Amoralists believe that there are no moral facts, nothing is right or wrong, nothing is morally good or bad, and that moral language is infected with massive false presuppositions.
 
 It is based on the [[Error theory]] of [[John Mackie]]. Amoralism is not an ethical theory. It is a meta-ethical theory, which means it is a theory about the status of ethics. Amoralism denies morality because there is no logical connection between metaphysics and ethics.
 

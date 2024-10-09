@@ -49,7 +49,7 @@ I am effectively and efficiently collecting intermediate packets (IPs) in a mult
 
 # Understanding - Religion
 
-I have articulated a life philosophy that explains how I see the world ([[epistemology|epistemology]], [[metaphysics|metaphysics]]), how I act ([[thoughts/ethics|ethics]]), and how I create ([[poetics|poetics]]).
+I have articulated a life philosophy that explains how I see the world ([[epistemology|epistemology]], [[metaphysics|metaphysics]]), how I act ([[ethics|ethics]]), and how I create ([[poetics|poetics]]).
 
 # To do
 

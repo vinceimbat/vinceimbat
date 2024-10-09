@@ -13,7 +13,7 @@ How to choose and why to choose a certain end are what praxeology attempts to an
 
 Praxeology is a science because it concerns itself of the outside world.
 
-It makes suggestions on how and why to choose a certain action based on objective phenomena happening in the world. But it does not compel you (it is amoral; [[thoughts/amoralism]]).
+It makes suggestions on how and why to choose a certain action based on objective phenomena happening in the world. But it does not compel you (it is amoral; [[amoralism]]).
 
 What to choose is something that you determine:
 

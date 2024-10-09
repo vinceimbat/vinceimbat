@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-[[my favorite fonts]]
+[[my go-to fonts]]
 
 [[go-to fonts of vignelli]]
 

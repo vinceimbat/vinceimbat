@@ -68,7 +68,7 @@ Premium fonts
 
 ***
 
-As I deepen in my design practice, I accumulate a collection of [[my favorite fonts]], which I find useful when working with a project or with clients who are starting from scratch. This collection contains some go-to fonts for header, body, and accent.
+As I deepen in my design practice, I accumulate a collection of [[my go-to fonts]], which I find useful when working with a project or with clients who are starting from scratch. This collection contains some go-to fonts for header, body, and accent.
 
 # References
 

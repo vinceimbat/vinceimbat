@@ -9,4 +9,4 @@ sr-interval: 326
 sr-ease: 252
 ---
 
-Evaluative claims about the meaning in life posit objective and absolute values that do not exist ([[Moral nihilism]] based on [[Error theory]]).
+Evaluative claims about the meaning in life posit objective and absolute values that do not exist ([[moral nihilism]] based on [[Error theory]]).
