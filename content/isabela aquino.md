@@ -6,9 +6,10 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-24
+sr-interval: 75
+sr-ease: 270
 ---
+A book about the experiences of women in the revolutionary army in the Philippines.
 
 # References

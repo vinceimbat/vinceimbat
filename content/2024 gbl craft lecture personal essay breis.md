@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-22
-sr-interval: 15
+sr-due: 2024-12-05
+sr-interval: 56
 sr-ease: 230
 ---
 # What should be included in a personal essay

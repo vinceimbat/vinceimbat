@@ -6,9 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-10
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-21
+sr-interval: 11
+sr-ease: 270
 ---
-
-# References
+First novel in progress of [[dayyuman ngoddo|Dayyuman Ngoddo]].

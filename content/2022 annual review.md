@@ -66,7 +66,7 @@ Since it is the beginning of the year, I also conducted my [[thoughts/annual rev
 
 I started my birth month by publishing the first issue of [[uman]], my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence ([[Understanding leads to compassion]]) and his distaste for ideologies.
 
-I also started re-reading *[[Transcend — Kaufman|Transcend]]* by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through *Transcend*, I learned that [[my top three sources of self-actualization]] were continued freshness of appreciation, truth-seeking, and purpose.
+I also started re-reading *[[transcend kaufman|Transcend]]* by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through *Transcend*, I learned that [[my top three sources of self-actualization]] were continued freshness of appreciation, truth-seeking, and purpose.
 
 In addition, I researched what existing fields of knowledge combined contemplation and philosophizing and where among these fields I could position myself. My hopes rose after I discovered [[Ran Lahav]]'s [[thoughts/deep philosophy]] but later lost interest after I found that it puts a heavier emphasis on contemplation over philosophizing and that its epistemology favors experience over reason. This prompted me to read about the differences between rationalism and empiricism ([[rationalism vs empiricism]]).
 

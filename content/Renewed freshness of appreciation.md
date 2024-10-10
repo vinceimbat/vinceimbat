@@ -1,14 +1,13 @@
 ---
-title: "Renewed freshness of appreciation"
-date: "2022-04-13"
+title: Renewed freshness of appreciation
+date: 2022-04-13
+aliases:
+  - Renewed-freshness-of-appreciation
 tags:
-
-- "seedlings"
-sr-due: 2024-09-23
-sr-interval: 425
-sr-ease: 247
+  - thoughts
+  - seedlings
+sr-due: 2028-12-22
+sr-interval: 1534
+sr-ease: 267
 ---
-
-
-
-# References
+One of my strengths per [[transcend kaufman|Transcend by Kaufman]].

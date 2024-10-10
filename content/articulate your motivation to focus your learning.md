@@ -9,7 +9,7 @@ tags:
 ---
 In [[metalearning]], the first question you have to answer is: Why am I learning what I am learning?
 
-Answering this question provides you with a [[convergence tool]] that helps you focus on the things that truly matter in your project. Articulating clearly your motivation behind your learning project helps you decide what paths to ignore and what to follow. It is critical that your learning plan perfectly aligns with your learning objectives so that you don't waste time on unimportant subjects and underemphasize important ones.
+Answering this question provides you with a [[convergence tool]] that helps you focus on the things that truly matter in your [[project]]. Articulating clearly your motivation for your learning project helps you decide what paths to ignore and what to follow. It is critical that your learning plan perfectly aligns with your learning objectives so that you don't waste time on unimportant subjects and underemphasize important ones.
 
 When you ask this question, you will realize that your learning project could either be instrumental or intrinsic. Instrumental projects achieve a different non-learning result, while intrinsic projects are pursued by their own sake. When your project is instrumental, [[use expert interviews to identify best ways to learn a subject or skill]].
 

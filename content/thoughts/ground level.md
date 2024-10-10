@@ -12,7 +12,7 @@ sr-ease: 250
 The ground level of the life management system accomplishes two things:
 
 1. It **captures** loose ends (notes, tasks, events, reading materials, and other inputs).
-2. It **organizes** the clarified loose ends (note: clarification happens during [[thoughts/review]]) using a [[Personal knowledge management]] system (which, if digital, should be backed up using a backup system).
+2. It **organizes** the clarified loose ends (note: clarification happens during [[review]]) using a [[Personal knowledge management]] system (which, if digital, should be backed up using a backup system).
 
 The tools needed for this level are:
 

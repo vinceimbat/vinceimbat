@@ -1,29 +1,30 @@
 ---
-title: "The core process of intentional living"
-date: "2022-04-28"
+title: The core process of intentional living
+date: 2022-04-28
 aliases:
-- "The core process of intentional living"
+  - The-core-process-of-intentional-living
+  - thoughts/the-core-process-of-intentional-living
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2025-03-24
 sr-interval: 591
 sr-ease: 250
 ---
+[[Intentional living]] follows the following process:
 
-[[intentional living]] follows the following process:
-
-1. Set a [[Goal]]. The goal is a desired [[end state]]. Since it hasn't happened yet, it is simply a [[concepts]].
+1. Set a [[goal]]. The goal is a desired [[end state]]. Since it hasn't happened yet, it is simply a [[concept]].
 2. Lay out the steps toward the goal (simple goals involve a few [[action]]s; complicated goals require a combination of [[Project]]s, [[habits]]s, and actions).
 3. Act to pursue the goal ([[You act to get what you want]]).
 
 After the end state arrives, the doer continues the process through the following steps:
 
-4. [[thoughts/review]] and reflect on whether the the end state matched the original desire or goal. This is the basis of reviews.
+4. [[Review]] and reflect on whether the the end state matched the original desire or goal. This is the basis of reviews.
 5. Based on the comparison between the original desire and the end state, decide whether to pursue the goal again or set a new goal.
 
 This is the core process of intentional living, which gets complicated when several actions are involved.
 
-To do
+# To do
 
 - Create a more proper infographic of the following illustration:
 

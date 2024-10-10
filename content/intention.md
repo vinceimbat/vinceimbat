@@ -1,14 +1,16 @@
 ---
-title: "Intention"
-date: "2022-04-28"
-aliases: "Intention"
+title: Intention
+date: 2022-04-28
+aliases:
+  - Intention
+  - thoughts/intention
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2025-03-02
 sr-interval: 579
 sr-ease: 250
 ---
-
 Intentions are statements about future states that one desires to be in.
 
 One may create intentions about ACTIONS and ENDS.

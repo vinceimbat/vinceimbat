@@ -3,9 +3,13 @@ title: Concepts
 date: 2022-06-19
 aliases:
   - Concepts
+  - concepts
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-13
+sr-interval: 3
+sr-ease: 250
 ---
 
 # References

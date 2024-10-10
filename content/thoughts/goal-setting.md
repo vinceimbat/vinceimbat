@@ -10,4 +10,4 @@ sr-interval: 1
 sr-ease: 230
 ---
 # Related
-- [[thoughts/how to set goals|how to set goals]]
+- [[how to set goals|how to set goals]]

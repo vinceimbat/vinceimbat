@@ -7,8 +7,8 @@ tags:
 aliases:
   - Unprocessed-notes-for-ANWW20
   - thoughts/unprocessed-anww20-notes
-sr-due: 2024-09-05
-sr-interval: 283
+sr-due: 2026-09-01
+sr-interval: 691
 sr-ease: 230
 ---
 I sought to explain my experience while walking. Why did all of a sudden I question my motivation for something I have been doing for a long time.

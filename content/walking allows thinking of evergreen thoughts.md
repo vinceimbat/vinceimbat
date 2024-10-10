@@ -11,7 +11,7 @@ We are so addicted to novelty
 
 - See [[thoughts/after-reading glow]]
 
-But what we need is to [[thoughts/review]] our thoughts. To [[thoughts/pay attention to what we pay attention to]] especially the thoughts we just entertained but never went back to.
+But what we need is to [[review]] our thoughts. To [[thoughts/pay attention to what we pay attention to]] especially the thoughts we just entertained but never went back to.
 
 Walking allows us to shut down novelty. When there is no novelty, you are left with what’s old.
 

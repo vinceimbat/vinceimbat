@@ -6,7 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-09-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-25
+sr-interval: 76
+sr-ease: 270
 ---
+Jehovah's Witnesses, the religion of my childhood until I was 19 years old.

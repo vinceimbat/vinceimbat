@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-22
-sr-interval: 3
+sr-due: 2024-11-11
+sr-interval: 32
 sr-ease: 250
 ---
 

@@ -16,7 +16,7 @@ The following are some types of mental states:
 - [[ends]]
 - [[action]]
 
-Within the performance of an [[action]] are tiny mental states at every unit of time. This implies that pursuing a particular [[end state]], which itself includes a mental state, involves a collection of mental states. When pursuing a [[Goal]], the most ideal scenario is to pursue a desirable [[end state]] through a desirable [[Means]]. For example, I do yoga to feel good. The end state of doing yoga is feeling good but doing yoga itself already feels good. On the other hand, there are projects that will feel good in the end but will require feel bad states on the way towards the end.
+Within the performance of an [[action]] are tiny mental states at every unit of time. This implies that pursuing a particular [[end state]], which itself includes a mental state, involves a collection of mental states. When pursuing a [[goal]], the most ideal scenario is to pursue a desirable [[end state]] through a desirable [[Means]]. For example, I do yoga to feel good. The end state of doing yoga is feeling good but doing yoga itself already feels good. On the other hand, there are projects that will feel good in the end but will require feel bad states on the way towards the end.
 
 TO DO
 

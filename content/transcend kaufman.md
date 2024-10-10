@@ -1,14 +1,15 @@
 ---
-title: "Transcend — Kaufman"
-date: "2022-04-12"
+title: Transcend — Kaufman
+date: 2022-04-12
+aliases:
+  - Transcend-—-Kaufman
 tags:
-
-- "seedlings"
-sr-due: 2022-09-07
-sr-interval: 3
+  - literature
+  - seedlings
+sr-due: 2027-05-31
+sr-interval: 963
 sr-ease: 250
 ---
-
 Page 2
 
 The concept of self-actualization and the transcendent values, which include justice, beauty, meaningfulness, and wholeness, provide a blueprint for a better world.

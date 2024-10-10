@@ -6,6 +6,9 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-13
+sr-interval: 3
+sr-ease: 250
 ---
 [[ultralearning|Ultralearning]] has the following nine universal principles:
 

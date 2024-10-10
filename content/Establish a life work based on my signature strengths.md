@@ -17,7 +17,7 @@ I want to be near nature and beauty as much as possible and highlight them. I wa
 
 I want to document a life about these things and share that in my site and social media.
 
-My most important core strengths are [[appreciation of beauty and excellence]] and [[Renewed freshness of appreciation]]. Appreciation is where reverence becomes possible. My work is to appreciate life and the universe and help others appreciate it too.
+My most important core strengths are [[appreciation of beauty and excellence]] and [[renewed freshness of appreciation]]. Appreciation is where reverence becomes possible. My work is to appreciate life and the universe and help others appreciate it too.
 
 What I don’t want:
 

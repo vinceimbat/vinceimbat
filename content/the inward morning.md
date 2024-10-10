@@ -67,7 +67,7 @@ The rest of his entry is a thought-provoking meditation on the relationship betw
 
 >*Perhaps we are only truly individual in so far as we are able to acknowledge and act upon a universal significance in our lives which is the very opposite of divisive in its import for our relations with other persons.*
 
-This reminds me of [[thoughts/scott barry kaufman]]’s insight in his book ***[[Transcend — Kaufman]]***: We self-actualize so that we eventually transcend, a state where we forget ourselves and our communion with the interconnectedness of everything and everyone takes center stage.
+This reminds me of [[thoughts/scott barry kaufman]]’s insight in his book ***[[transcend kaufman]]***: We self-actualize so that we eventually transcend, a state where we forget ourselves and our communion with the interconnectedness of everything and everyone takes center stage.
 
 In the afternoon, I re-read my past nature journal entries, entries I wrote when I tried emulating Thoreau's writing routine. His routine went this way:
 

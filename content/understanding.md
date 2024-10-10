@@ -25,7 +25,7 @@ Since [[thoughts/life is a project|life is a project]] made up of individual act
 
 Once I understand action, I can move on to studying a more specific way of acting or living: [[intentional living|intentional living]]. Intentional living is how I fulfill my purpose. Through intentional living, I can align my actions with my purpose, which are informed by an understanding of my [[thoughts/true self|true self]].
 
-I can achieve this alignment by following [[thoughts/the core process of intentional living|the core process of intentional living]], which requires three levels of understanding:
+I can achieve this alignment by following [[the core process of intentional living|the core process of intentional living]], which requires three levels of understanding:
 
 1. An understanding of my true self
 2. An understanding of how I can identify and set my intentions

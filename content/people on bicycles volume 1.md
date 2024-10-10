@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-09-23
-sr-interval: 23
+sr-due: 2025-01-03
+sr-interval: 85
 sr-ease: 270
 ---
 Bought this from my first [[BLTX]]. Its partner is [[People on Bicycles Volume 2]]. I bought it because it triggered a possible similar project but photographs of people walking.

@@ -6,8 +6,8 @@ draft: false
 tags:
   - vignettes
   - seedlings
-sr-due: 2024-09-22
-sr-interval: 26
+sr-due: 2025-01-08
+sr-interval: 90
 sr-ease: 250
 ---
 Sakey ya kabuwasan leleg kon manpapaabig nen adepress ak, nanakar kami nen Papa manlapud abung mi ed Santa Maria angga'd baley na San Jacinto. Kabuwasan iman. Nayarin kayarin tuloy na almusal mi.

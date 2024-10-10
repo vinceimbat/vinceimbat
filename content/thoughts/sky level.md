@@ -16,7 +16,7 @@ The sky level could be articulated through a single document or digital note. Mi
 - [[thoughts/purpose statement]]
 - [[thoughts/vision statement]]
 - [[thoughts/life area]]s
-- [[Goal]]s
+- [[goal]]s
 - [[Routines]]
 
 These five are the basic components. As additional resources, you can also compile the following:

@@ -15,7 +15,7 @@ Complexity should be allowed in a life management system. And visual reminders o
 
 But the frequency of reviews simplifies life’s complexity. I cannot handle the entire complexity in one moment. But I can do so in different moments scattered across intervals.
 
-This is [[Design]]. Design allows for an efficient life system, one where actions are managed and are in integrity with higher-level convergence tools like [[purpose]] and [[Goal]]s.
+This is [[Design]]. Design allows for an efficient life system, one where actions are managed and are in integrity with higher-level convergence tools like [[purpose]] and [[goal]]s.
 
 To do
 

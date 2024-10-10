@@ -25,11 +25,11 @@ There are three parts to my [[thoughts/annual review|annual review]] process:
 1. [[gratitude lists|Gratitude list]]: Write a gratitude list.
 2. [[thoughts/past and coming year questions|Past and coming year questions]]: Review my past year and think about the present year.
 3. [[my life areas|My life areas]]: Review areas of responsibility and set new standards if needed.
-4. [[thoughts/life goals|Life goals]]: Add new goals and corresponding projects in [[my life goals master list|my life goals master list]]. Refer to [[thoughts/how to set goals|how to set goals]].
+4. [[thoughts/life goals|Life goals]]: Add new goals and corresponding projects in [[my life goals master list|my life goals master list]]. Refer to [[how to set goals|how to set goals]].
 4. [[personal narrative vision|Personal narrative vision]]: Review last year’s personal narrative vision and write next year’s.
 5. Routines and reviews: Review last year’s routines and update them if necessary. Re-evaluate the following:
 	- [[my daily routine|my daily routine]]
-	- [[thoughts/review|review]]
+	- [[review|review]]
 7. Share the results of my annual review to the people who are important to me: my partner, family, friends, and colleagues.
 
 # Part III: Write the annual review article and publish it

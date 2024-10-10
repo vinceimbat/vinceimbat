@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-10
-sr-interval: 31
+sr-due: 2025-01-02
+sr-interval: 84
 sr-ease: 270
 ---
 The warmer phase of convalescence arrives when the convalescent finally casts off the last hearth value: the belief that if there were anything of value at all, that value would have to be meta­physically or theologically grounded. To cast that off is to recognize that by abolishing the metaphysical world we have thereby abolished the merely apparent world.

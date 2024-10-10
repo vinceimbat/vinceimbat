@@ -15,9 +15,9 @@ You perform a [[metalearning]] project by asking three questions:
 
 Answering these questions involve the following steps:
 1. [[articulate your motivation to focus your learning]]
-2. [[understand the knowledge structure of a subject]].
-3. [[identify bottlenecks in your learning project]].
-4. [[Apply benchmarking and emphasizing-excluding to know how to learn effectively]].
+2. [[understand the knowledge structure of a subject]]
+3. [[identify bottlenecks in your learning project]]
+4. [[Apply benchmarking and emphasizing-excluding to know how to learn effectively]]
 
 # References
 
