@@ -29,7 +29,7 @@ While all of these were underway, I also launched my first zine and collaboratio
 - Attended Kiitsu Kyōkai with Celia and Andrew twice.
 - Seiza w/ Miki Nakura and Jeff
 - Re-read the foreword for [[a week thoreau|A Week]].
-- Redid a test to find [[my top values]] and they remained the same although with a slightly different order.
+- Redid a test to find [[my core values]] and they remained the same although with a slightly different order.
 
 # Writing
 

@@ -7,6 +7,6 @@ tags:
 ---
 
 A simple life plan is made up of three things:
-1. A [[thoughts/vision statement]]
-2. A [[thoughts/purpose statement]]
+1. A [[vision statement]]
+2. A [[purpose statement]]
 3. A [[mission statement]]

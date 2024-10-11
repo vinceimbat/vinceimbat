@@ -6,7 +6,7 @@ tags:
 - "evergreens"
 ---
 
-The 10 facets of [[thoughts/self-actualization]] measured by the [[characteristics of self-actualization scale]] are:
+The 10 facets of [[self-actualization]] measured by the [[characteristics of self-actualization scale]] are:
 
 1. [[continued freshness of appreciation]]
 2. Acceptance

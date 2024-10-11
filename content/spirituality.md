@@ -6,6 +6,9 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-14
+sr-interval: 3
+sr-ease: 251
 ---
 In relation to [[jiyu shukyo|jiyu shukyo]], I define it as an attitude of caring. It is a reverence we feel toward anything, which usually begins in faith, and which inspires us to attend to it with love and quality of action.
 

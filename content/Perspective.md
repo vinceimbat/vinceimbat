@@ -1,12 +1,12 @@
 ---
-title: "Perspective"
-date: "2022-07-02"
+title: Perspective
+date: 2022-07-02
+aliases:
+  - Perspective
 tags:
-
-- "seedlings"
-sr-due: 2022-07-05
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-08-22
+sr-interval: 1045
 sr-ease: 250
 ---
-
-# References

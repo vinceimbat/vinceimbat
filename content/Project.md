@@ -12,7 +12,7 @@ A project has one overarching intention, which requires multiple actions under i
 
 For example, a project could have the following intention: “I want to get married on 2022.” This project could have smaller intentions under it like “I want to find the best gown” or “I want to raise Php 100,000 for the wedding,” all of which are also projects by themselves.
 
-This means that [[thoughts/life is a project]], with smaller projects within it.
+This means that [[life is a project]], with smaller projects within it.
 
 If you have a single life purpose, then that is your life’s intention.
 

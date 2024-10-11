@@ -21,7 +21,7 @@ A life management system can also be a meaning-making machine. By incorporating 
 
 # Theory: Understand the concepts behind a life management system
 
-[[thoughts/life management system]]
+[[life management system]]
 
 # Framework: Apply the concepts through a structure
 
@@ -47,9 +47,9 @@ Here is [[my lms ground level setup]].
 
 Once I had my ground level in place and have acquainted myself to it, I was able to free myself with enough mental space and energy to think about what I really want. This is the best time to think about my motivations and intentions.
 
-1. Write a [[thoughts/purpose statement]].
+1. Write a [[purpose statement]].
    - Ideally, this is the first step. However, I found articulating my [[purpose]] very tricky and difficult at first as I wasn’t clear about the point and meaning of life. Even if I had enough self-knowledge, answering the question “Why do you live?” was still difficult. I decided to use a temporary purpose and skipped thinking about it altogether and focused on working with my life areas first.
-   - Purpose statement: [[my purpose is to live deliberately]].
+   - Purpose statement: [[my purpose statement]].
 1. Do the best future self exercise to create a vision.
    - [[thoughts/my best future self exercise]]
 1. Write a [[mission statement]].

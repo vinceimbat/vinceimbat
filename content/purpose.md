@@ -6,6 +6,9 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-14
+sr-interval: 3
+sr-ease: 256
 ---
 
 - [[Purpose is a statement that articulates the reason behind an action]]

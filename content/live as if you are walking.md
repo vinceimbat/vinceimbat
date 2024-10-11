@@ -17,7 +17,7 @@ Living life like a walk involves a progression of four steps:
 
 # Set up your home base.
 
-- Establish a minimum viable [[thoughts/life management system|life management system]] that helps you manage actions and knowledge.
+- Establish a minimum viable [[life management system|life management system]] that helps you manage actions and knowledge.
 - Establish a minimum viable sustenance system, which consists of a source of income and a resource management system.
 - Curate your immediate environment (your physical home) to support your values, goals, and habits.
 - Establish habits, practices, and systems that optimize your mind and body.

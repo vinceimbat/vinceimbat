@@ -1,13 +1,16 @@
 ---
-title: "Meaning"
-date: "2022-04-27"
+title: Meaning
+date: 2022-04-27
+aliases:
+  - thoughts/meaning
+draft: false
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2027-11-19
 sr-interval: 1571
 sr-ease: 268
 ---
-
 Meaning is a desirable mental content on top of happiness that improves one's well-being.
 
 - [[thoughts/meaning and suicide]]

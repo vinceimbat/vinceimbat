@@ -9,7 +9,7 @@ sr-due: 2026-07-29
 sr-interval: 1303
 sr-ease: 288
 ---
-Everything begins with [[purpose]]. [[my purpose is to live deliberately]].
+Everything begins with [[purpose]]. [[my purpose statement]].
 
 To imagine what fulfilling my purpose looks like, I wrote [[my vision statement]].
 
@@ -22,8 +22,8 @@ To ensure that I am performing actions that lead me toward my goals, I set up [[
 ## Other resources
 
 - [[My core desired mental states]]
-- [[my top values]]
-- [[My top five character strengths]]
+- [[my core values]]
+- [[my top five character strengths]]
 - [[my top three sources of self-actualization]]
 - [[thoughts/my best future self exercise]]
 - [[my lifeview]]

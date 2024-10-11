@@ -6,7 +6,7 @@ tags:
 - "seedlings"
 ---
 
-Here is my current [[thoughts/life management system]]:
+Here is my current [[life management system]]:
 
 - [[my lms ground level setup]]
 - [[thoughts/my lms sky level setup]]

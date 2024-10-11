@@ -18,7 +18,7 @@ tags:
 - [[use expert interviews to identify best ways to learn a subject or skill]]
 - [[understand the knowledge structure of a subject]]
 - [[identify bottlenecks in your learning project]]
-- [[Apply benchmarking and emphasizing-excluding to know how to learn effectively]]
+- [[use benchmarking and emphasizing-excluding to know how to learn effectively]]
 - [[Use the law of diminishing returns and the 10 percent rule to approximate how long a metalearning project should be]]
 
 **REVIEW QUESTIONS**

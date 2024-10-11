@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-The only worthy goal of building a [[thoughts/life management system]] is to free one's mind. Ideally, one day, when all the most important areas of life are efficiently managed, one can spend more time in the present moment, enjoying and resting.
+The only worthy goal of building a [[life management system]] is to free one's mind. Ideally, one day, when all the most important areas of life are efficiently managed, one can spend more time in the present moment, enjoying and resting.
 
 A life system evolves and grows in complexity in time. But it doesn't have to be mature before it can provide freedom.
 

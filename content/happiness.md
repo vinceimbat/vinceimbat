@@ -1,9 +1,12 @@
 ---
-title: "Happiness"
-date: "2021-04-06"
-aliases: "Happiness"
+title: Happiness
+date: 2021-04-06
+aliases:
+  - Happiness
+  - thoughts/happiness
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2024-11-29
 sr-interval: 486
 sr-ease: 252

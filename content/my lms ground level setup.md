@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-This is my current [[thoughts/life management system]] [[thoughts/ground level]] setup.
+This is my current [[life management system]] [[thoughts/ground level]] setup.
 
 I am currently using the following inboxes to capture my loose ends:
 

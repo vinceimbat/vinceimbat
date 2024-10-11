@@ -12,7 +12,7 @@ tags:
 
 In my [[2021 annual review 1]], I implemented a new process:
 
-1. I identified the life areas I will review. I used the following names back then: [[thoughts/life management system]], physical health, mental health, relationships, sustenance, life work.
+1. I identified the life areas I will review. I used the following names back then: [[life management system]], physical health, mental health, relationships, sustenance, life work.
 2. On each life area, I review my goals from last year and check whether or not I accomplished them and why.
 3. Then, I share the other goals and projects that emerged last year in that area.
 4. Finally, I share my new goals in each area.

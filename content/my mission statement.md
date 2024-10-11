@@ -7,45 +7,16 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-12
+sr-interval: 1
+sr-ease: 238
 ---
-# Current
+My mission is to [[living|live]] my life deliberately by continuously acting according to my [[intention|intentions]]. I want my intentions and [[action|actions]] to be informed by my [[jiyu shukyo|jiyū shūkyō]]—a free, creative, and inquiring [[spirituality]], founded on a deep and honest [[understanding|understanding]] of reality: myself, others, and the universe.
 
-Date: [[2024-05-02]]
+Every day, I try to "suck all the marrow out of life" through a pursuit of [[thoughts/beauty|beauty]], [[meaning|meaning]], and [[wisdom|wisdom]]. I maintain several daily practices that help me do so. [[seiza|Seiza meditation]] and [[walking]] help me directly interact with the universe, while mindful [[reading]] and [[my studying process|studying]] through my [[talahardin]] help me learn from existing archetypes of the life I want to live.
 
-My mission is to use my gifts as best I can to help honest, earnest, free-spirited, and loving seekers practice faith and love in themselves, their neighbors, their community, life, and nature.
+I strengthen my personal practices by joining and facilitating meditation and conversation with others: my partner, friends, and the [[kiitsu kyokai|kiitsū kyōkai]] community I'm a part of. Mindful that my actions always affect others, I practice [[compassion]] and strive to deepen my connection with fellow humans and other sentient beings.
 
-***
-# Old
+I further express my jiyū shūkyō, as well as share what I learn from my personal and community practices, through [[photography]] and [[poetry]]. My goal is to combine all of these into beautiful [[essay|essays]] that I publish in my website and [[newsletter|newsletters]] and books that inspire others to also live deliberately and pursue a similar free, creative, and inquiring spirituality.
 
-I am committed to living a life filled with Ginhawa by developing [[mindfulness]] and [[understanding]], so I can always perform the right and compassionate [[action]] in [[my life areas]].
-
-I am committed to maintaining and improving my [[thoughts/life management system]], my mental and physical [[thoughts/health]], my relationships, and my sustenance work, so that they support me in pursuing my vision and fulfilling my purpose ([[My life areas support my life work]]).
-
-I am committed to building a world filled with Ginhawa by:
-
-1. honoring [[my top values]] and living according to my principles in my daily life;
-2. authentically expressing my ideas and stories through writing and other artforms in a way that is helpful to my audience;
-3. nurturing a community and ecosystem of individual relationships with allies, peers, mentors, and followers; and
-4. facilitating the development of skills, practices, and knowledge related to the fulfillment of my vision and purpose in others.
-
-# Process
-
-I believe in freedom.
-I believe in community.
-I believe in seeing things as they really are.
-I believe in positionlessness.
-I believe in compassion.
-I believe in simplicity.
-
-Through writing inspired by walking, I want to elevate everyday subjective human experiences and help others access depth and meaning from them.
-
-I craft words and images that help others experience true freedom safeguarded by a universal community.
-
-I craft words and images that invite people to think deeply about human freedom, community, and nature.
-
-I craft walk-inspired words and images that invite people to think and experience deeply what freedom and community mean in the context of nature.
-
-
-# To Do
-
-- Update
+To support myself in this mission, I take care of my mind and body so that I'm always at my best state. I have also mastered my relationship with the material world. I support myself through meaningful work, use resources efficiently, and limit my interaction with the exchange economy by developing [[self-reliance|self-reliance]].

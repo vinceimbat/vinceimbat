@@ -1,12 +1,12 @@
 ---
-title: "Love of Learning"
-date: "2022-07-02"
+title: Love of Learning
+date: 2022-07-02
+aliases:
+  - Love-of-Learning
 tags:
-
-- "seedlings"
-sr-due: 2022-07-05
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-08-19
+sr-interval: 1042
 sr-ease: 250
 ---
-
-# References

@@ -1,15 +1,16 @@
 ---
-title: "Life is a project"
-date: "2020-04-21"
+title: Life is a project
+date: 2020-04-21
 aliases:
-- "Life is a project"
+  - Life-is-a-project
+  - thoughts/life-is-a-project
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2024-11-06
 sr-interval: 453
 sr-ease: 253
 ---
-
 Life involves goals. For some, it involves one big goal.
 
 Life involves actions that can be taken to achieve goals.

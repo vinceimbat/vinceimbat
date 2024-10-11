@@ -17,7 +17,7 @@ There seems to be two conditions where health could be objective:
 
 [[steve patterson|Steve Patterson]] once said that death is the opposite of health. This implies that health = being alive. But if this is the case, are martyrdoms unhealthy? And is self-preservation the healthiest form of being?
 
-The way I see it, survival alone is insufficient. A long life is undesirable if one is suffering. Per Stoics and Buddhists, the goal of life is the avoidance of suffering or the pursuit of what makes one feel good. For both, the pursuit of a stable mind make one persevere despite suffering. To the contrary, the existentialists ([[thoughts/existentialism|existentialism]]) would say that it is the pursuit of [[thoughts/meaning|meaning]] that makes life worthwhile.
+The way I see it, survival alone is insufficient. A long life is undesirable if one is suffering. Per Stoics and Buddhists, the goal of life is the avoidance of suffering or the pursuit of what makes one feel good. For both, the pursuit of a stable mind make one persevere despite suffering. To the contrary, the existentialists ([[thoughts/existentialism|existentialism]]) would say that it is the pursuit of [[meaning|meaning]] that makes life worthwhile.
 
 Optimal health is a mental and physical state or achieving one's best mental and physical state of aliveness.
 

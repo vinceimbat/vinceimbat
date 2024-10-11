@@ -194,7 +194,7 @@ Complete knowledge is impossible. The tang of life is not a piece of knowledge. 
 
 ## Knowing how to live your life completely is impossible
 
-[[we learn to live while we are living]]. If [[thoughts/life is a project]], the greatest work of art, it is a project, an art work that is only finished in death. As the artist is alive, fully knowing how to live is impossible. [[thoughts/majority of life is subjective experiences]].
+[[we learn to live while we are living]]. If [[life is a project]], the greatest work of art, it is a project, an art work that is only finished in death. As the artist is alive, fully knowing how to live is impossible. [[thoughts/majority of life is subjective experiences]].
 
 >Life is unfinished, poised on the cusp of the new. No picture of completely known life can be drawn for it would necessarily leave out the living artist doing the drawing—whose life proceeds forward, outside the picture.
 

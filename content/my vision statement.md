@@ -7,21 +7,13 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-12
+sr-interval: 1
+sr-ease: 234
 ---
-I am [[living|living]] my life deliberately by continuously acting according to my [[intention|intentions]]. My intentions and [[action|actions]] are informed by a deep and honest [[understanding|understanding]] of reality—myself, others, and the universe.
-
-Every day, I try to "suck all the marrow out of life" through a pursuit of [[thoughts/beauty|beauty]], [[thoughts/meaning|meaning]], and [[wisdom|wisdom]]. In this quest, I use [[walking|walking]] as a platform for understanding and [[creating|creating]] for myself and others. I take photographs, catch [[poetry|poetry]], and write notes that I combine into beautiful essays and books that I hope inspire others to also live deliberately.
-
-To support myself in [[my quest|my quest]], I take care of my mind and body so that I'm always at my best state moment by moment. Mindful that my actions always affect others, I practice [[thoughts/compassion|compassion]] and strive to always deepen my connection with fellow humans and other sentient beings.
-
-I have also mastered my relationship with the material world. I support myself through meaningful work, use resources efficiently, and limit my interaction with the exchange economy by developing [[self-reliance|self-reliance]].
+I have brought to life a creative spirituality—a way of life—customized to my needs, personality, and strengths. It is a free and inquiring spirituality that is also anchored to my culture. This creative spirituality informs how I exist in the world—my daily practices, the work that I do, and how I act. While it liberates me, it also strengthens my faith and connection with my *kapwa* both the human and the non-human. I'm part of a community of individuals walking on the same path who support me in the realization of my vision.
 
 # Related
 
 - For a more detailed long-term vision, see [[thoughts/my best future self exercise|my best future self exercise]].
 - For a shorter, one-year visions, see [[personal narrative vision|personal narrative vision]].
-
-# To Do
-
-- As I go deeper into [[jiyu shukyo|jiyu shukyo]], I should be open to revising this document to articulate how I aspire to be in a world I share with other human beings, creatures, and non-living things.
-- Simplify by combining this and [[my purpose is to live deliberately]] into my own creed of life.

@@ -1,14 +1,16 @@
 ---
-title: "Life management system"
-date: "2021-01-08"
-aliases: "Life-management-system"
+title: Life management system
+date: 2021-01-08
+aliases:
+  - Life-management-system
+  - thoughts/life-management-system
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2026-12-08
 sr-interval: 1225
 sr-ease: 270
 ---
-
 A life management system is a consolidation of conceptual and physical structures that help an individual embrace [[intentional living]]. The structures of a life management system are primarily conceptual (i.e., they exist first in the mind). However, since [[Action occurs in an external objective physical world]], physical structures are needed to extend and realize the conceptual structures.
 
 Although these structures can easily become complex, their sole purpose is simply to accomplish [[the core process of intentional living]]. To live intentionally, one needs to set intentions, effectively manage one's actions, and make sure that one’s actions are aligned with one’s intentions. These requirements are fulfilled by a life management system.

@@ -18,7 +18,7 @@ A feeling started to seep in while I saw all of these—the feeling that I’ve 
 
 # Familiar Doldrums
 
-Today marks the end of several months of trying to construct a [[thoughts/life management system]]—an integrated productivity, knowledge management, and total life system. It has been a fulfilling, revealing, and exciting project to build. It’s much needed too because for so long I have been unable to organize my life in a way that totally made sense to me. Being someone who admires and “needs” organization, not being able to do this meant years of procrastination and psychological stress. I was able to address this mental burden in the past three months or so and I have a functioning minimum viable life system to show for it.
+Today marks the end of several months of trying to construct a [[life management system]]—an integrated productivity, knowledge management, and total life system. It has been a fulfilling, revealing, and exciting project to build. It’s much needed too because for so long I have been unable to organize my life in a way that totally made sense to me. Being someone who admires and “needs” organization, not being able to do this meant years of procrastination and psychological stress. I was able to address this mental burden in the past three months or so and I have a functioning minimum viable life system to show for it.
 
 I know that it is already achieving what it was built to do because I am feeling less anxious about it. I am ready to move on for the next project.
 

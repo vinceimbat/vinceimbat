@@ -13,7 +13,7 @@ In [[metalearning]], after you [[understand the knowledge structure of a subject
 2. Look for the most effective resources to overcome these bottlenecks.
 3. Avoid resources that won't help you with these bottlenecks.
 
-After doing this step, [[Apply benchmarking and emphasizing-excluding to know how to learn effectively]].
+After doing this step, [[use benchmarking and emphasizing-excluding to know how to learn effectively]].
 
 # References
 
