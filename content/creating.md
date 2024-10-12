@@ -8,7 +8,7 @@ tags:
   - thoughts
   - evergreens
 ---
-This [[thoughts/life area|life area]] involves working on crafts that I identify as integral to who I show up in the world and those that I do mainly as a hobby.
+This [[life area|life area]] involves working on crafts that I identify as integral to who I show up in the world and those that I do mainly as a hobby.
 
 Here are the sub-areas and their standards:
 

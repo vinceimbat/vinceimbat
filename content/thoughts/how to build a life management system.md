@@ -55,10 +55,10 @@ Once I had my ground level in place and have acquainted myself to it, I was able
 1. Write a [[mission statement]].
    - [[my mission statement]]
 1. Divide life into life areas.
-   - Life areas are important to make sense of divergent projects ([[Areas are mini life purposes]]).
-   - [[Maslow’s hierarchy of needs can be used as life areas]].
+   - Life areas are important to make sense of divergent projects ([[areas are mini life purposes]]).
+   - [[maslow hierarchy of needs are life areas]].
 1. Divide life areas into sub-areas if necessary.
-   - [[Divide areas into sub-areas for easier tracking]]
+   - [[divide areas into sub-areas for easier tracking]]
 1. Set goals for each life area.
    - Here are my [[thoughts/life goals]].
    - Remember that each goal shall be tied to a project eventually.

@@ -7,7 +7,7 @@ draft: false
 tags:
   - evergreens
 ---
-This [[thoughts/life area|life area]] involves optimizing and maintaining the health of my mind and body. This also involves curating my immediate environment to encourage habits and systems that support my values.
+This [[life area|life area]] involves optimizing and maintaining the health of my mind and body. This also involves curating my immediate environment to encourage habits and systems that support my values.
 
 Here are the sub-areas and standards under this life area:
 

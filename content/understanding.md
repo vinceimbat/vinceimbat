@@ -37,7 +37,7 @@ In the Philippines, these three levels are usually explored in academic psycholo
 
 I study a lot of different subjects and here is [[my studying process|my studying process]].
 
-The [[thoughts/life area|life areas]] under understanding are the following:
+The [[life area|life areas]] under understanding are the following:
 
 # Understanding - LMS Theory
 

@@ -1,11 +1,15 @@
 ---
-title: "Project"
-date: "2021-01-26"
+title: Project
+date: 2021-01-26
+aliases:
+  - Project
 tags:
-
-- "seedlings"
+  - thoughts
+  - seedlings
+sr-due: 2024-10-16
+sr-interval: 4
+sr-ease: 270
 ---
-
 Project is a set of [[action]]s.
 
 A project has one overarching intention, which requires multiple actions under it. Each of these actions have their individual intentions.
@@ -19,5 +23,3 @@ If you have a single life purpose, then that is your life’s intention.
 To satisfy that life purpose, you will have to do multiple projects, all of which have individual intentions. Each of these projects could require massive amounts of information.
 
 A key difference between a project and an action is that while [[Individual actions use fewer knowlege]], [[Projects require more complex information than individual actions]].
-
-# References

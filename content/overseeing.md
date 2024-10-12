@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-This [[thoughts/life area|life area]] involves establishing and maintaining a [[life management system|life management system]].
+This [[life area|life area]] involves establishing and maintaining a [[life management system|life management system]].
 
 Here are the following sub-areas under this life area:
 

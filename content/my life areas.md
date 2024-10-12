@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-I have six [[thoughts/life area|life areas]]:
+I have six [[life area|life areas]]:
 1. [[overseeing|Overseeing]]
 2. [[understanding|Understanding]]
 3. [[thoughts/restoring|Restoring]]

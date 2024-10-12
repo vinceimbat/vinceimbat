@@ -2,14 +2,11 @@
 title: My mission statement
 date: 2021-08-02
 aliases:
-  - My mission statement
+  - My-mission-statement
   - thoughts/my-mission-statement
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-10-12
-sr-interval: 1
-sr-ease: 238
+  - evergreens
 ---
 My mission is to [[living|live]] my life deliberately by continuously acting according to my [[intention|intentions]]. I want my intentions and [[action|actions]] to be informed by my [[jiyu shukyo|jiyū shūkyō]]—a free, creative, and inquiring [[spirituality]], founded on a deep and honest [[understanding|understanding]] of reality: myself, others, and the universe.
 

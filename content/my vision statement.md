@@ -6,12 +6,9 @@ aliases:
   - thoughts/my-vision-statement
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-10-12
-sr-interval: 1
-sr-ease: 234
+  - evergreens
 ---
-I have brought to life a creative spirituality—a way of life—customized to my needs, personality, and strengths. It is a free and inquiring spirituality that is also anchored to my culture. This creative spirituality informs how I exist in the world—my daily practices, the work that I do, and how I act. While it liberates me, it also strengthens my faith and connection with my *kapwa* both the human and the non-human. I'm part of a community of individuals walking on the same path who support me in the realization of my vision.
+I have brought to life a creative [[spirituality]]—a way of life—customized to my needs, personality, and strengths. It is a [[jiyu shukyo|free and inquiring spirituality]] that is also anchored to my culture. This creative spirituality informs how I exist in the world—[[my daily routine|my daily practices]], the work that I do, and how I [[action|act]]. While it liberates me, it also strengthens my faith and connection with my *kapwa* both the human and the non-human. I'm part of a [[kiitsu kyokai|community]] of individuals walking on the same path who support me in the realization of my vision.
 
 # Related
 

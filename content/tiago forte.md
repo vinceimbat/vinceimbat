@@ -6,8 +6,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2023-07-24
-sr-interval: 4
+sr-due: 2026-06-17
+sr-interval: 613
 sr-ease: 270
 ---
 Fil-Am founder of Forte Labs. Popularizer of the Second Brain.

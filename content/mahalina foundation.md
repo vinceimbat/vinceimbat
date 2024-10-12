@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-12
-sr-interval: 1
+sr-due: 2024-10-14
+sr-interval: 2
 sr-ease: 230
 ---
 Violence is justified by some because of what they think is fast and immediate change or the belief that everything has to be fast and immediate. The urgency, in turn, is justified by a picture of alarm: that the world, or country, or local is in its worst condition and that it can't get out of it without killing others or hurting them.

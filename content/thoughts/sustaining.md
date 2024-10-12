@@ -10,7 +10,7 @@ sr-due: 2022-11-29
 sr-interval: 15
 sr-ease: 292
 ---
-This [[thoughts/life area|life area]] involves all activities related to supporting my material existence.
+This [[life area|life area]] involves all activities related to supporting my material existence.
 
 Here are the sub-areas under this area and their standards.
 

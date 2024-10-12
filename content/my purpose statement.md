@@ -8,10 +8,7 @@ aliases:
   - my-purpose-is-to-live-deliberately
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-10-12
-sr-interval: 1
-sr-ease: 228
+  - evergreens
 ---
 I want to understand the universe and how to be in it deliberately.
 

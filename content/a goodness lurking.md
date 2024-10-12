@@ -19,7 +19,7 @@ I encountered this account in "What is [[jiyu shukyo]]?" one of the seven select
 
 These accounts tell me that **spirituality is a lot simpler and more accessible than what most of us make it to be**. I am very interested in understanding and articulating this simple spirituality because my personal history with religion and spirituality has led me to an unexpected state where I'm not ready to join a church or any form of institutional faith. Yet, I describe myself as very spiritual and perhaps even very religious.
 
-My gut tells me that any church or group can never monopolize spirituality. It can be institutionalized, but it will never be caged. This is because **spirituality is primarily a personal matter that relies heavily on an individual's subjective experience**. Furthermore, as [[thoughts/scott barry kaufman|Scott Barry Kaufman]] would agree, spirituality is more prevalent in the population. All human beings are born with a natural predisposition to be spiritual. I will explain more later.
+My gut tells me that any church or group can never monopolize spirituality. It can be institutionalized, but it will never be caged. This is because **spirituality is primarily a personal matter that relies heavily on an individual's subjective experience**. Furthermore, as [[scott barry kaufman|Scott Barry Kaufman]] would agree, spirituality is more prevalent in the population. All human beings are born with a natural predisposition to be spiritual. I will explain more later.
 
 # The Two Farmers
 

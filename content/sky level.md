@@ -17,7 +17,7 @@ The sky level could be articulated through a single document or digital note. Mi
 
 - [[purpose statement]]
 - [[vision statement]]
-- [[thoughts/life area]]s
+- [[life area]]s
 - [[goal]]s
 - [[Routines]]
 
