@@ -1,30 +1,32 @@
 ---
-title: "Lyrical philosophy reading list"
-date: "2023-07-27"
+title: Lyrical philosophy reading list
+date: 2023-07-27
+aliases:
+  - thoughts/lyrical-philosophy-reading-list
 tags:
-- "seedlings"
-sr-due: 2023-07-31
-sr-interval: 1
-sr-ease: 230
+  - thoughts
+  - seedlings
+sr-due: 2028-09-20
+sr-interval: 1437
+sr-ease: 250
 ---
-
 # Authors
 
-- [[friedrich nietzsche]]
-- [[henry bugbee]]
-- [[henry david thoreau]]
-- [[herman melville]]
-- [[thoughts/ludwig wittgenstein]]
-- [[michel de montaigne]]
-- [[soren kierkegaard]]
-- [[stanley cavell]]
+- [[friedrich nietzsche|Friedrich Nietzsche]]
+- [[henry bugbee|Henry Bugbee]]
+- [[henry david thoreau|Henry David Thoreau]]
+- [[herman melville|Herman Melville]]
+- [[ludwig wittgenstein|Ludwig Wittgenstein]]
+- [[michel de montaigne|Michel de Montaigne]]
+- [[soren kierkegaard|Soren Kierkegaard]]
+- [[stanley cavell|Stanley Cavell]]
 - David Rothenberg
 - Henry James
 - George Eliot
 - Schopenhauer
 - Plato
 
-Check
+## Check
 
 - Martin Heidegger
 - F. H. Bradley
@@ -50,7 +52,7 @@ Check
 - Dostoyevsky’s Notes from Underground
 - Tolstoy’s The Death of Ivan Ilyich
 
-Check
+## Check
 - Appearance and Reality by F. H. Bradley
 
 # Poetry
@@ -63,5 +65,3 @@ Check
 - Henry James, “The Middle Years,” in The Tales of Henry James, ed. Edward Wagenknecht (New York: Frederick Ungar, 1984)
 - Stanley Cavell, “Passionate and Performative Utterance,” in Contending with Stanley Cavell, ed. Russell B. Goodman (Oxford: Oxford University Press, 2005), Ch. 10, 192–3.
 - Henry James, “The Middle Years,” in The Tales of Henry James, ed. Edward Wagenknecht (New York: Frederick Ungar, 1984).
-
-# References

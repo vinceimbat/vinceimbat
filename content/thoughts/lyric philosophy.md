@@ -13,7 +13,7 @@ Lyric philosophy seems to be a more accepted term in the academe compared to [[l
 
 Zwicky's main thesis is that there are certain questions that can only be answered by gestures and resonance, not analysis. In such instances, a different kind of philosophy should be employed. That said, Zwicky does not completely reject philosophical analysis. It is still important and necessary. However, she wants to extend the range of what can be included in the discipline of philosophy.
 
-Edward Mooney and Jan Zwicky have a common ancestor: [[thoughts/ludwig wittgenstein]].
+Edward Mooney and Jan Zwicky have a common ancestor: [[ludwig wittgenstein]].
 
 Jan's work as it currently looks to me is concerned more on the form (i.e., [[Sharing]]) rather than what is more important to me: [[understanding and living are the core of my life work]]. This made me decide not to use her as the focal point of [[my philosophical genealogy]].
 

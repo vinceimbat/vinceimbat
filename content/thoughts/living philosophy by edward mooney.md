@@ -24,7 +24,7 @@ In the foreword of his book, *Living Philosophy*, [[edward mooney]] shares what 
 - [[stanley cavell]]
 - [[herman melville]]
 - [[henry bugbee]]
-- [[thoughts/ludwig wittgenstein]]
+- [[ludwig wittgenstein]]
 
 He then identifies the kinds of writings from these authors that he thinks are interesting. He particularly focuses on narratives. These are the criteria he is looking for:
 - Narratives that present deep thoughtfulness

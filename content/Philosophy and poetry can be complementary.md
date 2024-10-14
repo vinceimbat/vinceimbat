@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-This belief is shared by [[thoughts/ludwig wittgenstein]], [[henry david thoreau]], [[friedrich nietzsche]]
+This belief is shared by [[ludwig wittgenstein]], [[henry david thoreau]], [[friedrich nietzsche]]
 
 # References
 

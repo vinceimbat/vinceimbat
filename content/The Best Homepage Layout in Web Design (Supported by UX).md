@@ -8,7 +8,6 @@ sr-due: 2023-07-16
 sr-interval: 3
 sr-ease: 250
 ---
-
 Sliders have horrible clickthrough rates. If content is important, it shouldn't be hidden by a slider
 
 Homepage should answer:
