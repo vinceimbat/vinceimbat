@@ -2,15 +2,15 @@
 title: Spirituality
 date: 2021-01-19
 aliases:
-  - /thoughts/spirituality
+  - thoughts/spirituality
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-14
-sr-interval: 3
+sr-due: 2024-10-24
+sr-interval: 9
 sr-ease: 251
 ---
-In relation to [[jiyu shukyo|jiyu shukyo]], I define it as an attitude of caring. It is a reverence we feel toward anything, which usually begins in faith, and which inspires us to attend to it with love and quality of action.
+In relation to [[jiyu shukyo]], I define it as an attitude of caring. It is a reverence we feel toward anything, which usually begins in faith, and which inspires us to attend to it with love and quality of action.
 
 It is a concept one can use to differentiate a quality of "mechanical-ness" or cut-throat competition.
 

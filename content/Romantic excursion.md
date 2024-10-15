@@ -1,14 +1,12 @@
 ---
-title: "Romantic excursion"
-date: "2022-08-16"
+title: Romantic excursion
+date: 2022-08-16
+aliases:
+  - Romantic-excursion
 tags:
-
-- "seedlings"
-sr-due: 2022-08-19
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-07-05
+sr-interval: 993
 sr-ease: 250
 ---
-
-
-
-# References

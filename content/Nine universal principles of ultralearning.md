@@ -5,10 +5,7 @@ aliases:
   - Nine-universal-principles-of-ultralearning
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-10-13
-sr-interval: 3
-sr-ease: 250
+  - evergreens
 ---
 [[ultralearning|Ultralearning]] has the following nine universal principles:
 

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-14
-sr-interval: 38
-sr-ease: 272
+sr-due: 2025-03-12
+sr-interval: 148
+sr-ease: 292
 ---
-Co-fellow at [[ANWW20]] and author of [[mula sa gulod alcarde|Mula sa Gulod]].
+Co-fellow at [[ANWW20]] and author of [[mula sa gulod alcarde|Mula sa Gulod]] and other chapbooks.

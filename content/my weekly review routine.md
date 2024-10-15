@@ -9,7 +9,7 @@ tags:
   - thoughts
   - evergreens
 ---
-Schedule: Monday, afternoon
+faceSchedule: Monday, afternoon
 
 - Clear Email.
 - Review Calendar (two weeks backwards and four weeks forward).

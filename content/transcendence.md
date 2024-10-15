@@ -7,8 +7,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-14
-sr-interval: 3
+sr-due: 2024-10-23
+sr-interval: 8
 sr-ease: 252
 ---
 Here is a loose concept of transcendence. I believe that our experience of transcendence lies in a spectrum of different varieties and intensities. There are deeper forms of transcendence as shared by, say, serious meditators, but there are more ordinary and common forms that are readily accessible by anyone. As long as you have “escaped” self-consciousness, whatever you are doing, you have transcended. Flow, that ever-popular word referring to what artists and athletes experience when “in the zone,” is a form of transcendence. But even that lies on the farther edges of the spectrum. A more common form of transcendence is what we usually experience when consuming information stored in media. This form of transcendence is easier. It’s easier to be captivated by a Netflix movie than the silence of an empty room where you are sitting in the middle.

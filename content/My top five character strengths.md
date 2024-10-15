@@ -7,7 +7,7 @@ tags:
   - thoughts
   - evergreens
 ---
-As of 2021, here are my top five character strengths based on the [[VIA character strengths survey]].
+ As of 2021, here are my top five character strengths based on the [[VIA character strengths survey]].
 
 1. [[appreciation of beauty and excellence]] ([[transcendence]])
 2. [[curiosity]] ([[wisdom]])

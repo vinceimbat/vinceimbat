@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-11-01
+sr-interval: 17
+sr-ease: 290
 ---
-The ultimate god of the Tagalogs.
+The ultimate [[god]] of the Tagalogs.

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-In [[Your Money or Your Life]], monthly investment incomes is calculated via the following formula:
+In [[your money or your life dominguez robin]], monthly investment incomes is calculated via the following formula:
 
 (Capital x Current long-term interest rate) / 12 months = Monthly investment income
 

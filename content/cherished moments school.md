@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-15
-sr-interval: 26
+sr-due: 2024-12-30
+sr-interval: 76
 sr-ease: 290
 ---
 Located in [[Mangaldan]]. I attended school here from preschool to grade school.

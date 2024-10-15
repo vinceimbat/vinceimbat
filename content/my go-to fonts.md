@@ -41,3 +41,39 @@ Accent:
 Heading: Lora
 Body: Merriweather
 Accent: 
+
+***
+
+# Other possible choices
+
+Humanist/Old Style Serif
+
+Caslon
+Garamond
+
+Humanist Sans-serif
+
+National 2
+Raleway
+
+Transitional Serif
+
+Baskerville
+Plantin
+
+Transitional Sans-serif
+
+Neue Haas Grotesk
+Neue Haas Unica
+
+Modern/Display
+
+Bodoni 72
+Superclarendon
+
+Geometric
+
+Futura
+Avenir
+
+For body text, stay with classif typefaces.

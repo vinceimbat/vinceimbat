@@ -1,8 +1,11 @@
 ---
-title: "Essay ideas"
-date: "2023-08-21"
+title: Essay ideas
+date: 2023-08-21
+aliases:
+  - thoughts/essay-ideas
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
 sr-due: 2023-09-19
 sr-interval: 3
 sr-ease: 250
@@ -19,3 +22,7 @@ Wuwus innit for money
 Wuwus innit for miracles
 Wuwus innit to be their most judgmental selves
 Wuwus innit 
+
+# Others
+
+- An essay about found papers.

@@ -6,7 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-26
+sr-interval: 11
+sr-ease: 270
 ---
+# Related
+
+- [[life area]]

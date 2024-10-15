@@ -1,15 +1,17 @@
 ---
-title: "How to meet with a financial advisor"
-date: "2022-09-02"
+title: How to meet with a financial advisor
+date: 2022-09-02
 aliases:
-- "How-to-meet-with-a-financial-advisor"
+  - How-to-meet-with-a-financial-advisor
+  - thoughts/how-to-meet-with-a-financial-advisor
+draft: false
 tags:
-- "seedlings"
-sr-due: 2024-10-14
-sr-interval: 431
+  - thoughts
+  - seedlings
+sr-due: 2027-09-29
+sr-interval: 1079
 sr-ease: 250
 ---
-
 Before meeting:
 - Know [[How much insurance coverage do you need?]]
 

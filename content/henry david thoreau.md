@@ -9,11 +9,7 @@ tags:
 ---
 # Why was Thoreau so in love with Nature?
 
-The reason why thoreau thought much about Nature is because he has transcended himself.
-
-It is difficult for me to think about other things aside from my needs because I haven't self-actualized enough.
-
-The more I can self-actualize, the easier it is for me to appreciate nature - beauty and excellence - which is my core strength anyways.
+The reason why Thoreau thought much about Nature is because he has transcended himself. It is difficult for me to think about other things aside from my needs because I haven't self-actualized enough. The more I can self-actualize, the easier it is for me to appreciate nature—beauty and excellence—which is my core strength anyways.
 
 # Why did Thoreau write lengthy narratives of his walks?
 
@@ -30,9 +26,10 @@ How did he synthesize what he read with what he sees outdoors?
 
 - [[Thoreau prioritized content over style in his writing]]
 - [[How did writing travel excursions help Thoreau fulfill his quest?]]
-- [[Thoreau took mini retirements]]
+- [[thoreau took mini retirements]]
 - [[introduction to walden merwin]]
 - [[the quest of thoreau]]
+- [[the writing style of thoreau]]
 
 # References
 

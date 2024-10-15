@@ -21,7 +21,7 @@ sr-ease: 270
 - [[Top Insurance Providers in the Philippines]]
 - [[How to choose an insurance company]]
 - [[How to choose a financial advisor]]
-- [[thoughts/how to meet with a financial advisor]]
+- [[how to meet with a financial advisor]]
 - [[How much insurance coverage do you need?]]
 - [[Self-reliance influences our approach to insurance]]
 
