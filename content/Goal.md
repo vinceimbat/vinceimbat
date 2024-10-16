@@ -10,9 +10,9 @@ sr-due: 2023-07-27
 sr-interval: 163
 sr-ease: 253
 ---
-What we usually call a goal is actually an [[intention]] to do a certain [[action]], which includes a [[Means]] and an [[ends|end]].
+What we usually call a goal is actually an [[intention]] to do a certain [[action]], which includes a [[means]] and an [[ends|end]].
 
-A goal is not always stated as a desired end state. Sometimes, it is framed as the [[Means]] that must be used to attempt to reach the desired end state.
+A goal is not always stated as a desired end state. Sometimes, it is framed as the [[means]] that must be used to attempt to reach the desired end state.
 
 The end state that we reach through an [[action]] or a set of actions (i.e., [[project]]) is ultimately a [[mental state]] and it can never be predicted. We can only try but there are no assurances that our desired mental state will indeed be generated. What we can predict (i.e., what we can control), is the choice of the means (or actions and projects) we take to attempt to reach the desired end.
 

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 49
+sr-due: 2025-03-07
+sr-interval: 142
 sr-ease: 290
 ---
 Experiments on texts and images.

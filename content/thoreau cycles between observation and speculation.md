@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-10-19
+sr-interval: 3
+sr-ease: 250
 ---
-Thoreau was excellent in inferring universal law from a single fact. He was very good at cycling between observation and speculation. His wide use of allusion is also remarkable.
+[[henry david thoreau|Thoreau]] was excellent in inferring universal law from a single fact. He was very good at cycling between observation and speculation. His wide use of allusion is also remarkable.
 
 He begins with his environment, imbue it with meaning, and proceeds to achieve temporal continuity, that is, the logical and coherent unfolding of events. This was more important to him than abstract ideas.
 

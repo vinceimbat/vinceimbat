@@ -15,7 +15,7 @@ The word action is a concept, a mental model used to describe a phenomena that o
 Actions has several parts:
 
 1. [[intention]]
-2. [[Means]] 
+2. [[means]] 
 3. [[end state]]
 4. [[review]]
 

@@ -10,7 +10,7 @@ tags:
 ---
 My mission is to [[living|live]] my life deliberately by continuously acting according to my [[intention|intentions]]. I want my intentions and [[action|actions]] to be informed by my [[jiyu shukyo|jiyū shūkyō]]—a free, creative, and inquiring [[spirituality]], founded on a deep and honest [[understanding|understanding]] of reality: myself, others, and the universe.
 
-Every day, I try to "suck all the marrow out of life" through a pursuit of [[thoughts/beauty|beauty]], [[meaning|meaning]], and [[wisdom|wisdom]]. I maintain several daily practices that help me do so. [[seiza|Seiza meditation]] and [[walking]] help me directly interact with the universe, while mindful [[reading]] and [[my studying process|studying]] through my [[talahardin]] help me learn from existing archetypes of the life I want to live.
+Every day, I try to "suck all the marrow out of life" through a pursuit of [[thoughts/beauty|beauty]], [[meaning|meaning]], and [[wisdom|wisdom]]. I maintain several daily practices that help me do so. [[seiza|Seiza meditation]] and [[walking]] help me directly interact with the universe, while mindful [[reading]], [[journaling]], and [[my studying process|studying]] through my [[talahardin]] help me learn from existing archetypes of the life I want to live.
 
 I strengthen my personal practices by joining and facilitating meditation and conversation with others: my partner, friends, and the [[kiitsu kyokai|kiitsū kyōkai]] community I'm a part of. Mindful that my actions always affect others, I practice [[compassion]] and strive to deepen my connection with fellow humans and other sentient beings.
 

@@ -1,14 +1,12 @@
 ---
-title: "means"
-date: "2021-12-14"
+title: means
+date: 2021-12-14
+aliases:
+  - Means
 tags:
-
-- "seedlings"
-sr-due: 2022-12-29
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-01-23
+sr-interval: 829
 sr-ease: 250
 ---
-
-
-
-# References

@@ -6,13 +6,13 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-10-19
+sr-interval: 3
+sr-ease: 250
 ---
 The main theme of his travel writing is not really what is seen or experienced during the trip but how he portrays himself. What he sees or experiences are presented as they are reflected in his mind.
 
-Thoreau's travel writing presents his exploration of his spirituality.
+[[henry david thoreau|Thoreau's]] travel writing presents his exploration of his spirituality.
 
 Thoreau's style mixes facts uncovered or representative of the place he is traveling, such as descriptive sketches and historical lore, with entertaining elements, such as verse fragments and prose poetry. Thoreau cycles between observation and speculation and neither of these two principles dominates.\
 
@@ -20,7 +20,7 @@ Thoreau's work is then hybrid: it is "part sketch, part information, part narrat
 
 Thoreau's guiding principle when writing about a thing he observes is to be in total relation with it. Walden is the work where Thoreau's most thorough and sophisticated level of observation. It could be considered a travelogue: Thoreau's interior travel.
 
-Among all of Thoreau's works though, A Week on the Concord and Merrimack Rivers is the most informed in the travel writing tradition.
+Among all of Thoreau's works though, [[a week thoreau|A Week on the Concord and Merrimack Rivers]] is the most informed in the travel writing tradition.
 
 # References
 

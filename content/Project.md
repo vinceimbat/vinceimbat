@@ -6,9 +6,9 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-10-30
+sr-interval: 14
+sr-ease: 290
 ---
 Project is a set of [[action]]s.
 
@@ -22,4 +22,4 @@ If you have a single life purpose, then that is your life’s intention.
 
 To satisfy that life purpose, you will have to do multiple projects, all of which have individual intentions. Each of these projects could require massive amounts of information.
 
-A key difference between a project and an action is that while [[Individual actions use fewer knowlege]], [[Projects require more complex information than individual actions]].
+A key difference between a project and an action is that while [[individual actions use fewer knowledge]] and [[projects require more complex information than individual actions]].

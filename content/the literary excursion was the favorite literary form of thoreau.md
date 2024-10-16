@@ -6,15 +6,15 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-10-19
+sr-interval: 3
+sr-ease: 250
 ---
 - ramble ("Walking")
 - trip (Cape Cod)
 - sojourn (Walden)
 
-In this romantic excursion, he narrates a spiritual quest as it proceeds. The latter half of Thoreau's journals had a similar form.
+In this [[literary excursion]], he narrates a spiritual quest as it proceeds. The latter half of [[henry david thoreau|Thoreau's]] journals had a similar form.
 
 The excursion does not feel obligated to be detailed in its description of a specific setting. Instead, it spends most of its time providing an account of the universe as a whole from the perspective of the author.
 

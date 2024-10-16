@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-16
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-10-19
+sr-interval: 3
+sr-ease: 250
 ---
-During Thoreau's time, there were two models of travelogues: sequential and topical. He preferred to use the first but used the second in Walden. It was understood even at his time that a travelogue doesn't have to have a coherent structure. While order was free, most travelogues at this time committed to totality.
+During [[henry david thoreau|Thoreau's]]  time, there were two models of travelogues: sequential and topical. He preferred to use the first but used the second in Walden. It was understood even at his time that a travelogue doesn't have to have a coherent structure. While order was free, most travelogues at this time committed to totality.
 
 Romantic travel writers needed to be very versed with observation, but they also had to go beyond this. In Thoreau's words, they have to tell "how they have happened to the universe." Generally, romantic excursions during Thoreau's day portrayed lightness—that the the travelogue would bring both writer and reader to a pastoral dream-world where everything is pleasant.
 
