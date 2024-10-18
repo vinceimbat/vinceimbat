@@ -14,7 +14,7 @@ Before you being, remember that you don’t have to follow the book’s structur
 To convert [[literature notes]] into [[evergreens]], do the following:
 
 1. Since writing permanent notes out of literature notes can take a lot of time that you might need to spread out in multiple work sessions, you could start everything in a single digital note first. Title this one note with the title of a book.
-2. Begin to cluster highlights and annotations ([[Fleeting notes]]) you've taken while reading around single big concepts. Think about this process of creating clusters as creating an index for a book. For definitions, collect usage examples in the text and definitions themselves to get a clear picture of the term’s meaning.
+2. Begin to cluster highlights and annotations ([[fleeting notes]]) you've taken while reading around single big concepts. Think about this process of creating clusters as creating an index for a book. For definitions, collect usage examples in the text and definitions themselves to get a clear picture of the term’s meaning.
 3. Write a title for these clusters as if you are writing note titles ([[How to write good note titles]]). This is helpful because these clusters could become individual notes or structure notes later.
 4. Bold this title.
 5. If there are multiple big concepts, then create multiple big concept titles within the digital note.

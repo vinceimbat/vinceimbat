@@ -6,10 +6,12 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-18
-sr-interval: 36
-sr-ease: 210
+sr-due: 2025-02-07
+sr-interval: 111
+sr-ease: 230
 ---
+An unconventional book by award-winning author [[glenn diaz|Glenn Diaz]]. It was published by [[paper trails|Paper Trails]].
+
 Braided essay that weaves two things:
 
 1. A narrative of a love story that ended in a break up set in Los Baños.

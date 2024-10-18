@@ -22,7 +22,7 @@ The general process is simple:
 
 A hallmark of works written using a Talahardin that readers notice is that they tend to [[Squeeze as much insight as possible into one publication]]. It is easy to do this because of the abundance of insights captured in notes that accumulate through time.
 
-Aside from making writing easier ([[Writing can be easy]]), [[Writing using permanent notes encourages a scout mindset]].
+Aside from making writing easier ([[writing can be easy]]), [[Writing using permanent notes encourages a scout mindset]].
 
 # References
 

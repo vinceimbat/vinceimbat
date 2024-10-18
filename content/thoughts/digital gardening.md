@@ -50,7 +50,7 @@ OLD OUTLINE
 
 # Guides
 
-Collecting [[Fleeting notes]] and writing [[literature notes]]
+Collecting [[fleeting notes]] and writing [[literature notes]]
 
 - [[consume information selectively]]
 - [[how to write literature notes]]
@@ -65,7 +65,7 @@ Retrieving notes
 
 Writing using permanent notes
 
-- [[A writing practice and a note-writing system makes publishing easier]]
+- [[a note-writing system makes writing easier]]
 - [[Write using permanent notes]]
 
 # Tools

@@ -7,9 +7,12 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-21
+sr-interval: 4
+sr-ease: 270
 ---
-This page tracks my personal expression of [[jiyu shukyo|jiyu shukyo]]. My free religion combines the following media of expression:
-- [[walking|walking]]
-- [[writing|writing]]
-- [[photography|photography]]
-- [[facilitating|facilitating]]
+My [[jiyu shukyo|jiyū shūkyō]] (自由宗教) consists of the following fields of inquiry:
+- [[western liberal religion]]
+- [[eastern liberal religion]]
+- [[filipino spirituality]]
+- creative expressions such as [[walking]], [[writing]], and [[photography]]

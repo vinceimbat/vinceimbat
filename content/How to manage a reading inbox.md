@@ -12,7 +12,7 @@ sr-ease: 250
 ---
 The purpose of a [[reading inbox]] is to capture potentially useful reading materials while filtering out the noise. It can only fulfill this purpose if reading materials do not accumulate indiscriminately and if you are, in fact, encouraged to read the best materials.
 
-To do this, you need to assure that [[Efficient inboxes are reliably drained]] by following these guidelines:
+To do this, you need to assure that [[efficient inboxes are reliably drained]] by following these guidelines:
 
 1. Selectively choose the information streams (i.e. newsletters, books, social media feed, etc.) you allow into your life. To do this, make sure that the information you consume are aligned with your current projects and purpose ([[purpose organizes your life]]).
 2. Regularly review these information streams to identify potentially useful reading materials. Skim through each stream, usually newsletters, and choose materials based on [[guidelines on what to add to your reading inbox]]. When you have made a choice, [[Add reading materials to your reading inbox manually]].

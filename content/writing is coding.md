@@ -1,12 +1,15 @@
 ---
 title: Writing is coding
 date: 2023-11-21
-tags:
-  - seedlings
+aliases:
+  - thoughts/writing-is-coding
 draft: false
-sr-due: 2023-11-22
-sr-interval: 1
-sr-ease: 230
+tags:
+  - thoughts
+  - seedlings
+sr-due: 2027-09-27
+sr-interval: 1075
+sr-ease: 250
 ---
 Words are also code. Like code, they can be a used to program what is perhaps the most powerful software of all: the mind.
 
