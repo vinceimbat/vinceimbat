@@ -92,7 +92,7 @@ Subjects
 Form
 - Use narrative passages.
 
-Aspire to write passionate speech by Cavell (See [[thoughts/living philosophy by edward mooney]])
+Aspire to write passionate speech by Cavell (See [[living philosophy mooney]])
 
 # References
 

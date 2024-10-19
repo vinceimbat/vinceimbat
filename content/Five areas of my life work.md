@@ -13,7 +13,7 @@ There are five categories of actions in the work that I do. These categories are
 
 1. [[understanding]]
 2. [[living]]
-3. [[Sharing]]
+3. [[sharing]]
 4. [[thoughts/connecting]]
 5. [[facilitating]]
 

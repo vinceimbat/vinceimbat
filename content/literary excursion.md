@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-19
-sr-interval: 3
+sr-due: 2024-10-28
+sr-interval: 9
 sr-ease: 250
 ---
 During [[henry david thoreau|Thoreau's]]  time, there were two models of travelogues: sequential and topical. He preferred to use the first but used the second in Walden. It was understood even at his time that a travelogue doesn't have to have a coherent structure. While order was free, most travelogues at this time committed to totality.

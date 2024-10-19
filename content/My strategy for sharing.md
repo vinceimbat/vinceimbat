@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 
-There is a tight connection between [[review]] and [[Sharing]]. Not all artifacts created during a creative session get shared, and perhaps they shouldn’t. Of course, strategies differ from person to person, but there is a big chance that you don't want to overwhelm your audience or yourself by oversharing. Reviews are necessary to determine which among the artifacts created are worth sharing.
+There is a tight connection between [[review]] and [[sharing]]. Not all artifacts created during a creative session get shared, and perhaps they shouldn’t. Of course, strategies differ from person to person, but there is a big chance that you don't want to overwhelm your audience or yourself by oversharing. Reviews are necessary to determine which among the artifacts created are worth sharing.
 
 In my strategy, a period of reviewing will usually be followed by a period of sharing.
 

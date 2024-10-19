@@ -1,13 +1,15 @@
 ---
-title: "Living Philosophy by Edward F. Mooney"
-date: "2022-10-07"
+title: Living Philosophy by Edward F. Mooney
+date: 2022-10-07
+aliases:
+  - thoughts/living-philosophy-by-edward-mooney
 tags:
-- "seedlings"
-sr-due: 2022-12-20
-sr-interval: 3
-sr-ease: 269
+  - literature
+  - seedlings
+sr-due: 2031-09-18
+sr-interval: 2525
+sr-ease: 289
 ---
-
 # Preface
 
 ## Narrative philosophy and religion could clarify and intensify our attitude about ourselves and the world
@@ -16,15 +18,15 @@ sr-ease: 269
 
 ## What Ed Mooney is looking for
 
-In the foreword of his book, *Living Philosophy*, [[edward mooney]] shares what kind of writers and writings he made as his life work. He prefers authors that mixed philosophy, religion, and literature. Authors who value action and "a yielding soul." Authors like:
-- [[michel de montaigne]]
-- [[henry david thoreau]]
-- [[soren kierkegaard]]
-- [[friedrich nietzsche]]
-- [[stanley cavell]]
-- [[herman melville]]
-- [[henry bugbee]]
-- [[ludwig wittgenstein]]
+In the foreword of his book, *Living Philosophy*, [[edward mooney|Edward Mooney]] shares what kind of writers and writings he made as his life work. He prefers authors that mixed philosophy, religion, and literature. Authors who value action and "a yielding soul." Authors like:
+- [[michel de montaigne|Michel de Montaigne]]
+- [[henry david thoreau|Henry David Thoreau]]
+- [[soren kierkegaard|Soren Kierkegaard]]
+- [[friedrich nietzsche|Friedrich Nietzsche]]
+- [[stanley cavell|Stanley Cavell]]
+- [[herman melville|Herman Melville]]
+- [[henry bugbee|Henry Bugbee]]
+- [[ludwig wittgenstein|Ludwig Wittgenstein]]
 
 He then identifies the kinds of writings from these authors that he thinks are interesting. He particularly focuses on narratives. These are the criteria he is looking for:
 - Narratives that present deep thoughtfulness
@@ -69,7 +71,7 @@ I like this word "living philosophy" by Mooney. He uses it to refer to philosoph
 
 ## Excessive secularization has hindered us from expressing our full selves
 
-Excessive secularization have prevented us from seeing mystery ([[Mysteries I believe in]]). Poetry aims to help us recover that sense of mystery.
+Excessive secularization have prevented us from seeing mystery ([[mysteries i believe in|mysteries I believe in]]). Poetry aims to help us recover that sense of mystery.
 
 Jolley, K. D. (2017). _Stony Lonesome_ (1st edition). Summerfield Publishing/New Plains Press.
 >We have become secular people, partial people; we no longer believe in, much less live in the interpenetration of the natural and the supernatural: we have lost that sense of mystery that creates ceremony, that reveals to us the garden of the world we live in. In our loss of that sense of mystery, we have lost what galvanizes us against sloth, prevents our souls from growing woolly and fungous … Blind to the seasons’ gifts, numb to nature … careless of ourselves and of others, bored alike by damnation and salvation, we become graceless by inaction. It is one (one) aim of poetry to recover that sense of mystery, to beckon us from sloth.

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-19
-sr-interval: 2
+sr-due: 2024-10-24
+sr-interval: 5
 sr-ease: 230
 ---
 Anitism is the pre-colonial Filipino spirituality. It is similar to [[animism]].

@@ -25,7 +25,7 @@ Right now, I am using the [[day job model]] to sustain my research activities. I
 
 A middle way from the Day Job model to financial independence is the [[patronage model]], which attracts me. [[thoughts/a patronage model is best for an independent creative]] mainly because it helps the researcher focus on his main goal: to produce insights and test them through prototypes, not really to earn profit.
 
-However, since I don’t have enough career capital, I need to bootstrap my audience. I need to pursue [[Sharing]] and [[thoughts/connecting]] to build and cultivate relationships first that I can convert into patrons in the future.
+However, since I don’t have enough career capital, I need to bootstrap my audience. I need to pursue [[sharing]] and [[thoughts/connecting]] to build and cultivate relationships first that I can convert into patrons in the future.
 
 I need to be ready with the possibility that no one will support my research financially, because it is too niche or its value is not easily seen, or it is too “selfish.” And this is why maintaining a day job and improving my financial life is so important for me.
 

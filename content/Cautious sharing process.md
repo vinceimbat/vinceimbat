@@ -11,7 +11,7 @@ sr-ease: 250
 
 The cautious sharing process is designed for highly sensitive people tired of the 21st century addiction to attentions-seeking behavior. It is a response to [[Sharing gone wrong]].
 
-The intentions of the cautious [[Sharing]]process (maingat na pagbabahagi) are:
+The intentions of the cautious [[sharing]]process (maingat na pagbabahagi) are:
 
 - To help one express oneself.
 - To connect with people who would love us.

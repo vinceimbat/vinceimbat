@@ -6,8 +6,8 @@ aliases:
 tags:
   - translations
   - seedlings
-sr-due: 2024-10-19
-sr-interval: 443
+sr-due: 2027-11-01
+sr-interval: 1108
 sr-ease: 250
 ---
 On his shoulder he carries  

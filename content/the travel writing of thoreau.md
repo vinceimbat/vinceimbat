@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-19
-sr-interval: 3
+sr-due: 2024-10-26
+sr-interval: 7
 sr-ease: 250
 ---
 The main theme of his travel writing is not really what is seen or experienced during the trip but how he portrays himself. What he sees or experiences are presented as they are reflected in his mind.

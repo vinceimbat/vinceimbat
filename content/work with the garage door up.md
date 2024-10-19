@@ -9,7 +9,7 @@ tags:
   - thoughts
   - seedlings
 ---
-This phrases refers to the process of [[Sharing]] one’s journey as it happens (i.e., [[Sharing the process]]). For [[thoughts/dan blank]], this is part of how to [[Be a gateway]] for other people. But it only happens when you prioritize [[process over product]].
+This phrases refers to the process of [[sharing]] one’s journey as it happens (i.e., [[Sharing the process]]). For [[thoughts/dan blank]], this is part of how to [[Be a gateway]] for other people. But it only happens when you prioritize [[process over product]].
 
 When a creative applies this principle, they also apply the classic writing advice “[[Show, don’t tell]].” Instead of telling how great their work is, they show how it is done and how it matters to their ideal audience. Doing this helps the audience feel less promoted to (see [[Anti-marketing]]) and encourages many of them to become advocates, especially when they see that their vision is aligned to yours. Here is [[A list of process artifacts I could share]].
 

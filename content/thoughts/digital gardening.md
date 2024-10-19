@@ -15,7 +15,7 @@ I see some parallelism between [[henry bugbee]]'s ethic and the values inherent 
 
 It is clear to me by now that if my primary goal when [[writing]] is [[understanding]], I should follow the tradition of digital gardening rather than blogging. This means I need to stick to the plan of cultivating [[thoughts/forest garden of the mind]] and optimizing how that cultivation happens. By doing so, I am actually giving myself permission to explore different genres: notes, poetry, vignettes, and essays, and, therefore, play more.
 
-That said, the problem with digital gardening is that digital gardens, unlike blogs, are not as conducive to [[Sharing]]. For this problem, here are [[Publishing strategies for digital gardeners]].
+That said, the problem with digital gardening is that digital gardens, unlike blogs, are not as conducive to [[sharing]]. For this problem, here are [[Publishing strategies for digital gardeners]].
 
 ***
 NEW OUTLINE

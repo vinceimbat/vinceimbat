@@ -15,7 +15,7 @@ There are many collectives of people who, by example, have shown the way to do t
 
 Once identified, my personal family tree of influences will signify the pantheon from which I have received the gift and from which I could return the gift via the enrichment of this tradition.
 
-If the lessons and examples of these people were a gift, then after truly accepting and using them, I have to continue its movement. Teaching and [[Sharing]] are inevitable. If living is my art, then living is what has to be taught, shared, and gifted to others.
+If the lessons and examples of these people were a gift, then after truly accepting and using them, I have to continue its movement. Teaching and [[sharing]] are inevitable. If living is my art, then living is what has to be taught, shared, and gifted to others.
 
 How to do this? Look for answers from the very people who influence you.
 

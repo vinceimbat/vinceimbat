@@ -1,14 +1,15 @@
 ---
-title: "Sharing"
-date: "2021-02-11"
+title: Sharing
+date: 2021-02-11
+aliases:
+  - Sharing
 tags:
-
-- "seedlings"
-sr-due: 2022-09-26
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-05-30
+sr-interval: 953
 sr-ease: 251
 ---
-
 This is the third among the [[Five areas of my life work]].
 
 The purpose of sharing is to fully and authentically express mysef in a way that is both refreshing to me and to the person receiving my message, thus contributing to a culture of sharing.
