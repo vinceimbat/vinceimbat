@@ -18,4 +18,4 @@ When you doubt your current job, you will start looking for other places that ca
 
 Doubt is an important part of a rich life because it is a space where we finally meet our true selves and those of others. This is especially true because [[we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]]
 
-[[thoughts/doubt allows freedom|Doubt allows freedom]], and [[thoughts/freedom leads to ginhawa|freedom leads to ginhawa]].
+[[thoughts/doubt allows freedom|Doubt allows freedom]], and [[freedom leads to ginhawa|freedom leads to ginhawa]].

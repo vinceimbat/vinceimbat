@@ -13,7 +13,7 @@ My purpose is to live a good life, i.e., to self-actualize and eventually transc
 
 ## What is the purpose of the life management system?
 
-[[A life management system should free your mind]]
+[[a life management system should free your mind]]
 
 [[Build a life management system that helps you be at peace with your choices of action]]
 
@@ -35,7 +35,7 @@ Integrating a life management system in my life, involved introducing three thin
 - Structures
 - Habits
 
-Tools require time and effort to learn. The same can be said with getting used to structures and incorporating habits. If I start by looking for the most optimal tools, structures, and habits to implement, I will be too overwhelmed to start and make progress. It became clear to me early on that it is best to integrate an LMS in my life slowly and with modest goals. I started by building a [[Minimum viable life management system]] then optimized along the way as I got more used to it.
+Tools require time and effort to learn. The same can be said with getting used to structures and incorporating habits. If I start by looking for the most optimal tools, structures, and habits to implement, I will be too overwhelmed to start and make progress. It became clear to me early on that it is best to integrate an LMS in my life slowly and with modest goals. I started by building a [[minimum viable life management system]] then optimized along the way as I got more used to it.
 
 ## Ground level: Capture and organize actionable and non-actionable information
 

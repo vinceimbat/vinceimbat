@@ -20,7 +20,7 @@ sr-ease: 270
 **Chapter 2**
 
 **You learn something rapidly if you are curious enough about it**
-[[Use curiosity to guide your thinking]]
+[[use curiosity to guide your thinking]]
 
 >I find it useful to think of these principles as ways to cultivate a “temporary obsession.” Rapid skill acquisition happens naturally when you become so curious and interested in something that other concerns fall away, at least temporarily.
 

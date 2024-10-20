@@ -9,7 +9,7 @@ sr-due: 2023-05-23
 sr-interval: 3
 sr-ease: 251
 ---
-Life is super complex (see [[Planning an entire life is impossible]]). Our [[life management system]] needs to be simple to accomodate our mind's limitations (see [[A life management system should free your mind]]; [[Build a life management system that helps you take intentional action]]). But it shouldn't be very simple that it fails to accomodate complexity.
+Life is super complex (see [[Planning an entire life is impossible]]). Our [[life management system]] needs to be simple to accomodate our mind's limitations (see [[a life management system should free your mind]]; [[Build a life management system that helps you take intentional action]]). But it shouldn't be very simple that it fails to accomodate complexity.
 
 Complexity should be allowed in a life management system. And visual reminders of the complexity should exist lest we forget about this fact.
 

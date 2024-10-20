@@ -7,11 +7,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-20
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-31
+sr-interval: 11
+sr-ease: 270
 ---
-The transcendentalists were torn between the relationship of inspiration and craft. They went to nature to find inspiration. They were romantics on steroids. And yet inspiration is so hard to come by. You seek the right moment and place and they you get bitten by ants.
+The [[transcendentalism|transcendentalists]] were torn between the relationship of inspiration and craft. They went to nature to find inspiration. They were romantics on steroids. And yet inspiration is so hard to come by. You seek the right moment and place and they you get bitten by ants.
 
 Perhaps, writing should be treated like [[meditation]]. Our relationship with it should be portable. We should be able to do it anywhere and use it from the simplest to the biggest tasks. It should be subsistent: it shouldn't ask a lot from us to do it.
 

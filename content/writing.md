@@ -10,6 +10,9 @@ tags:
 sr-due: 2024-10-20
 sr-interval: 1
 sr-ease: NaN
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
 Writing is my main craft. I've cultivated an intimate relationship with writing since the [[depression]] diaries I kept in 2012, the notebooks I wrote on to cope with my health issues, the blogs I've written, the diaries I've been keeping since 2018, the [[talahardin]], the writing I've done with others—FLOW, Rem, Tungko, writing with Uwa and Lea, and even the writings I've sent for workshops and publications. What I've learned from all those writing is that writing for me is an act of reverence. I treat words that come out of me as valuable gems or seeds—miracles waiting to happen. This is an even deeper poetics than a walking poetics. To see my words and my writing as something that could build up a person in any way.
 

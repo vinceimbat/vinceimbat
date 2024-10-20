@@ -6,15 +6,15 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-20
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-31
+sr-interval: 11
+sr-ease: 270
 ---
 Among the benefits of using a note-writing system are:
 
-- It facilitates thinking ([[Writing is the best facilitator for thinking]]).
-- It breaks writing into smaller tasks ([[Working on smaller tasks creates a sense of control]]).
-- It takes advantage of curiosity ([[Use curiosity to guide your thinking]]).
-- It resists planning ([[Planning is unsuitable for thinking]]).
+- It facilitates thinking ([[writing facilitates thinking]]).
+- It breaks writing into smaller tasks ([[working on smaller tasks creates a sense of control]]).
+- It takes advantage of curiosity ([[use curiosity to guide your thinking]]).
+- It resists planning ([[planning is unsuitable for thinking]]).
 
-To make the most of these benefits, [[Grow the Talahardin to complexity]].
+To make the most of these benefits, [[grow the talahardin to complexity]].

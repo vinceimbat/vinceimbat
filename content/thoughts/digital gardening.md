@@ -25,7 +25,7 @@ OLD OUTLINE
 # Principles
 
 - Externalize your thinking.
-   - [[Writing is the best facilitator for thinking]]
+   - [[writing facilitates thinking]]
 - Make your workflow motivating and sustainable.
    - [[Establish a workflow that is motivating]]
    - [[Combine curiosity with a note-writing system and practice]]
@@ -44,8 +44,8 @@ OLD OUTLINE
 # Benefits of Zettelkasten
 
 - [[Talahardin improves your thinking and vice versa]]
-- [[Working on smaller tasks develops intuition]]
-- [[Working on smaller tasks creates a sense of control]]
+- [[working on smaller tasks develops intuition]]
+- [[working on smaller tasks creates a sense of control]]
 - [[Numerous feedback loops produce expertise and intuition]]
 
 # Guides

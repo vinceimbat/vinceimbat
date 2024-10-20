@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 268
 ---
 
-A good workflow should be structured in a way that optimizes autonomy ([[Freedom motivates us]], [[Autonomy lengthens your life]]). It should allow us to choose what we want to work on at any given time and transition smoothly from one task to another without compromising the bigger picture. A good workflow takes into consideration that everything is interconnected but are also mutually separate from one another. We need a system that is as comprehensive as GTD but suitable for an open-ended process. Such a workflow is made up of small tasks as [[Working on smaller tasks creates a sense of control]] ([[break down your work into small and clearly separated tasks]]). [[my workflow]] should be optimized for freedom.
+A good workflow should be structured in a way that optimizes autonomy ([[freedom motivates us]], [[autonomy lengthens your life]]). It should allow us to choose what we want to work on at any given time and transition smoothly from one task to another without compromising the bigger picture. A good workflow takes into consideration that everything is interconnected but are also mutually separate from one another. We need a system that is as comprehensive as GTD but suitable for an open-ended process. Such a workflow is made up of small tasks as [[working on smaller tasks creates a sense of control]] ([[break down your work into small and clearly separated tasks]]). [[my workflow]] should be optimized for freedom.
 
 To do
 

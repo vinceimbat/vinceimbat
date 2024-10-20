@@ -6,9 +6,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-20
-sr-interval: 3
-sr-ease: 252
+sr-due: 2024-11-01
+sr-interval: 12
+sr-ease: 272
 ---
 Breaking down your work into small tasks allows you to focus on one thing at a time, finish fast, and finish many.
 
@@ -21,8 +21,8 @@ Other benefits of breaking down writing into small tasks include:
 - Working on smaller tasks makes it much easier to get started
 - Working on smaller tasks makes receiving feedback easier
 - Working on smaller tasks allows breaks without losing the thread
-- [[Working on smaller tasks creates a sense of control]]
-- [[Working on smaller tasks develops intuition]]
+- [[working on smaller tasks creates a sense of control]]
+- [[working on smaller tasks develops intuition]]
 
 # To do
 
