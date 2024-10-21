@@ -1,10 +1,15 @@
 ---
-title: "How to do and write lyrical philosophy"
-date: "2023-07-27"
+title: How to do and write lyrical philosophy
+date: 2023-07-27
+aliases:
+  - thoughts/how-to-practice-and-write-lyrical-philosophy
 tags:
-- "seedlings"
+  - thoughts
+  - seedlings
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
-
 There are two areas under lyrical philosophy:
 1. Practice
 2. Writing
@@ -45,9 +50,9 @@ Mooney's method
 This is where walking can be integrated into philosophy. Use everything around you as prompt for philosophizing. Remember Martin Bunzl:
 >"What I found early in my career was that there are two different ways to do philosophy, at least the kind of philosophy I do, which is analytic philosophy. One is to focus very hard on the steps in an argument when you are trying to assess whether or not it is a good argument. But there's another way to do philosophy, which is to try to relax and let your mind wander and be surprised by the associations that you get."
 
-See [[thoughts/my thinking while walking strategy]].
+See [[my thinking while walking strategy]].
 
-Bunzl produced analytical philosophy. I want to produce beautiful words that delve into existence and foundational issues. How do I pull this of? Only [[annie dillard]] comes to mind.
+Bunzl produced analytical philosophy. I want to produce beautiful words that delve into existence and foundational issues. How do I pull this of? Only [[annie dillard|Annie Dillard]] comes to mind.
 
 Raise the most profound questions but refuse to provide satisfying answers.
 
@@ -92,7 +97,7 @@ Subjects
 Form
 - Use narrative passages.
 
-Aspire to write passionate speech by Cavell (See [[living philosophy mooney]])
+Aspire to write passionate speech by Cavell (See [[living philosophy mooney|Living Philosophy]])
 
 # References
 

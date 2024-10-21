@@ -9,7 +9,7 @@ tags:
 ---
 [[walking|Walking]] is [[meditation]]. Your mind still continues to function. But it fluctuates between thinking and experiencing. One can continue to think while walking. For some, like [[friedrich nietzsche]], all thinking is done while walking. In fact, walking is a very potent thinking tool because [[walking changes your perspective]]. However, the very reason that triggers thinking while walking is also the trigger that stops one from thinking while walking, or at least tame the thinking mind to stop it from over-wandering. The physicality of a walk and one's exposure to Nature frequently leads to a total halt of walking, emptying the mind, and letting mere presence settle, which, in turn, makes thinking better (this reminds me of: [[Interjecting socialization in between intense mind work is fruitful]]).
 
-Thus, [[thoughts/my thinking while walking strategy]].
+Thus, [[my thinking while walking strategy]].
 
 # Related
 

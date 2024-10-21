@@ -14,7 +14,7 @@ Interestingly, the cheaper and more democratized our thought and writing technol
 
 Today, with electronic files making it so easy to make revisions and even to track these, there is no better time to intentionally see one's body of work as a perpetual draft and to experiment with draft-like techniques.
 
-It is not surprising that [[thoughts/digital gardening|digital gardening]], say through [[thoughts/my forest garden of the mind|my forest garden of the mind]], fits perfectly well with walking and working with drafts (see [[thoughts/writing using the talahardin is archival work|writing using the talahardin is archival work]]).
+It is not surprising that [[digital gardening|digital gardening]], say through [[thoughts/my forest garden of the mind|my forest garden of the mind]], fits perfectly well with walking and working with drafts (see [[thoughts/writing using the talahardin is archival work|writing using the talahardin is archival work]]).
 
 # References
 

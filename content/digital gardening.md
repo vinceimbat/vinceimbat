@@ -2,25 +2,22 @@
 title: Digital gardening
 date: 2022-08-20
 aliases:
-  - Digital gardening
+  - Digital-gardening
+  - thoughts/digital-gardening
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-01-16
-sr-interval: 106
-sr-ease: 270
+sr-due: 2025-03-04
+sr-interval: 134
+sr-ease: 250
 ---
 Digital gardens are intentionally less performative than traditional blogs. They share works that are "under construction" ([[work with the garage door up]]).
 
-I see some parallelism between [[henry bugbee]]'s ethic and the values inherent in digital gardening. A work of writing is decisively done at any given moment even if it is unfinished once it is shared. Once you provided the public with a peek of it, it is done. Inauthenticity happens when you force yourself to declare "finish" what isn't finish, when you declare "sure" what is unsure. Declare. Share me when you are. But don't fake it. I want to know the truth.
+I see some parallelism between [[henry bugbee|Henry Bugbee]]'s ethic and the values inherent in digital gardening. A work of writing is decisively done at any given moment even if it is unfinished once it is shared. Once you provided the public with a peek of it, it is done. Inauthenticity happens when you force yourself to declare "finish" what isn't finish, when you declare "sure" what is unsure. Declare. Share me when you are. But don't fake it. I want to know the truth.
 
-It is clear to me by now that if my primary goal when [[writing]] is [[understanding]], I should follow the tradition of digital gardening rather than blogging. This means I need to stick to the plan of cultivating [[thoughts/forest garden of the mind]] and optimizing how that cultivation happens. By doing so, I am actually giving myself permission to explore different genres: notes, poetry, vignettes, and essays, and, therefore, play more.
+It is clear to me by now that if my primary goal when [[writing]] is [[understanding]], I should follow the tradition of digital gardening rather than blogging. This means I need to stick to the plan of cultivating the [[talahardin]] and optimizing how that cultivation happens. By doing so, I am actually giving myself permission to explore different genres: notes, poetry, vignettes, and essays, and, therefore, play more.
 
-That said, the problem with digital gardening is that digital gardens, unlike blogs, are not as conducive to [[sharing]]. For this problem, here are [[Publishing strategies for digital gardeners]].
-
-***
-NEW OUTLINE
-
-OLD OUTLINE
+That said, the problem with digital gardening is that digital gardens, unlike blogs, are not as conducive to [[sharing]]. For this problem, here are [[publishing strategies for digital gardeners]].
 
 # Principles
 

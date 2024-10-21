@@ -16,7 +16,7 @@ Original thinking does not always mean discovering ambitious, grounbreaking idea
 # Related
 
 - [[Words written outdoors vs indoors]]
-- [[thoughts/my thinking while walking strategy]]
+- [[my thinking while walking strategy]]
 
 # References
 

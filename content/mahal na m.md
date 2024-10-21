@@ -7,8 +7,8 @@ tags:
   - essays
   - filipino
   - seedlings
-sr-due: 2024-10-21
-sr-interval: 45
+sr-due: 2025-02-10
+sr-interval: 112
 sr-ease: 250
 ---
 Mahal na M,

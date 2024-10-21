@@ -1,17 +1,16 @@
 ---
-title: "My thinking while walking strategy"
-date: "2021-12-14"
+title: My thinking while walking strategy
+date: 2021-12-14
 aliases:
-- "My-thinking-while-walking-strategy"
-- "thoughts/my-thinking-while-walking-strategy"
+  - My-thinking-while-walking-strategy
+  - thoughts/my-thinking-while-walking-strategy
 tags:
-
-- "seedlings"
-sr-due: 2027-09-28
-sr-interval: 1523
-sr-ease: 270
+  - thoughts
+  - seedlings
+sr-due: 2040-07-11
+sr-interval: 5742
+sr-ease: 290
 ---
-
 Walk at a set time every day (or as often as possible).
 
 Practice mindfulness: Look around or simply look at the ground while walking. Alternate between these modes.

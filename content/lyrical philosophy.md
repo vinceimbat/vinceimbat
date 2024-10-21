@@ -32,7 +32,7 @@ Note that the term "lyrical philosophy" is not as accepted or used in academia a
 
 # Related
 
-- [[thoughts/how to practice and write lyrical philosophy]]
+- [[how to practice and write lyrical philosophy]]
 - [[lyrical philosophy reading list]]
 
 # References

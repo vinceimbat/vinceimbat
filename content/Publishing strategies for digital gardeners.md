@@ -1,15 +1,16 @@
 ---
-title: "Publishing strategies for digital gardeners"
-date: "2022-10-01"
+title: Publishing strategies for digital gardeners
+date: 2022-10-01
+aliases:
+  - Publishing-strategies-for-digital-gardeners
 tags:
-
-- "seedlings"
-sr-due: 2022-10-02
-sr-interval: 1
-sr-ease: 230
+  - thoughts
+  - seedlings
+sr-due: 2031-06-28
+sr-interval: 2441
+sr-ease: 250
 ---
-
-I know I wanted to do [[thoughts/digital gardening]], to nurture [[thoughts/forest garden of the mind]], but  I also want to build an audience around that garden, to share my work there to others who could find it useful. How do other digital gardeners share their work and build a following?
+I know I wanted to do [[digital gardening]], to nurture [[thoughts/forest garden of the mind]], but  I also want to build an audience around that garden, to share my work there to others who could find it useful. How do other digital gardeners share their work and build a following?
 
 [[hundred rabbits]]
 - They publish a monthly newsletter via TinyLetter. The newsletter is just a short one to two-paragraph piece that contains links to changes in their software and new page addditions to their digital garden website.
@@ -34,7 +35,7 @@ https://aengusmcmillin.com/newsletter
 - Weekly
 - Progresses and recommendations
 
-## My solution
+# My solution
 
 Intellectual work produces lots of notes and artifacts in my forest garden. These accumulates. If I do a monthly piece like Hundred Rabbits, I end up with a lenghty almost unreadable piece. An obvious solution is to cut the publishing process to weekly. I will still do a quick newsletter linking to works from the forest garden.
 
@@ -49,5 +50,3 @@ The only problem with weekly newsletters is I had a hard time maintaining them i
 Remember that you have two goals when writing:
 1. Primary: To process my thoughts, experiences, and emotions so I can improve understanding.
 2. Secondary: To leave footprints and archetypes for others in a similar path to make use of in their own journeys.
-
-# References
