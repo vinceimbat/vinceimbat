@@ -9,7 +9,7 @@ sr-due: 2022-08-21
 sr-interval: 3
 sr-ease: 250
 ---
-A [[thoughts/spaced repetition writing system]] combines two evidence-based approaches to learning: (1) [[Write permanent notes about what you read to test understanding]] and (2) [[thoughts/spaced repetition]].
+A [[thoughts/spaced repetition writing system]] combines two evidence-based approaches to learning: (1) [[Write permanent notes about what you read to test understanding]] and (2) [[spaced repetition]].
 
 A spaced repetition writing system is motivating because it is designed to help you work more on ideas that are really interesting to you incrementally—just a few prompts a day, which you return to in different intervals. By following this process, you avoid ignoring the piling inklings you collected in your [[writing inbox]] and effectively drain them to write [[evergreens]]. The system allows you to [[Combine curiosity with a note-writing system and practice]] and [[use curiosity to guide your thinking]] thus [[Establish a workflow that is motivating]].
 

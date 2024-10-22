@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-Be mindful that the current [[thoughts/annual review|annual review]] article will be used as a reference to the next annual review article. The article should be published first through the blog, then newsletter, then social media.
+Be mindful that the current [[annual review|annual review]] article will be used as a reference to the next annual review article. The article should be published first through the blog, then newsletter, then social media.
 
 Here are the annual reviews I've published through the years:
 - [[2013-2014 annual review|2013-2014 annual review]]

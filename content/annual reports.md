@@ -7,7 +7,7 @@ tags:
   - thoughts
   - evergreens
 ---
-To create an annual report, simply copy and paste eache [[monthly reports]] summary under the corresponding month in the [[Annual report format]].
+To create an annual report, simply copy and paste eache [[monthly reports]] summary under the corresponding month in the [[annual report|annual report template]].
 
 # Annual reports
 

@@ -12,5 +12,5 @@ I have brought to life a creative [[spirituality]]—a way of life—customized 
 
 # Related
 
-- For a more detailed long-term vision, see [[thoughts/my best future self exercise|my best future self exercise]].
+- For a more detailed long-term vision, see [[my best future self exercise|my best future self exercise]].
 - For a shorter, one-year visions, see [[personal narrative vision|personal narrative vision]].

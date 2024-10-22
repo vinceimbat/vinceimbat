@@ -27,7 +27,7 @@ As listed in [[living]], I can facilitate the application of methods and systems
 - Designing a ground-level productivity system
 - Reconnecting with one’s [[thoughts/true self]]
 - Designing a system that aligns one’s actions with one’s true self
-- Building a [[Personal knowledge management]] system
+- Building a [[personal knowledge management]] system
 - Using systems and methods to accomplish basic well-being goals
 - Creating a personal philosophy of living
 - Creating a life manual

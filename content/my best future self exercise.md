@@ -1,11 +1,11 @@
 ---
-title: "My best future self exercise (2020 version)"
-date: "2023-08-01"
+title: My best future self exercise (2020 version)
+date: 2023-08-01
+aliases:
+  - my-best-future-self-exercise
 tags:
-- "seedlings"
-sr-due: 2023-08-04
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - evergreens
 ---
 Depression has been a foreign concept to me. I can no longer remember what it feels like. It's as if it never happened. I am completely free from prescription and psychotropic drugs. I have the healthiest brain and mind I could ever have. I have replaced all my bad habits with good habits. I live an active lifestyle. I engage with physical activity every single day, which balances my intellectual work. I have more positive energy every day. I feel vibrant and energetic every single day. I have the best body I could ever have. I feel deep inner peace every single day, from the moment I wake up to the moment I sleep. Today, like any other day, I wake up feeling like my best. I had nine hours of sleep last night because I have prioritized good sleep for many years already and I can no longer live without it. I am mentally sharp, ready to take on my day. My partner has woken up before me. She is an early riser and is already performing her own set of morning routine: doing yoga, drinking ACV, journaling, and exercising. She does this to prioritize her well-being before the kids wake up.
 

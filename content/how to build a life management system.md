@@ -2,32 +2,33 @@
 title: How to build a life management system
 date: 2022-03-16
 aliases:
-  - How to build a life management system
+  - How-to-build-a-life-management-system
+  - thoughts/how-to-build-a-life-management-system
 tags:
+  - thoughts
   - seedlings
-sr-due: 2023-05-26
-sr-interval: 33
-sr-ease: 248
+sr-due: 2025-01-11
+sr-interval: 81
+sr-ease: 228
 ---
-My purpose is to live a good life, i.e., to self-actualize and eventually transcend. Fulfilling this purpose involves too much information for my brain to handle. I need a well-thought of tool based on philosophy, psychology, and praxeology to help me keep track of my journey towards fulfilling my purpose. Enter the life management system.
+Fulfilling my [[purpose statement]], [[vision statement]], and [[mission statement]] involves managing a sizable amount of information. To manage this information and track my journey toward fulfilling my goals, I need a [[life management system]].
 
-## What is the purpose of the life management system?
+# What is the purpose of the life management system?
 
-[[a life management system should free your mind]]
-
-[[Build a life management system that helps you be at peace with your choices of action]]
+- [[a life management system should free your mind]]
+- [[build a life management system that helps you be decisive]]
 
 A life management system can also be a meaning-making machine. By incorporating journaling and public writing, taking photographs, writing about my days, and reviewing them, I am able to find patterns and narratives that really help me to savor each moment.
 
 # Theory: Understand the concepts behind a life management system
 
-[[life management system]]
+- [[life management system]]
 
 # Framework: Apply the concepts through a structure
 
 The framework of my life management system is the structure I follow to implement the insights and lessons I learned from studying the theory behind it. As my understanding of the theory strengthens, so will this framework.
 
-In building any system or tool, I follow the design principle [[Choose the minimum viable tool or solution first]] before optimizing. I try to solve problems using the least amount of resources to avoid waste.
+In building any system or tool, I follow the design principle [[choose the minimum viable tool or solution first]] before optimizing. I try to solve problems using the least amount of resources to avoid waste.
 
 Integrating a life management system in my life, involved introducing three things:
 
@@ -39,9 +40,9 @@ Tools require time and effort to learn. The same can be said with getting used t
 
 ## Ground level: Capture and organize actionable and non-actionable information
 
-The [[thoughts/ground level]] captures and organizes [[Loose ends]]. Per [[getting things done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[00 - A/Sky level]].
+The [[ground level]] captures and organizes [[open loops]]. Per [[getting things done|Getting Things Done]], it is better to start organizing your life by tackling your loose ends first so that you are freed with mental space that you can use to think about your [[sky level]].
 
-Here is [[my lms ground level setup]].
+Here is [[my lms ground level setup|my LMS ground level setup]].
 
 ## Sky level: Get clear about what you want
 
@@ -50,24 +51,24 @@ Once I had my ground level in place and have acquainted myself to it, I was able
 1. Write a [[purpose statement]].
    - Ideally, this is the first step. However, I found articulating my [[purpose]] very tricky and difficult at first as I wasn’t clear about the point and meaning of life. Even if I had enough self-knowledge, answering the question “Why do you live?” was still difficult. I decided to use a temporary purpose and skipped thinking about it altogether and focused on working with my life areas first.
    - Purpose statement: [[my purpose statement]].
-1. Do the best future self exercise to create a vision.
-   - [[thoughts/my best future self exercise]]
-1. Write a [[mission statement]].
+2. Do the best future self exercise to create a vision.
+   - [[my best future self exercise]]
+3. Write a [[mission statement]].
    - [[my mission statement]]
-1. Divide life into life areas.
+4. Divide life into [[life area|life areas]]
    - Life areas are important to make sense of divergent projects ([[areas are mini life purposes]]).
-   - [[maslow hierarchy of needs are life areas]].
-1. Divide life areas into sub-areas if necessary.
+   - [[maslow hierarchy of needs are life areas|Maslow hierarchy of needs are life areas]].
+5. Divide life areas into sub-areas if necessary.
    - [[divide areas into sub-areas for easier tracking]]
-1. Set goals for each life area.
-   - Here are my [[thoughts/life goals]].
+6. Set goals for each life area.
+   - Here are my [[life goals]].
    - Remember that each goal shall be tied to a project eventually.
 
 ## Reviews
 
 After setting up a system to organize your actions and a system to organize your areas and goals, it is important to set up systems to look back at your actions and evaluate whether you have succeeded in your aspirations. To maintain awareness of the connection of individual actions with goals and areas, implement a multi-layered review system.
 
-1. Use an [[thoughts/annual review]].
+1. Use an [[annual review]].
    - The purpose of the annual review is to create a meaningful connection between what you accomplished in your monthly projects and areas, and your Sky level (i.e., purpose, vision, and mission).
    - I use the annual review to aggregate an annual report, which I use to create new goals and a new vision for the coming year.
    - I then write an annual review article that I share to the public.
@@ -81,7 +82,7 @@ After setting up a system to organize your actions and a system to organize your
 1. Use a [[weekly review]].
    - The purpose of the weekly review is to process all accumulated loose ends in all inboxes both actionable and non-actionable and to make sure that projects and tasks are up-to-date.
    - Here is [[my weekly review routine]].
-1. Use a [[thoughts/daily review]].
+1. Use a [[daily review]].
    - The purpose of the daily review is to choose and perform actions  for the day from all the options you have articulated.
    - Here is [[my daily review routine]].
 

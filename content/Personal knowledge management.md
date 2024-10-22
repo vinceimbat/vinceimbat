@@ -1,15 +1,12 @@
 ---
-title: "Personal knowledge management"
-date: "2021-02-11"
+title: Personal knowledge management
+date: 2021-02-11
+aliases:
+  - Personal-knowledge-management
 tags:
-
-- "seedlings"
-sr-due: 2022-09-07
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-06-27
+sr-interval: 978
 sr-ease: 250
 ---
-
-
-
-# References
-

@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-22
-sr-interval: 3
-sr-ease: 230
+sr-due: 2024-11-03
+sr-interval: 12
+sr-ease: 250
 ---
-Certain positions while writing produce certain emotional responses. How we move our hands, how we breath, how we are seated, or how our body is positioned affects what comes out of our mind.
+Certain positions while [[writing]] produce certain emotional responses. How we move our hands, breathe, seated, or how our body is positioned affects what comes out of our mind.
 
 The embodied experience of writing is important to consider when writing alone, but it becomes even more important while writing with others. This is because it is when we decide to write together and share that writing that past traumas we have about writing emerge.
 
@@ -19,3 +19,5 @@ So when conducting a workshop, it is important to consider:
 - the body of the writer
 - the rules
 - the prompt
+
+This is something I learned from [[writing alone and with others schneider|Writing Alone and With Others]].

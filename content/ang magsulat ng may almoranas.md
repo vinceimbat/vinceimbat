@@ -7,8 +7,8 @@ tags:
   - essays
   - filipino
   - seedlings
-sr-due: 2024-10-22
-sr-interval: 32
+sr-due: 2025-01-04
+sr-interval: 74
 sr-ease: 230
 ---
 Hindi biro ang magsulat ng may almoranas. Nakahiga ako ngayon sa aking tiyan na natuklasan kong pinakamaginhawang posisyon para makapagsulat ako sa kalagayang ito. Hirap kasi ako kapag nakaupo. Ok naman sa umpisa kapag nakatayo, pero mayamaya pa nararamdaman ko na rin ang sakit. Hirap din akong maglakad ngayon—bagay na pinakanakapagpabagabag dahil sa mga paglalakad talaga ako madalas nakapagsusulat. Ayoko namang subukang magsulat habang nakapatong ang ulo ko sa unan baka makatulog ako. Itong posisyon ko ngayon ang compromise. Dahil panahon ito na maraming dapat sulatin.

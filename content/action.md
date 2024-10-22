@@ -43,7 +43,7 @@ There are two kinds of action:
 1. Thinking about what action to take
 2. Doing the specific action
 
-The first occurs in the [[sky level]] of the [[life management system]], while the latter occurs at the [[thoughts/ground level]]. [[living]] is about going back and forth between these two kinds of action. This back and forth makes sure that one is doing the right thing and doing it as present and mindful as possible.
+The first occurs in the [[sky level]] of the [[life management system]], while the latter occurs at the [[ground level]]. [[living]] is about going back and forth between these two kinds of action. This back and forth makes sure that one is doing the right thing and doing it as present and mindful as possible.
 
 ---
 A study of action involves an understanding of both mental and physical states because an action also contains a mental state. However, it happens at a very specific point in time. It does not include the mental states before and after its performance. Action occurs in between these mental states. Understanding action also involves a study of the rational calculations that man use to arrive at particular choices of action.

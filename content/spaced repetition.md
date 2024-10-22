@@ -1,11 +1,14 @@
 ---
 title: spaced repetition
 date: 2023-08-21
+aliases:
+  - thoughts/spaced-repetition
+draft: false
 tags:
+  - thoughts
   - seedlings
-draft:
-sr-due: 2023-09-30
-sr-interval: 3
+sr-due: 2026-02-27
+sr-interval: 493
 sr-ease: 250
 ---
 The *spacing effect* was reported by a German psychologist Hermann Ebbinghaus in 1885. He observed that we tend to remember things more effectively, if we spread reviews out over time, instead of studying multiple times in one session. Since the 1930s, there have been a number of proposals for utilizing the spacing effect to improve learning, in what has come to be called *spaced repetition*.

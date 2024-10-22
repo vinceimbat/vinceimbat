@@ -2,8 +2,10 @@
 title: Life goals
 date: 2022-08-18
 aliases:
-  - Life goals
+  - Life-goals
+  - thoughts/life-goals
 tags:
+  - thoughts
   - evergreens
 ---
 All of my life goals are listed comprehensively in [[my life goals master list|my life goals master list]]. I then track which goals to pursue yearly following the process in [[how to set goals|how to set goals]].

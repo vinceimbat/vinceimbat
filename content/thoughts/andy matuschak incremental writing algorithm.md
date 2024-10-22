@@ -6,7 +6,7 @@ aliases:
 tags:
   - evergreens
 ---
-To use [[thoughts/spaced repetition]] using the Spaced Repetition [plugin](https://github.com/st3v3nmw/obsidian-spaced-repetition) in [[obsidian]], take note of the following equivalents:
+To use [[spaced repetition]] using the Spaced Repetition [plugin](https://github.com/st3v3nmw/obsidian-spaced-repetition) in [[obsidian]], take note of the following equivalents:
 
 - Skip = Good
 - Fruitful = Hard
