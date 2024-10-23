@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-When writing, you should be able to change your mind about your first idea, instead of being compelled to stick to it. This [[freedom]] signals to your brain that you are in control and this sense of control goes a long way in the writing process. It allows you to [[use curiosity to guide your thinking]], which in turn, brings you to so many other places, increasing your chance to capture insight ([[insight cannot be predetermined]]; [[Writing that aims at insight must be organized in a flexible system]]).
+When writing, you should be able to change your mind about your first idea, instead of being compelled to stick to it. This [[freedom]] signals to your brain that you are in control and this sense of control goes a long way in the writing process. It allows you to [[use curiosity to guide your thinking]], which in turn, brings you to so many other places, increasing your chance to capture insight ([[insight cannot be predetermined]]; [[writing that aims at insight must be organized in a flexible system]]).
 
 # References
 

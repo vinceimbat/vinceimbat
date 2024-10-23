@@ -4,6 +4,7 @@ date: 2021-12-14
 aliases:
   - Review
   - thoughts/review
+  - reviews
 tags:
   - thoughts
   - seedlings

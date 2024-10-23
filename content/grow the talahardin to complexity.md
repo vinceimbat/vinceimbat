@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-23
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-04
+sr-interval: 12
+sr-ease: 270
 ---
-When you [[Combine curiosity with a note-writing system and practice]], the [[talahardin]] accumulates to complexity. When it contains more notes, it is easier to add new notes and discover existing connections ([[Fill permanent notes with links to other notes]]).
+When you [[combine curiosity with a note-writing system and practice]], the [[talahardin]] accumulates to complexity. When it contains more notes, it is easier to add new notes and discover existing connections ([[fill permanent notes with links to other notes]]).
 
 # References
 

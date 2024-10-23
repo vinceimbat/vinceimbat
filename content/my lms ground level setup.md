@@ -4,9 +4,13 @@ date: 2021-07-17
 aliases:
   - My LMS ground level setup
   - thoughts/my-lms-ground-level-setup
+  - my LMS ground level setup
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-26
+sr-interval: 3
+sr-ease: 258
 ---
 This is my current [[life management system]] [[ground level]] setup.
 
@@ -37,7 +41,6 @@ My archives are in Finder and my paper filing system.
 
 For my backup system, I do daily backups on my hard drive using Carbon Copy Cloner and on the cloud using Backblaze.
 
-To do
+# To do
 
 - Improve this note by narrating exactly what happens in the information flow.
-

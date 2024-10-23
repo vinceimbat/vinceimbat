@@ -1,13 +1,15 @@
 ---
-title: "Self"
-date: "2018-06-01"
-aliases: "Self"
+title: Self
+date: 2018-06-01
+aliases:
+  - Self
+  - thoughts/self
 tags:
-
-- "seedlings"
-sr-due: 2026-09-09
-sr-interval: 744
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2031-12-16
+sr-interval: 2611
+sr-ease: 270
 ---
 There is a unique boundary between our experiences. We know enough to know that we don't know enough. The boundaries of our experiences might be porous and artificial.
 

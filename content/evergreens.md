@@ -25,7 +25,7 @@ How to write permanent notes
 
 Permanent notes then to require more attention when written because they need to be self-explanatory. The goal is to read them in the future and still understand them because they preserve the original thinking from which they arose.
 
-To develop a good permanent note, it has to revolve around a single idea, which you then connect with other ideas within the slip-box. This means that you need to [[Fill permanent notes with links to other notes]].
+To develop a good permanent note, it has to revolve around a single idea, which you then connect with other ideas within the slip-box. This means that you need to [[fill permanent notes with links to other notes]].
 
 [[how to convert literature notes to permanent notes]]
 

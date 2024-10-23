@@ -29,6 +29,6 @@ Prompt: How can I have more faith in my neighbour's subjectivity, creativity, an
 
 # To do
 
-- Connect this note to your discussion on the [[thoughts/self|self]].
+- Connect this note to your discussion on the [[self|self]].
 
 # References

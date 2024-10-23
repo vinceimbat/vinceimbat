@@ -30,7 +30,7 @@ In this [[jiyu shukyo|jiyu shukyo]] path, it is wise to retreat to my well first
 
 # On the self
 
-I am partial toward the logical explanation that the [[thoughts/self|self]] exists, which implies that it has boundaries. This means that I am metaphysically distinct from you by virtue of these boundaries: I know things you don't know.
+I am partial toward the logical explanation that the [[self|self]] exists, which implies that it has boundaries. This means that I am metaphysically distinct from you by virtue of these boundaries: I know things you don't know.
 
 But I realize now that this applies only with the [[mind]], which is not necessarily what the self is. What I'm entertaining now is the possibility of fine-tuning my beliefs about the mind and the self.
 

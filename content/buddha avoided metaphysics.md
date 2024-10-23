@@ -17,7 +17,7 @@ Maybe, avoiding metaphysics is a sign of reverence and respect to questions that
 ***
 The question of [[how to live|how to live]] definitely cannot escape [[metaphysics|metaphysics]] and [[epistemology|epistemology]]. The question to be tackled is: Why should I care about others?
 
-The concept of a bigger [[thoughts/self|self]], one that includes others, society, and even nature (see [[thoughts/imaoka creed of life meditations|Imaoka's Creed of Life meditations]]) answers this question this way: You need to care about others because they are part of yourself, and when you hurt others, you hurt yourself.
+The concept of a bigger [[self|self]], one that includes others, society, and even nature (see [[thoughts/imaoka creed of life meditations|Imaoka's Creed of Life meditations]]) answers this question this way: You need to care about others because they are part of yourself, and when you hurt others, you hurt yourself.
 
 If this is indeed their argument, I notice that it is still grounded on the idea that man only takes care of himself and that he cannot love others that are not himself. In addition, he needs to rely on a metaphysical argument to persuade himself to take care of others.
 

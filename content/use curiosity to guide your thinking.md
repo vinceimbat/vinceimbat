@@ -1,13 +1,14 @@
 ---
 title: Use curiosity to guide your thinking
 date: 2024-10-20
-aliases: 
+aliases:
+  - Use curiosity to guide your thinking
 draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-23
-sr-interval: 3
+sr-due: 2024-11-01
+sr-interval: 9
 sr-ease: 250
 ---
 Because [[planning is unsuitable for thinking]], you need to use interest, curiosity, and intuition when involved in an intellectual pursuit. To produce more insight, you need to follow insight. A plan does not allow this.
@@ -16,7 +17,7 @@ You need to focus on what is interesting to you. If you follow your interest, yo
 
 By using curiosity, you feel free and in control. In turn, you minimize the risk of losing interest in your topic because [[freedom motivates us]].
 
-However, you can only make this work, if you [[Combine curiosity with a note-writing system and practice]].
+However, you can only make this work, if you [[combine curiosity with a note-writing system and practice]].
 
 # To do
 

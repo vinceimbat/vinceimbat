@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-23
-sr-interval: 54
+sr-due: 2025-03-18
+sr-interval: 146
 sr-ease: 270
 ---
 This is one of the main principles of emergent strategy by [[adrienne maree brown]].

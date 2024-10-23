@@ -4,6 +4,7 @@ date: 2021-02-12
 aliases:
   - My-workflow
   - thoughts/my-workflow
+  - My workflow
 tags:
   - thoughts
   - evergreens

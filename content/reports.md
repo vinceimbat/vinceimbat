@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-23
-sr-interval: 1
+sr-due: 2024-10-25
+sr-interval: 2
 sr-ease: 230
 ---
 Daily reports can be seen in my daily notes.

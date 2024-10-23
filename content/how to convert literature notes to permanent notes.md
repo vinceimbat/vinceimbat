@@ -19,7 +19,7 @@ To convert [[literature notes]] into [[evergreens]], do the following:
 4. Bold this title.
 5. If there are multiple big concepts, then create multiple big concept titles within the digital note.
 6. When you start clustering annotations, you will notice that there are individual concepts within those clusters. This is specially true if the big concept is a conclusion with many premises. Start writing atomic permanent notes for each of these premises.
-7. Connect these new notes with past notes. [[Fill permanent notes with links to other notes]].
+7. Connect these new notes with past notes. [[fill permanent notes with links to other notes]].
 8. Return to the big concept note. If it doesn’t have its own note yet, you can now separate it from the original note and put it on its own note. Revise it based on what you learn writing the small concept notes. Be as concise as possible when writing.
 9. Repeat the process to other big concepts.
 
