@@ -4,20 +4,20 @@ date: 2021-09-03
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-25
-sr-interval: 3
-sr-ease: 251
+sr-due: 2024-11-15
+sr-interval: 19
+sr-ease: 271
 ---
-It is important to [[Write permanent notes about what you read to test understanding]]. However, it is distracting to switch back and forth between reading a book and writing [[evergreens]].
+It is important to [[write permanent notes about what you read to test understanding]]. However, it is distracting to switch back and forth between reading a book and writing [[evergreens]].
 
-Applying the [[getting things done]] approach it is best to separate capturing [[open loops]] and processing them (see [[Barbell method of reading]]). Then, follow this process:
+Applying the [[Getting Things Done]] approach it is best to separate capturing [[open loops]] and processing them (see [[barbell method of reading]]). Then, follow this process:
 - For physical books, write notes directly on a note in [[Zotero]] or draw a dot or line in the margin of interesting passages. You will have to set a reminder to look into these markings when processing the book.
 - For web articles, copy+paste interesting excerpts into a note in Zotero.
 - For digital books and PDFs, export highlights and annotations in Zotero.
 
 When you are ready to work on a note, create a working note in your [[writing inbox]] where you start to play around with these literature notes.
 
-These notes shall remain in the writing inbox until processed iteratively via a [[thoughts/spaced repetition writing system]]. Use the process in [[how to convert literature notes to permanent notes]] to create permanent notes.
+These notes shall remain in the writing inbox until processed iteratively via a [[spaced repetition writing system]]. Use the process in [[how to convert literature notes to permanent notes]] to create permanent notes.
 
 # References
 

@@ -6,8 +6,8 @@ tags:
 - poems
 - seedlings
 - pangasinan
-sr-due: 2024-10-26
-sr-interval: 450
+sr-due: 2027-08-29
+sr-interval: 1036
 sr-ease: 230
 ---
 Inmalagey so baka  

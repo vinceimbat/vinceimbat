@@ -3,6 +3,7 @@ title: Things
 date: 2021-11-14
 aliases:
   - thoughts/things
+  - Things
 tags:
   - thoughts
   - seedlings

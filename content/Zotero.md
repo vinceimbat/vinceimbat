@@ -1,14 +1,13 @@
 ---
-title: "Zotero"
-date: "2022-05-11"
+title: Zotero
+date: 2022-05-11
+aliases:
+  - Zotero
 tags:
-
-- "seedlings"
-sr-due: 2022-05-15
-sr-interval: 4
-sr-ease: 270
+  - thoughts
+  - seedlings
+sr-due: 2034-02-10
+sr-interval: 3393
+sr-ease: 290
 ---
-
 Zotero is a reference management software. In my [[life management system]], its main role is to track my references, provide citations, and store my [[literature notes]].
-
-# References

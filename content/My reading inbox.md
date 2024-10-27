@@ -13,7 +13,7 @@ Here is my own implementation of this useful tool.
 
 For web pages, I capture them through Instapaper using its browser extensions on desktop and mobile.
 
-For PDFs, I save them to ~/Documents/0 Inbox/0 Reading inbox. I read PDFs through [[Skim]]. After reading them, I move them to ~/Documents/4 Archives/0 Reading Archive. I also add them to [[Zotero]]. I trash them by deleting them.
+For PDFs, I save them to ~/Documents/0 Inbox/0 Reading inbox. I read PDFs through [[Skim]]. After reading them, I move them to ~/Documents/4 Archives/0 Reading Archive. I also add them to [[zotero]]. I trash them by deleting them.
 
 For e-books, I save them to ~/Documents/0 Inbox/0 Reading inbox. I use [[Clearview]] to read them. After reading them, I file them to ~/Documents/4 Archives/0 Reading Archive. I also add them to Zotero. I trash them by deleting them.
 

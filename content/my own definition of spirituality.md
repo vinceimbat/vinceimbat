@@ -8,7 +8,6 @@ sr-due: 2023-09-22
 sr-interval: 302
 sr-ease: 270
 ---
-
 Spirituality is such a heavy word. It comes with a baggage filled with contradictions. It is used differently by different people, but the people who use the word almost always assume that everyone uses the word the same way and they aren't usually sensitive to this fact. For example, most Christians I talk to almost always equate spirituality to a reverence of a personified God. But there is a large collective of people who don't define God as a person and therefore could not find such a definition of spirituality useful.
 
 My initial response to this problem is to use a different word altogether. [[jon kabat-zinn]] suggested that the word "spiritual" should be substituted by the word "conscious" to signify "focused attention" or mindfulness.

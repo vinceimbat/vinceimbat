@@ -7,8 +7,8 @@ tags:
   - translations
   - filipino
   - seedlings
-sr-due: 2024-10-27
-sr-interval: 451
+sr-due: 2027-08-30
+sr-interval: 1037
 sr-ease: 230
 ---
 Ang sabi nila  

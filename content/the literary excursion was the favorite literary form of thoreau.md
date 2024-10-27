@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-27
-sr-interval: 8
+sr-due: 2024-11-17
+sr-interval: 21
 sr-ease: 250
 ---
 - ramble ("Walking")

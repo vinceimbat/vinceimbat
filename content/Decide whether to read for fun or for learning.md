@@ -18,7 +18,7 @@ Your decision on whether to read for fun or for learning determines:
 If you are going to read for fun, then you can read fast. You don’t need many rules. The book just has to be fun to read and you can read anywhere you want. However, if you are going to read to expand your knowledge, then you have to read slower and more thoroughly because you have to:
 
 - Write literature notes about what you read ([[how to write literature notes]])
-- [[Write permanent notes about what you read to test understanding]] ([[how to convert literature notes to permanent notes]])
+- [[write permanent notes about what you read to test understanding]] ([[how to convert literature notes to permanent notes]])
 
 The latter process involves thinking about these notes and connecting them with your existing knowledge (also in notes), and generating new insights from them.
 

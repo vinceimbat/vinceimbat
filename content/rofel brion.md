@@ -4,9 +4,13 @@ date: 2022-10-15
 aliases:
   - contacts/rofel brion
   - thoughts/rofel-brion
+  - Rofel Brion
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-10-30
+sr-interval: 3
+sr-ease: 267
 ---
 # My observations
 

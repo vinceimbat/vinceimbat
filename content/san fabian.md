@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 35
+sr-due: 2025-02-05
+sr-interval: 101
 sr-ease: 270
 ---
 The Imbat family has roots here. The closest beach from [[San Jacinto]].

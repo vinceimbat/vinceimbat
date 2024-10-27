@@ -6,8 +6,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 9
+sr-due: 2024-11-27
+sr-interval: 31
 sr-ease: 256
 ---
 

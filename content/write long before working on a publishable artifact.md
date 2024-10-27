@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 4
+sr-due: 2024-11-09
+sr-interval: 13
 sr-ease: 272
 ---
 We need to write way before we have decided on what topic to write about. [[a note-writing system makes writing easier]] and it also assures the quality of the publishable artifact.

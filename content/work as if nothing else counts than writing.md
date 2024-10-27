@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 4
+sr-due: 2024-11-11
+sr-interval: 15
 sr-ease: 272
 ---
 In [[zettelkasten]], writing is everything that matters. Because [[writing facilitates thinking]], everything has to be streamlined towards one thing only: publishable insight. Working with the clear purpose of writing facilitates deliberate practice.

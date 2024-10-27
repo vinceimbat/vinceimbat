@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 4
+sr-due: 2024-11-12
+sr-interval: 16
 sr-ease: 270
 ---
 When you [[break down your work into small and clearly separated tasks]] that can be completed in a reasonable time, you get instant feedback. Instant feedback is what you need to get better—to do [[Deliberate practice]]. Instant feedback gained many times means you gain fast experience, because [[Numerous feedback loops produce expertise and intuition]].

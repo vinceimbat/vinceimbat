@@ -8,8 +8,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 2
+sr-due: 2024-11-06
+sr-interval: 10
 sr-ease: 246
 ---
 1. I have faith (shinzuru) in myself. I recognize my own subjectivity and creativity and feel the worth of living in life (ikigai). Subjectivity and creativity can be rephrased as personality, divinity, and Buddha-nature.

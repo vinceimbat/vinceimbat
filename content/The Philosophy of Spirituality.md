@@ -1,14 +1,15 @@
 ---
-title: "The Philosophy of Spirituality"
-date: "2021-02-09"
+title: The Philosophy of Spirituality
+date: 2021-02-09
+aliases:
+  - The-Philosophy-of-Spirituality
 tags:
-
-- "seedlings"
-sr-due: 2022-09-02
-sr-interval: 3
+  - literature
+  - seedlings
+sr-due: 2027-07-13
+sr-interval: 989
 sr-ease: 250
 ---
-
 Robert Fuller generalizes that those who claim to be spiritual believe in a Higher Power and aspire to “enter into a more intense relationship with this Higher Power”. However, including a Higher Power in understanding spirituality is not necessary.
 
 Reference

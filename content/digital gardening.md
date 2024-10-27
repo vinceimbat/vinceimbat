@@ -28,7 +28,7 @@ That said, the problem with digital gardening is that digital gardens, unlike bl
    - [[combine curiosity with a note-writing system and practice]]
    - [[A flexible working scheme prevents losing interest]]
 - Take notes about what you read.
-   - [[Write permanent notes about what you read to test understanding]]
+   - [[write permanent notes about what you read to test understanding]]
 - Remember note taxonomy.
    - [[Confusion over types of notes result to less productivity]]
 - Aspire for quality over quantity.

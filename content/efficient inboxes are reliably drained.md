@@ -17,7 +17,7 @@ You don't have to achieve [[Inbox Zero]]. The minimum criteria that you can trus
 In my case, I have established the following habits to drain my inboxes:
 
 1. For regular tasks, I capture everything in my task manager (Things 3) inbox. I clarify these captured tasks once a week during my [[weekly review]]. After clarification, I organize them by tagging them based on priority and moving them to their associated project folder. After that, I review this task list every morning during [[my daily routine]] and choose tasks that I could accomplish that day.
-2. For non-actionable information items like [[fleeting notes]] or [[literature notes]] that I eventually convert into [[evergreens]] ([[how to convert literature notes to permanent notes]]), I collect them directly in my [[writing inbox]], which I process every day in different intervals (see [[thoughts/spaced repetition writing system]]).
+2. For non-actionable information items like [[fleeting notes]] or [[literature notes]] that I eventually convert into [[evergreens]] ([[how to convert literature notes to permanent notes]]), I collect them directly in my [[writing inbox]], which I process every day in different intervals (see [[spaced repetition writing system]]).
 3. For fleeting notes I capture through [[drafts app]] while outside, I process them at least once a week during my weekly review to collect writing prompts.
 4. I also review at least two diary entries for writing prompts every day.
 

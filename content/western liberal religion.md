@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-27
-sr-interval: 7
+sr-due: 2024-11-14
+sr-interval: 18
 sr-ease: 250
 ---
 - [[unitarianism]]

@@ -8,7 +8,7 @@ tags:
   - thoughts
   - seedlings
 ---
-[[thoughts/understanding mainly informs action|Understanding mainly informs action]]. I do not try to understand to decorate myself or to win arguments. I try to understand to develop wisdom, feel good, and always act appropriately.
+[[understanding mainly informs action|Understanding mainly informs action]]. I do not try to understand to decorate myself or to win arguments. I try to understand to develop wisdom, feel good, and always act appropriately.
 
 Understanding is the core of my life. I am a philosopher first before a writer or anything else. I am committed in living a philosophical and contemplative life and write beautifully about or inspired by this journey.
 

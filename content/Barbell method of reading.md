@@ -1,14 +1,15 @@
 ---
-title: "Barbell method of reading"
-date: "2021-04-08"
+title: Barbell method of reading
+date: 2021-04-08
 tags:
-
-- "seedlings"
-sr-due: 2022-06-16
-sr-interval: 1
-sr-ease: 228
+  - thoughts
+  - seedlings
+aliases:
+  - Barbell-method-of-reading
+sr-due: 2032-06-16
+sr-interval: 2789
+sr-ease: 248
 ---
-
 According to [[Sascha Fast]], the term “Barbell Method" came from [[thoughts/nassim taleb]], which refers to an investment strategy where you combine safety and the possibility of high revenue by putting the majority of your investments in safe vehicles while you make small but very risky bets.
 
 When applied to reading, we invest more time and energy on “safe” investments: useful parts that are either difficult or easy to understand. To do this, Fast suggests doing two levels of reading:

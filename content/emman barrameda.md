@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-24
-sr-interval: 47
+sr-due: 2025-03-16
+sr-interval: 140
 sr-ease: 290
 ---
 One of our panelists in [[PRS17]], which I was able to converse with. He is the award-winning author of [[distrungka barrameda|Distrungka]], [[salvacion barrameda|Salvacion]], and [[virac barrameda|Virac]].

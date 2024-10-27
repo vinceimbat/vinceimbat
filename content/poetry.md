@@ -7,8 +7,8 @@ aliases:
 tags:
 - poems
 - seedlings
-sr-due: 2024-10-26
-sr-interval: 23
+sr-due: 2025-01-07
+sr-interval: 72
 sr-ease: 298
 ---
 Poetry is about being as intentional as one can be with one's words. Being economical. Minimalistic. About how one can transmit meaning with as little tools as one can.

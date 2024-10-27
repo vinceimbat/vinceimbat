@@ -3,6 +3,7 @@ title: Getting Things Done
 date: 2021-02-12
 aliases:
   - thoughts/getting-things-done
+  - Getting Things Done
 tags:
   - thoughts
   - seedlings

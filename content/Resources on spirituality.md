@@ -1,14 +1,15 @@
 ---
-title: "Resources on spirituality"
-date: "2021-09"
+title: Resources on spirituality
+date: 2021-09
+aliases:
+  - Resources-on-spirituality
 tags:
-
-- "seedlings"
-sr-due: 2022-09-02
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2032-05-27
+sr-interval: 2769
+sr-ease: 270
 ---
-
 Hadot, P. 1995. Philosophy as a way of life: Spiritual exercises from Socrates to Foucault, ed. Arnold Davidson. Malden, MA: Wiley-Blackwell.
 
 Evans, J. 2017. The art of losing control: A philosopher’s search for ecstatic experience. Edinburgh: Canongate.
@@ -22,5 +23,3 @@ Chase, M, Clark, SRL, Mc-Ghee, M, eds. 2013. Philosophy as a way of life: Ancien
 McPherson, D, ed. 2017. Spirituality and the good life: Philosophical approaches. New York: Cambridge University Press.
 
 Cottingham, J. 2005. The spiritual dimension: Religion, philosophy and human value. New York: Cambridge University Press.
-
-# References

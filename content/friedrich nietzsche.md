@@ -4,6 +4,7 @@ date: 2021-12-15
 aliases:
   - Friedrich-Nietzsche
   - thoughts/friedrich-nietzsche
+  - Friedrich Nietzsche
 tags:
   - thoughts
   - seedlings

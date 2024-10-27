@@ -1,15 +1,16 @@
 ---
-title: "Is there really a need for a field called Spirituality?"
-date: "2021-02-15"
+title: We need a field called spirituality
+date: 2021-02-15
+aliases:
+  - Is-there-really-a-need-for-a-field-called-Spirituality
 tags:
-
-- "seedlings"
-sr-due: 2022-09-02
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2025-02-06
+sr-interval: 102
+sr-ease: 230
 ---
-
-Spirituality is a tricky field. Its language muddles with philosophy, psychology, religion, health, etc. What separates it from all the others? Is there a logical necessity to construct another word such as this?
+[[Spirituality]] is a tricky field. Its language muddles with [[philosophy]], psychology, [[religion]], health, etc. What separates it from all the others? Is there a logical necessity to construct another word such as this?
 
 Giving a name to something means we are claiming that it is “different” from the others. Otherwise, why would we name it in the first place? A name is a differentiator.
 
@@ -38,5 +39,3 @@ Psychologists would argue, using Aristotle’s arguments, that a human being who
 But if there is something beyond this, then spirituality deserves its own conceptual space.
 
 Spirituality does not negate eudaimonia or flourishing but makes a profound inner break from its goals.
-
-# References

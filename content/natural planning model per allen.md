@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-26
-sr-interval: 3
+sr-due: 2024-11-07
+sr-interval: 11
 sr-ease: 251
 ---
 According to [[David Allen]], we naturally follow the following steps when planning:
