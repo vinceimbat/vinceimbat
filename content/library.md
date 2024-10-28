@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-10-11]]: [[now is a new no serrano|Now is a new no by Vincenz Serrano]] ★★
 - [[2024-09-30]]: [[beckoning baguio labanye|Beckoning Baguio by Ivan Labanye]] ★
 - [[2024-09-01]]: [[sa dako pa roon guieb|Sa Dako Pa Roon Sa Dako Pa Roon by Eli Rueda Guieb III]]
 - [[2024-08-25]]: [[maging sa silid haro and lao|Maging sa Silid by Vanessa Haro and Arvee Lao]]
@@ -166,7 +167,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 - **I Am We** by Dave Ursillo (09)
 - **Feeling Good** by David Burns (09)
 - **Running Lean** by Ash Maurya (08)
-- **7 Day Startup** by Dan Norris (08)
+- **The 7 Day Startup** by Dan Norris (08)
 - **God Whispers on the Wind** by Dave Ursillo (08)
 - **Darkness Visible** by William Styron (08)
 - **Mini Habits** by Stephen Guise (05)

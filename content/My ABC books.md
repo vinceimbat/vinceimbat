@@ -8,15 +8,14 @@ sr-due: 2022-09-03
 sr-interval: 46
 sr-ease: 250
 ---
-
-## Anthologies
+# Anthologies
 - [ ] The Art of the Personal Essay by Philip Lopate
 
-## Book of Prompts
+# Book of Prompts
 - [ ] Now Write! Nonfiction by Sherry Ellis
 - [ ] Room to Write by Bonnie Goldberg
 
-## Craft Reference
+# Craft Reference
 - [ ] The Elements of Style by Strunk and White
 - [ ] Ordinary Genius by Kim Addonizio
 - [ ] Finish the Book in Three Drafts by Stuart Horwitz

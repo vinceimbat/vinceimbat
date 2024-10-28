@@ -23,3 +23,7 @@ Learn verbose poetic descriptions.
 # References
 
 Thoreau, Henry David. _A Week on the Concord and Merrimack Rivers_. Holt, Rinehart, and Winston, Inc., 1963.
+
+Walls, Laura Dassow. _Henry David Thoreau: A Life_. First edition, University of Chicago Press, 2017.
+
+>Into the pages of his big new notebook, the “long book,” he sowed passages at intervals like seeds in furrows, giving each one room to germinate and grow.

@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-10-28
-sr-interval: 49
+sr-due: 2025-03-21
+sr-interval: 144
 sr-ease: 290
 ---
 A [[zine]] I got from my first [[BLTX]].

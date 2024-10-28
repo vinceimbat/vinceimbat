@@ -30,6 +30,7 @@ How did he synthesize what he read with what he sees outdoors?
 - [[introduction to walden merwin]]
 - [[the quest of thoreau]]
 - [[the writing style of thoreau]]
+- [[the writing life of thoreau]]
 
 # References
 
