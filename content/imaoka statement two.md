@@ -1,9 +1,15 @@
 ---
 title: Imaoka statement two
 date: 2023-11-08
-tags:
-  - seedlings
+aliases:
+  - thoughts/imaoka-statement-two
 draft: false
+tags:
+  - thoughts
+  - seedlings
+sr-due: 2024-11-02
+sr-interval: 4
+sr-ease: 272
 ---
 2. I have faith in my neighbour. The neighbour is oneself as a neighbour. If I believe in myself, I inevitably believe in my neighbour.
 

@@ -10,15 +10,18 @@ sr-due: 2027-09-20
 sr-interval: 1149
 sr-ease: 270
 ---
-Collect poetry about the places you've been to.
-Started with poetry then history
-Description of the geography
-Thoreau talked to farmers and reported this (oral history)
-Sensual descriptions on being "there."
-Descriptions of flora and fauna.
-General descriptions of people.
-Poetry in between paragraphs.
-Learn verbose poetic descriptions.
+# Craft lessons
+
+- Collect poetry about the places you've been to.
+- Started with poetry then history
+- Description of the geography
+- Thoreau talked to farmers and reported this (oral history)
+- Sensual descriptions on being "there."
+- Descriptions of flora and fauna.
+- General descriptions of people.
+- Poetry in between paragraphs.
+- Learn verbose poetic descriptions.
+- Study how to write detailed and good observations.
 
 # References
 

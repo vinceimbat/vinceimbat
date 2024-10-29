@@ -26,6 +26,13 @@ The AWA method follows a philosophy of writing guided by five affirmations and s
 5. The teaching of craft is taken seriously, and is conducted through exercises that invite experimentation and growth.
 6. The leader writes along with the participants, and reads that work aloud as well. This practice is absolutely necessary, for only in this way is there equality of risk-taking and mutuality of trust.
 
+# AWA Online Workshop Leadership Training 2025 Schedules
+
+- March 21-25, 2025 (10:00 pm to 5:30 am PHT)
+- June 26-30, 2025 (10:00 pm to 5:30 am PHT)
+- August 27-31, 2025
+- November 7-9 & 15-16, 2025 (7:00 am to 11:00 am PST)
+
 # References
 
 Schneider, Pat. _Writing Alone and with Others_. Oxford University Press, 2003.

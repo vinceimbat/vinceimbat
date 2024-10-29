@@ -1,9 +1,15 @@
 ---
 title: Imaoka statement one
 date: 2023-11-07
+aliases:
+  - thoughts/imaoka-statement-one
+draft: false
 tags:
+  - thoughts
   - seedlings
-draft:
+sr-due: 2024-11-01
+sr-interval: 3
+sr-ease: 253
 ---
 1. I have faith (shinzuru) in myself. I recognize my own subjectivity and creativity and feel the worth of living in life (ikigai). Subjectivity and creativity can be rephrased as personality, divinity, and Buddha-nature.
 
