@@ -1,14 +1,16 @@
 ---
-title: "How to Take Smart Notes — Ahrens"
-date: "2022-08-17"
+title: How to Take Smart Notes — Ahrens
+date: 2022-08-17
+aliases:
+  - How-to-Take-Smart-Notes-%E2%80%94-Ahrens
+  - How to Take Smart Notes
 tags:
-
-- "seedlings"
-sr-due: 2022-08-14
-sr-interval: 3
-sr-ease: 255
+  - literature
+  - seedlings
+sr-due: 2032-10-07
+sr-interval: 2899
+sr-ease: 275
 ---
-
 Build a Latticework of Mental Models
 
 **Every intellectual endeavour starts from an already existing preconception**

@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-30
-sr-interval: 7
+sr-due: 2024-11-17
+sr-interval: 18
 sr-ease: 250
 ---
 # What is the jiyū shūkyō approach to studying my jiyū shūkyō?

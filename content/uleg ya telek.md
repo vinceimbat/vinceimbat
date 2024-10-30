@@ -7,8 +7,8 @@ tags:
   - poems
   - pangasinan
   - seedlings
-sr-due: 2024-10-30
-sr-interval: 453
+sr-due: 2027-09-07
+sr-interval: 1042
 sr-ease: 230
 ---
 Say kuwanda  

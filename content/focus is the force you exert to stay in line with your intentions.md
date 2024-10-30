@@ -1,42 +1,40 @@
 ---
 title: Focus is the force you exert to stay in line with your intentions
 date: 2023-08-21
+aliases:
+  - thoughts/focus-is-the-force-you-exert-to-stay-in-line-with-your-intentions
 draft: false
 tags:
+  - thoughts
   - seedlings
-sr-due: 2024-02-05
-sr-interval: 3
-sr-ease: 257
+sr-due: 2024-12-05
+sr-interval: 36
+sr-ease: 237
 ---
-Instead of thinking of focus as a skill you bring to something, look at it as a force you exert to maintain alignment. This definition of focus is what a [[monthly review]] does to a [[life management system]]: it makes sure that [[00 - A/Sky level]] values and intentions align with [[ground level]] actions. This kind of focus is needed because it is easy to be too action-oriented that we forget about the bigger picture.
+Instead of thinking of focus as a skill you bring to something, look at it as a force you exert to maintain alignment. This definition of focus is what a [[monthly review]] does to a [[life management system]]: it makes sure that [[sky level]] values and intentions align with [[ground level]] actions. This kind of focus is needed because it is easy to be too action-oriented that we forget about the bigger picture.
 
 This is how [[intentional living]] is realized.
 
-Focus is doing things with a clear intention and making sure that all your decisions match your intention.
+# Unprocessed
 
-focusing isn’t simply about avoiding the temptation to multitask until a priority project is complete. Instead, **it means truly understanding what you want to accomplish and centering your activities entirely around that**.
+Focus is doing things with a clear intention and making sure that all your decisions match your intention. Focusing isn’t simply about avoiding the temptation to multitask until a priority project is complete. Instead, **it means truly understanding what you want to accomplish and centering your activities entirely around that**.
 
-**Questions to ask to find focus on a project:**
+Here are some questions you can ask to find focus on a project:
 
-What is the main problem this product is solving?
-
-Who are the people we are solving this problem for?
-
-What is the emotion/feeling that we want our product to create or evoke?
-
-Is this particular implementation aligned with the problem we're solving for?
-
-Is this the product/feature most likely to successfully solve that problem?
+- What is the main problem this project is solving?
+- Who are the people we are solving this problem for?
+- What is the emotion/feeling that we want our project to create or evoke?
+- Is this particular implementation aligned with the problem we're solving for?
+- Is this the project most likely to successfully solve that problem?
 
 **Focus doesn’t mean you charge single-minded toward a goal. It means you pay rapt and incremental attention to how you need to turn the rudder on a project.**
 
 **But before you can make those small changes, you must first recognize the need for change.** That requires regular reflection, a sense of self-awareness, and the willingness to pivot when new information surfaces.
 
-you must **routinely** **ask yourself two key questions:**
+You must **routinely** **ask yourself two key questions:**
 
-Are these intentions still the correct ones?
-
-Are my recent decisions in line with these intentions?
+- Are these intentions still the correct ones?
+- Are my recent decisions in line with these intentions?
 
 She takes these sessions of reflection seriously, calendaring concrete time to evaluate her intentions and actions on a weekly basis.
 

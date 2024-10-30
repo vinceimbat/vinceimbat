@@ -12,5 +12,5 @@ sr-ease: 251
 
 - [[steve patterson]]
 - [[andy matuschak]]
-- [[thoughts/sonke ahrens]]
+- [[sonke ahrens]]
 

@@ -6,7 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-30
-sr-interval: 10
-sr-ease: 250
+sr-due: 2024-12-04
+sr-interval: 35
+sr-ease: 270
 ---
+I've written a lot about my depression in the past.
