@@ -23,7 +23,7 @@ Finality in a work of art is an illusion. A work of art can always be made bette
 
 In the [[talahardin|talahardin]], [[evergreens]] can still be changed although it is expected that they do so minutely. But this category does not signify finality. In fact, an evergreen can revert back to [[seedlings]] if a future insight necessitates that it undergoes more significant revisions.
 
-The talahardin simply makes intentional what writers seem to intuitively believe: that all their works are never final and that even a published work can't escape revision even if it's just in the author's imagination of the author. Furthermore, even if the author believes in the illusion of finality, any reader could easily disagree. A text has a life of its own and all text especially in an age when writing technology supports and encourages constant revision, has a potential to be immortal (see [[thoughts/the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]]).
+The talahardin simply makes intentional what writers seem to intuitively believe: that all their works are never final and that even a published work can't escape revision even if it's just in the author's imagination of the author. Furthermore, even if the author believes in the illusion of finality, any reader could easily disagree. A text has a life of its own and all text especially in an age when writing technology supports and encourages constant revision, has a potential to be immortal (see [[the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]]).
 
 # References
 

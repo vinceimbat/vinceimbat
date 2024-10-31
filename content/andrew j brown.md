@@ -4,6 +4,7 @@ date: 2022-08-29
 aliases:
   - andrew j. brown
   - thoughts/andrew-j.-brown
+  - Andrew J. Brown
 tags:
   - thoughts
   - seedlings

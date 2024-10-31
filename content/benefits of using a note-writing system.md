@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-31
-sr-interval: 11
+sr-due: 2024-11-30
+sr-interval: 30
 sr-ease: 270
 ---
 Among the benefits of using a note-writing system are:

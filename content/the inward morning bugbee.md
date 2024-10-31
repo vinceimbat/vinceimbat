@@ -8,7 +8,7 @@ tags:
   - literature
   - seedlings
 ---
-- [[thoughts/my commentaries on the inward morning by bugbee]]
+- [[my commentaries on the inward morning by bugbee]]
 
 # References
 

@@ -1,12 +1,15 @@
 ---
 title: The draft flourishes through cheap and democratized technology
 date: 2023-09-16
+aliases:
+  - thought/the-draft-flourishes-through-cheap-and-democratized-technology
+draft: false
 tags:
+  - thoughts
   - seedlings
-draft:
-sr-due: 2023-09-17
-sr-interval: 1
-sr-ease: 230
+sr-due: 2028-06-28
+sr-interval: 1336
+sr-ease: 250
 ---
 To simplify the historical evolution of the [[draft|draft]], we could say that the medieval period favored materiality (i.e., being printed), the modern period has broken away from uncompromising materiality but not yet fully embraced paperless alternatives, and the post-modern period has entirely gone post-print.
 
@@ -14,7 +17,7 @@ Interestingly, the cheaper and more democratized our thought and writing technol
 
 Today, with electronic files making it so easy to make revisions and even to track these, there is no better time to intentionally see one's body of work as a perpetual draft and to experiment with draft-like techniques.
 
-It is not surprising that [[digital gardening|digital gardening]], say through [[thoughts/my forest garden of the mind|my forest garden of the mind]], fits perfectly well with walking and working with drafts (see [[thoughts/writing using the talahardin is archival work|writing using the talahardin is archival work]]).
+It is not surprising that [[digital gardening|digital gardening]], say through [[my forest garden of the mind|my forest garden of the mind]], fits perfectly well with walking and working with drafts (see [[thoughts/writing using the talahardin is archival work|writing using the talahardin is archival work]]).
 
 # References
 

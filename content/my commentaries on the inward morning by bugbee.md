@@ -2,9 +2,13 @@
 title: My commentaries on The Inward Morning by Henry Bugbee
 date: 2022-08-22
 aliases:
-  - my commentaries on the inward morning by bugbee
+  - thoughts/my-commentaries-on-the-inward-morning-by-bugbee
 tags:
-  - evergreens
+  - thoughts
+  - seedlings
+sr-due: 2024-11-04
+sr-interval: 4
+sr-ease: 273
 ---
 - [[thoughts/the inward morning commentary 1952-08-26]]
 - [[the inward morning commentary 1952-08-27]]

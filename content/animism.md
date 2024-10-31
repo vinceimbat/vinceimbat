@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-10-31
-sr-interval: 16
-sr-ease: 270
+sr-due: 2024-12-30
+sr-interval: 60
+sr-ease: 290
 ---
-This is the category of [[religion]] for [[shintoism]]. A specific form of animism in the Philippines is [[anitism]].
+This is the category of [[religion]] for [[shintoism]]. A specific form of animism in the Philippines is [[anitism]]. I'm contemplating about liberalizing anitism as was possible with shinto.

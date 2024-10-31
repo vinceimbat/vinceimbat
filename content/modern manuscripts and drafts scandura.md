@@ -17,7 +17,7 @@ tags:
 - [[thoughts/the talahardin is a draft|the talahardin is a draft]] DONE
 - [[thoughts/writing using the talahardin is archival work|writing using the talahardin is archival work]] UNNECESSARY
 - [[thoughts/paper vs digital drafts|paper vs digital drafts]] UNNECESSARY
-- [[thoughts/the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]] DONE
+- [[the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]] DONE
 - [[thoughts/talahardin emphasizes process|talahardin emphasizes process]] DONE
 - [[thoughts/drafts mirror a writers thoughts|drafts mirror a writers thoughts]] DONE
 - [[thoughts/new criticism|new criticism]]

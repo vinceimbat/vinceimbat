@@ -42,7 +42,7 @@ First, I am tweaking my newsletter system. I used to send different emails to di
 That said, I will be putting categories of emails I will send to you in the subject line so you immediately know what email you are getting. Here are the categories:
 
 - ᜇ Updates – Occasional personal updates about my life like what you are reading right now.
-- ᜇ Essay – Even more infrequent essays that are not necessarily about walking. These essays slowly grow from what I call [[thoughts/my forest garden of the mind|my forest garden of the mind]].
+- ᜇ Essay – Even more infrequent essays that are not necessarily about walking. These essays slowly grow from what I call [[my forest garden of the mind|my forest garden of the mind]].
 - ᜇ Poem – Oh, by the way, I'm also a poet. I'll start sharing finished poems here.
 - ᜇ Lilim – Occasional walking narratives.
 - ᜇ A Book About LB – Yes, I am writing a book.

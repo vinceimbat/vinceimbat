@@ -4,13 +4,13 @@ date: "2021-02-11"
 tags:
 - "evergreens"
 ---
-This [[thoughts/my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[Herbert Fingarette]]:
+This [[my forest garden of the mind|digital garden]] tracks my footprints both in my [[thoughts/mental wilderness|mental wilderness]] and the [[thoughts/geographical wilderness|geographical wilderness]]. I adopted the word "footprints" here as used by [[Herbert Fingarette]]:
 
 >"These studies are outcomes rather than realised objectives. In making the journey, I have no aims. These studies are intellectual footprints, not blueprints."
 
 While I recognize my tendency to be allured to blueprints I do my best to resist them and maintain an openness to knowledge and the larger world where knowledge arise. This commitment necessitates that I give myself the permission to change my beliefs as [[thoughts/the long walk|the long walk]] unravels.
 
-As common among digital gardeners, I use botanical language in organizing my work. [[thoughts/my forest garden of the mind|My forest garden of the mind]] is what I refer to the this collection of writings. This is what I walk and tend to every day.
+As common among digital gardeners, I use botanical language in organizing my work. [[my forest garden of the mind|My forest garden of the mind]] is what I refer to the this collection of writings. This is what I walk and tend to every day.
 
 The forest garden is made up of different "species" of thought:
 - [[essays]]
@@ -41,7 +41,7 @@ For a longer narrative of how I got here, see my essay [[a never-ending walk|A N
 You can start exploring the digital garden by clicking on the following points of entry. These are my current interests and some themes I would like to pursue indefinitely:
 
 - [[life management system]]
-- [[My forest garden of the mind]]
+- [[my forest garden of the mind]]
 - [[My worldview]]
 - [[My poetics]]
 - [[Walking]]

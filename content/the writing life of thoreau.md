@@ -28,11 +28,27 @@ p. 9
 
 >To grasp Thoreau means grasping where he was and how it became that way.
 
+p. 62 (Commonplace books)
+
+>There in the stacks Thoreau began his lifelong habit of keeping a permanent record of his reading by copying extracts into commonplace books. He developed a passion for English poetry from Chaucer to Shakespeare
+
+p. 75 (Reading list)
+
+>When Thoreau arrived back at Harvard, he began working through Brownson’s reading list: the latest European literature and philosophy—Goethe and Coleridge, Heine, Cousin, Constant. He bought Brownson’s _New Views_ and Emerson’s _Nature_ for his personal library
+
 p. 122
 
 >Clearly Thoreau had confided to Fuller what he had barely confessed to himself: he longed to go away and live by the pond and be the writer he dreamed of becoming.
 
 >Under Emerson’s roof, Thoreau consolidated his sense of himself as above all a writer—not a dilettante who published occasionally, but a true and focused professional patterned after Emerson’s own model, which Thoreau now witnessed daily.
+
+p. 123
+
+>So Emerson had another idea: Thoreau would go to Harvard, ransack the library, and select the best of British poetry for an anthology—the “old” to America’s “new”—learning his craft by total immersion in the discipline of poetry.
+
+>They all seemed so tame and civil, as if not a one of them had seen so much as “the west side of any mountain”
+
+>Thoreau felt more “kith and kin” with the lichen on the bare winter branches than with anything in these books. His yearning for wildness struck him as peculiar, his one redeeming quality, even as it isolated him from all of literary history.
 
 p. 144 (Thoreau's poetry)
 
@@ -90,17 +106,27 @@ p. 196-197 (A Week and Walden)
 
 >Modulating between these two self-extremes would open up, in the years to come, the full resources of Thoreau’s artistry. He would ever after wrestle uneasily with this new creation, “Thoreau,” this outsize doppelgänger born in those first conversations over the pine timbers of a house still raw with pitch and splinters, who would grow up to narrate his creator’s life to the entire world.
 
+p. 242
+
+>Blake gave Thoreau what he most needed: the conviction that he had something to say and an audience to whom he could say it.
+
+p. 243
+
+>At Walden, Thoreau had learned how to live a writer’s life; now at Emerson’s, he was living it still, surrounded by manuscripts in various stages of composition, a different project for every mood and interest, each one finding its unique voice and stance relative to the others and all of them together composing a literary ecology.
+
+p. 329-330
+
+>Without such a stable and contented homelife, Thoreau could not possibly have pursued his career in the way that he did. His attic chamber in the Yellow House became Walden-on-Main, a room of his own in an equitable and interdependent household in which everyone helped out.
+
+>To Thoreau even the most ordinary sounds were music, and his journal records the many “melodies” that reached him, little vignettes of ambience: warm summer evenings when neighbors and farmers “come a-shopping after their day’s haying are chatting in the streets and I hear the sound of many musical instruments and of singing from various houses”
+
 p. 381 (Wild Fruits)
 
 >In these darkening and haunted pages of his Journal, Thoreau began to trace the outlines of _Walden_’s sequel: he would call it _Wild Fruits_, and it would be his final harvest.
 
-p. 144 (shortcomings as a poet)
+p. 401 (journal content)
 
->Henry’s limitations as an editor were one thing; his shortcomings as a poet were another. Fuller had rejected almost all his poetry
-
->This, too, pained Fuller, who complained that Thoreau’s tin ear had ruined his best poem
-
->This, the peak of Thoreau’s career as a poet, was the beginning of the end. An embarrassed Emerson sat him down and critiqued his poems, pulling no punches. For all their “honest truth” and “rude strength,” they lacked beauty. “Their fault is, that the gold does not yet flow pure, but is drossy & crude. The thyme and marjoram are not yet made into honey; the assimilation is imperfect.” After five years dedicated to poetry, Thoreau was devastated. Emerson never printed another Thoreau poem. Thoreau himself slipped in three more when he edited the April 1843 issue, including two of his greatest, “Smoke” and “Haze.” But from then on, Emerson’s designated poet would be Ellery Channing.
+>Thoreau had, for all his glacial meditations on solitude, been filling his Journal with canny studies of his friends and neighbors, taking them up quite like leaves.
 
 p. 435
 

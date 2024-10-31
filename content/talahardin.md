@@ -19,7 +19,7 @@ In this excursion, which ends only in death, I gather [seeds](tags/seeds.md) of 
 
 I revisit what were planted rhythmically to tend to them, re-walking once verdant valleys and creating trails through my footsteps—trails that connect what later become [seedlings](tags/seedlings.md). I am bound to re-walk these trails and re-walk them again, until what were planted have grown into [evergreens](tags/evergreens.md).
 
-One day, I will be surrounded by [[thoughts/my forest garden of the mind|a forest garden of the mind]], and everything will finally make sense.
+One day, I will be surrounded by [[my forest garden of the mind|a forest garden of the mind]], and everything will finally make sense.
 
 I walk only to find answers to one question: [[how to live|how to live?]]
 
