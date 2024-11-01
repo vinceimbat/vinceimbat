@@ -14,3 +14,4 @@ Uwa and I have a weekly writing call. During those calls, I've written the follo
 - [[Mahal na M]]
 - [[Sa Larawang Ito]]
 - [[Dakilang Lunggati]]
+- [[lipat kwarto|Lipat Kwarto]]

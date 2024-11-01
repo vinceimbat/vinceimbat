@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-01
-sr-interval: 12
+sr-due: 2024-12-01
+sr-interval: 30
 sr-ease: 272
 ---
 Breaking down your work into small tasks allows you to focus on one thing at a time, finish fast, and finish many.

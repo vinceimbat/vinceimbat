@@ -82,7 +82,7 @@ This block could also be used for the following:
 
 # Field work (5:00–7:00)
 
-- I go out for a walk and perform [[thoughts/my daily walking routine|my daily walking routine]].
+- I go out for a walk and perform [[my daily walking routine|my daily walking routine]].
 
 # Dinner (7:00–10:00)
 

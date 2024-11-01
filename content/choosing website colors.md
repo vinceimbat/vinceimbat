@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-01
-sr-interval: 13
+sr-due: 2024-12-07
+sr-interval: 36
 sr-ease: 270
 ---
 1. Choose a dominant color.

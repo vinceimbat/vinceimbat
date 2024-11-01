@@ -18,7 +18,7 @@ Although these structures can easily become complex, their sole purpose is simpl
 [[Every human being has a life management system]] whether they are aware of it or not. But [[intentional living]] requires that one's life management system is more consciously maintained and optimized. While optimization is desirable, a life management system shouldn't be too complex that it can no longer do the two most important things it should do:
 
 - [[a life management system should free your mind]]
-- [[Build a life management system that helps you take intentional action]]
+- [[build a life management system that helps you take intentional action]]
 
 One cannot immediately create [[an optimized life management system]]. A more realistic starting point is a [[minimum viable life management system]] that can be iterated and optimized through time. Ideally, a life management system should be an accurate system of managing actions grounded on sound philosophy. And because of this, it is more than just a consolidation of life hacks and productivity tips. It should be a reflection of one’s worldview and life philosophy (see [[Theory vs philosophy of living vs life management system]]).
 

@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-01
-sr-interval: 9
+sr-due: 2024-11-21
+sr-interval: 20
 sr-ease: 250
 ---
 Because [[planning is unsuitable for thinking]], you need to use interest, curiosity, and intuition when involved in an intellectual pursuit. To produce more insight, you need to follow insight. A plan does not allow this.
