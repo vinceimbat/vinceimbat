@@ -1,15 +1,15 @@
 ---
-title: 2024-10-25 seeds
-date: 2024-10-25
+title: Pagkalipas ni Kristine
+date: 2024-11-02
 aliases: 
 draft: false
 tags:
-  - thoughts
-  - seeds
+  - vignettes
+  - seedlings
+sr-due: 2024-11-05
+sr-interval: 3
+sr-ease: 250
 ---
-- [[pagkalipas ni kristine]]
-# Pagkalipas ni Kristine
-
 Sa Data hindi pa rin nagbabago ang lahat kahit na nagbago na ang lahat. Nabuwal na ang malaking puno sa likuran. Nahulog sa malaking bahay ng kapit-bahay na yumupi sa mataas nitong bakod. Tinatabas ng tauhang pasasahurin ng arawan para pagpirapirasuhin ang mga taong nakapinid sa katawan ng puno. Pero paglabas ng gate walang tigil pa rin sa pagtatawag ang mga trisikel drayber na parang walang nagbago. Umaasang may maisasakay pa ring mga tao.
 
 Sarado ang Velasco gawa ng malaking poste ng kuryenteng nakaharang sa kalsada

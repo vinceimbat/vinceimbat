@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-02
-sr-interval: 13
+sr-due: 2024-12-08
+sr-interval: 36
 sr-ease: 270
 ---
 - [[jiyu shukyo]]

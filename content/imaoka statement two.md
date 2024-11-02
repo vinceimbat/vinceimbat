@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-02
-sr-interval: 4
+sr-due: 2024-11-15
+sr-interval: 13
 sr-ease: 272
 ---
 2. I have faith in my neighbour. The neighbour is oneself as a neighbour. If I believe in myself, I inevitably believe in my neighbour.

@@ -39,3 +39,15 @@ My [[jiyu shukyo|jiyū shūkyō]] (自由宗教) consists of the following field
 - [[eastern liberal religion]]
 - [[filipino spirituality]]
 - creative expressions such as [[walking]], [[writing]], and [[photography]]
+
+# Unprocessed
+
+Let my curiosities dictate each day's study. Trust in this long process. The talahardin is the intermediate packet. As long as you follow your curiosities, something will eventually happen.
+
+Let go of this need to be efficient in your studies.
+
+As long as you are being selective of what you read and letting go of diving into subject matter that will distract you (FOCUS AND AUTHENTICITY applied in my everyday studies), you'll be good.
+
+The documentation of the spiritual journey is the key. And that is why Thoreau journaled. But how did he arranged these together? And when did he knew he can start arranging?
+
+It is one thing to say you want to reintegrate and another to really practice faith. You have to practice faith even in your work. Faith that the words will come at the right time. That words will come despite the meanderings.

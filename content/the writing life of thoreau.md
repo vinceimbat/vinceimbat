@@ -7,7 +7,7 @@ tags:
   - thoughts
   - seedlings
 ---
-
+x
 # References
 
 Walls, Laura Dassow. _Henry David Thoreau: A Life_. First edition, University of Chicago Press, 2017.
@@ -35,6 +35,14 @@ p. 62 (Commonplace books)
 p. 75 (Reading list)
 
 >When Thoreau arrived back at Harvard, he began working through Brownson’s reading list: the latest European literature and philosophy—Goethe and Coleridge, Heine, Cousin, Constant. He bought Brownson’s _New Views_ and Emerson’s _Nature_ for his personal library
+
+p. 117-118 (poetry)
+
+>The poet Emerson had hailed as America’s purest and loftiest had published, at the end of two years, exactly four poems.
+
+>A lesser writer would have been discouraged. But Fuller’s real point, that his talent was far greater than his execution, was not lost on Thoreau. He was a genius, no doubt, but he had yet to learn his craft. This was precisely the lesson Thoreau needed to hear, and it was Fuller who gave it to him.
+
+>The challenge she offered was tremendous: no models existed for what Thoreau was attempting. He was on his own, bearing the potential for greatness but also the knowledge that getting to that greatness meant a leap to originality—a leap he didn’t know how to make.
 
 p. 122
 
@@ -113,6 +121,68 @@ p. 242
 p. 243
 
 >At Walden, Thoreau had learned how to live a writer’s life; now at Emerson’s, he was living it still, surrounded by manuscripts in various stages of composition, a different project for every mood and interest, each one finding its unique voice and stance relative to the others and all of them together composing a literary ecology.
+
+>What was really at stake was Thoreau’s own pen, Thoreau’s own style. The essay he finally published, “Thomas Carlyle and His Works,” reads like a final exam in a long, self-taught course in how to stop sounding like a Harvard graduate, how to start reaching farmers and mechanics as well as preachers and professors.
+
+>Defending Carlyle gave Thoreau permission to sound like himself.
+
+p. 289
+
+>This became another figure for Thoreau’s own artistry: if he arranged his materials just so, nature would speak through him in a voice that carried to town, where even people in the streets would stop to listen, to hear something higher, beyond themselves.
+
+>Thoreau needed this breakthrough insight for his own kind of Transcendentalism. Science showed him how to see the Cosmos in a grain of sand or the ocean in a woodland pond, a mountain range in Fairhaven Cliff, a glacier in the cobblestones of Walden Pond. Poetry gave him a voice to show the world why this mattered.
+
+>What the world explorers of his day were doing writ large, he could do in microcosm, traveling and writing about the earth as a planet whose smallest and most local features illuminated, and were illuminated by, the Cosmos itself. To the leading edge of science, Thoreau could add his own “home-cosmography.” By November 1850 he had caught hold of the method, and by September 1851 he captured it in a phrase: “A writer a man writing is the scribe of all nature—he is the corn & the grass & the atmosphere writing.”
+
+p. 300-303 (Thoreau's larger vision)
+
+>For while writing up the excursion, Thoreau began to envision something wider and deeper than a mere traveler’s tale; he plunged into a new course of research, sketching a kind of sweeping, cosmopolitan, _longue durée_ history, a “Seven-mile Panorama” of greater New England conceived across deep time and planetary space.
+
+>Thoreau’s notes and observations convinced him that the great era of New World exploration, settlement, and industrialization had produced a historic shift to the modern world. He knew he was a child of this world, even as he seemed born to stand outside it and resist it; perhaps, with his learning, energy, and deep gift for languages, he could understand the causes of the changes happening around him.
+
+>His grand and unifying vision pointed to that deeper, wider reality he’d called “the frame-work of the universe.” When one surveys the dozens of research notebooks, scores of meticulous Journal volumes, the maps and surveys and thousands of pages of natural history notes and unpublished manuscripts, one begins to comprehend the scope of his vision; but to see the full picture, one must also examine the hundreds of books he annotated and the hundreds of charts and graphs where he pooled and organized his growing data. It was a staggeringly ambitious vision—impossible, really—but Thoreau embarked on it with ferocious energy. Nearly all of this activity dates from 1850. Out of this vast front, particular nodes crystallized into a series of books and projects: “Cape Cod” and “The Maine Woods,” taken together, explore the two ultimate poles of wilderness, ocean and mountain and the rivers that connect them. A third node took shape in the Indian Books, Thoreau’s attempt to document indigenous alternatives to European narratives of social and economic life. Connecting them all was natural history, the basic environmental framework on which he could weave his portraits of social and historical change—rather as the Concord and Merrimack Rivers had given, in _A Week_, a unifying natural baseline, the thread for his golden ingots of study and reflection. Had Thoreau lived long enough to make that western journey through “the wilds of Canada,” it would be easier to see how his brief excursion to Canada fit—even precipitated—his larger vision.
+
+>Thoreau plunged into his ambitious research program instead
+
+>No other publisher would touch the aborted series. “Excursion to Canada” was a flop. Nor would this be the last time an adversarial Thoreau crossed pens with an editor too afraid of public outrage to print his words unexpurgated: “Cape Cod” and “Chesuncook” would meet the same fate, with similar results. The more Thoreau knew his own mind and spoke it aloud, the more the era’s outraged guardians of public morality sought to cut off his tongue.
+
+>But in Thoreau’s defiant mind, the closed-door Sunday Cosmos had exploded, which meant that if God was anywhere, God was everywhere, including right underfoot at home in Concord. Call it pantheism, call it heresy, but the question remained: how to _live_ this truth, there on Main Street in full view of everyone, as well as how to write it—and in living it and writing it, to show it forth to others.
+
+p. 303-304 (Journal as primary work)
+
+>But on November 8, 1850, he wrote up everything he noticed and thought during his daily walk as one long entry.
+
+>filling pages with a stream-of-consciousness flow of words as if he were writing while walking: “I pluck,” “I heard,” “I saw yesterday,” “I notice.”
+
+>Thoreau’s new experiment made the very act of writing visible on the page
+
+>And this is what truly staggers the mind: from this point, Thoreau did not stop doing this, ever—not until, dying and almost too weak to hold a pen, he crafted one final entry.
+
+>Until November 7, 1850, he had treated the date as incidental. Starting on November 8, 1850, he treated the day and the date as essential to his artistry.
+
+>The date, and what he can write of his life on that one day, is no longer incidental to some larger quest—it _is_ the quest. Virtually every day from then through the end of his life, with few exceptions, Thoreau wrote a dated entry that explored whatever caught his mind that day. Whereas before he had scissored out entire chunks of his journal, sometimes leaving little behind but ribbons and fragments, from then on he cut out very little, and soon, he would cut out nothing at all, carefully preserving each Journal volume intact. In short, without announcing it, Thoreau simply stopped using his Journal as the means to the “real” work of art somewhere else, and started treating the Journal _itself_ as the work of art, with all the integrity that art demands.
+
+>in this new mode, his Journal volumes were something like scientific notebooks, laboratory records whose value lay precisely in their regularity and completeness.
+
+p. 304-305 (walking)
+
+>Reorienting his writing required reorienting the pattern of his daily life. Thoreau’s new protocol required a high degree of focus and discipline, for its value depended on consistency: going out every day, and every day pressing language to find something new to see, making studies, noted an early biographer, “as carefully and habitually as he noted the angles and distances in surveying a Concord farm.”
+
+>Thoreau developed the practice of walking with pencil and paper and scribbling notes on the spot, brief names and phrases that he wrote up the following morning in long, often lyrical Journal entries—sometimes, when he got backed up, writing out two or three days’ worth at a time—then setting out that afternoon for another three- or four-hour walk.
+
+>Sometimes he varied it, walking abroad in the morning and writing in the afternoon; sometimes he unsettled his senses by walking before dawn or staying out well past midnight. But he must go out, he told Channing, every day, to see what he had caught in his traps set for facts; as Emerson remarked, “The length of his walk uniformly made the length of his writing.”
+
+>Thoreau usually walked alone, but often Channing came along, though Thoreau could be impatient
+
+>Channing’s criticism pushed Thoreau to articulate what he wanted with those heaps of “facts”: not mere data, but “material to the mythology which I am writing”—or, more largely, “facts which the mind perceived—thoughts which the body thought with these I deal.” Thoreau’s walks became a form of meditation, a spiritual as well as physical discipline.
+
+>“I am not where my body is—I am out of my senses. In my walks I would return to my senses like a bird or beast. What business have I in the woods if I am thinking of something out of the woods.” Animal minds became a model for him; he strove to walk like a fox, mind and senses wholly open.
+
+p. 321-322 (home life)
+
+>Yet these quiet years were the most creative of his life. For 1852 and 1853, his Journal alone fills 1,253 rich and provocative pages. He also wrote something over five hundred pages of notes in his Indian Books and two new drafts of _Walden_, which doubled in size. These pages show his inner life was as extravagant and inventive as his outer life was steady and disciplined. Indeed, his contented homelife provided the stability Thoreau needed to pursue his career the way that he did.
+
+>Thoreau bought his freedom by keeping his needs simple and his account books balanced to the half cent.
 
 p. 329-330
 

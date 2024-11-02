@@ -1,14 +1,17 @@
 ---
 title: Doubt leads to integrity
 date: 2017-11-04
-tags:
-  - seedlings
+aliases:
+  - thoughts/doubt-leads-to-integrity
 draft: false
-sr-due: 2023-12-02
-sr-interval: 1
+tags:
+  - thoughts
+  - seedlings
+sr-due: 2025-11-28
+sr-interval: 391
 sr-ease: 230
 ---
-Doubt helps us become truer to ourselves.
+[[Doubt]] helps us become truer to ourselves.
 
 When you doubt your religion, you start to listen to the points of view of those of other religions or those with no religions. You become closer to your enemies. Artificial divisions are diminished.
 
@@ -18,4 +21,4 @@ When you doubt your current job, you will start looking for other places that ca
 
 Doubt is an important part of a rich life because it is a space where we finally meet our true selves and those of others. This is especially true because [[we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]]
 
-[[thoughts/doubt allows freedom|Doubt allows freedom]], and [[freedom leads to ginhawa|freedom leads to ginhawa]].
+[[doubt allows freedom|Doubt allows freedom]], and [[freedom leads to ginhawa|freedom leads to ginhawa]].

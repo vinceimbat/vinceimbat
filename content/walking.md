@@ -120,3 +120,5 @@ Resources that have shaped how I think about walking.
 - [[walk projects]]
 - [[think about land when walking]]
 - [[walking on wide spaces]]
+- [[jaywalking]]
+- [[pilgrimage]]

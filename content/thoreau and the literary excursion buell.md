@@ -3,6 +3,7 @@ title: Thoreau and the literary excursion — Buell
 date: 2022-07-13
 aliases:
   - Thoreau-and-the-literary-excursion-%E2%80%94-Buell
+  - Thoreau and the Literary Excursion
 tags:
   - literature
   - seedlings

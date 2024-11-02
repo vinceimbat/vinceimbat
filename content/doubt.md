@@ -14,5 +14,5 @@ Doubt is essential in a practice of [[jiyu shukyo|jiyu shukyo]].
 
 # Related
 
-- [[thoughts/doubt allows freedom|doubt allows freedom]]
-- [[thoughts/doubt leads to integrity|doubt leads to integrity]]
+- [[doubt allows freedom|doubt allows freedom]]
+- [[doubt leads to integrity|doubt leads to integrity]]

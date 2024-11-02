@@ -1,7 +1,8 @@
 ---
 title: Beckoning Baguio by Ivan Labanye
 date: 2024-09-16
-aliases: 
+aliases:
+  - Beckoning Baguio
 draft: false
 tags:
   - literature

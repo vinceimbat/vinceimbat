@@ -3,6 +3,7 @@ title: Writing Alone and with Others by Pat Schneider
 date: 2023-11-24
 aliases:
   - literature/writing-alone-and-with-others-schneider
+  - Writing Alone and With Others
 draft: false
 tags:
   - literature

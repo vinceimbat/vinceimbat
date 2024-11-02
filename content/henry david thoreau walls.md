@@ -4,6 +4,7 @@ date: 2023-01-16
 aliases:
   - Henry-David-Thoreau-by-Walls
   - literature/henry-david-thoreau-by-walls
+  - "Henry David Thoreau: A Life"
 tags:
   - literature
   - seedlings

@@ -9,7 +9,6 @@ sr-due: 2022-09-08
 sr-interval: 3
 sr-ease: 251
 ---
-
 In [[maslow heirarchy of needs]], [[Safety generates peace of mind]], which, in turn, allows individuals to be present. When you are present, you give yourself more chance of experiencing [[happiness]] or [[ginhawa]] when it does arrive and it also helps you take full advantage of every moment no matter how ordinary it is. It is difficult to feel happy when one is not present with what is happening.
 
 Presence is also the state where quality of attention is high and [[Nomina]] could happen.

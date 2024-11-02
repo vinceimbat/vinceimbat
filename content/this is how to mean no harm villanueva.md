@@ -3,6 +3,7 @@ title: This is How to Mean No Harm by Martin Villanueva
 date: 2024-09-16
 aliases:
   - this-is-how-to-mean-no-harm
+  - This is How to Mean No Harm
 draft: false
 tags:
   - literature

@@ -3,9 +3,13 @@ title: Henry David Thoreau
 date: 2022-05-08
 aliases:
   - thoughts/henry-david-thoreau
+  - Henry David Thoreau
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-11-05
+sr-interval: 3
+sr-ease: 253
 ---
 # Why was Thoreau so in love with Nature?
 

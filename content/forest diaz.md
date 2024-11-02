@@ -21,6 +21,8 @@ What makes this work different:
 - Experimental use of numbered paragraphs.
 - Published "work in progress"
 
+It's a hybrid essay, a braided one that interlocks a narrative of Glenn's romantic relationship with an LB-based artist he only identifies by little details, such as that he had an old home at Forestry and that he has transitioned to curation, and a trek-like wandering on the subject of forests. This is the personal essay—perhaps the essay—at its best: meandering, trying to create a path through the wilderness. Among the subjects he encounters in the ? are the forests' relationship with agriculture, colonial scientific forestry, kaingin, the NPA retreat to the forests, forests in Rizal's writings, and LB's Department of Forestry.
+
 # Structure
 
 P - Personal

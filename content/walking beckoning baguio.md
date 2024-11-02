@@ -1,7 +1,8 @@
 ---
 title: Walking "Beckoning Baguio"
 date: 2024-10-09
-aliases: 
+aliases:
+  - Walking "Beckoning Baguio"
 draft: false
 tags:
   - essays

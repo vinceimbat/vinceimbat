@@ -1,7 +1,8 @@
 ---
 title: Now is a new no by Vincenz Serrano
 date: 2024-09-16
-aliases: 
+aliases:
+  - Now is a new no
 draft: false
 tags:
   - literature
