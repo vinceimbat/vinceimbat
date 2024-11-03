@@ -3,7 +3,9 @@ title: The Inward Morning Commentary 1952-08-26
 date: 2022-08-25
 aliases:
   - The Inward Morning Commentary 1952-08-26
+  - thoughts/the-inward-morning-commentary-1952-08-26
 tags:
+  - thoughts
   - seedlings
 sr-due: 2027-08-11
 sr-interval: 1431
@@ -20,5 +22,7 @@ Therefore, Bugbee's admonition is just to write everything down. When they come,
 This makes me think about the [[seeds]] (i.e., field notes I take while walking and fleeting notes I take when reading). I need to publish and share them too, but I don't want to share my daily notes. So what I might try to do is to create separate notes for them. Connect them in the daily note but separate them. These will be the seeds collected on a specific tag.
 
 [^1]: This reminds me of the metaphor I am using for my entire philosophical journey: [[my forest garden of the mind|my forest garden of the mind]]rences
+
+# References
 
 Bugbee, H. (1999). _The Inward Morning: A Philosophical Exploration in Journal Form_. The University of Georgia Press.

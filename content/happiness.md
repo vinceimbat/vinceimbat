@@ -22,4 +22,4 @@ sr-ease: 252
 8. [[Compassion leads to happiness]]
 9. [[If my happiness depends on how I experience the world, I need to take good care of my senses. I will be relying on them for most of my life, esp if ginhawa and experience are my goals.]]
 10. [[Rich relationships lead to happiness]]
-11. [[thoughts/presence is the foundation]]
+11. [[presence is the foundation]]

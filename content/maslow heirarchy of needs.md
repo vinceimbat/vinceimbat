@@ -3,6 +3,7 @@ title: Maslow’s heirarchy of needs
 date: 2022-03-11
 aliases:
   - Maslow%E2%80%99s-heirarchy-of-needs
+  - Maslow's hierarchy of needs
 tags:
   - thoughts
   - seedlings

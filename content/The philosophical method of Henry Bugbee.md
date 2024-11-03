@@ -1,14 +1,17 @@
 ---
-title: "The philosophical method of Henry Bugbee"
-date: "2022-07-26"
+title: The philosophical method of Henry Bugbee
+date: 2022-07-26
+aliases:
+  - The-philosophical-method-of-Henry-Bugbee
+  - The philosophical method of Henry Bugbee
+  - the philosophical method of Henry Bugbee
 tags:
-
-- "seedlings"
-sr-due: 2022-07-27
-sr-interval: 1
+  - thoughts
+  - seedlings
+sr-due: 2027-06-18
+sr-interval: 957
 sr-ease: 230
 ---
-
 In the Preface of [[the inward morning bugbee]], Henry Bugbee presents his method. Here are some interesting points.
 
 - He prefers to use the journal form to present his philosophical exploration to maintain emotion in his work. This intention confirms that his work is an example of [[lyrical philosophy]]. The journal form allows the presentation of the history of the ideas as they arrived to the subject, which is what poetry and narrative does ([[Poetry and narrative trace their history so readers can re-enact them]]).

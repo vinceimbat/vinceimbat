@@ -10,7 +10,7 @@ sr-due: 2024-11-04
 sr-interval: 4
 sr-ease: 273
 ---
-- [[thoughts/the inward morning commentary 1952-08-26]]
+- [[the inward morning commentary 1952-08-26]]
 - [[the inward morning commentary 1952-08-27]]
 - [[The Inward Morning Commentary 1952-08-28]]
 - [[The Inward Morning Commentary 1952-08-29]]

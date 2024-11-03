@@ -1,15 +1,12 @@
 ---
-title: "Safety generates peace of mind"
-date: "2022-03-16"
+title: Safety generates peace of mind
+date: 2022-03-16
+aliases:
+  - Safety-generates-peace-of-mind
 tags:
-
-- "seedlings"
-sr-due: 2023-05-25
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2026-09-02
+sr-interval: 668
 sr-ease: 250
 ---
-
-
-
-## References
-

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-03
-sr-interval: 12
+sr-due: 2024-11-29
+sr-interval: 26
 sr-ease: 250
 ---
 Certain positions while [[writing]] produce certain emotional responses. How we move our hands, breathe, seated, or how our body is positioned affects what comes out of our mind.

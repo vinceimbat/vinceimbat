@@ -1,17 +1,19 @@
 ---
-title: "Presence is the foundation for happiness, self-actualization, and transcendence"
-date: "2021-08-17"
+title: Presence is the foundation for happiness, self-actualization, and transcendence
+date: 2021-08-17
 aliases:
-- "Presence-is-the-foundation-for-happiness-self-actualization-and-transcendence"
+  - Presence-is-the-foundation-for-happiness-self-actualization-and-transcendence
+  - thoughts/presence-is-the-foundation
 tags:
-- "seedlings"
-sr-due: 2022-09-08
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-07-26
+sr-interval: 995
 sr-ease: 251
 ---
-In [[maslow heirarchy of needs]], [[Safety generates peace of mind]], which, in turn, allows individuals to be present. When you are present, you give yourself more chance of experiencing [[happiness]] or [[ginhawa]] when it does arrive and it also helps you take full advantage of every moment no matter how ordinary it is. It is difficult to feel happy when one is not present with what is happening.
+In [[maslow heirarchy of needs|Maslow's hierarchy of needs]], [[safety generates peace of mind]], which, in turn, allows individuals to be present. When you are present, you give yourself more chance of experiencing [[happiness]] or [[ginhawa]] when it does arrive and it also helps you take full advantage of every moment no matter how ordinary it is. It is difficult to feel happy when one is not present with what is happening.
 
-Presence is also the state where quality of attention is high and [[Nomina]] could happen.
+Presence is also the state where quality of attention is high and [[numina]] could happen.
 
 Ancient sages have argued that we only feel pain and suffering when we leave the present moment.
 

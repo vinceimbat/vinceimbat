@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-03
-sr-interval: 66
+sr-due: 2025-04-29
+sr-interval: 177
 sr-ease: 268
 ---
 I've been keeping two journals:

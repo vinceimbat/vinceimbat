@@ -7,10 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-03
-sr-interval: 3
+sr-due: 2024-11-11
+sr-interval: 8
 sr-ease: 250
 ---
-Poet and therapist
-
-Author of *[[having listened whited|Having Listened]]*.
+Poet and therapist. Author of *[[having listened whited|Having Listened]]*.
