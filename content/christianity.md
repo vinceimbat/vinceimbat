@@ -1,9 +1,9 @@
 ---
-title: Herbert Fingarette
-date: 2022-09-03
+title: Christianity
+date: 2024-11-03
 aliases:
-  - Herbert-Fingarette
-  - Herbert Fingarette
+  - Christianity
+draft: false
 tags:
   - thoughts
   - seedlings

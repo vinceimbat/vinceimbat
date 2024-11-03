@@ -1,9 +1,9 @@
 ---
-title: Herbert Fingarette
-date: 2022-09-03
+title: Isabelo de los Reyes
+date: 2024-11-03
 aliases:
-  - Herbert-Fingarette
-  - Herbert Fingarette
+  - Isabelo de los Reyes
+draft: false
 tags:
   - thoughts
   - seedlings

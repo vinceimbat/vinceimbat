@@ -3,6 +3,8 @@ title: My jiyū shūkyō (自由宗教)
 date: 2024-02-16
 aliases:
   - thoughts/my-jiyu-shukyo
+  - my jiyū shūkyō
+  - My jiyū shūkyō
 draft: false
 tags:
   - thoughts

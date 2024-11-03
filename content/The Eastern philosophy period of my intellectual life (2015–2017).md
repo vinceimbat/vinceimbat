@@ -13,7 +13,7 @@ The return of my "spiritual" inclinations - exposure to Eastern thought.
 
 After college, I started looking for a differeny way of working. I found blogging and read bloggers. One of them was [[dave ursillo]]. His writing really resonated to me and did something I didn't expect. He woke up my “spiritual” side.
 
-Because Dave was a yogi and he shared some of his favorite books about yoga, I got acquainted first with [[Hinduism]]. With his suggestion, I read the [[bhagavad gita]], the [[Yoga Sutras of Patanjali]], and [[The Heart of Yoga]] by Desikachar). I also met the works on [[Spiritual humanism]] by [[Jay Lakhani]]. Even at this point, I was still trying to connect secular knowledge with religious wisdom.
+Because Dave was a yogi and he shared some of his favorite books about yoga, I got acquainted first with [[hinduism]]. With his suggestion, I read the [[bhagavad gita]], the [[Yoga Sutras of Patanjali]], and [[The Heart of Yoga]] by Desikachar). I also met the works on [[Spiritual humanism]] by [[Jay Lakhani]]. Even at this point, I was still trying to connect secular knowledge with religious wisdom.
 
 Through Dave’s suggestion, I also encountered and read the [[tao te ching]].
 

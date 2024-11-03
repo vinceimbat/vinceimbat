@@ -3,6 +3,7 @@ title: Shin'ichirō Imaoka
 date: 2023-10-28
 aliases:
   - thoughts/shinichiro-imaoka
+  - Shin'ichirō Imaoka
 draft: false
 tags:
   - thoughts

@@ -3,6 +3,7 @@ title: Jiyū shūkyō
 date: 2023-10-28
 aliases:
   - thoughts/free-religion
+  - jiyū shūkyō
 draft: false
 tags:
   - thoughts

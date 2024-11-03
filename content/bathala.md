@@ -1,7 +1,8 @@
 ---
 title: Bathala
 date: 2024-10-10
-aliases: 
+aliases:
+  - Bathala
 draft: false
 tags:
   - thoughts

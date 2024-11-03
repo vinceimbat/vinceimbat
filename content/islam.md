@@ -1,9 +1,9 @@
 ---
-title: Herbert Fingarette
-date: 2022-09-03
+title: Islam
+date: 2024-11-03
 aliases:
-  - Herbert-Fingarette
-  - Herbert Fingarette
+  - Islam
+draft: false
 tags:
   - thoughts
   - seedlings
