@@ -9,6 +9,9 @@ tags:
 sr-due: 2024-11-04
 sr-interval: 1
 sr-ease: NaN
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
 The flame was a red leaf moving, dancing with the beat of the wind, silently cleansing the air with its smoke, as Matt and Tita Pam chanted those old words, words that have come to these islands long ago. Precolonial Filipino spirituality had Hindu and Buddhist influence. There is some proof that our culture was closely influenced by South Asian culture. Ancient Filipino religion must have been syncretic—a mix of [[anitism]], [[Hinduism]], [[Buddhism]], and some [[Islam]], particularly in the south. One could only imagine what our society looked like without the coming of [[christianity|Christianity]]. Maybe we are a country of contemplatives, growing up from homes where we both meditated but also believe in [[bathala|Bathala]] or Laon or Kabunian—perhaps something like Tibetan Buddhism. A mix of animitism and Buddhism would produce something like this. And since none of these ancient religions are colonial, they wouldn't destroy each other. All would've flourished and will have more resources today for creating religions of the future or individual spiritualities.
 

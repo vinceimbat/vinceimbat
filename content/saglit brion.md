@@ -6,8 +6,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-04
-sr-interval: 13
+sr-due: 2024-12-10
+sr-interval: 36
 sr-ease: 270
 ---
 [[rofel brion|Rofel Brion's]] book launched on the month [[rem tanauan|Rem Tanauan]] died. It's a collection of short essays he once wrote in his blog.

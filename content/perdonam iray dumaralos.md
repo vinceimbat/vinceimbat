@@ -7,8 +7,8 @@ tags:
   - poems
   - pangasinan
   - seedlings
-sr-due: 2024-11-04
-sr-interval: 45
+sr-due: 2025-02-26
+sr-interval: 114
 sr-ease: 250
 ---
 Lilinisay dumaralos so kaumaan  

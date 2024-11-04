@@ -6,8 +6,8 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-11-04
-sr-interval: 3
+sr-due: 2024-11-13
+sr-interval: 9
 sr-ease: 252
 ---
 Sinulat kasama si [[joshua bienvenida|Joshua Bienvenida]] noon [[2024-08-13]].
