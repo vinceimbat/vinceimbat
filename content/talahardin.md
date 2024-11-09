@@ -4,9 +4,7 @@ date: 2023-09-16
 aliases:
   - thoughts/talahardin
 draft: false
-tags:
-  - thoughts
-  - seedlings
+tags: []
 ---
 ![Banner](files/banner.jpg)
 <h2>I was thrown here—alone and oblivious. The landscape is gray, cold, and frightening. I stared at the horizon and immediately understood—I knew nothing of this terrain.</h2>

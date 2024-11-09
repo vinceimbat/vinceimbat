@@ -3,8 +3,7 @@ title: Newsletters
 date: 2022-02-02
 aliases:
   - newsletter
-tags:
-  - evergreens
+tags: []
 ---
 # Currently Active Newsletters
 

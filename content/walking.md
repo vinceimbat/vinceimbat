@@ -4,9 +4,7 @@ date: 2022-08-15
 aliases:
   - Walking
   - thoughts/walking
-tags:
-  - thoughts
-  - seedlings
+tags: []
 ---
 ![[20231206-111406-rxg-walking-man.jpg]]
 
