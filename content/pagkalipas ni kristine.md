@@ -6,8 +6,8 @@ draft: false
 tags:
   - vignettes
   - seedlings
-sr-due: 2024-11-05
-sr-interval: 3
+sr-due: 2024-11-25
+sr-interval: 15
 sr-ease: 250
 ---
 Sa Data hindi pa rin nagbabago ang lahat kahit na nagbago na ang lahat. Nabuwal na ang malaking puno sa likuran. Nahulog sa malaking bahay ng kapit-bahay na yumupi sa mataas nitong bakod. Tinatabas ng tauhang pasasahurin ng arawan para pagpirapirasuhin ang mga taong nakapinid sa katawan ng puno. Pero paglabas ng gate walang tigil pa rin sa pagtatawag ang mga trisikel drayber na parang walang nagbago. Umaasang may maisasakay pa ring mga tao.

@@ -7,7 +7,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-05
-sr-interval: 9
-sr-ease: 254
+sr-due: 2024-12-29
+sr-interval: 49
+sr-ease: 274
 ---
+# Related
+
+- [[evening at pili drive|Evening at Pili Drive]]

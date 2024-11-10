@@ -1,7 +1,8 @@
 ---
 title: Manila
 date: 2024-10-21
-aliases: 
+aliases:
+  - Manila
 draft: false
 tags:
   - poems

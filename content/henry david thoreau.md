@@ -7,8 +7,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-05
-sr-interval: 3
+sr-due: 2024-11-24
+sr-interval: 14
 sr-ease: 253
 ---
 # Why was Thoreau so in love with Nature?

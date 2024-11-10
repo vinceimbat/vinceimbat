@@ -4,6 +4,7 @@ date: 2021-02-05
 aliases:
   - Austin-Kleon
   - thoughts/austin-kleon
+  - Austin Kleon
 tags:
   - thoughts
   - seedlings

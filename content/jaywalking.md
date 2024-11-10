@@ -6,8 +6,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-05
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-11
+sr-interval: 31
+sr-ease: 270
 ---
-History of jaywalking
+# To do
+
+- Research the history of jaywalking.

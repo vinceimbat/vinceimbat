@@ -3,6 +3,7 @@ title: Evening at Pili Drive
 date: 2022-10-16
 aliases:
   - poems/evening-at-pili-drive
+  - Evening at Pili Drive
 tags:
   - poems
   - seedlings

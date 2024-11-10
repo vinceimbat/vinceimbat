@@ -1,7 +1,8 @@
 ---
 title: Conchitina Cruz
 date: 2024-08-12
-aliases: 
+aliases:
+  - Conchitina Cruz
 draft: false
 tags:
   - thoughts

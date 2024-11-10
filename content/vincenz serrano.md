@@ -5,6 +5,7 @@ aliases:
   - Vincenz-Serrano
   - contacts/vincenz-serrano
   - thoughts/vincenz-serrano
+  - Vincenz Serrano
 tags:
   - thoughts
   - seedlings
