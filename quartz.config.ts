@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "vinceimbat.com",
     ignorePatterns: [".obsidian", "daily notes", "inbox", "private", "project archives", "projects", "projects someday", "templates"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
