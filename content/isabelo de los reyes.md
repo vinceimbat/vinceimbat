@@ -7,7 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-06
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-17
+sr-interval: 35
+sr-ease: 270
 ---
+Author of [[anitismo reyes|Anitismo]].

@@ -7,7 +7,7 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-06
-sr-interval: 3
+sr-due: 2024-11-28
+sr-interval: 16
 sr-ease: 250
 ---

@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-08
-sr-interval: 4
+sr-due: 2024-11-28
+sr-interval: 16
 sr-ease: 270
 ---
 Si Antonio Victor Reyes aka Taal Talahib na kilala ng marami sa amin bilang Tatay o Ka Icktoy ay namaalam na sa mundong ito noong Oktubre 28, 2024.

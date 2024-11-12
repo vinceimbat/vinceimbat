@@ -6,11 +6,11 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-12
-sr-interval: 16
-sr-ease: 270
+sr-due: 2025-01-11
+sr-interval: 60
+sr-ease: 290
 ---
-When you [[break down your work into small and clearly separated tasks]] that can be completed in a reasonable time, you get instant feedback. Instant feedback is what you need to get better—to do [[Deliberate practice]]. Instant feedback gained many times means you gain fast experience, because [[Numerous feedback loops produce expertise and intuition]].
+When you [[break down your work into small and clearly separated tasks]] that can be completed in a reasonable time, you get instant feedback. Instant feedback is what you need to get better—to do [[deliberate practice]]. Instant feedback gained many times means you gain fast experience, because [[numerous feedback loops produce expertise and intuition]].
 
 [[Intuition is not mysterious nor the opposite of rationality]]. [[Intuition is the sedimentation of experiences and lessons]].
 

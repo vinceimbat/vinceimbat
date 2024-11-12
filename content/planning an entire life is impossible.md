@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-10
-sr-interval: 6
+sr-due: 2024-11-30
+sr-interval: 18
 sr-ease: 255
 ---
 There are two kinds of environments
@@ -15,7 +15,7 @@ There are two kinds of environments
 1. Fragile environments. These environments are similar to a factory, where there is order. One things is followed by another in a linear process.
 2. Antifragile environments. These environments are highly volatile. There is no linear process. Instead, events are interconnected and affect each other.
 
-[[life is a higly antifragile environment|Life is a higly antifragile environment]]. If our approach to it is excessive planning, we will fail. The best way to approach it is using flexibility, openness, and responsiveness to stimuli. We can still create order but that order should be designed in a way that accomodates change easily ([[a life management system has to be adaptable]]).
+[[life is a highly antifragile environment|Life is a highly antifragile environment]]. If our approach to it is excessive planning, we will fail. The best way to approach it is using flexibility, openness, and responsiveness to stimuli. We can still create order but that order should be designed in a way that accommodates change easily ([[a life management system has to be adaptable]]).
 
 Interestingly, much that can be said about organizing life can be said about thinking:
 
@@ -25,6 +25,10 @@ Interestingly, much that can be said about organizing life can be said about thi
 # To do
 
 - The first part of this note needs to be its own note: the two kinds of environments according to Taleb.
+
+# Related
+
+- [[nassim taleb|Nassim Taleb]]
 
 # References
 

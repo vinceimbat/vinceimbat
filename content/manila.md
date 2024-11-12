@@ -7,8 +7,8 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-11-06
-sr-interval: 10
+sr-due: 2024-12-18
+sr-interval: 36
 sr-ease: 250
 ---
 Libingan ng libu-libong puno  

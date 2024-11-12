@@ -15,7 +15,7 @@ This is unlike [[ultralearning]], which seems to suggest doing more work. [[Josh
 2. Identify which of those parts are most relevant and important to you.
 3. Learn enough about these most relevant parts to be able to practice them and self-correct yourself.
 4. Remove physical, mental, and emotional barriers to practice.
-5. Use [[Deliberate practice]] to learn the most relevant parts for at least 20 hours or until you have achieved your target level of performance.
+5. Use [[deliberate practice]] to learn the most relevant parts for at least 20 hours or until you have achieved your target level of performance.
 
 This process is obviously inspired by the [[Three-stage model of skill acquisition]]. I find this very compelling, given the nature of my monthly schedule. I want to be able to achieve learning goals within my free 26 days every month.
 

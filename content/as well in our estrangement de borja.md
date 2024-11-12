@@ -6,9 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-09
-sr-interval: 30
-sr-ease: 250
+sr-due: 2025-03-05
+sr-interval: 113
+sr-ease: 270
 ---
 
 # References
+
+ Raymond, de Borja. _As Well, in Our Estrangement: Essays, Talks, and Notes on Writing and Art_. Aklat Ulagad, 2022.

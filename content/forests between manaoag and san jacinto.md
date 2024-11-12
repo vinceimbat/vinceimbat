@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-10
-sr-interval: 52
+sr-due: 2025-03-27
+sr-interval: 135
 sr-ease: 250
 ---
 These are the exact quotes from the first book of [[Rosario Mendoza Cortes]]' trilogy on [[Pangasinan]] history that forever changed how I looked at [[San Jacinto]] and [[Manaoag]].

@@ -3,6 +3,7 @@ title: Tao Te Ching
 date: 2023-08-21
 aliases:
   - literature/tao-te-ching
+  - Tao te Ching
 draft: false
 tags:
   - literature

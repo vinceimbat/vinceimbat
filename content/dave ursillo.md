@@ -3,6 +3,7 @@ title: Dave Ursillo
 date: 2023-08-21
 aliases:
   - thoughts/dave-ursillo
+  - Dave Ursillo
 draft: false
 tags:
   - thoughts

@@ -6,10 +6,12 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-09
-sr-interval: 63
-sr-ease: 250
+sr-due: 2025-07-02
+sr-interval: 232
+sr-ease: 270
 ---
+From Seybold:
+
 Thoreau revised endlessly to clarify his thoughts and experiences in his own mind, reducing them to their essence, and to eliminate rather than to achieve style. He reduced the communication to essentials.
 
 Thoreau valued compactness and clarity, which he achieved through numerous revisions. He used words accurately.

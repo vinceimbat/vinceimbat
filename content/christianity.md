@@ -7,7 +7,10 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-06
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-14
+sr-interval: 32
+sr-ease: 270
 ---
+# Related
+
+- [[jw|Jehovah's Witness]]

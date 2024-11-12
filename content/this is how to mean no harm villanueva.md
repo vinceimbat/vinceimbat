@@ -8,11 +8,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-06
-sr-interval: 38
-sr-ease: 290
+sr-due: 2025-05-08
+sr-interval: 177
+sr-ease: 310
 ---
-Book of [[poetry]] by [[Martin Villanueva]]. I bought it from my first [[MIBF]] in 2024.
+Book of [[poetry]] by [[Martin Villanueva]]. I bought it from my first [[MIBF]] in 2024. Interesting how he titles his poems. He reuses titles. Are poems under repeated titles a continuation? How are they connected?
 
 # References
 

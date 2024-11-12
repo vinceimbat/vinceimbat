@@ -8,8 +8,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-09
-sr-interval: 13
+sr-due: 2024-12-22
+sr-interval: 40
 sr-ease: 278
 ---
 This is my current [[life management system]] [[ground level]] setup.

@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-12
-sr-interval: 13
+sr-due: 2024-12-18
+sr-interval: 36
 sr-ease: 276
 ---
 This is [[zettelkasten]]'s best practice when reading. [[Niklas Luhmann]] never underlined sentences or wrote marginalia. What he did was take [[fleeting notes]] about things that caught his attention in the text and then processed these notes into [[evergreens]] but thinking about their relevance to his own thinking.

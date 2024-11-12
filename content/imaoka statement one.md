@@ -7,13 +7,13 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-09
-sr-interval: 8
-sr-ease: 253
+sr-due: 2024-12-21
+sr-interval: 39
+sr-ease: 273
 ---
-1. I have faith (shinzuru) in myself. I recognize my own subjectivity and creativity and feel the worth of living in life (ikigai). Subjectivity and creativity can be rephrased as personality, divinity, and Buddha-nature.
+>I have faith (shinzuru) in myself. I recognize my own subjectivity and creativity and feel the worth of living in life (ikigai). Subjectivity and creativity can be rephrased as personality, divinity, and Buddha-nature.
 
-Based on [[andrew j brown|Andrew J. Brown's]] explanation, faith (shinzuru) is an action I direct towards myself. It means "staying open" as often as I can to myself. This is exactly what Andrew told me:
+Based on [[andrew j brown|Andrew J. Brown's]] explanation, [[faith]] (shinzuru) is an [[action]] I direct towards myself. It means "staying open" as often as I can to myself. This is exactly what Andrew told me:
 
 >the most important thing is always to keep listening with an as open-mind and open-heart as possible...to what's going on in our own head and heart/body.
 

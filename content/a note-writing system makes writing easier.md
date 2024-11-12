@@ -1,7 +1,8 @@
 ---
 title: A note-writing system makes writing easier
 date: 2024-10-17
-aliases: 
+aliases:
+  - A note-writing system makes writing easier
 draft: false
 tags:
   - thoughts

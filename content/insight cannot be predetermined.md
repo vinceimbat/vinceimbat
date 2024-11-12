@@ -7,8 +7,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-10
-sr-interval: 14
+sr-due: 2024-12-23
+sr-interval: 41
 sr-ease: 268
 ---
 [[thinking must produce insight|Thinking must produce insight]], but insights come at weird times that they can almost feel mystical sometimes. We cannot force insight to come. What we can do is to do our best to think. After doing our best to think and nothing else happens, we should then let probability and the power of our mind bring out insights and answers that we need.

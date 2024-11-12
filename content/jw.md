@@ -1,7 +1,9 @@
 ---
 title: JW
 date: 2024-09-19
-aliases: 
+aliases:
+  - JW
+  - Jehovah's Witness
 draft: false
 tags:
   - thoughts

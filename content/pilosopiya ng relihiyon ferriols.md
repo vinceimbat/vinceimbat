@@ -6,9 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-10
-sr-interval: 31
-sr-ease: 250
+sr-due: 2025-03-03
+sr-interval: 111
+sr-ease: 270
 ---
 
 # References
+
+Ferriols, Roque J. _Pilosopiya ng Relihiyon_. BlueBooks, 1995.

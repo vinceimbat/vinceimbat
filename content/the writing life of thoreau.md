@@ -74,6 +74,10 @@ p. 157 (experience as a writer at New York)
 
 >“Literature comes to a poor market here, and even the little that I write is more than will sell.”
 
+p. 175-176
+
+>Thoreau had been gone for weeks, measuring the land from Concord to Monadnock in the north, then to Greylock far in the west: now his feet knew the breadth of Massachusetts, step by step. It had been a test of his physical endurance, his resourcefulness alone, his inner reserves of strength, and of his literary reserves as well. Walking was becoming synonymous with writing, the measure of his steps with the measure of his prose. Thoreau’s first great excursion never made it into a separate essay, but out of it came many rich and lyrical pages.
+
 p. 190-192 (writing at Walden)
 
 >But now, instead of claiming a little space in a communal house, an alcove or attic, he would claim an entire life, and declare that writing would be not an occasional hobby but the central hub of his whole being. From now on, Thoreau would be a writer in an entirely new sense: instead of living a little, then writing about it, his life would be one single, integrated act of composition.
@@ -125,6 +129,46 @@ p. 243
 >What was really at stake was Thoreau’s own pen, Thoreau’s own style. The essay he finally published, “Thomas Carlyle and His Works,” reads like a final exam in a long, self-taught course in how to stop sounding like a Harvard graduate, how to start reaching farmers and mechanics as well as preachers and professors.
 
 >Defending Carlyle gave Thoreau permission to sound like himself.
+
+p. 273-276 (walking)
+
+>he inventoried all the places within a day’s walk
+
+>It was an inventory of possibility. Transitions are hard to mark, but one can take this list as the moment when Thoreau began to reinvent himself as the writer of world fame.
+
+>Thoreau had always walked; it was how a man without means got from here to there. But in the previous year, he realized, “my walks have extended themselves,” and after his morning work, almost every afternoon, he visited “some new hill or pond or wood many miles distant.”
+
+>In another year, these long walks would no longer be a diversion from work; they would be the work itself, his major literary project. He was, for the first time, really free: free of Emerson’s expectations, free of the literary marketplace, free of all hopes for travel abroad. With roads to a conventional literary career closed, Thoreau veered off-road, learning to see familiar landscapes with a traveler’s eye
+
+>Thoreau’s long years writing _A Week on the Concord and Merrimack Rivers_ helped him craft that insider’s outside view of American history and society. Now he hungered for a wider view of the universe
+
+>For Thoreau, though, preaching and river parties were not two things but one—not a vague religious pantheism, but a serious attempt to reach beyond the traps of unthinking social convention to true “geo-graphy,” earth-writing, inscribed not in the leaves of dusty books but in the strata of the planet itself.
+
+>The present is the key to the past, and to the future as well; the pulse of the universe is beating still.
+
+>Reading Lyell had changed how Thoreau understood the world. He extended Lyell’s insight to the human world as well
+
+>Thoreau longed to understand the workings of things, and, like Emerson, he believed this was poet’s work: “The poet uses the results of science and philosophy, and generalizes their widest deductions.” But unlike Emerson, Thoreau calibrated those insights with the instruments of science and engineering.
+
+>As his eye searched out causes and processes, his hand grasped with equal ease pencil and foot rule, compass and thermometer, earth and world.
+
+>This didn’t mean giving up on Transcendentalism, but it did mean giving Transcendentalism a fresh spin.
+
+>After sketching his list of wild places that he could walk to any day of the week, Thoreau added his reason why: “How near to good is what is wild. There is the marrow of nature—there her divine liquors—that is the wine I love. . . . A town is saved not by any righteous men in it but by the woods & swamps that surround it.”
+
+>At the far end of this, thought Emerson, was madness. Thoreau, with nothing more to lose, would defy Emerson and pursue his madness to the end of wisdom.
+
+p. 278
+
+>“You must ascend a mountain to learn your relation to matter, and so to your own body, for _it_ is at home there, though _you_ are not.”
+
+>without matter, soul is without life; but to be a soul, embodied, means that only through a mortal body can soul “contact” the world.
+
+>This experience should be the source of your writing, he told Blake: return to it again and again, until your essay contains all that is important, nothing that is not. This can be done only afterward, at home
+
+>“It is after we get home that we really go over the mountain, if ever. What did the mountain say? What did the mountain do?”
+
+>It would take Thoreau the rest of his life to “go over” this particular mountain, to put on paper what it said and what it did. For a decade he kept returning to _Cape Cod_. It would be published only after his death.
 
 p. 289
 
@@ -189,6 +233,18 @@ p. 329-330
 >Without such a stable and contented homelife, Thoreau could not possibly have pursued his career in the way that he did. His attic chamber in the Yellow House became Walden-on-Main, a room of his own in an equitable and interdependent household in which everyone helped out.
 
 >To Thoreau even the most ordinary sounds were music, and his journal records the many “melodies” that reached him, little vignettes of ambience: warm summer evenings when neighbors and farmers “come a-shopping after their day’s haying are chatting in the streets and I hear the sound of many musical instruments and of singing from various houses”
+
+p. 331–332
+
+>Under the surface of Thoreau’s placid homelife was a mind on fire. The quieter his days, the more extravagant his pages. The key to creativity, he thought, was to keep writing and not judge or edit too soon: “You must try a thousand themes before you find the right one—as nature makes a thousand acorns to get one oak.” And stay close to the earth, away from books
+
+>Didn’t scholars do the same?—muck out in winter the fertile soil thrown up in summer? “My barn-yard is my journal,” he joked, and “decayed literature makes the best soil.”
+
+>Once, he had dreamed of buying a farm, and despite his condescension to farmers in _Walden_, he always felt a kinship with them. They lived on the land; he, too, should “live in each season as it passes—breathe the air, drink the drink, taste the fruit,” give himself to it wholly. _Walden_ must live in season, it must be an agrarian book, close to the earth. To write it, he would dig deep into the muck
+
+>The great cycle of seasons seemed to be not merely weather, but the deep metaphysical framework for a spiritual life
+
+>Politics and war had drawn Thoreau deep into the newspapers, but now he set them aside: “You cannot serve two masters. It requires more than a day’s devotion to know & to possess the wealth of a day.”
 
 p. 381 (Wild Fruits)
 

@@ -43,7 +43,7 @@ That said, the problem with digital gardening is that digital gardens, unlike bl
 - [[Talahardin improves your thinking and vice versa]]
 - [[working on smaller tasks develops intuition]]
 - [[working on smaller tasks creates a sense of control]]
-- [[Numerous feedback loops produce expertise and intuition]]
+- [[numerous feedback loops produce expertise and intuition]]
 
 # Guides
 

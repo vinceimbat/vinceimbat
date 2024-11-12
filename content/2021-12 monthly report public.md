@@ -5,10 +5,7 @@ aliases:
 draft: true
 tags:
   - thoughts
-  - seedlings
-sr-due: 2024-11-08
-sr-interval: 12
-sr-ease: 251
+  - evergreens
 ---
 Hi!
 

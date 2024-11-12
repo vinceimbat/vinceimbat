@@ -6,9 +6,11 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-11
-sr-interval: 32
-sr-ease: 250
+sr-due: 2025-03-08
+sr-interval: 116
+sr-ease: 270
 ---
 
 # References
+
+Coronel, Raphael Atienza. _Will You Tell Me What I Look like? Poems and Paintings_. University of Santo Tomas Publishing House, 2023.
