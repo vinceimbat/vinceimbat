@@ -1,13 +1,14 @@
 ---
 title: Theory of the Dérive by Guy Debord
 date: 2024-08-10
-aliases: 
+aliases:
+  - Theory of the Dérive
 draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-13
-sr-interval: 53
+sr-due: 2025-03-14
+sr-interval: 121
 sr-ease: 230
 ---
 # Derive vs classical walks

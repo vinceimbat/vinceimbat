@@ -6,12 +6,10 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-11-13
-sr-interval: 9
+sr-due: 2024-12-06
+sr-interval: 23
 sr-ease: 252
 ---
-Sinulat kasama si [[joshua bienvenida|Joshua Bienvenida]] noon [[2024-08-13]].
-
 - The Rings of Saturn
 - The Plain Sense of Things
 - Bookshelf na oorderin palang sa Shopee
@@ -30,3 +28,6 @@ Sinulat kasama si [[joshua bienvenida|Joshua Bienvenida]] noon [[2024-08-13]].
 - Calendaryo
 - Mga zines na idedeliver pa lang
 - Blackboard na nabili na sa Shopee
+
+***
+Sinulat kasama si [[joshua bienvenida|Joshua Bienvenida]] noon [[2024-08-13]].

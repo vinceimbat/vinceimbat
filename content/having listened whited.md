@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-13
-sr-interval: 13
-sr-ease: 270
+sr-due: 2025-01-01
+sr-interval: 49
+sr-ease: 290
 ---
-I learned about this book and [[Gary Whited]] from [[andrew j brown|Andrew James Brown]].
+I learned about this book and [[Gary Whited]] from [[andrew j brown|Andrew James Brown]]. It inspires me to write poems about my hometown: [[san jacinto|San Jacinto]].

@@ -7,8 +7,12 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-13
-sr-interval: 13
-sr-ease: 270
+sr-due: 2024-12-31
+sr-interval: 48
+sr-ease: 290
 ---
 We call him Uwa.
+
+# Related
+
+- [[writing with uwa|writing with Uwa]]

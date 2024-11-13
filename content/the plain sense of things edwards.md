@@ -1,11 +1,15 @@
 ---
 title: The Plain Sense of Things by James C. Edwards
 date: 2024-08-08
-aliases: 
+aliases:
+  - The Plain Sense of Things
 draft: false
 tags:
   - literature
   - seedlings
+sr-due: 2024-11-16
+sr-interval: 3
+sr-ease: 250
 ---
 
 # References

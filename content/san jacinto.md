@@ -1,7 +1,8 @@
 ---
 title: San Jacinto, Pangasinan
 date: 2024-08-28
-aliases: 
+aliases:
+  - San Jacinto
 draft: false
 tags:
   - thoughts
