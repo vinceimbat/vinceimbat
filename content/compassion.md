@@ -17,5 +17,5 @@ I don't need metaphysics to be convinced how much my life depends on having good
 
 # Related
 
-- [[Understanding leads to compassion]]
+- [[understanding leads to compassion]]
 

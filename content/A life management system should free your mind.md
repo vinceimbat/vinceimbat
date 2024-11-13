@@ -3,6 +3,7 @@ title: A life management system should free your mind
 date: 2021-01-05
 aliases:
   - A-life-management-system-should-free-your-mind
+  - A life management system should free your mind
 tags:
   - thoughts
   - seedlings

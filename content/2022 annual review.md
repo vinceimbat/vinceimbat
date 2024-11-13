@@ -64,7 +64,7 @@ Since it is the beginning of the year, I also conducted my [[annual review]], im
 
 # February
 
-I started my birth month by publishing the first issue of [[uman]], my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence ([[Understanding leads to compassion]]) and his distaste for ideologies.
+I started my birth month by publishing the first issue of [[uman]], my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence ([[understanding leads to compassion]]) and his distaste for ideologies.
 
 I also started re-reading *[[transcend kaufman|Transcend]]* by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through *Transcend*, I learned that [[my top three sources of self-actualization]] were continued freshness of appreciation, truth-seeking, and purpose.
 
@@ -97,7 +97,7 @@ Aside from walks, this month was also a month of travels. I went to Baguio to se
 
 April started with me contemplating my inevitable mortality. My contemplation led me to the realization that what is truly important in life are not the peak experiences but the [[Plateau experiences]]. The value of plateau experiences comes only after several brushes with death and suffering—experiences that make one wiser.
 
-The connection between plateau experiences, death, and wisdom is as follows: When one wants to [[thoughts/see things as they really are]], driven by curiosity and truth-seeking, one quickly realizes that everything is fleeting. This realization of the fleetingness of life then leads to more intentional living: one wants to make the most out of this short precious life.
+The connection between plateau experiences, death, and wisdom is as follows: When one wants to [[see things as they really are]], driven by curiosity and truth-seeking, one quickly realizes that everything is fleeting. This realization of the fleetingness of life then leads to more intentional living: one wants to make the most out of this short precious life.
 
 Thinking about my life's fleetingness led me to ask myself what I wanted to do with the time I had left. The answer that came to me was that I wanted to write a book. I spent a considerable amount of time this month thinking about what kind of book to write and realized that I wanted to give birth to the following:
 

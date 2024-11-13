@@ -4,6 +4,7 @@ date: 2021-02-17
 aliases:
   - contacts/rem-tanauan
   - thoughts/rem-tanauan
+  - Rem Tanauan
 tags:
   - thoughts
   - seedlings

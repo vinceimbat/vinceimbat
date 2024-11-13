@@ -6,6 +6,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-11-16
+sr-interval: 3
+sr-ease: 250
 ---
 Today, I subscribe to the following beliefs about the act of creation:
 1. Creativity should be a vehicle to maximize complete freedom. I subscribe to what [[ann lauterbach|Ann Lauterbach]] said: "Poetry protects language from serving any master."

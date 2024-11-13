@@ -1,15 +1,14 @@
 ---
-title: "Love and Grief"
-date: "2018-10-08"
-slug: "love-and-grief"
+title: Love and Grief
+date: 2018-10-08
+aliases: []
 tags:
-  
-  - "seedlings"
-sr-due: 2022-08-20
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-09-06
+sr-interval: 1027
 sr-ease: 250
 ---
-
 ![Blue sky and clouds over a mountain range and a pond](blue_sky_clouds_mountain_pond.jpg)
 
 People will leave. Because people change. Or desire for change. People grow and outgrow you. Or it's the other way around. You're the one who grew and people can't take it.

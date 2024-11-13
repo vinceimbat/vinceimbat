@@ -23,7 +23,7 @@ Entrepreneurship is not very attractive to me right now because it requires an a
 
 Right now, I am using the [[day job model]] to sustain my research activities. I could use my day job to pivot to [[financial independence]], which frees me up to pursue insight-generation without the need to grow profit.
 
-A middle way from the Day Job model to financial independence is the [[patronage model]], which attracts me. [[thoughts/a patronage model is best for an independent creative]] mainly because it helps the researcher focus on his main goal: to produce insights and test them through prototypes, not really to earn profit.
+A middle way from the Day Job model to financial independence is the [[patronage model]], which attracts me. [[a patronage model is best for an independent creative]] mainly because it helps the researcher focus on his main goal: to produce insights and test them through prototypes, not really to earn profit.
 
 However, since I don’t have enough career capital, I need to bootstrap my audience. I need to pursue [[sharing]] and [[thoughts/connecting]] to build and cultivate relationships first that I can convert into patrons in the future.
 

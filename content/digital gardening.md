@@ -26,7 +26,7 @@ That said, the problem with digital gardening is that digital gardens, unlike bl
 - Make your workflow motivating and sustainable.
    - [[Establish a workflow that is motivating]]
    - [[combine curiosity with a note-writing system and practice]]
-   - [[A flexible working scheme prevents losing interest]]
+   - [[a flexible working scheme prevents losing interest]]
 - Take notes about what you read.
    - [[write permanent notes about what you read to test understanding]]
 - Remember note taxonomy.

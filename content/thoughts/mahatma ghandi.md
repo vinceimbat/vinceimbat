@@ -29,7 +29,7 @@ Nonviolence is not passive. It is active. It opposes physical force with the for
 # Related
 
 - [[thoughts/humility nudges us towards authenticity]]
-- [[Understanding leads to compassion]]
+- [[understanding leads to compassion]]
 
 # References
 

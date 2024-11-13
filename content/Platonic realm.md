@@ -1,14 +1,12 @@
 ---
-title: "Platonic realm"
-date: "2022-08-30"
+title: Platonic realm
+date: 2022-08-30
+aliases:
+  - Platonic realm
 tags:
-
-- "seedlings"
-sr-due: 2022-09-02
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-08-22
+sr-interval: 1012
 sr-ease: 250
 ---
-
-
-
-# References

@@ -1,16 +1,13 @@
 ---
 title: Autonomy lengthens your life
 date: 2024-10-20
-aliases: 
+aliases: Autonomy lengthens your life
 draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: Invalid date
-sr-interval: NaN
-sr-ease: NaN
 ---
-[[freedom motivates us|Freedom motivates us]] and gives us a sense of control. This lengthens our lives. On the other hand, losing this sense of control makes us sick. [[freedom leads to ginhawa]] and [[Freedom is an essential prerequisite for optimal Ginhawa]]. In order to optimize Ginhawa and well-being, we need to optimize our sense of autonomy ([[Optimal Ginhawa can only be achieved in a context where individual freedom is optimized]]).
+[[freedom motivates us|Freedom motivates us]] and gives us a sense of control. This lengthens our lives. On the other hand, losing this sense of control makes us sick. [[freedom leads to ginhawa|Freedom leads to ginhawa]] and [[freedom is an essential prerequisite for optimal ginhawa]]. In order to optimize Ginhawa and well-being, we need to optimize our sense of autonomy.
 
 # To do
 

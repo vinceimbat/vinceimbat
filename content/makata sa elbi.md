@@ -1,12 +1,16 @@
 ---
 title: Kung Bakit Lumilipat ang mga Makata sa Elbi
 date: 2024-04-04
-aliases: 
+aliases:
+  - Kung Bakit Lumilipat ang mga Makata sa Elbi
 draft: false
 tags:
   - poems
   - filipino
   - seedlings
+sr-due: 2024-11-16
+sr-interval: 3
+sr-ease: 250
 ---
 Lumilipat ang mga makata sa Elbi
 dahil madalas doon sa kaniyang mga parang

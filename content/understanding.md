@@ -14,7 +14,7 @@ Understanding is the core of my life. I am a philosopher first before a writer o
 
 There are two works involved in understanding:
 
-1. **Sharpening my understanding.** This involves cultivating [[mindfulness|mindfulness]], comprehensive research, deep reading, careful thinking, and mental sharpness, so that I can [[thoughts/see things as they really are|see things as they really are]] (i.e., apply a [[thoughts/scout mindset|scout mindset]]).
+1. **Sharpening my understanding.** This involves cultivating [[mindfulness|mindfulness]], comprehensive research, deep reading, careful thinking, and mental sharpness, so that I can [[see things as they really are|see things as they really are]] (i.e., apply a [[thoughts/scout mindset|scout mindset]]).
 2. **Using my understanding.** This involves applying my understanding in various situations and subjects.
 
 The main question I try to study is: [[how should I live|how should I live]]

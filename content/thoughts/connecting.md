@@ -52,6 +52,6 @@ To make this possible, I need to seek the following relationships:
 2. Possible peers
 3. Possible fans
 
-Fans will be my patrons, they would support me in adopting a [[patronage model|patronage model]], which is my choice of sustainability model ([[thoughts/a patronage model is best for an independent creative|a patronage model is best for an independent creative]]). Mentors and peers could be patrons too, but their main role is to sharpen my theories and methods.
+Fans will be my patrons, they would support me in adopting a [[patronage model|patronage model]], which is my choice of sustainability model ([[a patronage model is best for an independent creative|a patronage model is best for an independent creative]]). Mentors and peers could be patrons too, but their main role is to sharpen my theories and methods.
 
 To connect effectively, I follow a [[thoughts/strategy for connecting|strategy for connecting]] (see also [[thoughts/slow connecting for introverts|slow connecting for introverts]]).
