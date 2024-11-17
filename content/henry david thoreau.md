@@ -4,6 +4,7 @@ date: 2022-05-08
 aliases:
   - thoughts/henry-david-thoreau
   - Henry David Thoreau
+  - Thoreau
 tags:
   - thoughts
   - seedlings

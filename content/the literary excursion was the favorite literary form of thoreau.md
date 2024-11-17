@@ -6,23 +6,24 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-17
-sr-interval: 21
-sr-ease: 250
+sr-due: 2025-02-03
+sr-interval: 77
+sr-ease: 270
 ---
+There are three kinds of literary excursions that [[henry david thoreau|Thoreau]] used:
 - ramble ("Walking")
 - trip (Cape Cod)
 - sojourn (Walden)
 
-In this [[literary excursion]], he narrates a spiritual quest as it proceeds. The latter half of [[henry david thoreau|Thoreau's]] journals had a similar form.
+In a [[literary excursion]], Thoreau narrates a spiritual quest as it proceeds. The latter half of his journals had a similar form.
 
 The excursion does not feel obligated to be detailed in its description of a specific setting. Instead, it spends most of its time providing an account of the universe as a whole from the perspective of the author.
 
-His choice of this form may in part be due to the fact that it was a popular form in his time. Thoreau has read over 146 travel books.
+Thoreau's choice of this form may in part be due to the fact that it was a popular form in his time. Thoreau has read over 146 travel books.
 
 Travel literature could still be instructive while still being delightful. It was more literary than factual.
 
-Among all of the travel books he read, William Gilpin's Remarks of Forest Scenery and Other Woodland Views was perhaps closest to Thoreau's taste.
+Among all of the travel books he read, William Gilpin's *Remarks of Forest Scenery and Other Woodland Views* was perhaps closest to Thoreau's taste.
 
 # References
 

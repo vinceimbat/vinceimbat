@@ -6,9 +6,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-17
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-12-01
+sr-interval: 14
+sr-ease: 290
 ---
 To [[see things as they really are]]. To let go of value and prescription.
 
@@ -29,3 +29,7 @@ Non-judgment could be experienced in [[meditation]]. One could differentiate the
 [[love|Love]] is non-judgmental.
 
 The problem with laws is that they prescribe. Law = judgment.
+
+# Related
+
+- [[non-attachment]]

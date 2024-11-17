@@ -9,7 +9,7 @@ tags:
 ---
 Nature has always called to me—to live near it, to communite with it, and to study it. Nature is the outside world, which even my physical body is a part of. It is that which is apart from my "soul" (i.e., [[subjective experience exists|my subjective experience]]).
 
-Nature is without subjectivity. It is bland, neutral, and objective ([[an external objective physical world exists]]). Its study is a source of both joy and enlightenment. A communion with it is a lesson on [[Non-attachment]]—to values, thoughts, beliefs, and preferences.
+Nature is without subjectivity. It is bland, neutral, and objective ([[an external objective physical world exists]]). Its study is a source of both joy and enlightenment. A communion with it is a lesson on [[non-attachment]]—to values, thoughts, beliefs, and preferences.
 
 But, at the same time, needing Nature means needing attachment. Because I am closely intertwined with the rest of the world—both in terms of my physical body and my mind.
 

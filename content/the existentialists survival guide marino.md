@@ -7,8 +7,8 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-17
-sr-interval: 59
+sr-due: 2025-04-15
+sr-interval: 149
 sr-ease: 250
 ---
 # Authenticity
