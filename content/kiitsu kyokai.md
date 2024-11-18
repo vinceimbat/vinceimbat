@@ -7,6 +7,9 @@ draft: false
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-11-21
+sr-interval: 3
+sr-ease: 250
 ---
 # Definition
 
@@ -48,6 +51,7 @@ The first meeting of the post-war kiitsu kyōkai (second version) was held on Oc
 - [[2024-09-26 kiitsu kyokai]]
 - [[2024-10-10 kiitsu kyokai]]
 - [[2024-10-24 kiitsu kyokai]]
+- [[2024-11-14 kiitsu kyokai]]
 
 # To do
 

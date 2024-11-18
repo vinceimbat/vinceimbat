@@ -9,3 +9,8 @@ tags:
   - seedlings
 ---
 - [[anitism]]
+
+# Possible projects
+
+- Compile sources of Filipino spirituality.
+- Translate them to English.

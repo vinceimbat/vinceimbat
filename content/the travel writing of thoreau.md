@@ -6,15 +6,15 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 20
+sr-due: 2025-01-13
+sr-interval: 56
 sr-ease: 250
 ---
 The main theme of his travel writing is not really what is seen or experienced during the trip but how he portrays himself. What he sees or experiences are presented as they are reflected in his mind.
 
 [[henry david thoreau|Thoreau's]] travel writing presents his exploration of his spirituality.
 
-Thoreau's style mixes facts uncovered or representative of the place he is traveling, such as descriptive sketches and historical lore, with entertaining elements, such as verse fragments and prose poetry. Thoreau cycles between observation and speculation and neither of these two principles dominates.\
+Thoreau's style mixes facts uncovered or representative of the place he is traveling, such as descriptive sketches and historical lore, with entertaining elements, such as verse fragments and prose poetry. Thoreau cycles between observation and speculation and neither of these two principles dominates.
 
 Thoreau's work is then hybrid: it is "part sketch, part information, part narrative, part wit, part philosophy."
 

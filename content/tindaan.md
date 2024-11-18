@@ -5,9 +5,10 @@ aliases:
 draft: false
 tags:
   - translations
+  - pangasinan
   - seedlings
-sr-due: 2024-11-18
-sr-interval: 30
+sr-due: 2025-02-08
+sr-interval: 82
 sr-ease: 270
 ---
 Bibitlaey managlako  

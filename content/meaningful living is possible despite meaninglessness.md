@@ -13,7 +13,7 @@ sr-ease: 228
 ---
 [[The universe has a beginning]]. It exists, so it cannot come from infinity ([[Infinity cannot exist]]). [[There is no single purpose everyone must follow]] and [[there is no destiny|there is no destiny]].
 
-[[life is inherently meaningless|Life is inherently meaningless]]. [[There is no objective meaning]]. We derive meaning not from out there—from the physical universe—but in here, within ourselves. Only human minds can create meaning because [[Meaning is a mental construction]].
+[[life is inherently meaningless|Life is inherently meaningless]]. [[there is no objective meaning]]. We derive meaning not from out there—from the physical universe—but in here, within ourselves. Only human minds can create meaning because [[meaning is a mental construction]].
 
 Therefore, the best approach to life is this: Recognize that life is inherently pointless, but live it anyway. Because you can make your life count at least for yourself. You can also live it for others. But be wary that you don’t take yourself too seriously. Create your own purpose, live it, but do not feel bad when things don’t pan out. Live lightly, live in the present moment. [[Approach life with humor]].
 

@@ -7,10 +7,15 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-06
+sr-interval: 18
+sr-ease: 270
 ---
+Collage-like poems.
+
+High art references.
+
+Uses seldom used words.
 
 # References
 

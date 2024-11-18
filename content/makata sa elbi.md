@@ -8,8 +8,8 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
+sr-due: 2024-11-29
+sr-interval: 11
 sr-ease: 250
 ---
 Lumilipat ang mga makata sa Elbi

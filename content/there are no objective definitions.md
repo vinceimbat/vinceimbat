@@ -7,15 +7,15 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-07
+sr-interval: 19
+sr-ease: 270
 ---
-There are no objective definitions for words. All definitions are subjective by their nature. [[A definition of X is simply what we mean by X]]. [[Meaning is a mental construction]]. [[Words do not possess meaning by themselves]].
+There are no objective definitions for words. All definitions are subjective by their nature. [[meaning is a mental construction|Meaning is a mental construction]]. [[words do not possess meaning by themselves|Words do not possess meaning by themselves]].
 
-I can invent my own word. I can invent my own language. If that language becomes popular, we can create our own dictionary. But [[dictionary definitions are conventional]] of the words I invented. It makes communication easier. But [[Consensual does not mean objective]].
+I can invent my own word. I can invent my own language. If that language becomes popular, we can create our own dictionary. But [[dictionary definitions are conventional]] of the words I invented. It makes communication easier. But [[consensual does not mean objective]].
 
-Meaning atrributed to objects other than words are also subjective. [[There is no objective meaning]].
+Meaning attributed to objects other than words are also subjective. [[there is no objective meaning|There is no objective meaning]].
 
 # References
 

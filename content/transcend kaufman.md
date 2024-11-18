@@ -3,6 +3,7 @@ title: Transcend — Kaufman
 date: 2022-04-12
 aliases:
   - Transcend-—-Kaufman
+  - Transcend
 tags:
   - literature
   - seedlings

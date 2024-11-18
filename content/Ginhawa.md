@@ -6,8 +6,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
+sr-due: 2024-11-27
+sr-interval: 9
 sr-ease: 255
 ---
 Tagalog (kaginhawahan), Ikokano (gin-awa), Kapampangan (masalese), Naga Bikol and Sorsogon (kasangyangan), Sebwano and Surigawnon, ayahay, Waray (maupay).

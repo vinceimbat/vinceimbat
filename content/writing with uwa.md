@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
+sr-due: 2024-11-28
+sr-interval: 10
 sr-ease: 260
 ---
 Uwa and I have a weekly writing call. During those calls, I've written the following:

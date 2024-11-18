@@ -7,8 +7,8 @@ draft: false
 tags:
   - vignettes
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 42
+sr-due: 2025-03-14
+sr-interval: 116
 sr-ease: 270
 ---
 ![Sunset over a bridge on a lake beach](baybayin-sunset.jpg)

@@ -6,7 +6,12 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-16
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-08
+sr-interval: 20
+sr-ease: 270
 ---
+This came from [[andy matuschak|Andy Matuschak]].
+
+# Related
+
+- [[a patronage model is best for an independent creative]]

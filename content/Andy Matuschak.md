@@ -3,6 +3,7 @@ title: Andy Matuschak
 date: 2021-01-05
 aliases:
   - Andy-Matuschak
+  - Andy Matuschak
 tags:
   - thoughts
   - seedlings
