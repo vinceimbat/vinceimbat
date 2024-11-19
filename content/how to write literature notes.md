@@ -4,8 +4,8 @@ date: 2021-09-03
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-15
-sr-interval: 19
+sr-due: 2025-01-15
+sr-interval: 57
 sr-ease: 271
 ---
 It is important to [[write permanent notes about what you read to test understanding]]. However, it is distracting to switch back and forth between reading a book and writing [[evergreens]].

@@ -1,9 +1,9 @@
 ---
-title: Miki Nakura
-date: 2024-02-08
+title: Anarcho-capitalism
+date: 2023-11-12
 aliases:
-  - thoughts/miki-nakura
-  - Miki Nakura
+  - thoughts/anarcho-capitalism
+  - Anarcho-capitalism
 draft: false
 tags:
   - thoughts
@@ -12,7 +12,3 @@ sr-due: 2024-11-22
 sr-interval: 3
 sr-ease: 250
 ---
-
-# Related
-
-- [[seiza|seiza]]

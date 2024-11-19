@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-19
-sr-interval: 30
+sr-due: 2025-02-09
+sr-interval: 82
 sr-ease: 270
 ---
 The designer Massimo Vignelli used only six fonts in all his designs. These fonts are all non-premium fonts.

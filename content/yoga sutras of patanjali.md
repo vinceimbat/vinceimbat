@@ -11,3 +11,4 @@ sr-due: 2024-11-15
 sr-interval: 3
 sr-ease: 250
 ---
+An ancient Indian scriptures for yoga. I bought this book per recommendation of [[dave ursillo|Dave Ursillo]].

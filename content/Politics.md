@@ -1,13 +1,12 @@
 ---
-title: "Politics"
-date: "2022-06-24"
+title: Politics
+date: 2022-06-24
+aliases:
+  - Politics
 tags:
-
-- "seedlings"
-sr-due: 2022-06-27
-sr-interval: 3
+  - thoughts
+  - seedlings
+sr-due: 2027-11-26
+sr-interval: 1102
 sr-ease: 250
 ---
-
-
-# References

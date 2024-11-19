@@ -4,6 +4,7 @@ date: 2023-08-13
 aliases:
   - contacts/jesa-suganob
   - thoughts/jesa-suganob
+  - Jesa Suganob
 tags:
   - thoughts
   - seedlings

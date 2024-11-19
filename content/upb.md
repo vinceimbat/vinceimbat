@@ -1,7 +1,8 @@
 ---
 title: University of the Philippines Baguio (UPB)
 date: 2024-08-19
-aliases: 
+aliases:
+  - UPB
 draft: false
 tags:
   - thoughts

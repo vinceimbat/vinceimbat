@@ -6,8 +6,8 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-15
-sr-interval: 11
+sr-due: 2024-12-24
+sr-interval: 35
 sr-ease: 273
 ---
 - [[the inward morning commentary 1952-08-26]]

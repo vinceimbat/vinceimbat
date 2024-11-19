@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-15
-sr-interval: 2
+sr-due: 2024-12-01
+sr-interval: 12
 sr-ease: 248
 ---
 A flexible working scheme allows us to change course as needed. It necessitates that we avoid making large predictions about where a project is going. In research, we need to [[use curiosity to guide your thinking]] and remember that [[writing that aims at insight must be organized in a flexible system]].

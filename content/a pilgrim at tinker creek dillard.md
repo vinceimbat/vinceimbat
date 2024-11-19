@@ -1,14 +1,17 @@
 ---
-title: A Pilgrim at Tinker Creek - Dillard
+title: A Pilgrim at Tinker Creek by Dillard
 date: 2022-05-07
 aliases:
   - a-pilgrim-at-tinker-creek---dillard
   - thoughts/a-pilgrim-at-tinker-creek-by-dillard
+  - A Pilgrim at Tinker Creek
 tags:
   - literature
   - seedlings
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 252
 ---
-
 # Style
 
 - She uses lots of metaphor.

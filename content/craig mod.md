@@ -8,11 +8,11 @@ aliases:
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-15
-sr-interval: 3
-sr-ease: 253
+sr-due: 2024-12-15
+sr-interval: 26
+sr-ease: 273
 ---
-Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[henry david thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[annie dillard]] who engaged more with [[nature]] and, thus, talked more to themselves. (Note: How much should I talk to people I meet on my walks?)
+Craig Mod is a writer and photographer from Japan. He blogs at craigmod.com. He’s like a modern-day [[henry david thoreau|Thoreau]] who walks and writes, except he’s not too particular with philosophy and is more interested in culture, literature, and story-telling. That is why he talked to other people, unlike Thoreau or [[annie dillard|Annie Dillard]] who engaged more with [[nature]] and, thus, talked more to themselves.
 
 What I think I can steal from his process is how he organizes long-walks and create publishable artifacts from those walks.
 
@@ -27,8 +27,18 @@ More about Craig Mod:
 - [[Ideas on Photography from Craig Mod]]
 - [[How Craig Mod works]]
 
-***
-# How CM creates a book
+# Unprocessed
+
+John McBride was his mentor.
+Looked for a deeper meaning on being in Japan.
+
+2012 did the kumano kodo walk
+2019 walk that turned to kissa by kissa was what started his walk as a platform model
+
+He is no allowed to complain during walks.
+Elevate people he meets.
+
+## How CM creates a book
 
 Cm
 
@@ -41,18 +51,6 @@ Why? When u are writing a book, your mind works outside of clear book writing se
 Cm has a 10,000 people email list before launching sp
 
 Connecting the books with the membership was the advertising
-
----
-Unprocessed
-
-John McBride was his mentor.
-Looked for a deeper meaning on being in Japan.
-
-2012 did the kumano kodo walk
-2019 walk that turned to kissa by kissa was what started his walk as a platform model
-
-He is no allowed to complain during walks.
-Elevate people he meets.
 
 # References
 

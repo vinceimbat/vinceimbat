@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-19
-sr-interval: 22
+sr-due: 2025-01-14
+sr-interval: 56
 sr-ease: 250
 ---
 [[henry david thoreau|Thoreau]] was excellent in inferring universal law from a single fact. He was very good at cycling between observation and speculation. His wide use of allusion is also remarkable.

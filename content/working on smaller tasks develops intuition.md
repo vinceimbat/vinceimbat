@@ -12,7 +12,7 @@ sr-ease: 290
 ---
 When you [[break down your work into small and clearly separated tasks]] that can be completed in a reasonable time, you get instant feedback. Instant feedback is what you need to get better—to do [[deliberate practice]]. Instant feedback gained many times means you gain fast experience, because [[numerous feedback loops produce expertise and intuition]].
 
-[[Intuition is not mysterious nor the opposite of rationality]]. [[Intuition is the sedimentation of experiences and lessons]].
+[[intuition is not mysterious nor the opposite of rationality]]. [[intuition is the sedimentation of experiences and lessons]].
 
 # References
 
