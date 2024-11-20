@@ -4,9 +4,13 @@ date: 2022-04-30
 aliases:
   - Walden-Thoreau
   - thoughts/walden-by-thoreau
+  - Walden
 tags:
   - literature
   - seedlings
+sr-due: 2024-11-23
+sr-interval: 3
+sr-ease: 250
 ---
 Economy
 - inquiries from townsmen
