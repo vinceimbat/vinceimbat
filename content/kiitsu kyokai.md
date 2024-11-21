@@ -7,8 +7,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-21
-sr-interval: 3
+sr-due: 2024-11-30
+sr-interval: 9
 sr-ease: 250
 ---
 # Definition
@@ -30,10 +30,6 @@ Translations and uses of the word kyōkai to English reflects the inherent probl
 # History
 
 The first meeting of the post-war kiitsu kyōkai (second version) was held on October 23, 1948. However, it didn't officially form until about two years after.
-
-# Andrew James Brown's Project
-
-
 
 # Meeting notes
 

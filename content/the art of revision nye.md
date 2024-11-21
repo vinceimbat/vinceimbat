@@ -1,13 +1,13 @@
 ---
-title: the art of revision nye
+title: The art of revision by Naomi Shihab Nye
 date: 2024-09-09
 aliases: 
 draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-21
-sr-interval: 45
+sr-due: 2025-03-13
+sr-interval: 112
 sr-ease: 250
 ---
 "Each thing gives us something else."

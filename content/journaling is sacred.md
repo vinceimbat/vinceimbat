@@ -7,6 +7,9 @@ aliases:
 tags:
   - thoughts
   - seedlings
+sr-due: 2024-11-24
+sr-interval: 3
+sr-ease: 254
 ---
 Somehow, I see writing in my journal as something sacred, reverent, and venerable. And perhaps it is. For many years it has helped me go through a lot of things. It has brought me to many places. The words that started here has become notes on my garden, which in turn become posts on my blog and newsletter.
 

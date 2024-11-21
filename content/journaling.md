@@ -7,15 +7,17 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2025-04-29
-sr-interval: 177
-sr-ease: 268
+sr-due: 2025-02-14
+sr-interval: 85
+sr-ease: 248
 ---
 I've been keeping two journals:
 - My [[5MJ]]
 - My [[diary]]
 
 My journaling process was influenced by [[Austin Kleon]] and [[Henry David Thoreau]].
+
+Journaling is my way of listening to myself. It doesn't have to take up an entire hour. Usually, it takes less than thirty minutes. I know that I've succeeded with journaling if (1) I have felt ginhawa and (2) if I was able to achieve some clarity about something.
 
 # Related
 

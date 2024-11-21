@@ -8,8 +8,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-21
-sr-interval: 2
+sr-due: 2024-11-26
+sr-interval: 5
 sr-ease: 241
 ---
 # Emerson's influence
