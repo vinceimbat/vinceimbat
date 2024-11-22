@@ -8,10 +8,12 @@ aliases:
 tags:
   - literature
   - seedlings
-sr-due: 2024-11-22
-sr-interval: 3
-sr-ease: 252
+sr-due: 2024-12-03
+sr-interval: 11
+sr-ease: 272
 ---
+[[annie dillard|Annie Dillard's]] award-winning book, where she tried to emulate [[henry david thoreau|Thoreau]].
+
 # Style
 
 - She uses lots of metaphor.

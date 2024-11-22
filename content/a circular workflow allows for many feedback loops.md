@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-12-02
+sr-interval: 10
 sr-ease: 252
 ---
 A circular workflow repeated often allows you to improve while working. Improvement involves correcting mistakes and getting more learning opportunities. And if in such a workflow you [[break down your work into small and clearly separated tasks]], the feedback loops are smaller and therefore mistakes are easier to accept.

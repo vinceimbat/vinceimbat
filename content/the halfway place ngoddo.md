@@ -1,7 +1,8 @@
 ---
 title: The Halfway Place by Dayyuman Ngoddo
 date: 2024-10-07
-aliases: 
+aliases:
+  - The Halfway Place
 draft: false
 tags:
   - literature
