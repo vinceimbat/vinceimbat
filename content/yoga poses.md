@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-12-04
+sr-interval: 11
 sr-ease: 250
 ---
 Warrior 1
@@ -45,6 +45,4 @@ Seated Spinal Twist
 Boat
 
 Crow
-
-\
 

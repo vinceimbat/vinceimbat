@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-23
-sr-interval: 36
-sr-ease: 294
+sr-due: 2025-04-19
+sr-interval: 147
+sr-ease: 314
 ---
-Short story writer from [[Pangasinan]]. Won third place in [[GBL]] 2023 in that category. Currently a teacher at the Pangasinan Polytechnic College.
+Short story writer from [[santa barbara|Santa Barbara]], [[Pangasinan]]. He won third place in [[GBL]] 2023 in the short story category. Currently a teacher at the Pangasinan Polytechnic College (PPC). He got his bachelor's degree in Language and Literature at my alma matter, [[upb|UPB]].

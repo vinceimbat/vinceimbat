@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-24
-sr-interval: 59
+sr-due: 2025-04-30
+sr-interval: 157
 sr-ease: 268
 ---
 Here are some Pangasinan words from the [[Cosgaya dictionary]] (and counterchecked in the [[Benton dictionary]]) related to walking.

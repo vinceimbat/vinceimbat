@@ -6,8 +6,8 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-11-24
-sr-interval: 3
+sr-due: 2024-12-03
+sr-interval: 9
 sr-ease: 250
 ---
 A gift is something  

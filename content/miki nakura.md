@@ -8,11 +8,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-09
+sr-interval: 16
+sr-ease: 270
 ---
-
-# Related
-
-- [[seiza|seiza]]
+My [[seiza]] teacher based in New York. He is a Japanese [[jodo shinshu|Jōdo Shinshū]] minister.

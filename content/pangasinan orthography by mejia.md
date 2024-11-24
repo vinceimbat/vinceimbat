@@ -6,8 +6,8 @@ draft: false
 tags:
   - thoughts
   - seedlings
-sr-due: 2024-11-22
-sr-interval: 33
+sr-due: 2025-02-23
+sr-interval: 92
 sr-ease: 275
 ---
 Here are the rules of [[Pangasinan]] [[orthography]] proposed by [[Pablo Mejia]] in his book [[bilay tan kalkalar nen rizal mejia|Bilay tan Kalkalar nen Rizal]].
