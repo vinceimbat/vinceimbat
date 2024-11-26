@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-The first part in the [[Cautious sharing process]] is to set up a strong foundation. To do that, do the following:
+The first part in the [[cautious sharing process]] is to set up a strong foundation. To do that, do the following:
 
 1. Start by writing a journal and conversing with yourself. Here, you can also [[use a note-writing system]].
 2. Share with one loved one who you trust and who always has your best interest in mind. For example, read your work to them.

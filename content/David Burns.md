@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-A psychiatrist who developed [[Cognitive Behavioral Therapy]] for depression.
+A psychiatrist who developed [[cognitive behavioral therapy]] for depression.
 
 ## References
 

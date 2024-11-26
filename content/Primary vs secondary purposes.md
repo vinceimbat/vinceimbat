@@ -18,7 +18,7 @@ For Eckhart Tolle, primary purpose is always primary, and this purpose is everch
 
 The state of concsiousness is primary; everything else is secondary.
 
-That said, [[We can live without articulating our purpose]].
+That said, [[we can live without articulating our purpose]].
 
 # To do
 

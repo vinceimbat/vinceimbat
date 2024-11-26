@@ -24,23 +24,23 @@ That said, the problem with digital gardening is that digital gardens, unlike bl
 - Externalize your thinking.
    - [[writing facilitates thinking]]
 - Make your workflow motivating and sustainable.
-   - [[Establish a workflow that is motivating]]
+   - [[a workflow must be motivating]]
    - [[combine curiosity with a note-writing system and practice]]
    - [[a flexible working scheme prevents losing interest]]
 - Take notes about what you read.
    - [[write permanent notes about what you read to test understanding]]
 - Remember note taxonomy.
-   - [[Confusion over types of notes result to less productivity]]
+   - [[confusion over types of notes result to less productivity]]
 - Aspire for quality over quantity.
-   - [[Notes should not be added indiscriminately to the Talakahon]]
+   - [[notes should not be added indiscriminately to the talahardin]]
    - [[Avoid collecting information]]
 - [[Work on multiple projects at the same time]]
 - Use a standardized workflow.
-   - [[A standardized workflow facilitates ease]]
+   - [[a standardized workflow facilitates ease]]
 
 # Benefits of Zettelkasten
 
-- [[Talahardin improves your thinking and vice versa]]
+- [[talahardin improves your thinking and vice versa]]
 - [[working on smaller tasks develops intuition]]
 - [[working on smaller tasks creates a sense of control]]
 - [[numerous feedback loops produce expertise and intuition]]
@@ -58,7 +58,7 @@ Writing [[evergreens]]
 
 Retrieving notes
 
-- [[How to use an index effectively in Talahardin]]
+- [[how to use an index effectively in talahardin]]
 
 Writing using permanent notes
 
@@ -67,8 +67,8 @@ Writing using permanent notes
 
 # Tools
 
-- [[Four minimum tools for a note-writing system]]
-- [[Tools should be embedded in a system to be effective]]
+- [[keep the talahardin simple]]
+- [[tools should be embedded in a system to be effective]]
 - [[use a reading inbox to capture useful reading materials]]
    - [[my reading inbox]]
 

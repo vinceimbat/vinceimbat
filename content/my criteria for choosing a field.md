@@ -15,7 +15,7 @@ Here are my criteria for choosing a field:
 3. The potential mentors and peers in my field should be working on topics and questions that are related to my research questions and objectives (e.g., [[how should I live]], [[how to live]], building a philosophy of life, etc.).
 4. They have to be engaged in actual, real-life application of the knowledge they produce from their intellectual activity. They have to have a [[inbox/Practice]].
 5. The field has to feel like it is balanced in the attention it gives to theory and practice. People here are engaged in activities that resemble [[use-inspired basic research]].
-6. The field has to have publication channels established, which also implies that it has an audience I can tap when I am ready (see [[Cautious sharing process]]).
+6. The field has to have publication channels established, which also implies that it has an audience I can tap when I am ready (see [[cautious sharing process]]).
 7. This isn't the most important but it would make things a lot easier: the community has to be likable.
 
 Using these criteria, I have decided that [[My field is practical philosophy]]. Having said that, I continue to ask, [[Do I really need a field?]]

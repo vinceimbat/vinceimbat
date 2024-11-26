@@ -1,19 +1,21 @@
 ---
-title: "Outline notes"
-date: "2022-05-08"
+title: Outline notes
+date: 2022-05-08
+aliases:
+  - Outline-notes
 tags:
-
-- "seedlings"
-sr-due: 2022-05-09
-sr-interval: 1
-sr-ease: 230
+  - thoughts
+  - seedlings
+sr-due: 2025-03-23
+sr-interval: 117
+sr-ease: 210
 ---
+[[andy matuschak|Andy Matuschak]] uses this term to refer to all notes that bring structure to his [[Evergreen note-taking system]]. In short, this is his term of art for [[structure notes]]. He doesn't seem to make any distinction within this category. [[sascha fast|Sascha Fast]], on the other hand, thinks that outline notes are a special kind of structure note—one that is associated to a specific writing project (i.e., one with a goal of producing a publishable artifact).
 
-[[andy matuschak]] uses this term to refer to all notes that bring structure to his [[Evergreen note-taking system]]. In short, this is his term of art for [[Structure notes]]. He doesn't seem to make any distinction within this category. [[Sascha Fast]], on the other hand, thinks that outline notes are a special kind of structure note—one that is associated to a specific writing project (i.e., one with a goal of producing a publishable artifact).
+Andy’s advice is to [[create iterative outlines as you write notes]].
 
-Andy’s advice is to [[Create iterative outlines as you write notes]].
+# To do
 
-To do
 - Convert this note into something that is truly yours. Remove references to Andy and Sascha. Embrace it as yours.
 - But differentiate it from structure notes.
 

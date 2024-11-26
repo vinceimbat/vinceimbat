@@ -22,7 +22,7 @@ On statement 2, I think it is critical because it justifies statement 3. Cal arg
 
 Cal uses these arguments to ditch the follow your passion advice and preach that passion follows skill. Be good at something and you end up loving it.
 
-It is now clear to me that the reason why the career capital theory is an incomplete theory is that it treats all work as something integrated into the exchange economy and is completely silent about human activity that are best contextualized in a [[Gift economy]].
+It is now clear to me that the reason why the career capital theory is an incomplete theory is that it treats all work as something integrated into the exchange economy and is completely silent about human activity that are best contextualized in a [[gift economy]].
 
 I don't fully resonate with the career capital theory because it completely ignores this element in its discourse on what makes work and an entire career worthwhile. It merely looks at work as something exchangedd with an exact value, whereas the work that I do, I see it more as a gift with no exact value. I refuse to treat the game as a competition. The deepest thing I want to do comes to me as a gift and I want to give it to the world as a gift. This might look from the outside like I am simply "following my passion" but it isn't as simple as that.
 

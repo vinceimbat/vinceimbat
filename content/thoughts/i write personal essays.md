@@ -10,7 +10,7 @@ sr-ease: 250
 
 My choice of writing genre is [[creative nonfiction]], specifically the [[personal essay]].
 
-This means that I try to write autobiographically and poetically even if I talk about philosophy and other sophisticated ideas. For example, I use a [[inbox/Vignette]] to share a philosophical lesson, or I talk about philosophy without mentioning it. Instead, I focus on the questions.
+This means that I try to write autobiographically and poetically even if I talk about philosophy and other sophisticated ideas. For example, I use a [[vignette]] to share a philosophical lesson, or I talk about philosophy without mentioning it. Instead, I focus on the questions.
 
 I don’t want to remove the “I” from what I am trying to do: understanding the universe and my place in it.
 

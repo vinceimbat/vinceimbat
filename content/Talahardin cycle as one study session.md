@@ -13,7 +13,7 @@ To implement the cycle effectively, delineate how much time you are going to use
 
 Hopefully, by keeping a [[reading inbox]], it will be easier for you to identify what material to read. But if this isn't clear yet, allocate a few minutes of the cycle for metalearning and research. You need to limit this time though to [[Avoid collecting information]]. Do the same with the next phases, allocating time appropriately and fitting these within the 25:5 minutes intervals.
 
-The reason for cutting a work session into shorter breaks is because it is easier to determine the best action moving forward if the sessions are short ([[Working with externalized small tasks encourages focus]]; [[break down your work into small and clearly separated tasks]]).
+The reason for cutting a work session into shorter breaks is because it is easier to determine the best action moving forward if the sessions are short ([[working with externalized small tasks encourages focus]]; [[break down your work into small and clearly separated tasks]]).
 
 # References
 

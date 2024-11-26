@@ -11,7 +11,7 @@ sr-ease: 252
 
 Simplicity can be used to tackle complexity. Because the structure is simple, content can be complex.
 
-In note-writing systems like [[zettelkasten]] and [[talahardin]], we only follow a handful of principles ([[Luhmann's Zettelkasten Manual]]). But these are enough to allow the growth of a large body of personal kowledge.
+In note-writing systems like [[zettelkasten]] and [[talahardin]], we only follow a handful of principles ([[luhmann zettelkasten manual]]). But these are enough to allow the growth of a large body of personal kowledge.
 
 ## To do
 

@@ -11,5 +11,5 @@ sr-ease: 252
 
 From [[andy matuschak]]'s [[Evergreen note-taking system]], these are simply notes with names of people as titles.
 
-For other types of notes, see [[Talahardin taxonomy of note types]]
+For other types of notes, see [[talahardin taxonomy of note types]]
 

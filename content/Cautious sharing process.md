@@ -1,17 +1,18 @@
 ---
-title: "Cautious sharing process"
-date: "2021-05-08"
+title: Cautious sharing process
+date: 2021-05-08
+aliases:
+  - Cautious-sharing-process
 tags:
-
-- "seedlings"
-sr-due: 2022-08-24
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2032-11-09
+sr-interval: 2905
+sr-ease: 270
 ---
+The cautious sharing process is designed for highly sensitive people tired of the 21st century addiction to attentions-seeking behavior. It is a response to [[sharing gone wrong]].
 
-The cautious sharing process is designed for highly sensitive people tired of the 21st century addiction to attentions-seeking behavior. It is a response to [[Sharing gone wrong]].
-
-The intentions of the cautious [[sharing]]process (maingat na pagbabahagi) are:
+The intentions of the cautious [[sharing]] process (maingat na pagbabahagi) are:
 
 - To help one express oneself.
 - To connect with people who would love us.
@@ -29,5 +30,3 @@ There are two parts of the cautious sharing process:
 # Source
 
 ![[cautious-sharing.png]]
-
-# References

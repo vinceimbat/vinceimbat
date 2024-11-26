@@ -79,7 +79,6 @@ Three structural features (not essence) of Western religiousness
 	3. Early Greek religion: aims to maintain the harmony between sacred and profane, avoiding pitfalls that would upset the existing harmony
 	4. Judaism, Christianity, and Islam: original sin -> aims to restore and redeem the profane
 
-
 The three structural features of Western religiousness are present in:
 - Judaism, Christianity, and Islam
 - early Greek religion
@@ -98,6 +97,14 @@ See "The World of Nietzsche: 'God is Dead'" by Martin Heidegger
 Each epoch has a particular and distinctive instantiation of the three structural features of Western religiousness.
 
 The epochs overlap.
+
+Mood
+- an attunement to things, a way of vibrating in relation to being struck by them (resonance)
+- not a set of beliefs but beliefs could help construct or maintain it.
+- the way one receives particular beliefs; how one takes things through actions and reactions
+- influences how beliefs are framed into one's life
+- not mental
+- a way of acting, responding, and inhabiting one's life
 
 # References
 

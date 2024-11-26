@@ -12,7 +12,7 @@ sr-ease: NaN
 ---
 Use [[inboxes to capture fleeting notes]]. These inboxes should be drained regularly. If they are reliably drained, you can [[close open loops]], which will help you focus on the most important work.
 
-You don't have to achieve [[Inbox Zero]]. The minimum criteria that you can trust your inbox is if it helps you identify [[open loops]] that need to be dropped and those that need to be prioritized. Ideally, you close more open loops than those that arrive, but this is hard, so you just have to do your best.
+You don't have to achieve [[inbox zero]]. The minimum criteria that you can trust your inbox is if it helps you identify [[open loops]] that need to be dropped and those that need to be prioritized. Ideally, you close more open loops than those that arrive, but this is hard, so you just have to do your best.
 
 In my case, I have established the following habits to drain my inboxes:
 

@@ -20,7 +20,7 @@ To do this, you need to assure that [[efficient inboxes are reliably drained]] b
 4. Whenever you are in a position to read, [[decide whether to read for fun or for learning]]. Your purpose for reading determines how you read.
 5. If you want to read to learn, avoid reading on your phone ([[Use your phone to collect materials not read them]]. Instead, read on your computer where it is easier to write notes.
 6. For what to do when reading itself, follow these guides:
-   - [[How to read effectively]]
+   - [[how to read effectively]]
    - [[What to look for when reading]]
    - [[how to write literature notes]]
 

@@ -10,7 +10,7 @@ sr-due: 2032-06-16
 sr-interval: 2789
 sr-ease: 248
 ---
-According to [[Sascha Fast]], the term “Barbell Method" came from [[nassim taleb]], which refers to an investment strategy where you combine safety and the possibility of high revenue by putting the majority of your investments in safe vehicles while you make small but very risky bets.
+According to [[sascha fast]], the term “Barbell Method" came from [[nassim taleb]], which refers to an investment strategy where you combine safety and the possibility of high revenue by putting the majority of your investments in safe vehicles while you make small but very risky bets.
 
 When applied to reading, we invest more time and energy on “safe” investments: useful parts that are either difficult or easy to understand. To do this, Fast suggests doing two levels of reading:
 1. Simply reading the text and marking what seems relevant and useful.

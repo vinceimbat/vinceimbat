@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-When you have built your confidence in the first part of the [[Cautious sharing process]] ([[Cautious sharing (I) - Set up a strong foundation]]), consider sharing to a wider and less familiar context:
+When you have built your confidence in the first part of the [[cautious sharing process]] ([[Cautious sharing (I) - Set up a strong foundation]]), consider sharing to a wider and less familiar context:
 
 1. Share to a scenius. Through [[thoughts/connecting]], you should be able to connect with an inner circle of peers from a [[thoughts/community of practice]] where you could run your ideas to.
 2. Share to your audience. Once you have gained enough feedback and confidence, you are now ready to share well-developed ideas to a bigger audience. These could either be in a form of an article, a podcast, a video, etc.

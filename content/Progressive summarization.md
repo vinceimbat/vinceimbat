@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 226
 ---
 
-Progressive summarization is what [[tiago forte]] calls his highlighting process. I doubt that this is original though. It has a stark similarity to the [[barbell method of reading]] proposed by [[Sascha Fast]].
+Progressive summarization is what [[tiago forte]] calls his highlighting process. I doubt that this is original though. It has a stark similarity to the [[barbell method of reading]] proposed by [[sascha fast]].
 
 Unlike the Barbell method though, Tiago has more than two levels:
 

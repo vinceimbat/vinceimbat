@@ -10,7 +10,7 @@ tags:
 ---
 The Buddha actually avoided talking about doctrines of metaphysics because he knows that [[we agree about what we want and disagree about metaphysics and epistemology|we agree about what we want and disagree about metaphysics and epistemology]], and this disagreement could clouds his main goal—to teach how people can be kind to others and lessen the suffering in the world.
 
-One of the metaphysical teachings he introduced but avoided expounding was the doctrine of the [[Non-self]].
+One of the metaphysical teachings he introduced but avoided expounding was the doctrine of the [[non-self]].
 
 Maybe, avoiding metaphysics is a sign of reverence and respect to questions that elude answers. Since I couldn't grasp my head around all of it, I bow to wonder and enjoy it. I focus on making the most out of the joy of what I know.
 

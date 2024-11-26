@@ -1,28 +1,28 @@
 ---
-title: "Structure notes"
-date: "2022-05-08"
+title: Structure notes
+date: 2022-05-08
+aliases:
+  - Structure-notes
 tags:
-
-- "seedlings"
-sr-due: 2022-05-11
-sr-interval: 3
-sr-ease: 250
+  - thoughts
+  - seedlings
+sr-due: 2025-03-24
+sr-interval: 118
+sr-ease: 230
 ---
+While the strength of the [[talahardin]] lies in its nonhierarchical top-down design, hierarchical structures can still be very useful particularly when getting a bird's eye view of the relationships among [[evergreens]]. This is where structure notes can be helpful.
 
-While the strength of [[talahardin]] lies in its non-heirarchical top-down design, hierarchical structures can still be very useful particularly when getting a bird's eyeview of the relationships among your [[evergreens]]. This is where structure notes can be helpful.
+Structure notes have two main uses. First, hey can be used as an index or table of contents for the best permanent notes on a big topic. Some people online call them a map of content (MOC).
 
-[[Sascha Fast]] calls structure notes “meta-notes" as they are permanent notes about other permanent notes. They are similar (probably a digital version) of [[niklas luhmann]]'s [[Hub notes]].
+Structure notes can also serve as the end goal artifact of general projects in lieu of a manuscript or draft common in writing projects.
 
-Think of structure notes like a “Table of Contents” for the best permanent notes on a big topic.
+ [[andy matuschak|Andy Matuschak]] calls them outline notes. Andy’s advice is to [[create iterative outlines as you write notes]]. But Sascha uses the term outline notes as a special kind of structure note—one that is associated to a specific writing project (i.e., one with a goal of producing a publishable artifact).
 
 For a guide on creating them, see [[How to create structure notes]].
 
-Structure notes also serve as the end goal artifact of general projects in lieu of a a manuscript or draft common in writing projects.
+# To do
 
-To do
-
-- Simplify the note by note excessively mentioning other peoles.
-- Decide if you are going to integrate this term in to your system.
+- Consider integrating this to [[outline notes]] or vice versa.
 
 # References
 

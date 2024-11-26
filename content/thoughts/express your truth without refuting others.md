@@ -23,7 +23,7 @@ There is so much tension whenever we talk about our beliefs because:
 
 Some of my friends express their beliefs almost naturally. They are just being themselves and not really thinking about how others will react. They don't argue or point out the wrong in others. They just do it naturally, without feeling conscious, unlike me.
 
-Perhaps my consciousness about how others will react to what I say is a sign of cautiousness ([[Cautiousness vs. neuroticism]]; [[Cautious sharing process]]), which means it is probably good.
+Perhaps my consciousness about how others will react to what I say is a sign of cautiousness ([[Cautiousness vs. neuroticism]]; [[cautious sharing process]]), which means it is probably good.
 
 However, I still want to build integrity and to develop more openness about my beliefs (which are really radical) and not just be tolerant and permissive. I do not have to argue with people or question them unless it directly affects my well-being.
 

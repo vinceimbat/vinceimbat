@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 252
 ---
 
-The process outlined in [[Sharing the product]] applies to the development of ideas for publication, which are usually artifacts made of many ideas. [[sharing]] my working notes ([[talahardin]]) will not follow this process, as they are individual concepts. I will share them as they are. Any feedback I get from this could develop the individual concepts, which will be included into bigger artifacts that will then follow the previous process for sharing.
+The process outlined in [[share the product]] applies to the development of ideas for publication, which are usually artifacts made of many ideas. [[sharing]] my working notes ([[talahardin]]) will not follow this process, as they are individual concepts. I will share them as they are. Any feedback I get from this could develop the individual concepts, which will be included into bigger artifacts that will then follow the previous process for sharing.
 
 Sharing the process also involves being as honest as possible about my work. I should use [[Anti-marketing]] to build a more authentic relationship with my audience and community.
 

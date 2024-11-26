@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-Caute (cow-tay) was Benedict Spinoza's motto. It is translated from Latin as "be cautious" or "be careful." I am reminded of the [[Cautious sharing process]] and [[Cautiousness vs. neuroticism]].
+Caute (cow-tay) was Benedict Spinoza's motto. It is translated from Latin as "be cautious" or "be careful." I am reminded of the [[cautious sharing process]] and [[Cautiousness vs. neuroticism]].
 
 # References
 
