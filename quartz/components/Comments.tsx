@@ -27,9 +27,10 @@ function boolToStringBool(b: boolean): string {
 export default ((opts: Options) => {
   const Comments: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
     // check if comments should be displayed according to frontmatter
-    const commentsFlag: boolean =
-      fileData.frontmatter?.comments === true || fileData.frontmatter?.comments === "true"
-    if (!commentsFlag) {
+    const disableComment: boolean =
+      typeof fileData.frontmatter?.comments !== "undefined" &&
+      (!fileData.frontmatter?.comments || fileData.frontmatter?.comments === "false")
+    if (disableComment) {
       return <></>
     }
 
