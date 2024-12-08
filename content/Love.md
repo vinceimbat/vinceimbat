@@ -20,7 +20,7 @@ The greatest example of love involves an acceptance of our mortality for the sak
 
 # Unprocessed notes on love
 
-These are from a diary entry dated [[2021-01-28]]. I think these were my thoughts after [[rem tanauan|Rem Tanauan]] delivered his talk about love. We may have had a conversation about these questions and thoughts.
+These are from a diary entry dated [[01 daily notes/2021-01-28]]. I think these were my thoughts after [[rem tanauan|Rem Tanauan]] delivered his talk about love. We may have had a conversation about these questions and thoughts.
 
 Love seems to be something attached to what we do or learn (attitude? knowledge? concentration?).
 

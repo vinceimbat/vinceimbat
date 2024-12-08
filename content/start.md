@@ -16,7 +16,7 @@ The forest garden is made up of different "species" of thought:
 - [[essays]]
 - [[poems]]
 - [[quotes]]
-- [[thoughts]]
+- [[Thoughts]]
 - [[translations]]
 - [[vignettes]]
 

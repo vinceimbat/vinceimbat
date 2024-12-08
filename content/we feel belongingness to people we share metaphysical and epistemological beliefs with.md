@@ -15,4 +15,4 @@ For example, I want to clarify my metaphysical and epistemological beliefs becau
 
 This is the reason why building my worldview through [[understanding]] is so important to me and why my immediate environment is so important to me and why I want to be careful and intentional in my relationships.
 
-![[files/Life circles.jpeg]]
+![[Life circles.jpeg]]

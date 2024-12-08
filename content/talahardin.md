@@ -7,7 +7,7 @@ aliases:
 draft: false
 tags:
 ---
-![Banner](files/banner.jpg)
+![Banner](banner.jpg)
 <h2>I was thrown here—alone and oblivious. The landscape is gray, cold, and frightening. I stared at the horizon and immediately understood—I knew nothing of this terrain.</h2>
 
 I wanted to leave, but instead, I did what I knew I had to do. I set forth for [[thoughts/the long walk|a long walk]] into [[wilderness|the Wilderness]].

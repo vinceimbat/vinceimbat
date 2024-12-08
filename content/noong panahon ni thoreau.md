@@ -10,9 +10,6 @@ tags:
   - poems
   - filipino
   - seedlings
-sr-due: 2024-12-06
-sr-interval: 490
-sr-ease: 250
 ---
 Kapag binubuksan ang isang bagong kalsada  
 sa gitna ng bukid  

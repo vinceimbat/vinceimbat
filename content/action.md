@@ -51,7 +51,7 @@ A study of action involves an understanding of both mental and physical states b
 ---
 ## Mechanics of action
 
-![[files/mechanics-of-action.jpeg]]
+![[mechanics-of-action.jpeg]]
 
 ## Related
 

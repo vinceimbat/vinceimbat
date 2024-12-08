@@ -6,12 +6,11 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
-daily notes/
-inbox/
+00 inbox/
+01 daily notes/
+02 projects/
+03 reading/
 private/
-project archives/
-projects/
-projects someday/
 templates/
 .replit
 replit.nix

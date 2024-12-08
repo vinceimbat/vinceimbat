@@ -6,9 +6,6 @@ draft: false
 tags:
   - poems
   - seedlings
-sr-due: 2024-12-06
-sr-interval: 23
-sr-ease: 252
 ---
 - The Rings of Saturn
 - The Plain Sense of Things

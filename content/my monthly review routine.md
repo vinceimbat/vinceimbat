@@ -22,7 +22,6 @@ There are four parts to my [[monthly review]]:
    - Transfer emergent tasks to Things 3.
    - Transfer emergent projects to Things 3.
    - Adjust list of areas across Obsidian, Finder, Google Drive, and Things 3 as needed.
-3. Write an issue of [[Uman]]. But this could be done later after the rest of the monthly review is done.
 
 # Part II: Review my sky level
 

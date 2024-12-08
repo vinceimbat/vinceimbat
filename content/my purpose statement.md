@@ -20,9 +20,9 @@ Every day, I want to deepen my friendship with the geography of life—the unive
 
 "deepen my friendship with the geography of life" — I want to live a philosophical and contemplative life—to feel deeply curious and optimistic about it despite its inherent meaninglessness and chaotic nature.
 
-"the universe, others, and myself" — This is the outward-looking part of my purpose inspired by [[jiyu shukyo|jiyu shukyo]]. As I see the freedom of the self that I possess, I too recognize my interdependence with other beings.
+"the universe, others, and myself" — This is the outward-looking part of my purpose inspired by [[jiyu shukyo|jiyū shūkyō]]. As I see the freedom of the [[self]] that I possess, I too recognize my interdependence with other beings.
 
-"so that I may respond to what the present moment asks from me appropriately" — The purpose of philosophy and contemplation is to act better and appropriately.
+"so that I may respond to what the present moment asks from me appropriately" — The purpose of [[philosophy]] and contemplation is to act better and appropriately.
 
 "happy" — I want to achieve self-actualization. I want to savor life, feel that my days are longer, make the most out of every moment, and feel healthy and loved. In the words of [[henry david thoreau|Henry David Thoreau]], "I wanted to live deep and suck out all the marrow of life."
 

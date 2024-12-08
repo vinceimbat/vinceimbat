@@ -53,11 +53,11 @@ If documentation through field notes and photography could capture our experienc
 
 Figure 1. Broken cooking range, Los Baños, Laguna, 2022
 
-![San Pablo Ice Plant](files/20220610-120845-spwalk-san-pablo-ice-plant.jpg)
+![San Pablo Ice Plant](20220610-120845-spwalk-san-pablo-ice-plant.jpg)
 
 Figure 2. Closed Old San Pablo Ice Plant, San Pablo City, Laguna, 2022
 
-![Abandoned red store](files/20221209-12092022-sta-barbara-abandoned-store.jpg)
+![Abandoned red store](20221209-12092022-sta-barbara-abandoned-store.jpg)
 
 Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
 

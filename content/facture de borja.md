@@ -7,9 +7,6 @@ draft: false
 tags:
   - literature
   - seedlings
-sr-due: 2024-12-06
-sr-interval: 18
-sr-ease: 270
 ---
 Collage-like poems.
 

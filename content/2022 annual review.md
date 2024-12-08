@@ -8,7 +8,7 @@ tags:
   - annual-reviews
   - evergreens
 ---
-![[files/foggy_freedom_park.jpg]]
+![[foggy_freedom_park.jpg]]
 
 In my [[2021 annual review 1]], I implemented a new process:
 
@@ -52,7 +52,7 @@ The list above could have easily captured what 2022 was for me. But it doesn’t
 
 In an ideal world, I should have achieved all of these goals. But I don’t live in such a world. What happened in 2022 was far more than what I expected. Here is a narrative of what transpired in what is easily the best yet the most challenging year of my long walk (Note: I feel this with almost every year that passes).
 
-![[files/fisherman-silhouette.jpg]]
+![[fisherman-silhouette.jpg]]
 
 # January
 
@@ -60,7 +60,7 @@ I spent the first weeks of 2022 in study mode. I finished reading and taking not
 
 Since it is the beginning of the year, I also conducted my [[annual review]], improving my process. One of my goals this year was to improve the design of my main website (vinceimbat.com) to improve how I share my work, so I also started learning web design and development. Along the way, I realized that there was so much to learn, so I created a temporary site so I could continue to publish even while learning to code. To practice, I chose a smaller project: a website for my [[translating thoreau journal|Thoreau translations]]. I named the site [Kaliskis na Ulap](https://kaliskisnaulap.com/) and used Hugo to build it. Through this project, I applied what I learned from the full-stack web development course I bought from Udemy.
 
-![[files/dog.jpeg]]
+![[dog.jpeg]]
 
 # February
 
@@ -91,7 +91,7 @@ March also featured several good walks:
 
 Aside from walks, this month was also a month of travels. I went to Baguio to see my nephew and nieces for the first time in two years. I also traveled with some friends to San Nicolas and saw Taal up close (after it blew up some ashes!). I also joined my partner's family for an outing at Calayo, Nasugbu, Batangas.
 
-![[files/Kapok.jpg]]
+![[Kapok.jpg]]
 
 # April
 
@@ -109,7 +109,7 @@ After setting up my notes, I began compiling a reading list of books and essays 
 
 Meanwhile, I sent my blackout poems to be included in the Tuloy-Daloy exhibit, visited the Rizal Shrine for the first time, did my second hike to Mt. Makiling, traveled to Baguio City with my partner, and, finally, got my family together for the first time after two years.
 
-![[files/poor-boy-feeds-cats.jpeg]]
+![[poor-boy-feeds-cats.jpeg]]
 
 # May
 
@@ -119,7 +119,7 @@ As I progressed in writing, so did I in walking. I decided to improve my walking
 
 The other walks I did this month were a walk at Lopez Quezon, around town, in one of the fishponds at Sta. Teresa, and at Santino's Farmville. I also had my second Makiling hike this month.
 
-![[files/dog-by-lake.jpg]]
+![[dog-by-lake.jpg]]
 
 # June
 
@@ -131,7 +131,7 @@ After doing photography and walking for almost a month, I felt the urge to retur
 
 Another highlight of June was ordering, unboxing, and reading *[[kissa by kissa mod|Kissa by Kissa]]* by Craig Mod. I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
 
-![[files/savia_birthday.jpg]]
+![[savia_birthday.jpg]]
 
 # July
 
@@ -143,7 +143,7 @@ This month, I also worked on preparing a few poems to be sent to TLDTD for poten
 
 Lastly, I modified how I prioritized goals. I created a comprehensive list of life goals and divided it into five primary focus goals and an extensive list of what is left called an “avoid-at-all-cost list.”
 
-![[files/shorty.jpg]]
+![[shorty.jpg]]
 
 # August
 
@@ -161,7 +161,7 @@ While budgeting, I realized I needed to earn more money to retire earlier than t
 
 In other news, I went on two dates with friends: one in Pagsanjan and another at Las Piñas. I also celebrated my third anniversary with my partner, adopted a new cat, and rescued a kitten.
 
-![[files/Rem-Tanauan.jpg]]
+![[Rem-Tanauan.jpg]]
 
 # October
 
@@ -171,7 +171,7 @@ Meanwhile, Carillon came into our lives, Benjie and I started a photography proj
 
 Things were going well until we were all struck by the sudden death of my best friend, [[rem tanauan]]. Rem's death forced me to look at my life and work and has reoriented my priorities into helping the people that Rem left move on. I am also called to protect Rem's private and public writings and get to know him more through this. I am also finally committing to mastering poetry.
 
-![[files/Tanay-mountains.jpg]]
+![[Tanay-mountains.jpg]]
 
 # November
 
@@ -203,4 +203,4 @@ My holidays were beautifully silent. I spent Christmas and New Year at my apartm
 
 In 2023, I have two big goals: (1) to establish a more resilient livelihood system that encourages me to transition to doing work that I enjoy more and (2) to start a book project (possibly about walking in Los Baños). I have other goals, but they serve different support roles for these two. I do not doubt that other important goals will emerge along the way. Hopefully, I will be ready to face them when they do.
 
-![[files/dancing_flowers.jpg]]
+![[dancing_flowers.jpg]]

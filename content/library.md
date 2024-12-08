@@ -17,6 +17,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
+- [[2024-11-12]]: [[this is how to mean no harm villanueva|This is How to Mean No Harm by Martin Villanueva]]
 - [[2024-11-20]]: [[the plain sense of things edwards|The Plain Sense of Things by James C. Edwards]] ★★ 
 - [[2024-11-02]]: [[writing alone and with others schneider|Writing Alone and With Others by Pat Schneider]] ★★
 - [[2024-10-11]]: [[now is a new no serrano|Now is a new no by Vincenz Serrano]] ★★

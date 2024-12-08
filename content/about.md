@@ -3,7 +3,7 @@ title: About Vince Imbat
 date: 2017-03-18
 tags: []
 ---
-![Vince Imbat ANWW20 headshot](files/anww20-vinceimbat.jpg)
+![Vince Imbat ANWW20 headshot](anww20-vinceimbat.jpg)
 ## I'm a Los Baños-based [[photography|photographer]] and [[writing|writer]] in three languages exploring a [[jiyu shukyo|creative and liberative spirituality]] through [[walking]].
 
 ***
@@ -64,7 +64,7 @@ I'm still in the process of deepening my understanding of jiyū shūkyō and I d
 
 # Walking
 
-![Man on overpass](files/20240116-090639-tall-tales-a-waiting-man_IG.jpg)
+![Man on overpass](20240116-090639-tall-tales-a-waiting-man_IG.jpg)
 
 I've always walked. Growing up as a Jehovah's Witness, it was something we just did. In college when I really started to go deep in the religion of my childhood, I volunteered in a sign language congregation that ministered to the deaf and hard of hearing in Baguio City. There I became a minister and young pastor. Part of my duties was to walk miles and miles around the hills of Baguio and nearby municipalities to search for deaf or hard of hearing individuals we could preach to. After I left the Jehovah's Witnesses in 2012, I used walking to grieve and begin creating my path ahead.
 
